@@ -426,7 +426,7 @@
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021005521": {
-      "datasets": "50",
+      "datasets": "51",
       "identifier": "2021005521",
       "name": "Försäkringskassan",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
@@ -486,7 +486,7 @@
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006297": {
-      "datasets": "389",
+      "datasets": "390",
       "identifier": "2021006297",
       "name": "Trafikverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
