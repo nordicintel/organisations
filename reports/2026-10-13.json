@@ -1,6 +1,6 @@
 {
   "added": [],
-  "changed": 4,
+  "changed": 0,
   "count": 877,
   "date": "2026-10-13",
   "legal_type": {
@@ -32,6 +32,11 @@
     "scb_bulk": {
       "rows": 840,
       "status": "fetched"
+    },
+    "statskontoret": {
+      "error": "<urlopen error [Errno 110] Connection timed out>",
+      "rows": 0,
+      "status": "failed"
     },
     "wikidata": {
       "rows": 718,
