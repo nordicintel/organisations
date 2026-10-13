@@ -16,7 +16,7 @@ GROUPS = set(schema["properties"]["state_body_group"]["enum"])
 STATUS = set(schema["properties"]["status"]["enum"])
 FIELDS = set(schema["properties"])
 
-orgs = json.loads((ROOT / "data" / "organisations.json").read_text(encoding="utf-8"))["organisations"]
+orgs = json.loads((ROOT / "organisations.json").read_text(encoding="utf-8"))["organisations"]
 errors = []
 for key, org in orgs.items():
     if key != org["id"] or not ID.match(key):

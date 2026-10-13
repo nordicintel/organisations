@@ -211,7 +211,7 @@ def main():
     if missing:
         print(f"WARNING {len(missing)} slug/alias targets are not in the registry, e.g. {list(missing.items())[:5]}", file=sys.stderr)
 
-    dump(ROOT / "data" / "organisations.json", {"generated": date.today().isoformat(), "count": len(orgs),
+    dump(ROOT / "organisations.json", {"generated": date.today().isoformat(), "count": len(orgs),
                                                  "organisations": dict(sorted(orgs.items()))})
     dump(ROOT / "links" / "dataportal.json", dict(sorted(links_portal.items())))
     dump(ROOT / "links" / "data-europa.json", dict(sorted(links_europa.items())))

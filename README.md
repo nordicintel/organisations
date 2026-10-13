@@ -8,7 +8,7 @@ registers. No API keys, standard library only.
 
 | file | kept by | what |
 |---|---|---|
-| `data/organisations.json` | build | one object per organisation ([schema](schema/organisation.schema.json)) |
+| `organisations.json` | build | one object per organisation ([schema](schema/organisation.schema.json)) |
 | `links/*.json` | build | external URI or id → organisation id, for dataportal.se, data.europa.eu and Wikidata; `null` when the URI carries no organisationsnummer |
 | `slugs.json` | hand | our short codes → organisation id. Slugs may change, ids never |
 | `aliases.json` | hand | strings seen in source metadata → organisation id, or `null` for a string that is not an organisation ([schema](schema/aliases.schema.json)) |
@@ -50,7 +50,7 @@ convention, not a rule, and are only used as a sanity check.
 ## Build and check
 
 ```sh
-python scripts/build.py      # downloads into .cache/, rewrites data/ and links/
+python scripts/build.py      # downloads into .cache/, rewrites organisations.json and links/
 python scripts/validate.py   # ids, enums, references between all files
 ```
 
@@ -60,7 +60,7 @@ when anything changed. Builds are deterministic; a diff means a source changed.
 ## Maintaining
 
 - **New slug**: add `"slug": "SE…"` to `slugs.json`. Find the id by name in
-  `data/organisations.json`, never type a number from memory.
+  `organisations.json`, never type a number from memory.
 - **New alias**: add the raw string to `aliases.json` with the organisation id,
   or `null` if the string is not an organisation.
 - **New data source**: add an object to `data_sources.json` with the raw strings
