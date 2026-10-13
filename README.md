@@ -24,7 +24,7 @@ in `schema/`.
 | [Myndighetsregistret](https://myndighetsregistret.scb.se/) | state bodies by group, SFS, email, web. Courts share Domstolsverket's number |
 | [Statskontoret's yearly list](https://www.statskontoret.se/analys-och-statistik/oppna-data/myndighetsforteckning/), kept in `files/` | every state body since 2007: current name, abbreviation and former names as aliases, instruction, department. statskontoret.se blocks runners, so the file is downloaded by hand once a year |
 | [dataportal.se](https://admin.dataportal.se/) registry and SPARQL | canonical portal URIs, publisher type, homepage, email, `owl:sameAs` |
-| [data.europa.eu SPARQL](https://data.europa.eu/sparql) | publisher and creator URIs of the Swedish catalogue, identifiers, types; one small query per property, since the gateway cuts anything over 60 s |
+| [data.europa.eu SPARQL](https://data.europa.eu/sparql) | publishers, creators and rights holders of every catalogue the hub files under Sweden (oppnadata, geodata-se, nsip-se): URIs, names, identifiers, types; Geodataportalen's blank contact nodes keyed by mailbox. One small query per catalogue, role and property, since the gateway cuts anything over 60 s |
 | [Wikidata](https://query.wikidata.org/) | English names, kommun and län codes, department, dates, succession |
 
 Legal type is the authority for what an organisation is. Organisationsnummer

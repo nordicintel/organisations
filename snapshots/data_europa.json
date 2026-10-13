@@ -1,5 +1,8 @@
 {
   "http://arsenalen.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://arsenalen.se/",
     "names": {
       "sv": "Arsenalen"
@@ -11,6 +14,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://bastad.se": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://bastad.se",
     "names": {
       "und": "Båstads kommun"
@@ -22,6 +28,10 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/2220000315": {
+    "catalogue": [
+      "nsip-se",
+      "oppnadata"
+    ],
     "homepage": "https://skr.se/",
     "identifier": "2220000315",
     "names": {
@@ -37,6 +47,9 @@
     "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
   },
   "http://dataportal.se/organisation/5565007621": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://corporate.visitsweden.com",
     "identifier": "5565007621",
     "names": {
@@ -50,6 +63,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "http://dataportal.se/organisation/SE2021000555": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021000555",
     "names": {
       "sv": "Socialstyrelsen"
@@ -63,6 +79,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021000654": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021000654",
     "names": {
       "sv": "Sjöfartsverket"
@@ -74,6 +93,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021000696": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021000696",
     "names": {
       "sv": "Sveriges meteorologiska och hydrologiska institut"
@@ -90,6 +112,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021000704": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021000704",
     "names": {
       "sv": "Statens väg- och transportforskningsinstitut"
@@ -101,6 +126,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021000712": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021000712",
     "names": {
       "sv": "Statens geotekniska institut"
@@ -112,6 +140,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021000795": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021000795",
     "names": {
       "sv": "Luftfartsverket"
@@ -123,6 +154,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021000837": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021000837",
     "names": {
       "sv": "Statistikmyndigheten SCB - Statistiska centralbyrån"
@@ -141,6 +175,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021001033": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021001033",
     "names": {
       "sv": "Statens konstråd"
@@ -154,6 +191,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021001074": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021001074",
     "names": {
       "sv": "Riksarkivet"
@@ -167,6 +207,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021001082": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021001082",
     "names": {
       "sv": "Institutet för språk och folkminnen"
@@ -183,6 +226,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021001090": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.raa.se/",
     "identifier": "2021001090",
     "names": {
@@ -199,6 +245,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021001124": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021001124",
     "names": {
       "sv": "Naturhistoriska riksmuseet"
@@ -210,6 +259,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021001819": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021001819",
     "names": {
       "sv": "Centrala studiestödsnämnden"
@@ -223,6 +275,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021001850": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021001850",
     "names": {
       "sv": "Livsmedelsverket"
@@ -234,6 +289,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021001868": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021001868",
     "names": {
       "sv": "Statens veterinärmedicinska anstalt"
@@ -247,6 +305,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021001975": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021001975",
     "names": {
       "sv": "Naturvårdsverket"
@@ -259,6 +320,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002072": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002072",
     "names": {
       "sv": "Patent- och registreringsverket"
@@ -272,6 +336,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002114": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002114",
     "names": {
       "sv": "Arbetsförmedlingen"
@@ -294,6 +361,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002163": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002163",
     "names": {
       "sv": "Migrationsverket"
@@ -307,6 +377,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002320": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002320",
     "names": {
       "sv": "Länsstyrelsen i Blekinge Län"
@@ -318,6 +391,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002353": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002353",
     "names": {
       "sv": "Länsstyrelsen i Hallands Län"
@@ -331,6 +407,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002361-LST": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002361-LST",
     "names": {
       "sv": "Länsstyrelserna gemensamt"
@@ -345,6 +424,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002528": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002528",
     "names": {
       "sv": "Sveriges geologiska undersökning"
@@ -359,6 +441,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002627": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.riksdagen.se",
     "identifier": "2021002627",
     "names": {
@@ -372,6 +457,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002684": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002684",
     "names": {
       "sv": "Sveriges riksbank"
@@ -386,6 +474,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002742": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002742",
     "names": {
       "sv": "Domstolsverket"
@@ -400,6 +491,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002817": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002817",
     "names": {
       "sv": "Sveriges lantbruksuniversitet"
@@ -413,6 +507,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE2021002841": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002841",
     "names": {
       "sv": "Luleå Tekniska universitet"
@@ -424,6 +521,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002874": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002874",
     "names": {
       "sv": "Umeå universitet"
@@ -435,6 +535,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002890": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002890",
     "names": {
       "sv": "Högskolan i Gävle"
@@ -446,6 +549,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002916": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002916",
     "names": {
       "sv": "Mälardalens högskola"
@@ -457,6 +563,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002924": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002924",
     "names": {
       "sv": "Örebro universitet"
@@ -468,6 +577,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002932": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002932",
     "names": {
       "sv": "Uppsala universitet"
@@ -481,6 +593,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021002973": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021002973",
     "names": {
       "sv": "Karolinska Institutet"
@@ -492,6 +607,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021003054": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021003054",
     "names": {
       "sv": "Kungliga Tekniska högskolan"
@@ -503,6 +621,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021003062": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021003062",
     "names": {
       "sv": "Stockholms universitet"
@@ -514,6 +635,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021003096": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021003096",
     "names": {
       "sv": "Linköpings universitet"
@@ -525,6 +649,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021003120": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021003120",
     "names": {
       "sv": "Karlstads universitet"
@@ -536,6 +663,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021003138": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021003138",
     "names": {
       "sv": "Högskolan i Borås"
@@ -547,6 +677,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021003153": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021003153",
     "names": {
       "sv": "Göteborgs universitet"
@@ -561,6 +694,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021003195": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021003195",
     "names": {
       "sv": "Högskolan i Kristianstad"
@@ -574,6 +710,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021003203": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021003203",
     "names": {
       "sv": "Högskolan i Halmstad"
@@ -585,6 +724,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021003211": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021003211",
     "names": {
       "sv": "Lunds universitet"
@@ -596,6 +738,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021003567": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021003567",
     "names": {
       "sv": "Institutet för rymdfysik"
@@ -607,6 +752,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021003732": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021003732",
     "names": {
       "sv": "Livrustkammaren och Skoklosters slott med stiftelsen Hallwylska museet"
@@ -621,6 +769,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021003815": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021003815",
     "names": {
       "sv": "Styrelsen för ackreditering och teknisk kontroll"
@@ -634,6 +785,10 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021003989": {
+    "catalogue": [
+      "nsip-se",
+      "oppnadata"
+    ],
     "identifier": "2021003989",
     "names": {
       "sv": "Boverket"
@@ -647,6 +802,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004052": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004052",
     "names": {
       "sv": "Högskolan Väst"
@@ -658,6 +816,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004060": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004060",
     "names": {
       "sv": "Polarforskningssekretariatet"
@@ -669,6 +830,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004078": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004078",
     "names": {
       "sv": "Läkemedelsverket"
@@ -684,6 +848,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004151": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004151",
     "names": {
       "sv": "Statens jordbruksverk"
@@ -695,6 +862,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004185": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.skolverket.se/",
     "identifier": "2021004185",
     "names": {
@@ -710,6 +880,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004284": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004284",
     "names": {
       "sv": "Svenska kraftnät"
@@ -721,6 +894,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004359": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004359",
     "names": {
       "sv": "Post- och telestyrelsen"
@@ -734,6 +910,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004524": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004524",
     "names": {
       "sv": "Mittuniversitetet"
@@ -745,6 +924,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004573": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004573",
     "names": {
       "sv": "Sametinget"
@@ -756,6 +938,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004615": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004615",
     "names": {
       "sv": "Försvarsmakten"
@@ -767,6 +952,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004730": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004730",
     "names": {
       "sv": "Försvarshögskolan"
@@ -778,6 +966,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004888": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004888",
     "names": {
       "sv": "Lantmäteriet"
@@ -791,6 +982,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004896": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004896",
     "names": {
       "sv": "Södertörns högskola"
@@ -802,6 +996,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004920": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004920",
     "names": {
       "sv": "Malmö universitet"
@@ -813,6 +1010,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021004953": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021004953",
     "names": {
       "sv": "Statens historiska museer"
@@ -826,6 +1026,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021005000": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021005000",
     "names": {
       "sv": "Statens energimyndighet"
@@ -838,6 +1041,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021005216": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021005216",
     "names": {
       "sv": "Verket för innovationssystem"
@@ -851,6 +1057,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021005232": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021005232",
     "names": {
       "sv": "Formas"
@@ -864,6 +1073,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021005414": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021005414",
     "names": {
       "sv": "Inspektionen för arbetslöshetsförsäkringen (IAF)"
@@ -877,6 +1089,10 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021005448": {
+    "catalogue": [
+      "nsip-se",
+      "oppnadata"
+    ],
     "homepage": "https://skatteverket.se",
     "identifier": "2021005448",
     "names": {
@@ -893,6 +1109,10 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021005489": {
+    "catalogue": [
+      "nsip-se",
+      "oppnadata"
+    ],
     "homepage": "https://bolagsverket.se/",
     "identifier": "2021005489",
     "names": {
@@ -916,6 +1136,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021005521": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021005521",
     "names": {
       "sv": "Försäkringskassan"
@@ -927,6 +1150,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021005612": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021005612",
     "names": {
       "sv": "Skogsstyrelsen"
@@ -938,6 +1164,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021005646": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021005646",
     "names": {
       "sv": "Kronofogdemyndigheten"
@@ -952,6 +1181,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021005695": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021005695",
     "names": {
       "sv": "Energimarknadsinspektionen"
@@ -965,6 +1197,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021005737": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021005737",
     "names": {
       "sv": "Strålsäkerhetsmyndigheten"
@@ -976,6 +1211,10 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006099": {
+    "catalogue": [
+      "nsip-se",
+      "oppnadata"
+    ],
     "identifier": "2021006099",
     "names": {
       "sv": "Transportstyrelsen"
@@ -989,6 +1228,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006149": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021006149",
     "names": {
       "sv": "Tillväxtverket"
@@ -1002,6 +1244,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006230": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021006230",
     "names": {
       "sv": "Myndigheten för yrkeshögskolan"
@@ -1015,6 +1260,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006255": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021006255",
     "names": {
       "sv": "Pensionsmyndigheten"
@@ -1028,6 +1276,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006271": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021006271",
     "names": {
       "sv": "Linnéuniversitetet"
@@ -1039,6 +1290,10 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006297": {
+    "catalogue": [
+      "nsip-se",
+      "oppnadata"
+    ],
     "identifier": "2021006297",
     "names": {
       "sv": "Trafikverket"
@@ -1054,6 +1309,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006305": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021006305",
     "names": {
       "sv": "Trafikanalys"
@@ -1065,6 +1323,10 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006420": {
+    "catalogue": [
+      "nsip-se",
+      "oppnadata"
+    ],
     "identifier": "2021006420",
     "names": {
       "sv": "Havs- och Vattenmyndigheten"
@@ -1079,6 +1341,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006487": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.uhr.se/",
     "identifier": "2021006487",
     "names": {
@@ -1095,6 +1360,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006537": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021006537",
     "names": {
       "sv": "Inspektionen för vård och omsorg"
@@ -1106,6 +1374,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006545": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021006545",
     "names": {
       "sv": "Folkhälsomyndigheten"
@@ -1119,6 +1390,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006552": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.ehalsomyndigheten.se",
     "identifier": "2021006552",
     "names": {
@@ -1133,6 +1407,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006560": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021006560",
     "names": {
       "sv": "Stockholms konstnärliga högskola"
@@ -1144,6 +1421,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006610": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021006610",
     "names": {
       "sv": "Upphandlingsmyndigheten"
@@ -1159,6 +1439,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2021006883": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2021006883",
     "names": {
       "en": "Agency for Digital Government",
@@ -1173,6 +1456,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000019": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000019",
     "names": {
       "sv": "Upplands Väsby kommun"
@@ -1187,6 +1473,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000035": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000035",
     "names": {
       "sv": "Värmdö kommun"
@@ -1200,6 +1489,10 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000068": {
+    "catalogue": [
+      "nsip-se",
+      "oppnadata"
+    ],
     "identifier": "2120000068",
     "names": {
       "sv": "Huddinge kommun"
@@ -1211,6 +1504,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000084": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000084",
     "names": {
       "sv": "Haninge kommun"
@@ -1225,6 +1521,10 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000142": {
+    "catalogue": [
+      "nsip-se",
+      "oppnadata"
+    ],
     "identifier": "2120000142",
     "names": {
       "sv": "Stockholms stad"
@@ -1238,6 +1538,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000159": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000159",
     "names": {
       "sv": "Södertälje kommun"
@@ -1252,6 +1555,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000241": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.habo.se/",
     "identifier": "2120000241",
     "names": {
@@ -1265,6 +1571,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000258": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000258",
     "names": {
       "sv": "Älvkarleby kommun"
@@ -1276,6 +1585,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000266": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000266",
     "names": {
       "sv": "Tierps kommun"
@@ -1287,6 +1599,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000308": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000308",
     "names": {
       "sv": "Vingåkers kommun"
@@ -1301,6 +1616,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000324": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000324",
     "names": {
       "sv": "Oxelösunds kommun"
@@ -1312,6 +1630,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000340": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000340",
     "names": {
       "sv": "Katrineholms kommun"
@@ -1326,6 +1647,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000357": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000357",
     "names": {
       "sv": "Eskilstuna kommun"
@@ -1341,6 +1665,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000449": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000449",
     "names": {
       "sv": "Linköpings kommun"
@@ -1354,6 +1681,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000514": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://gislaved.se/",
     "identifier": "2120000514",
     "names": {
@@ -1367,6 +1697,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000563": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000563",
     "names": {
       "sv": "Sävsjö kommun"
@@ -1378,6 +1711,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000811": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000811",
     "names": {
       "sv": "Olofströms kommun"
@@ -1391,6 +1727,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000829": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000829",
     "names": {
       "sv": "Karlskrona kommun"
@@ -1404,6 +1743,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000845": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000845",
     "names": {
       "sv": "Karlshamns kommun"
@@ -1417,6 +1759,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000852": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000852",
     "names": {
       "sv": "Sölvesborgs kommun"
@@ -1430,6 +1775,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000886": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000886",
     "names": {
       "sv": "Tomelilla kommun"
@@ -1444,6 +1792,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120000969": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120000969",
     "names": {
       "sv": "Simrishamns kommun"
@@ -1457,6 +1808,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001066": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001066",
     "names": {
       "sv": "Lomma kommun"
@@ -1471,6 +1825,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001074": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001074",
     "names": {
       "sv": "Svedala kommun"
@@ -1482,6 +1839,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001132": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001132",
     "names": {
       "sv": "Lunds kommun"
@@ -1495,6 +1855,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001140": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.landskrona.se",
     "identifier": "2120001140",
     "names": {
@@ -1507,6 +1870,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001157": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001157",
     "names": {
       "sv": "Helsingborgs stad"
@@ -1520,6 +1886,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001173": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001173",
     "names": {
       "sv": "Eslövs kommun"
@@ -1533,6 +1902,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001181": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001181",
     "names": {
       "sv": "Ystads kommun"
@@ -1546,6 +1918,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001249": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.varberg.se",
     "identifier": "2120001249",
     "names": {
@@ -1558,6 +1933,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001256": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001256",
     "names": {
       "sv": "Kungsbacka kommun"
@@ -1571,6 +1949,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001264": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001264",
     "names": {
       "sv": "Härryda kommun"
@@ -1584,6 +1965,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001298": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001298",
     "names": {
       "sv": "Stenungsunds kommun"
@@ -1597,6 +1981,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001306": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001306",
     "names": {
       "sv": "Tjörns kommun"
@@ -1610,6 +1997,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001355": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001355",
     "names": {
       "sv": "Göteborgs stad"
@@ -1623,6 +2013,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001363": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001363",
     "names": {
       "sv": "Mölndals stad"
@@ -1636,6 +2029,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001371": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001371",
     "names": {
       "sv": "Kungälvs kommun"
@@ -1649,6 +2045,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001439": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001439",
     "names": {
       "sv": "Ale kommun"
@@ -1662,6 +2061,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001496": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001496",
     "names": {
       "sv": "Lilla Edets kommun"
@@ -1675,6 +2077,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001546": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001546",
     "names": {
       "sv": "Trollhättans stad"
@@ -1689,6 +2094,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001553": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001553",
     "names": {
       "sv": "Alingsås kommun"
@@ -1702,6 +2110,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001561": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001561",
     "names": {
       "sv": "Borås stad"
@@ -1716,6 +2127,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001579": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001579",
     "names": {
       "sv": "Ulricehamns kommun"
@@ -1729,6 +2143,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001595": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001595",
     "names": {
       "sv": "Grästorps kommun"
@@ -1742,6 +2159,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001629": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.karlsborg.se",
     "identifier": "2120001629",
     "names": {
@@ -1758,6 +2178,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001637": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001637",
     "names": {
       "sv": "Gullspångs kommun"
@@ -1771,6 +2194,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001652": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001652",
     "names": {
       "sv": "Götene kommun"
@@ -1784,6 +2210,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001660": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001660",
     "names": {
       "sv": "Tibro kommun"
@@ -1797,6 +2226,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001678": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001678",
     "names": {
       "sv": "Töreboda kommun"
@@ -1810,6 +2242,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001686": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001686",
     "names": {
       "sv": "Mariestads kommun"
@@ -1823,6 +2258,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001694": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001694",
     "names": {
       "sv": "Lidköpings kommun"
@@ -1836,6 +2274,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001702": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001702",
     "names": {
       "sv": "Skara kommun"
@@ -1850,6 +2291,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001710": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120001710",
     "names": {
       "sv": "Skövde kommun"
@@ -1864,6 +2308,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001728": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://hjo.se/",
     "identifier": "2120001728",
     "names": {
@@ -1880,6 +2327,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001736": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.tidaholm.se/",
     "identifier": "2120001736",
     "names": {
@@ -1894,6 +2344,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001744": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.falkoping.se/",
     "identifier": "2120001744",
     "names": {
@@ -1909,6 +2362,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120001850": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://karlstad.se/",
     "identifier": "2120001850",
     "names": {
@@ -1924,6 +2380,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120002049": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120002049",
     "names": {
       "sv": "Heby kommun"
@@ -1935,6 +2394,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120002221": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120002221",
     "names": {
       "sv": "Falu kommun"
@@ -1948,6 +2410,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120002338": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120002338",
     "names": {
       "sv": "Gävle kommun"
@@ -1959,6 +2424,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120002346": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120002346",
     "names": {
       "sv": "Sandvikens kommun"
@@ -1972,6 +2440,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120002387": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.ange.se",
     "identifier": "2120002387",
     "names": {
@@ -1985,6 +2456,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120002411": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120002411",
     "names": {
       "sv": "Sundsvalls kommun"
@@ -1998,6 +2472,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120002882": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120002882",
     "names": {
       "sv": "Botkyrka kommun"
@@ -2012,6 +2489,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120002916": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120002916",
     "names": {
       "sv": "Essunga kommun"
@@ -2025,6 +2505,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2120002924": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2120002924",
     "names": {
       "sv": "Vara kommun"
@@ -2039,6 +2522,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://dataportal.se/organisation/SE2220000315": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://rka.nu/",
     "names": {
       "en": "The Council for Advocacy of Municipal Analysis - Kolada",
@@ -2051,6 +2537,9 @@
     "type": "http://purl.org/adms/publishertype/NonGovernmentalOrganisation"
   },
   "http://dataportal.se/organisation/SE2321000016": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2321000016",
     "names": {
       "sv": "Region Stockholm"
@@ -2062,6 +2551,9 @@
     "type": "http://purl.org/adms/publishertype/RegionalAuthority"
   },
   "http://dataportal.se/organisation/SE2321000024": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://regionuppsala.se",
     "identifier": "2321000024",
     "names": {
@@ -2076,6 +2568,9 @@
     "type": "http://purl.org/adms/publishertype/RegionalAuthority"
   },
   "http://dataportal.se/organisation/SE2321000081": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2321000081",
     "names": {
       "sv": "Region Blekinge"
@@ -2089,6 +2584,9 @@
     "type": "http://purl.org/adms/publishertype/RegionalAuthority"
   },
   "http://dataportal.se/organisation/SE2321000131": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2321000131",
     "names": {
       "sv": "Västra Götalandsregionen"
@@ -2104,6 +2602,9 @@
     "type": "http://purl.org/adms/publishertype/RegionalAuthority"
   },
   "http://dataportal.se/organisation/SE2321000222": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2321000222",
     "names": {
       "sv": "Västerbottens läns landsting"
@@ -2115,6 +2616,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2321000230": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2321000230",
     "names": {
       "sv": "Region Norrbotten"
@@ -2126,6 +2630,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://dataportal.se/organisation/SE2321000255": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "identifier": "2321000255",
     "names": {
       "sv": "Region Skåne"
@@ -2140,6 +2647,9 @@
     "type": "http://purl.org/adms/publishertype/RegionalAuthority"
   },
   "http://dataportal.se/organisation/SE2620001129": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.kva.se",
     "names": {
       "en": "Royal Swedish Academy of Sciences",
@@ -2152,6 +2662,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE5560334285": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.svt.se/",
     "names": {
       "en": "Sveriges Television",
@@ -2164,6 +2677,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE5561162446": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.ivl.se",
     "names": {
       "en": "IVL Swedish Environmental Research Institute",
@@ -2176,6 +2692,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE5561213066": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "IMU-Testologen AB",
       "sv": "IMU-Testologen AB"
@@ -2187,6 +2706,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE5561848564": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.scania.com",
     "names": {
       "en": "Scania CV AB",
@@ -2199,6 +2721,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE5563108942": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.arkeologikonsult.se/",
     "names": {
       "en": "Arkeologikonsult",
@@ -2211,6 +2736,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE5564193232": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Radio Sweden",
       "sv": "Sveriges Radio"
@@ -2222,6 +2750,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE5564646874": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.ri.se/",
     "names": {
       "sv": "RISE"
@@ -2233,6 +2764,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "http://dataportal.se/organisation/SE5564795598": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.chalmers.se/",
     "names": {
       "en": "Chalmers University of Technology",
@@ -2245,6 +2779,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE5569478968": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.ths.se/",
     "names": {
       "en": "University College Stockholm",
@@ -2257,6 +2794,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE5592038961": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://demoskop.se/",
     "names": {
       "en": "Demoskop",
@@ -2269,6 +2809,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE8020005461": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.can.se/",
     "names": {
       "en": "The Swedish Council for Information on Alcohol and Other Drugs",
@@ -2281,6 +2824,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE8020061365": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.riksteatern.se/",
     "names": {
       "en": "Riksteatern",
@@ -2293,6 +2839,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE8020062074": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.hhs.se/",
     "names": {
       "en": "Handelshögskolan i Stockholm",
@@ -2305,6 +2854,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE8020120948": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.aldrecentrum.se/",
     "names": {
       "en": "Stockholm Gerontology Research Center Foundation",
@@ -2317,6 +2869,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE8020133198": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.iffs.se/",
     "names": {
       "en": "Institute for Future Studies",
@@ -2329,6 +2884,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE8024195029": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.arbetslivsinstitutet.se/",
     "names": {
       "en": "Arbetslivsinstitutet",
@@ -2341,6 +2899,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE8024256052": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.fou-spenshult.se/",
     "names": {
       "en": "FoU Spenshult",
@@ -2353,6 +2914,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE8176053182": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.sau.se/",
     "names": {
       "en": "Societas Archaeologica Upsaliensis",
@@ -2365,6 +2929,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE8260017333": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://ju.se/",
     "names": {
       "en": "Jönköping University",
@@ -2377,6 +2944,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE8350006113": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://blekingemuseum.se/",
     "names": {
       "en": "Blekinge museum",
@@ -2389,6 +2959,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE8985005183": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.ajtte.com",
     "names": {
       "en": "Swedish Mountain and Sami Museum",
@@ -2401,6 +2974,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE950037687": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.nina.no",
     "names": {
       "en": "Norwegian Institute for Nature Research - NINA",
@@ -2413,6 +2989,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE985767769": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.niku.no",
     "names": {
       "en": "The Norwegian Institute for Cultural Heritage Research - NIKU",
@@ -2425,6 +3004,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://enkoping.se/underwebbar/enkopings-museum.html": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://enkoping.se/underwebbar/enkopings-museum.html",
     "names": {
       "sv": "Enköpings museum"
@@ -2436,6 +3018,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://goteborgsstadsmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://goteborgsstadsmuseum.se/",
     "names": {
       "en": "Museum of Gothenburg",
@@ -2448,6 +3033,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://halsinglandsmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://halsinglandsmuseum.se/",
     "names": {
       "sv": "Hälsinglands Museum"
@@ -2459,6 +3047,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://malmo.se/Kultur--fritid/Kultur--noje/Museer--utstallningar/Malmo-Museer.html": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://malmo.se/Kultur--fritid/Kultur--noje/Museer--utstallningar/Malmo-Museer.html",
     "names": {
       "sv": "Malmö museer"
@@ -2470,6 +3061,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://stockholmslansmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://stockholmslansmuseum.se/",
     "names": {
       "sv": "Stockholms läns museum"
@@ -2481,6 +3075,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://upplandsvasby.se/gataparkenheten": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.upplandsvasby.se",
     "names": {
       "und": "Gata/Parkenheten"
@@ -2492,6 +3089,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://upplandsvasby.se/geodataenheten": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.upplandsvasby.se",
     "names": {
       "und": "Geodataenheten"
@@ -2503,6 +3103,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://upplandsvasby.se/idrott-och-fritid": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.upplandsvasby.se",
     "names": {
       "und": "Idrotts- och fritidsavdelning"
@@ -2514,6 +3117,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "http://vastergotlandsmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://vastergotlandsmuseum.se/",
     "names": {
       "sv": "Västergötlands museum"
@@ -2525,6 +3131,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.aeroseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.aeroseum.se/",
     "names": {
       "sv": "Aeroseum"
@@ -2536,6 +3145,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.ajtte.com/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.ajtte.com/",
     "names": {
       "en": "Ájtte Swedish Mountain and Sami Museum",
@@ -2548,6 +3160,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.arkdes.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.arkdes.se/",
     "names": {
       "sv": "Arkitektur- och designcentrum"
@@ -2559,6 +3174,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.armemuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.armemuseum.se/",
     "names": {
       "en": "Army Museum",
@@ -2571,6 +3189,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.blekingemuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.blekingemuseum.se/",
     "names": {
       "en": "Blekinge museum",
@@ -2583,6 +3204,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.bohuslansmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.bohuslansmuseum.se/",
     "names": {
       "sv": "Bohusläns museum"
@@ -2594,6 +3218,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.dramawebben.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.dramawebben.se/",
     "names": {
       "sv": "Dramawebben"
@@ -2605,6 +3232,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.etnografiska.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.etnografiska.se/",
     "names": {
       "en": "The Museum of Ethnography",
@@ -2617,6 +3247,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.falkoping.se/museet": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.falkoping.se/museet",
     "names": {
       "sv": "Falbygdens museum"
@@ -2628,6 +3261,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.fastningsmuseet.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.fastningsmuseet.se/",
     "names": {
       "sv": "Karlsborgs fästningsmuseum"
@@ -2639,6 +3275,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.flygvapenmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.flygvapenmuseum.se/",
     "names": {
       "sv": "Flygvapenmuseum"
@@ -2650,6 +3289,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.gnm.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.gnm.se/",
     "names": {
       "sv": "Göteborgs naturhistoriska museum"
@@ -2661,6 +3303,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.gotlandsforsvarsmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.gotlandsforsvarsmuseum.se/",
     "names": {
       "sv": "Gotlands försvarsmuseum"
@@ -2672,6 +3317,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.grennamuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.grennamuseum.se/",
     "names": {
       "sv": "Grenna museum"
@@ -2683,6 +3331,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.hemslojden.org/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.hemslojden.org/",
     "names": {
       "sv": "Hemslöjden"
@@ -2694,6 +3345,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.hemsofastning.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.hemsofastning.se/",
     "names": {
       "sv": "Hemsö fästning"
@@ -2705,6 +3359,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.jkpglm.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.jkpglm.se/",
     "names": {
       "en": "Jönköping county museum",
@@ -2717,6 +3374,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.kulturparkensmaland.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.kulturparkensmaland.se/",
     "names": {
       "sv": "Kulturparken Småland"
@@ -2728,6 +3388,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.litografiskamuseet.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.litografiskamuseet.se/",
     "names": {
       "sv": "Litografiska Museet"
@@ -2739,6 +3402,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.medelhavsmuseet.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.medelhavsmuseet.se/",
     "names": {
       "en": "The Museum of Mediterranean and Near Eastern Antiquities",
@@ -2751,6 +3417,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.olm.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.olm.se/",
     "names": {
       "en": "Örebro läns museum",
@@ -2763,6 +3432,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.ostergotlandsmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.ostergotlandsmuseum.se/",
     "names": {
       "en": "Ostergotlands museum",
@@ -2775,6 +3447,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.postmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.postmuseum.se/",
     "names": {
       "sv": "Postmuseum"
@@ -2786,6 +3461,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.riksidrottsmuseum.se": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.riksidrottsmuseum.se",
     "names": {
       "en": "Swedish Sports Museum",
@@ -2798,6 +3476,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.rkcmalmo.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.rkcmalmo.se/",
     "names": {
       "sv": "Romska kulturcentret"
@@ -2809,6 +3490,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.sambah.org/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.sambah.org/",
     "names": {
       "en": "​SAMBAH – Static Acoustic Monitoring of the Baltic Sea Harbour Porpoise",
@@ -2821,6 +3505,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://www.shfa.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.shfa.se/",
     "names": {
       "sv": "Svenskt HällristningsForskningsArkiv"
@@ -2832,6 +3519,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.simrishamn.se/museum": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.simrishamn.se/museum",
     "names": {
       "sv": "Österlens museum"
@@ -2843,6 +3533,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.skansen.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.skansen.se/",
     "names": {
       "sv": "Skansen"
@@ -2854,6 +3547,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.smha.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.smha.se/",
     "names": {
       "en": "Swedish Military Heritage",
@@ -2866,6 +3562,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.smha.se/vara-museer/forsvarsmuseum/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.smha.se/vara-museer/forsvarsmuseum/",
     "names": {
       "sv": "Försvarsmuseum Boden"
@@ -2877,6 +3576,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.soundsofchanges.eu/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.soundsofchanges.eu/",
     "names": {
       "en": "Sounds of Changes",
@@ -2889,6 +3591,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.sundsvall.se/museum": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.sundsvall.se/museum",
     "names": {
       "en": "Sundsvall museum",
@@ -2901,6 +3606,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.tekniskamuseet.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.tekniskamuseet.se/",
     "names": {
       "en": "National Museum of Science and Technology",
@@ -2913,6 +3621,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.unstraight.org/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.unstraight.org/",
     "names": {
       "sv": "The Unstraight Museum"
@@ -2924,6 +3635,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.upplandsmuseet.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.upplandsmuseet.se/",
     "names": {
       "en": "The Uppland County Museum",
@@ -2936,6 +3650,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.vaggeryd.se/uppleva-och-gora/kultur/miliseum.html": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.vaggeryd.se/uppleva-och-gora/kultur/miliseum.html",
     "names": {
       "sv": "Miliseum"
@@ -2947,6 +3664,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.vanersborgsmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.vanersborgsmuseum.se/",
     "names": {
       "en": "Vanersborg museum",
@@ -2959,6 +3679,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.varldskulturmuseerna.se/ostasiatiskamuseet/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.varldskulturmuseerna.se/ostasiatiskamuseet/",
     "names": {
       "sv": "Östasiatiska museet"
@@ -2970,6 +3693,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.varldskulturmuseet.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.varldskulturmuseet.se/",
     "names": {
       "en": "The Museum of World Culture",
@@ -2982,6 +3708,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.vastarvet.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.vastarvet.se/",
     "names": {
       "sv": "Västarvet"
@@ -2993,6 +3722,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "http://www.vaxholmsfastning.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.vaxholmsfastning.se/",
     "names": {
       "sv": "Vaxholms Fästnings Museum"
@@ -3004,6 +3736,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://admin.dataportal.se/store/127/resource/437d3c86e3261ed5da3473cd0620acf4": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "SBU. Statens beredning för medicinsk och social utvärdering"
     },
@@ -3014,6 +3749,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://admin.dataportal.se/store/127/resource/b039c590b8f8dae0d623fcd8c70f8be4": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "NHS Evidence"
     },
@@ -3024,6 +3762,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://admin.dataportal.se/store/254/resource/7d89e5afd68a0ce5b25d3329c869e619": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.kb.se/",
     "names": {
       "und": "Kungliga biblioteket"
@@ -3035,6 +3776,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://admin.dataportal.se/store/43/resource/7a00bd3796ed09a600646432cb321722": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Umeå kommun"
     },
@@ -3045,6 +3789,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://admin.dataportal.se/store/43/resource/a1e87c9dd15ad3940293a45bc00a7574": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Vatten- och avfallskompetens i norr AB"
     },
@@ -3055,6 +3802,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "https://admin.dataportal.se/store/43/resource/fd2584866d01e4eaee64e3ffcfe40e02": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Umeå Energi"
     },
@@ -3065,6 +3815,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "https://admin.dataportal.se/store/847/resource/af9d95eb1ca52e530818b3f203c831b4": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Kommun Kartan"
     },
@@ -3075,6 +3828,9 @@
     "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
   },
   "https://apotekarsocieteten.museum/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://apotekarsocieteten.museum/",
     "names": {
       "en": "The Swedish Pharmaceutical Society",
@@ -3087,6 +3843,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://catalog.burlov.se/store/1/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Burlövs kommun"
     },
@@ -3096,6 +3855,9 @@
     "same_as": []
   },
   "https://catalog.burlov.se/store/1/resource/15": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Anders Erenius"
     },
@@ -3106,6 +3868,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.goteborg.se/store/6/resource/100848": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Göteborgs Stads Stadsbyggnadskontoret"
     },
@@ -3115,6 +3880,9 @@
     "same_as": []
   },
   "https://catalog.goteborg.se/store/6/resource/115679": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Göteborgs Stad Inköps- och upphandlingsförvaltningen"
     },
@@ -3124,6 +3892,9 @@
     "same_as": []
   },
   "https://catalog.goteborg.se/store/6/resource/48806": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Göteborgs Stad Miljöförvaltningen"
     },
@@ -3134,6 +3905,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.goteborg.se/store/6/resource/48807": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Göteborgs Stad intraservice"
     },
@@ -3144,6 +3918,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.goteborg.se/store/6/resource/48808": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Göteborgs Stad Stadsmiljöförvaltningen"
     },
@@ -3155,6 +3932,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.goteborg.se/store/6/resource/48809": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Göteborgs Stad Stadsledningskontoret"
     },
@@ -3166,6 +3946,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.goteborg.se/store/6/resource/48810": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Göteborgs Stad Demokrati & medborgarservice"
     },
@@ -3176,6 +3959,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.goteborg.se/store/6/resource/86162": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.goteborg.com/",
     "names": {
       "sv": "Göteborg & Co"
@@ -3188,6 +3974,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.goteborg.se/store/6/resource/89648": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://goteborg.se/wps/portal/start/kommun-och-politik/kommunens-organisation/forvaltningar-och-namnder/kretslopp-och-vatten",
     "names": {
       "sv": "Göteborgs stad Kretslopp och vatten"
@@ -3200,6 +3989,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.goteborg.se/store/6/resource/91154": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Göteborg Stad Kulturförvaltningen"
     },
@@ -3210,6 +4002,9 @@
     "same_as": []
   },
   "https://catalog.lerum.se/store/1/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Lerums kommun"
     },
@@ -3219,6 +4014,9 @@
     "same_as": []
   },
   "https://catalog.molndal.se/store/1/resource/160": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Samordning för hållbarhet, Ekonomi och hållbarhetsstyrning"
     },
@@ -3228,6 +4026,9 @@
     "same_as": []
   },
   "https://catalog.molndal.se/store/1/resource/46": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "System och stöd, Ekonomi och hållbarhetsstyrning, stadsledningsförvaltningen, Mölndals stad"
     },
@@ -3237,6 +4038,9 @@
     "same_as": []
   },
   "https://catalog.sodertalje.se/store/12/resource/161": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Redovisningsenheten"
     },
@@ -3247,6 +4051,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.sodertalje.se/store/12/resource/236": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.sodertalje.se/",
     "names": {
       "sv": "Kommunstyrelsens kontor"
@@ -3259,6 +4066,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.sodertalje.se/store/13/resource/120": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.sodertalje.se/kommun-och-politik/om-kommunen/organisation/kultur--och-fritidskontoret/",
     "names": {
       "sv": "Kultur- och fritidskontoret"
@@ -3270,6 +4080,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.sodertalje.se/store/13/resource/86": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.sodertaljekonsthall.se/",
     "names": {
       "sv": "Södertälje konsthall"
@@ -3281,6 +4094,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.sodertalje.se/store/14/resource/86": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.sodertalje.se/kommun-och-politik/om-kommunen/organisation/Miljokontoret/",
     "names": {
       "sv": "Miljökontoret"
@@ -3292,6 +4108,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.sodertalje.se/store/15/resource/271": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Samhällsbyggnadskontoret"
     },
@@ -3302,6 +4121,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.sodertalje.se/store/18/resource/669": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Kostenheten"
     },
@@ -3312,6 +4134,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.sodertalje.se/store/18/resource/724": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.sodertalje.se/kommun-och-politik/om-kommunen/organisation/utbildningskontoret/",
     "names": {
       "sv": "Utbildningskontoret"
@@ -3323,6 +4148,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://catalog.sodertalje.se/store/9/resource/8": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://telge.se",
     "names": {
       "en": "Telge recycling",
@@ -3335,6 +4163,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "https://catalog.trelleborg.se/store/2/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Trelleborgs Kommun"
     },
@@ -3345,6 +4176,9 @@
     "same_as": []
   },
   "https://civictech.se": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Civic Tech Sweden"
     },
@@ -3355,6 +4189,9 @@
     "type": "http://purl.org/adms/publishertype/NonGovernmentalOrganisation"
   },
   "https://data.nobelprize.org/store/7/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Nobel Prize Outreach"
     },
@@ -3364,6 +4201,9 @@
     "same_as": []
   },
   "https://data.svk.se/organization/5d88617e-213c-4f70-9ea5-e47a96abd424": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Ontologies"
     },
@@ -3373,6 +4213,9 @@
     "same_as": []
   },
   "https://datakatalog.helsingborg.se/store/3/resource/426": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Skol- och fritidsförvaltningen"
     },
@@ -3382,6 +4225,9 @@
     "same_as": []
   },
   "https://datakatalog.helsingborg.se/store/3/resource/427": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Stadsbyggnadsförvaltningen"
     },
@@ -3391,6 +4237,9 @@
     "same_as": []
   },
   "https://datakatalog.helsingborg.se/store/3/resource/433": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Stadsledningsförvaltningen"
     },
@@ -3400,6 +4249,9 @@
     "same_as": []
   },
   "https://datakatalog.helsingborg.se/store/3/resource/442": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Miljöförvaltningen"
     },
@@ -3409,6 +4261,9 @@
     "same_as": []
   },
   "https://datakatalog.helsingborg.se/store/3/resource/489": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Stadsmiljö - Trafik"
     },
@@ -3418,6 +4273,9 @@
     "same_as": []
   },
   "https://dataportal.se/organisation/SE2021004284": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.svk.se",
     "identifier": "202100-4284",
     "names": {
@@ -3432,6 +4290,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://elprisersverige.nu/dcat-ap-se.rdf#utgivare": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://elprisersverige.nu/",
     "identifier": "559071-9547",
     "names": {
@@ -3444,6 +4305,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "https://energimyndigheten.se/organisations/SE2021005000": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Swedish Energy Administration",
       "sv": "Statens energimyndighet"
@@ -3454,6 +4318,9 @@
     "same_as": []
   },
   "https://extgeodataportal.orebro.se/organization/4bcf9f31-2c3a-4770-9950-858258a37d5c": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {},
     "roles": [
       "publisher"
@@ -3461,6 +4328,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/10": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Socialstyrelsen, Medicinska födelseregistret"
     },
@@ -3470,6 +4340,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1458": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Folkhälsomyndigheten, Sminet, Statistikmyndigheten SCB"
     },
@@ -3479,6 +4352,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1466": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Folkhälsomyndigheten, Sminet, Socialstyrelsens register över insatser till äldre och personer med funktionsnedsättning"
     },
@@ -3488,6 +4364,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1469": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Folkhälsomyndigheten, Sminet, Statistikmyndigheten SCB, Svenska Intensivvårdsregistret SIR"
     },
@@ -3497,6 +4376,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1540": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Folkhälsomyndigheten, frivillig rapportering"
     },
@@ -3506,6 +4388,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1574": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Public Health Agency of Sweden, Sminet",
       "sv": "Folkhälsomyndigheten, Sminet"
@@ -3516,6 +4401,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1580": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Folkhälsomyndigheten, Swelogs"
     },
@@ -3525,6 +4413,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1584": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Folkhälsomyndigheten samt Barnhälsovårdsenheterna i Stockholm, Göteborg och Malmö"
     },
@@ -3534,6 +4425,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1585": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "The Public Health Agency of Sweden, National vaccination register (NVR)",
       "sv": "Folkhälsomyndigheten, Nationella vaccinationsregistret (NVR)"
@@ -3544,6 +4438,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1613": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Senior alert"
     },
@@ -3553,6 +4450,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1615": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Arbetsförmedlingen (antal arbetslösa), SCB (antal förvärvsarbetande i nattbefolkningen) och egna beräkningar."
     },
@@ -3562,6 +4462,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1616": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Statistiska centralbyrån (SCB), RAMS, BAS"
     },
@@ -3571,6 +4474,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1617": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Statistiska centralbyrån (SCB), RAMS/BAS"
     },
@@ -3580,6 +4486,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1623": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "SCB, Befolkningsstatistik"
     },
@@ -3589,6 +4498,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1624": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "SCB, Valmyndigheten"
     },
@@ -3598,6 +4510,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1625": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Statistics Sweden (SCB)",
       "sv": "Statistiska centralbyrån (SCB)"
@@ -3608,6 +4523,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1626": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "SCB, Valstatistik, Valmyndigheten fr o m 2010"
     },
@@ -3617,6 +4535,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1628": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Försäkringskassan"
     },
@@ -3626,6 +4547,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1629": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "SCB, Inkomst- och taxeringsregistret, (IoT)"
     },
@@ -3635,6 +4559,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1630": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "SCB, Totalräknad inkomst- och förmögenhetsstatistik"
     },
@@ -3644,6 +4571,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1631": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Försäkringskassan, Statistikenheten"
     },
@@ -3653,6 +4583,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1633": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "SCB"
     },
@@ -3662,6 +4595,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1634": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Statistiska Centralbyrån (SCB)"
     },
@@ -3671,6 +4607,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/165": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "SCB, Lägenhetsregistret"
     },
@@ -3680,6 +4619,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1655": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "The Public Health Agency of Sweden, the national public health survey",
       "sv": "Folkhälsomyndigheten, Nationella folkhälsoenkäten"
@@ -3690,6 +4632,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1658": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Folkhälsomyndigheten, Skolbarns hälsovanor"
     },
@@ -3699,6 +4644,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1664": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "SCB, ULF/SILC"
     },
@@ -3708,6 +4656,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1667": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Elevhälsan, data baseras på längd- och viktmätningar gjorda inom ramen för elevhälsosamtalen."
     },
@@ -3717,6 +4668,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1668": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "The National Board of Health and Welfare",
       "sv": "Socialstyrelsen"
@@ -3727,6 +4681,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1669": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Public Health Agency of Sweden",
       "sv": "Folkhälsomyndigheten"
@@ -3738,6 +4695,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/198": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Centralförbundet för alkohol- och narkotikaupplysning, CAN"
     },
@@ -3747,6 +4707,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/22": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Graviditetsregistret"
     },
@@ -3756,6 +4719,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/276": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "SCB, ULF"
     },
@@ -3765,6 +4731,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/371": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Socialstyrelsen, patientregistret och dödsorsaksregistret."
     },
@@ -3774,6 +4743,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/433": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Nationella diabetesregistret och Socialstyrelsen"
     },
@@ -3783,6 +4755,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/443": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Socialstyrelsen, Dödsorsaksregistret"
     },
@@ -3792,6 +4767,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/483": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Swedish Alcohol Retail Monopoly, The Public Health Agency of Sweden, Statistics Sweden (SCB)",
       "sv": "Systembolaget, Folkhälsomyndigheten, Statistiska centralbyrån (SCB)"
@@ -3802,6 +4780,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/486": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "The Public Health Agency of Sweden, Swedish Alcohol Retail Monopoly",
       "sv": "Folkhälsomyndigheten, Systembolaget"
@@ -3812,6 +4793,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/493": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Swedish Alcohol Retail Monopoly",
       "sv": "Systembolaget"
@@ -3822,6 +4806,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/539": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "The National Board of Health and Welfare, The National Board of Health and Welfare",
       "sv": "Socialstyrelsen, Socialstyrelsen"
@@ -3832,6 +4819,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/553": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Ministry of Finance",
       "sv": "Finansdepartementet"
@@ -3842,6 +4832,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/583": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "The Swedish National Council for Crime Prevention (Brå)",
       "sv": "Brottsförebyggande rådet (Brå)"
@@ -3852,6 +4845,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/585": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "The Swedish Council for Information on Alcohol and Other Drugs (CAN)",
       "sv": "Centralförbundet för alkohol- och narkotikaupplysning (CAN)"
@@ -3862,6 +4858,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/586": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "The Swedish Transport Agency",
       "sv": "Transportstyrelsen"
@@ -3872,6 +4871,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/679": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "E-hälsomyndigheten"
     },
@@ -3881,6 +4883,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/690": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Folkhälsomyndigheten, ResNet"
     },
@@ -3890,6 +4895,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/695": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Folkhälsomyndigheten, Svebar"
     },
@@ -3899,6 +4907,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/696": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Folkhälsomyndigheten, Miljöhälsoenkäten barn."
     },
@@ -3908,6 +4919,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/819": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Folkhälsomyndigheten, Miljöhälsoenkäten barn"
     },
@@ -3917,6 +4931,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/90": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "SCB, AKU"
     },
@@ -3926,6 +4943,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/93": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "SCB, Totalräknad inkomstfördelningsstatistik (TRIF)"
     },
@@ -3935,6 +4955,9 @@
     "same_as": []
   },
   "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/97": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "SCB, Inkomst och Taxeringsregistret (IoT)"
     },
@@ -3944,6 +4967,9 @@
     "same_as": []
   },
   "https://free.entryscape.com/store/177/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Luftdata.se"
     },
@@ -3953,6 +4979,9 @@
     "same_as": []
   },
   "https://free.entryscape.com/store/223/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Rymdstyrelsen"
     },
@@ -3962,6 +4991,9 @@
     "same_as": []
   },
   "https://free.entryscape.com/store/302/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://handlingar.se/",
     "names": {
       "und": "Handlingar.se"
@@ -3973,6 +5005,9 @@
     "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
   },
   "https://free.entryscape.com/store/302/resource/11": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://okfn.se/",
     "names": {
       "sv": "Open Knowledge Sverige"
@@ -3985,6 +5020,9 @@
     "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
   },
   "https://free.entryscape.com/store/302/resource/27": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://globaldatabarometer.org/",
     "names": {
       "sv": "Global Data Barometer"
@@ -3996,6 +5034,9 @@
     "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
   },
   "https://free.entryscape.com/store/576/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.beneficial.no/",
     "names": {
       "no": "Beneficial Apps AS"
@@ -4008,6 +5049,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "https://free.entryscape.com/store/640/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Sambruk ideell förening"
     },
@@ -4017,6 +5061,9 @@
     "same_as": []
   },
   "https://free.entryscape.com/store/640/resource/27": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://digidel.se",
     "names": {
       "en": "Digidel",
@@ -4030,6 +5077,9 @@
     "type": "http://purl.org/adms/publishertype/NonGovernmentalOrganisation"
   },
   "https://free.entryscape.com/store/679/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Skjutsgruppen ideell förening"
     },
@@ -4040,6 +5090,9 @@
     "same_as": []
   },
   "https://free.entryscape.com/store/688/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://pro.se/",
     "names": {
       "en": "Swedish National Pensioners' Organisation",
@@ -4052,6 +5105,9 @@
     "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
   },
   "https://free.entryscape.com/store/727/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Svenska rådet för hjärt-lungräddning HLR-rådet"
     },
@@ -4062,6 +5118,9 @@
     "same_as": []
   },
   "https://free.entryscape.com/store/730/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Klimatbyrån"
     },
@@ -4071,6 +5130,9 @@
     "same_as": []
   },
   "https://free.entryscape.com/store/730/resource/3": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.greenpeace.org/sweden/",
     "names": {
       "sv": "Föreningen Greenpeace - Norden"
@@ -4082,6 +5144,9 @@
     "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
   },
   "https://haninge.entryscape.net/store/7/resource/88": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "GIS"
     },
@@ -4091,6 +5156,9 @@
     "same_as": []
   },
   "https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/",
     "names": {
       "sv": "Kulturmagasinet, Helsingborgs museer"
@@ -4102,6 +5170,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://kalmarlansmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://kalmarlansmuseum.se/",
     "names": {
       "en": "Kalmar county museum",
@@ -4114,6 +5185,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://katalog.datahotell.se/store/99/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Statens museer för världskultur"
     },
@@ -4123,6 +5197,9 @@
     "same_as": []
   },
   "https://katalog.datahotell.se/store/99/resource/8": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Malmö museer"
     },
@@ -4132,6 +5209,9 @@
     "same_as": []
   },
   "https://koping.se/kultur-fritid--turism/kultur/kopings-museum.html": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://koping.se/kultur-fritid--turism/kultur/kopings-museum.html",
     "names": {
       "sv": "Köpings museum"
@@ -4143,6 +5223,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://lansmuseetgavleborg.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://lansmuseetgavleborg.se/",
     "names": {
       "sv": "Länsmuseet Gävleborg"
@@ -4154,6 +5237,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://malmo.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://malmo.se/",
     "names": {
       "und": "Malmö stad"
@@ -4165,6 +5251,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://metadata.havochvatten.se/store/1/resource/166": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Sveriges Lantbruksuniversitet (SLU)"
     },
@@ -4176,6 +5265,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://metadata.lidingo.se/store/2/resource/2": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://lidingo.se/",
     "names": {
       "en": "Lidingö city",
@@ -4189,6 +5281,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://metadatakatalog.huddinge.se/store/12/resource/567": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Stockholms universitet"
     },
@@ -4198,6 +5293,9 @@
     "same_as": []
   },
   "https://metadatakatalog.huddinge.se/store/19/resource/222": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Ekologigruppen AB"
     },
@@ -4207,6 +5305,9 @@
     "same_as": []
   },
   "https://metadatakatalog.huddinge.se/store/5/resource/22": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "WSP"
     },
@@ -4216,6 +5317,9 @@
     "same_as": []
   },
   "https://myndighetsregistret.scb.se/2021000555": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Socialstyrelsen (SoS)"
     },
@@ -4225,6 +5329,9 @@
     "same_as": []
   },
   "https://myndighetsregistret.scb.se/2021002148": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Arbetsmiljöverket (AV)"
     },
@@ -4234,6 +5341,9 @@
     "same_as": []
   },
   "https://myndighetsregistret.scb.se/2021002635": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Swedish National Debt Office",
       "sv": "Riksgäldskontoret"
@@ -4244,6 +5354,9 @@
     "same_as": []
   },
   "https://myndighetsregistret.scb.se/2021004235": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Swedish Financial Supervisory Authority",
       "sv": "Finansinspektionen"
@@ -4254,6 +5367,9 @@
     "same_as": []
   },
   "https://myndighetsregistret.scb.se/2021005174": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "National Mediation Office",
       "sv": "Medlingsinstitutet"
@@ -4264,6 +5380,9 @@
     "same_as": []
   },
   "https://myndighetsregistret.scb.se/2021006149": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Swedish Agency for Economic and Regional Growth",
       "sv": "Tillväxtverket"
@@ -4274,6 +5393,9 @@
     "same_as": []
   },
   "https://myndighetsregistret.scb.se/2021006305": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Transport Analysis",
       "sv": "Trafikanalys"
@@ -4284,6 +5406,9 @@
     "same_as": []
   },
   "https://myndighetsregistret.scb.se/2021006495": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Universitetskanslersämbetet"
     },
@@ -4293,6 +5418,9 @@
     "same_as": []
   },
   "https://norrbottensmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://norrbottensmuseum.se/",
     "names": {
       "en": "Norrbottens museum",
@@ -4305,6 +5433,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://offwegooo.com/#org": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://offwegooo.com/fr/",
     "names": {
       "und": "Off We Gooo"
@@ -4315,6 +5446,9 @@
     "same_as": []
   },
   "https://opendata.vasteras.se/store/1/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Västerås stad"
     },
@@ -4324,6 +5458,9 @@
     "same_as": []
   },
   "https://researchdata.se/catalogue?principal=commission-of-the-european-communities": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Commission of the European Communities",
       "sv": "Commission of the European Communities"
@@ -4335,6 +5472,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=department-of-language-and-linguistics-university-of-troms": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "University of Tromsø",
       "sv": "Universitetet i Tromsö"
@@ -4346,6 +5486,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=eos-gallup-europe": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "EOS Gallup Europe",
       "sv": "EOS Gallup Europe"
@@ -4357,6 +5500,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=finnish-swedish-winter-navigation-research-board": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Finnish-Swedish Winter Navigation Research Board",
       "sv": "Finnish-Swedish Winter Navigation Research Board"
@@ -4368,6 +5514,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=forskningsgruppen-for-samhalls--och-informationsstudier": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Forskningsgruppen för samhälls- och informationsstudier",
       "sv": "Forskningsgruppen för samhälls- och informationsstudier"
@@ -4379,6 +5528,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=information-not-available": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Information not available, contact SND for more information",
       "sv": "Uppgift ej tillgänglig, kontakta SND för mer information"
@@ -4390,6 +5542,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=institute-for-korean-election-studies": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Institute for Korean Election Studies",
       "sv": "Institute for Korean Election Studies"
@@ -4401,6 +5556,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=jung-ang-daily-news": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Jung-Ang Daily News",
       "sv": "Jung-Ang Daily News"
@@ -4412,6 +5570,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=kn-202301-utredningen-om-havsbaserad-vindkraft": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "KN 2023:01, Utredningen om havsbaserad vindkraft",
       "sv": "KN 2023:01, Utredningen om havsbaserad vindkraft"
@@ -4423,6 +5584,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=korea-research-gallup-polls-ltd": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Korea Research Gallup Polls Ltd.",
       "sv": "Korea Research Gallup Polls Ltd."
@@ -4434,6 +5598,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=m-202203-starkta-incitament-for-utbyggd-vindkraft": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "M 2022:03, Stärkta incitament för utbyggd vindkraft",
       "sv": "M 2022:03, Stärkta incitament för utbyggd vindkraft"
@@ -4445,6 +5612,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=nordic-institute-for-studies-in-urban-and-regional-planning": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Nordic Institute for Studies in Urban and Regional Planning",
       "sv": "Nordiska institutet för samhällsplanering"
@@ -4456,6 +5626,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=religionssociologiska-institutet": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Religionssociologiska institutet",
       "sv": "Religionssociologiska institutet"
@@ -4467,6 +5640,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=share-eric": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "SHARE ERIC",
       "sv": "SHARE ERIC"
@@ -4478,6 +5654,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=stiftelsen-for-opinionsanalyser": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Stiftelsen för opinionsanalyser",
       "sv": "Stiftelsen för opinionsanalyser"
@@ -4489,6 +5668,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=svenska-gallupinstitutet-ab": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Svenska Gallupinstitutet AB",
       "sv": "Svenska Gallupinstitutet AB"
@@ -4500,6 +5682,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=swedish-institute-of-public-opinion-research": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Swedish Institute of Public Opinion Research",
       "sv": "SIFO - Svenska institutet för opinionsundersökningar"
@@ -4511,6 +5696,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=swedish-telecom": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Swedish telecom",
       "sv": "Televerket"
@@ -4522,6 +5710,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://researchdata.se/catalogue?principal=swedish-working-life-fund": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Swedish Working Life Fund",
       "sv": "Arbetslivsfonden"
@@ -4533,6 +5724,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://resources.stockholm.se/metadata#foaf/Stadsledningskontoret/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Stadsledningskontoret"
     },
@@ -4542,6 +5736,10 @@
     "same_as": []
   },
   "https://resources.stockholm.se/metadata#foaf/Stockholm+Vatten+och+Avfall/": {
+    "catalogue": [
+      "nsip-se",
+      "oppnadata"
+    ],
     "names": {
       "sv": "Stockholm Vatten och Avfall"
     },
@@ -4551,6 +5749,9 @@
     "same_as": []
   },
   "https://resources.stockholm.se/metadata#foaf/Stockholms+stad+-+Milj%C3%B6f%C3%B6rvaltningen/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Stockholms stad - Miljöförvaltningen"
     },
@@ -4560,6 +5761,9 @@
     "same_as": []
   },
   "https://ror.org/00ancw882": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://snd.se/",
     "names": {
       "en": "Swedish National Data Service",
@@ -4572,6 +5776,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://ror.org/00ws30h19": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.tmu.ac.jp/english/index.html",
     "names": {
       "en": "Tokyo Metropolitan University",
@@ -4584,6 +5791,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://ror.org/014w0fd65": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.ecmwf.int/",
     "names": {
       "en": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
@@ -4596,6 +5806,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://ror.org/01d0fc168": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.icos-ri.eu",
     "names": {
       "en": "Integrated Carbon Observation System",
@@ -4608,6 +5821,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://ror.org/01yhex183": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.gnm.se",
     "names": {
       "en": "Gothenburg Natural History Museum",
@@ -4620,6 +5836,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://ror.org/020m6x732": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://ocean.dmi.dk/english/",
     "names": {
       "en": "Danish Meteorological Institute",
@@ -4632,6 +5851,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://ror.org/0234bnr88": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.stationlinne.se",
     "names": {
       "en": "Station Linné",
@@ -4644,6 +5866,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://ror.org/024j9sx72": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.gmit.ie/",
     "names": {
       "en": "Galway-Mayo Institute of Technology",
@@ -4656,6 +5881,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://ror.org/030deh410": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.un-ihe.org/",
     "names": {
       "en": "IHE Delft Institute for Water Education",
@@ -4668,6 +5896,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://ror.org/033003e23": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.tuni.fi/en",
     "names": {
       "en": "University of Tampere",
@@ -4680,6 +5911,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://ror.org/04gjptv97": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://datahub.aida.scilifelab.se",
     "names": {
       "en": "AIDA Data Hub",
@@ -4692,6 +5926,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://ror.org/04q6d4d25": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.isvroma.it/",
     "names": {
       "en": "Swedish Institute in Rome",
@@ -4704,6 +5941,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://ror.org/051mrsz47": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.his.se/",
     "names": {
       "en": "University of Skövde",
@@ -4716,6 +5956,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://ror.org/05xg72x27": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://www.ntnu.edu",
     "names": {
       "en": "The Norwegian University of Science and Technology (NTNU)",
@@ -4728,6 +5971,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://stuns.entryscape.net/store/1/resource/1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://stunsenergi.se",
     "names": {
       "und": "STUNS Energi"
@@ -4740,6 +5986,9 @@
     "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
   },
   "https://stuns.entryscape.net/store/1/resource/399": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://uppsalaparkering.se/",
     "names": {
       "sv": "Uppsala Parkering"
@@ -4751,6 +6000,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://stuns.entryscape.net/store/1/resource/9": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "sv": "Region Uppsala"
     },
@@ -4761,6 +6013,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://teknikland.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://teknikland.se/",
     "names": {
       "sv": "Teknikland"
@@ -4772,6 +6027,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://teleseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://teleseum.se/",
     "names": {
       "sv": "Teleseum"
@@ -4783,6 +6041,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://vardbetyg.se/data/dcat.rdf#agent": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Vårdbetyg"
     },
@@ -4793,6 +6054,9 @@
     "type": "http://purl.org/adms/publishertype/PrivateIndividual(s)"
   },
   "https://varmlandsmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://varmlandsmuseum.se/",
     "names": {
       "sv": "Värmlands museum"
@@ -4804,6 +6068,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://vgregion.entryscape.net/store/7/resource/62": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.vastsverige.com/turistradet-vastsverige/",
     "names": {
       "sv": "Turistrådet Västsverige"
@@ -4815,6 +6082,9 @@
     "type": "http://purl.org/adms/publishertype/RegionalAuthority"
   },
   "https://webperf.se": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Webperf.se"
     },
@@ -4825,6 +6095,9 @@
     "type": "http://purl.org/adms/publishertype/NonGovernmentalOrganisation"
   },
   "https://www.adac.de/#organisation": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "ADAC e.V."
     },
@@ -4835,6 +6108,9 @@
     "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
   },
   "https://www.avropa.se/datasets/dcat#agent1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Kammarkollegiet - Statens inköpscentral - Avropa.se"
     },
@@ -4845,6 +6121,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.barnsakert.se/#organisation": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Barnsakert.se (Colombos AB)"
     },
@@ -4855,6 +6134,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "https://www.dalarnasmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.dalarnasmuseum.se/",
     "names": {
       "sv": "Dalarnas museum"
@@ -4866,6 +6148,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.engelholm.se": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.engelholm.se",
     "names": {
       "und": "Ängelholms kommun"
@@ -4878,6 +6163,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://www.gamlalinkoping.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.gamlalinkoping.se/",
     "names": {
       "sv": "Gamla Linköping"
@@ -4889,6 +6177,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.gbif.se": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.gbif.se",
     "names": {
       "en": "GBIF Sweden",
@@ -4901,6 +6192,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://www.geodata.se:/geodataportalen/organization/Jorbruksverket": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "en": "Swedish Board of Agriculture",
       "sv": "Jordbruksverket"
@@ -4911,6 +6205,9 @@
     "same_as": []
   },
   "https://www.health.go.ug/programs/aids-control-program/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.health.go.ug/programs/aids-control-program/",
     "names": {
       "en": "Uganda Ministry of Health, AIDS Control Program",
@@ -4923,6 +6220,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://www.jamtli.com/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.jamtli.com/",
     "names": {
       "sv": "Jamtli"
@@ -4934,6 +6234,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.jarnvagsmuseet.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.jarnvagsmuseet.se/",
     "names": {
       "sv": "Järnvägsmuseet"
@@ -4945,6 +6248,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.karin.adm.jegeros.se": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.karin.adm.jegeros.se",
     "names": {
       "und": "Karin .adm. Jegeros"
@@ -4956,6 +6262,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "https://www.katrineholm.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.katrineholm.se/",
     "names": {
       "und": "Katrineholms kommun"
@@ -4967,6 +6276,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://www.kulturen.com/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.kulturen.com/",
     "names": {
       "sv": "Kulturen"
@@ -4978,6 +6290,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.kulturen.com/samlingar/sok-i-samlingarna/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.kulturen.com/samlingar/sok-i-samlingarna/",
     "names": {
       "sv": "Region Skånes medicinhistoriska samlingar"
@@ -4989,6 +6304,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.linkoping.se/uppleva-och-gora/Arkiv/bild-linkoping/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.linkoping.se/uppleva-och-gora/Arkiv/bild-linkoping/",
     "names": {
       "sv": "Bild Linköping"
@@ -5000,6 +6318,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.marinmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.marinmuseum.se/",
     "names": {
       "sv": "Marinmuseum"
@@ -5011,6 +6332,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.metadata_geodataenheten_identifierare.se": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.metadata_geodataenheten_identifierare.se",
     "names": {
       "und": "Metadata_Geodataenheten_identifierare"
@@ -5022,6 +6346,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "https://www.nordiskamuseet.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.nordiskamuseet.se/",
     "names": {
       "sv": "Stiftelsen Nordiska museet"
@@ -5033,6 +6360,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.orebro.se": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://orebro.se",
     "names": {
       "und": "Örebro kommun"
@@ -5044,6 +6374,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://www.orebro.se/geodataenheten": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.orebro.se",
     "names": {
       "und": "Geodataenheten"
@@ -5055,6 +6388,9 @@
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
   },
   "https://www.qgisserverorebrokommunprojket.se": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.qgisserverorebrokommunprojket.se",
     "names": {
       "und": "QGIS-server Örebro kommun - Projket"
@@ -5066,6 +6402,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "https://www.sjohistoriska.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.sjohistoriska.se/",
     "names": {
       "sv": "Sjöhistoriska museet"
@@ -5077,6 +6416,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.slu.se/centrumbildningar-och-projekt/riksskogstaxeringen/statistik-om-skog/senaste-statistiken": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {},
     "roles": [
       "creator"
@@ -5084,6 +6426,9 @@
     "same_as": []
   },
   "https://www.slu.se/om-slu/organisation/institutioner/skoglig-resurshushallning/miljoanalys/riksskogstaxeringen/vara-data/senaste-statistiken": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.slu.se/om-slu/organisation/institutioner/skoglig-resurshushallning/miljoanalys/riksskogstaxeringen/vara-data/senaste-statistiken",
     "names": {
       "en": "The Swedish National Forest Inventory, Swedish University of Agricultural Sciences",
@@ -5095,6 +6440,9 @@
     "same_as": []
   },
   "https://www.smtm.se/museer-och-samlingar/arlanda-flygsamlingar": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.smtm.se/museer-och-samlingar/arlanda-flygsamlingar",
     "names": {
       "sv": "Arlanda flygsamlingar"
@@ -5106,6 +6454,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.smtm.se/museer-och-samlingar/vaghistoriska-samlingen": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.smtm.se/museer-och-samlingar/vaghistoriska-samlingen",
     "names": {
       "sv": "Väg- och trafikhistoriska samlingen"
@@ -5117,6 +6468,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.snusochtandsticksmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.snusochtandsticksmuseum.se/",
     "names": {
       "sv": "Snus- och Tändsticksmuseum"
@@ -5128,6 +6482,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.sormlandsmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.sormlandsmuseum.se/",
     "names": {
       "en": "Sörmland County Museum",
@@ -5140,6 +6497,9 @@
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "https://www.statskontoret.se/datasets/dcat#agent1": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Statskontoret"
     },
@@ -5150,6 +6510,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.trafiklab.se/sites/default/files/dcat/oxyfi_publisher.rdf": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://oxyfi.se",
     "names": {
       "und": "Oxyfi"
@@ -5161,6 +6524,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "https://www.trafiklab.se/sites/default/files/dcat/samtrafiken_publisher.rdf": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://samtrafiken.se",
     "names": {
       "und": "Samtrafiken"
@@ -5172,6 +6538,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "https://www.trafiklab.se/sites/default/files/dcat/sl_publisher.rdf": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "http://sl.se",
     "names": {
       "und": "SL"
@@ -5183,6 +6552,9 @@
     "type": "http://purl.org/adms/publishertype/Company"
   },
   "https://www.trelleborg.se/uppleva-gora/kultur/trelleborgs-museum/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.trelleborg.se/uppleva-gora/kultur/trelleborgs-museum/",
     "names": {
       "sv": "Trelleborgs museum"
@@ -5194,6 +6566,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.vanermuseet.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.vanermuseet.se/",
     "names": {
       "sv": "Vänermuseet"
@@ -5205,6 +6580,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.vasamuseet.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.vasamuseet.se/",
     "names": {
       "sv": "Vasamuseet"
@@ -5216,6 +6594,9 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.vastmanlandslansmuseum.se/": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "homepage": "https://www.vastmanlandslansmuseum.se/",
     "names": {
       "sv": "Västmanlands läns museum"
@@ -5226,7 +6607,670 @@
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
+  "mailto:aim-konsult@lfv.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Luftfartsverket"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:dalarna@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:data@naturvardsverket.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Naturvårdsverket"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:dataleveranser@smhi.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:datasetsadmin@trafikverket.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:fo-miljoskydd@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:fo-natur@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:fo.samhallsskydd.och.beredskap@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:folkhalsostudio@folkhalsomyndigheten.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Folkhälsomyndigheten"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:fysplan@mil.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:gavleborg@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:geoarkivet.expl@stockholm.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:geodata@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:geodata@raa.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:geodata@sgi.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Statens geotekniska institut"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:geodata@sosalarm.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:geodatasupport@lm.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Lantmäteriet"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:geografisk.information@trafikverket.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:gis.support@jordbruksverket.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:gotland@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:halland@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:havochvatten@havochvatten.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:info@geposit.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:info@postnummerservice.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:inspire@socialstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Socialstyrelsen"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:jamtland@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:johan.reuterham@lidingo.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Lidingö stad"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:jonkoping@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:kansli@sametinget.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:karta@botkyrka.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Botkyrka kommun"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:kartavdelningen@varmdo.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Värmdö kommun"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:kartor@skogsstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "creator",
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:klimatolog@smhi.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:kronoberg@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:kundservice@sgu.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Sveriges geologiska undersökning"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:lastkajen@trafikverket.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:lst-rb-externlstgissupport@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:mark.vatten.gis@scb.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Statistikmyndigheten SCB - Statistiska centralbyrån"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:mineinspect@bergsstaten.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Sveriges geologiska undersökning"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:nvdb@trafikverket.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Trafikverket"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:oceanograf@smhi.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:opendata-support@smhi.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:ostergotland@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:registrator.vss@ivo.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:registrator@mcf.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Myndigheten för civilt försvar"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:registrator@raa.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:registrator@ssm.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:registrator@svk.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Svenska Kraftnät"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:riksant@raa.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:riksskogstaxeringen@slu.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Sveriges lantbruksuniversitet"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:samhallsplanering@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:scb@scb.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:shark@smhi.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:skogsstyrelsen@skogsstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Skogsstyrelsen"
+    },
+    "roles": [
+      "creator",
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:skolenhetsregistret@skolverket.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:sma@sjofartsverket.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:support@geodata.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:tomas.lindberg@sgu.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Sveriges geologiska undersökning"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:trafikverket@trafikverket.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:uppdrag@scb.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {
+      "und": "Statistikmyndigheten SCB - Statistiska centralbyrån"
+    },
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:varmland@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
+  "mailto:vatten.miljomal@lansstyrelsen.se": {
+    "catalogue": [
+      "geodata-se"
+    ],
+    "names": {},
+    "roles": [
+      "rightsHolder"
+    ],
+    "same_as": []
+  },
   "urn:uuid:744d45fb-cb32-5ed5-14f3-104221f41d67": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Postnummerservice Norden AB"
     },
@@ -5236,6 +7280,9 @@
     "same_as": []
   },
   "urn:uuid:c9d77b91-0c61-e08e-2533-b7767b06687f": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Naturvardsverket"
     },
@@ -5245,6 +7292,9 @@
     "same_as": []
   },
   "urn:uuid:e9b4a9f5-d3fb-a480-8907-8b72a12c4796": {
+    "catalogue": [
+      "oppnadata"
+    ],
     "names": {
       "und": "Myndigheten för civilt försvar"
     },

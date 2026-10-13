@@ -100,7 +100,7 @@ The only hand file for organisations. Merged last, so it wins over every registe
 | path | what |
 |---|---|
 | `links/dataportal.json` | dataportal.se agent URI → organisation id, `null` when no number can be read from it |
-| `links/data-europa.json` | data.europa.eu publisher and creator URI → organisation id |
+| `links/data-europa.json` | data.europa.eu publisher, creator and rights-holder URI → organisation id, `null` when no number can be read from it; Geodataportalen's contacts appear as `mailto:` keys |
 | `links/wikidata.json` | Wikidata item → organisation id |
 | `snapshots/<register>.json` | the reduced result of the last successful fetch of each register. Committed so a build still runs when a register is down |
 | `dist/<product>.json`, `dist/<product>.csv` | the two product files in every published format: a copy of the JSON and a CSV with one row per record, same name, only the extension differs. Nested fields are dotted columns (`label.sv`), lists are `\|`-joined, and a list of objects gives one column per field with the items aligned by position. Derived from the JSON, so it changes exactly when the product does |
