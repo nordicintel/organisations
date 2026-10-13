@@ -1,0 +1,25 @@
+name: Probe statskontoret
+on: { workflow_dispatch: {} }
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          set +e
+          for ua in "nordicintel-organisations/0.1" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0 Safari/537.36"; do
+            echo "== UA: $ua"
+            curl -sS -m 40 -A "$ua" -o /tmp/p.html -w "page: %{http_code} %{content_type} %{size_download}\n" "https://www.statskontoret.se/analys-och-statistik/oppna-data/myndighetsforteckning/"
+            grep -o 'contentassets/[^"]*myndighetsforteckning[^"]*' /tmp/p.html | head -3
+            curl -sS -m 60 -A "$ua" -o /tmp/f.xlsx -w "xlsx: %{http_code} %{content_type} %{size_download}\n" "https://www.statskontoret.se/contentassets/bbd19bc969054c86bbc1aa757e7d5c85/statskontorets-myndighetsforteckning-2026.xlsx?v=8ded29d908c4780"
+            curl -sS -m 120 -A "$ua" -o /tmp/e.xlsx -w "export: %{http_code} %{content_type} %{size_download}\n" "https://www.statskontoret.se/kunskapsstod-och-regler/rapportering/myndighetsregistret/exportexcelallaarmyndigheter"
+          done
+          python3 - <<'PY'
+          import zipfile,re
+          for f in ("/tmp/f.xlsx","/tmp/e.xlsx"):
+              try:
+                  z=zipfile.ZipFile(f); wb=z.read("xl/workbook.xml").decode()
+                  print(f, re.findall(r'<sheet [^>]*name="([^"]+)"',wb)[:40])
+                  ss=z.read("xl/sharedStrings.xml").decode() if "xl/sharedStrings.xml" in z.namelist() else ""
+                  print("  first strings:", re.findall(r"<t[^>]*>([^<]{1,40})</t>",ss)[:30])
+              except Exception as e: print(f,"not a workbook:",e)
+          PY
