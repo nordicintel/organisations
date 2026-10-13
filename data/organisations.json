@@ -1014,7 +1014,7 @@
       "status": "active"
     },
     "SE2021001173": {
-      "department": "kulturdepartementet",
+      "department": "Utbildningsdepartementet",
       "email": "info@mucf.se",
       "established": "1975-01-01",
       "homepage": "https://www.mucf.se",
@@ -4206,7 +4206,7 @@
       "status": "active"
     },
     "SE2021004151": {
-      "department": "Näringsdepartementet",
+      "department": "Landsbygds- och infrastrukturdepartementet",
       "email": "jordbruksverket@jordbruksverket.se",
       "established": "1991-04-23",
       "homepage": "https://www.jordbruksverket.se",
@@ -7709,7 +7709,7 @@
       "department": "kulturdepartementet",
       "dissolved": "2024-01-01",
       "email": "registrator@statensmedierad.se",
-      "established": "2011-01-01",
+      "established": "2010-12-23",
       "homepage": "https://www.statensmedierad.se",
       "id": "SE2021006396",
       "identifiers": {
@@ -11769,8 +11769,8 @@
     },
     "SE2120000860": {
       "codes": {
-        "kommun": "1256",
-        "lan": "12"
+        "kommun": "1121",
+        "lan": "11"
       },
       "email": "kommun@ostragoinge.se",
       "established": "1974-01-01",
@@ -11801,8 +11801,8 @@
     },
     "SE2120000878": {
       "codes": {
-        "kommun": "1257",
-        "lan": "12"
+        "kommun": "1137",
+        "lan": "11"
       },
       "email": "kommunkontor@orkelljunga.se",
       "established": "1974-01-01",
@@ -11833,8 +11833,8 @@
     },
     "SE2120000886": {
       "codes": {
-        "kommun": "1270",
-        "lan": "12"
+        "kommun": "1160",
+        "lan": "11"
       },
       "email": "kommun@tomelilla.se",
       "established": "1974-01-01",
@@ -11968,8 +11968,8 @@
     },
     "SE2120000928": {
       "codes": {
-        "kommun": "1276",
-        "lan": "12"
+        "kommun": "1166",
+        "lan": "11"
       },
       "email": "kommun@klippan.se",
       "established": "1974-01-01",
@@ -12064,8 +12064,8 @@
     },
     "SE2120000951": {
       "codes": {
-        "kommun": "1290",
-        "lan": "12"
+        "kommun": "1180",
+        "lan": "11"
       },
       "established": "1974-01-01",
       "id": "SE2120000951",
@@ -12090,8 +12090,8 @@
     },
     "SE2120000969": {
       "codes": {
-        "kommun": "1291",
-        "lan": "12"
+        "kommun": "1181",
+        "lan": "11"
       },
       "email": "oppna.data@simrishamn.se",
       "established": "1974-01-01",
@@ -13713,8 +13713,8 @@
     },
     "SE2120001447": {
       "codes": {
-        "kommun": "1524",
-        "lan": "15"
+        "kommun": "1441",
+        "lan": "14"
       },
       "email": "susanne.hanzen@lerum.se",
       "established": "1974-01-01",
@@ -13809,8 +13809,8 @@
     },
     "SE2120001470": {
       "codes": {
-        "kommun": "1560",
-        "lan": "15"
+        "kommun": "1460",
+        "lan": "14"
       },
       "email": "kommun@bengtsfors.se",
       "established": "1975-01-01",
@@ -13841,8 +13841,8 @@
     },
     "SE2120001488": {
       "codes": {
-        "kommun": "1561",
-        "lan": "15"
+        "kommun": "1461",
+        "lan": "14"
       },
       "email": "kommunen@mellerud.se",
       "established": "1974-01-01",
@@ -13876,8 +13876,8 @@
     },
     "SE2120001496": {
       "codes": {
-        "kommun": "1562",
-        "lan": "15"
+        "kommun": "1462",
+        "lan": "14"
       },
       "email": "oppnadata@lillaedet.se",
       "established": "1974-01-01",
@@ -13915,8 +13915,8 @@
     },
     "SE2120001504": {
       "codes": {
-        "kommun": "1563",
-        "lan": "15"
+        "kommun": "1463",
+        "lan": "14"
       },
       "email": "markskommun@mark.se",
       "established": "1974-01-01",
@@ -14011,8 +14011,8 @@
     },
     "SE2120001538": {
       "codes": {
-        "kommun": "1580",
-        "lan": "15"
+        "kommun": "1487",
+        "lan": "14"
       },
       "email": "kommun@vanersborg.se",
       "established": "1974-01-01",
@@ -14082,8 +14082,8 @@
     },
     "SE2120001553": {
       "codes": {
-        "kommun": "1582",
-        "lan": "15"
+        "kommun": "1489",
+        "lan": "14"
       },
       "email": "felipe.verdu@alingsas.se",
       "established": "1975-01-01",
@@ -14121,8 +14121,8 @@
     },
     "SE2120001561": {
       "codes": {
-        "kommun": "1583",
-        "lan": "15"
+        "kommun": "1490",
+        "lan": "14"
       },
       "email": "strategisk.it@boras.se",
       "established": "1975-01-01",
@@ -14163,8 +14163,8 @@
     },
     "SE2120001579": {
       "codes": {
-        "kommun": "1584",
-        "lan": "15"
+        "kommun": "1491",
+        "lan": "14"
       },
       "email": "max.rademacher@ulricehamn.se",
       "established": "1974-01-01",
@@ -14234,8 +14234,8 @@
     },
     "SE2120001595": {
       "codes": {
-        "kommun": "1602",
-        "lan": "16"
+        "kommun": "1444",
+        "lan": "14"
       },
       "email": "kommun@grastorp.se",
       "established": "1974-01-01",
@@ -14378,8 +14378,8 @@
     },
     "SE2120001637": {
       "codes": {
-        "kommun": "1643",
-        "lan": "16"
+        "kommun": "1447",
+        "lan": "14"
       },
       "email": "info@gullspang.se",
       "established": "1974-01-01",
@@ -14456,8 +14456,8 @@
     },
     "SE2120001660": {
       "codes": {
-        "kommun": "1662",
-        "lan": "16"
+        "kommun": "1472",
+        "lan": "14"
       },
       "email": "kommun@tibro.se",
       "established": "1974-01-01",
@@ -14573,8 +14573,8 @@
     },
     "SE2120001694": {
       "codes": {
-        "kommun": "1681",
-        "lan": "16"
+        "kommun": "1494",
+        "lan": "14"
       },
       "email": "kommun@lidkoping.se",
       "established": "1974-01-01",
@@ -14690,8 +14690,8 @@
     },
     "SE2120001728": {
       "codes": {
-        "kommun": "1684",
-        "lan": "16"
+        "kommun": "1497",
+        "lan": "14"
       },
       "email": "kommunen@hjo.se",
       "established": "1974-01-01",
@@ -14730,8 +14730,8 @@
     },
     "SE2120001736": {
       "codes": {
-        "kommun": "1685",
-        "lan": "16"
+        "kommun": "1498",
+        "lan": "14"
       },
       "email": "tidaholms.kommun@tidaholm.se",
       "established": "1974-01-01",
@@ -14769,8 +14769,8 @@
     },
     "SE2120001744": {
       "codes": {
-        "kommun": "1686",
-        "lan": "16"
+        "kommun": "1499",
+        "lan": "14"
       },
       "email": "kommunen@falkoping.se",
       "established": "1974-01-01",
@@ -18678,8 +18678,8 @@
     },
     "SE2120002973": {
       "codes": {
-        "kommun": "1535",
-        "lan": "15"
+        "kommun": "1443",
+        "lan": "14"
       },
       "email": "kommunen@bollebygd.se",
       "established": "1994-12-10",

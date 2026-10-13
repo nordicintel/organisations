@@ -36,8 +36,8 @@ def fetch(cache: Path):
             qid = r["item"]["value"].rsplit("/", 1)[-1]
             rec = items.setdefault(qid, {"kind": kind, "label": r["label"]["value"], "replaced_by": []})
             for k in ("orgnr", "kommunkod", "inception", "dissolved", "department", "riksarkivet"):
-                if k in r and k not in rec:
-                    rec[k] = r[k]["value"]
+                if k in r:  # several statements may exist; keep the smallest for a stable build
+                    rec[k] = min(filter(None, [rec.get(k), r[k]["value"]]))
             if "replacedBy" in r:
                 rec["replaced_by"].append(r["replacedBy"]["value"].rsplit("/", 1)[-1])
             if rec.get("orgnr"):
