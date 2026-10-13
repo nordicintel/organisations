@@ -34,7 +34,7 @@
                                   "dataportal": {"type": "string", "format": "uri", "description": "http://dataportal.se/organisation/SE<orgnr>[-suffix]; data.europa.eu reuses it."},
                                   "wikidata": {"type": "string", "pattern": "^Q\\d+$"}, "ror": {"type": "string"}, "riksarkivet": {"type": "string"}}},
     "same_as": {"type": "array", "items": {"type": "string", "format": "uri"}, "description": "Other URIs the portals use for this organisation: spelling variants, source-catalogue agent URIs, owl:sameAs targets."},
-    "source": {"type": "array", "items": {"type": "string", "enum": ["scb_bulk", "myndighetsregistret", "dataportal", "data_europa", "wikidata", "edits"]}, "description": "Registers and edits that contributed."},
+    "source": {"type": "array", "items": {"type": "string", "enum": ["scb_bulk", "myndighetsregistret", "statskontoret", "dataportal", "data_europa", "wikidata", "edits"]}, "description": "Registers and edits that contributed."},
     "note": {"type": "string", "description": "Free-text remark from edits."}
   }
 }

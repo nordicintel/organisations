@@ -21,6 +21,7 @@ in `schema/`.
 |---|---|
 | [SCB bulk file](https://vardefulla-datamangder.bolagsverket.se/scb/scb_bulkfil.zip), hosted by Bolagsverket, weekly | every legal unit: organisationsnummer, registered name, legal type, status. Public bodies are kept whole; other units when another source or an edit mentions them |
 | [Myndighetsregistret](https://myndighetsregistret.scb.se/) | state bodies by group, SFS, email, web. Courts share Domstolsverket's number |
+| [Statskontoret](https://www.statskontoret.se/kunskapsstod-och-regler/rapportering/myndighetsregistret/) | state bodies every year since 1999: earlier names as aliases, and which body a wound-up one went into |
 | [dataportal.se](https://admin.dataportal.se/) registry and SPARQL | canonical portal URIs, publisher type, homepage, email, `owl:sameAs` |
 | [data.europa.eu SPARQL](https://data.europa.eu/sparql) | publisher and creator URIs of the Swedish catalogue, identifiers, types |
 | [Wikidata](https://query.wikidata.org/) | English names, kommun and län codes, department, dates, succession |

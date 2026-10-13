@@ -18,17 +18,17 @@ The fields, in the order you will use them:
 | field | meaning | from |
 |---|---|---|
 | `id` | `SE` + organisationsnummer; `SE…-LST` style for dataportal.se's agreed suffixes; `wikidata:Q…` for bodies with no Swedish number | registers, edits |
-| `label` | official name by language, `sv` always, `en` where published | dataportal, Myndighetsregistret, Wikidata, edits |
+| `label` | official name by language, `sv` always, `en` where published | dataportal, Myndighetsregistret, Statskontoret, Wikidata, edits |
 | `registered_label` | the name exactly as registered with SCB | SCB bulk file |
 | `slug` | our short code; one per organisation | edits |
-| `alias` | strings seen in source metadata that mean this organisation | edits |
+| `alias` | strings seen in source metadata that mean this organisation, and every earlier name of a state body | Statskontoret, edits |
 | `status` | `active`, `deregistered`, `unknown` | SCB, Wikidata |
 | `type` | ADMS publisher type, the vocabulary both data portals use | legal type, dataportal, edits |
 | `legal_type` | Skatteverket's two-digit juridisk form with label; the authority for what a body is | SCB |
 | `state_body_group`, `sfs`, `department` | state bodies only | Myndighetsregistret, Wikidata |
 | `code` | `kommun` and `lan` codes for municipalities | Wikidata |
 | `homepage`, `email` | | dataportal, Myndighetsregistret |
-| `established`, `dissolved`, `succeeded_by` | history; `succeeded_by` lists organisation ids | SCB, Wikidata |
+| `established`, `dissolved`, `succeeded_by` | history; `succeeded_by` lists organisation ids | SCB, Wikidata, Statskontoret |
 | `part_of` | parent id, e.g. the base number behind a suffixed id | derived |
 | `identifier` | one canonical value per external system: `orgnr`, `dataportal`, `wikidata`, `ror`, `riksarkivet` | registers |
 | `same_as` | every other URI the portals use for the same organisation | portals, edits |

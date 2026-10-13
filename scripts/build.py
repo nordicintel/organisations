@@ -8,6 +8,7 @@ fetched, the committed snapshot is used instead and the report says so. One
 register failing never stops the build.
 """
 import argparse
+import difflib
 import json
 import re
 import sys
@@ -17,7 +18,7 @@ from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
-from sources import data_europa, dataportal, myndighetsregistret, scb_bulk, wikidata  # noqa: E402
+from sources import data_europa, dataportal, myndighetsregistret, scb_bulk, statskontoret, wikidata  # noqa: E402
 from sources.common import org_id, orgnr  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -30,7 +31,8 @@ LEGAL_TYPE_TO_TYPE = {
     "61": "NonProfitOrganisation", "63": "NonProfitOrganisation", "71": "NonProfitOrganisation",
     "72": "NonProfitOrganisation", "93": "Company", "95": "NonProfitOrganisation",
 }
-LABEL_PRIORITY = {"edits": 0, "dataportal": 1, "myndighetsregistret": 2, "wikidata": 3, "data_europa": 4, "scb_bulk": 5}
+LABEL_PRIORITY = {"edits": 0, "dataportal": 1, "myndighetsregistret": 2, "statskontoret": 3, "wikidata": 4,
+                  "data_europa": 5, "scb_bulk": 6}
 
 
 def dump(path, value):
@@ -86,8 +88,9 @@ def main():
     europa = fetch("data_europa", lambda: data_europa.fetch(cache), registers)
     wd = fetch("wikidata", lambda: wikidata.fetch(cache), registers)
     state = fetch("myndighetsregistret", lambda: myndighetsregistret.fetch(cache), registers)
+    history = fetch("statskontoret", lambda: statskontoret.fetch(cache), registers)
 
-    wanted = set(state)
+    wanted = set(state) | {n for entry in history.values() for n in entry["orgnr"]}
     for uri, row in list(portal.get("registry", {}).items()) + list(portal.get("publishers", {}).items()) + list(europa.items()):
         for value in (uri, row.get("identifier")):
             if (n := orgnr(value)):
@@ -105,6 +108,11 @@ def main():
     def label(r, lang, value, source):
         if value:
             labels.setdefault(r["id"], {}).setdefault(lang, []).append((LABEL_PRIORITY[source], value))
+
+    def alias(r, *values):
+        merged = set(r.get("alias", [])) | {v for v in values if v}
+        if merged:
+            r["alias"] = sorted(merged, key=lambda v: (v.casefold(), v))
 
     def same_as(r, *uris):
         own = canonical(r["identifier"]["orgnr"], r["id"][12:]) if "orgnr" in r["identifier"] else None
@@ -135,6 +143,29 @@ def main():
         if row["email"]:
             r.setdefault("email", row["email"])
         r["source"].append("myndighetsregistret")
+
+    # Statskontoret: every name an agency has carried, and where a wound-up agency went.
+    by_name, latest_name = {}, {}
+    for lopnr, entry in history.items():
+        for name in entry["name"].values():
+            by_name[name.casefold()] = lopnr
+    for lopnr, entry in history.items():
+        latest = entry["name"][max(entry["name"])]
+        for number in entry["orgnr"]:
+            r = rec(number)
+            label(r, "sv", latest, "statskontoret")
+            alias(r, *(n for n in entry["name"].values() if n != latest))
+            latest_name[r["id"]] = latest
+            r["source"].append("statskontoret")
+        if not entry["successor"] or not entry["orgnr"]:
+            continue
+        key = entry["successor"].casefold()
+        match = key if key in by_name else next(iter(difflib.get_close_matches(key, by_name, 1, 0.88)), None)
+        heirs = [n for n in history[by_name[match]]["orgnr"] if n not in entry["orgnr"]] if match else []
+        for number in entry["orgnr"]:
+            r = rec(number)
+            if heirs:
+                r["succeeded_by"] = sorted(set(r.get("succeeded_by", [])) | {org_id(n) for n in heirs})
 
     links_portal, links_europa, links_wd = {}, {}, {}
     for uri, row in portal.get("registry", {}).items():
@@ -222,7 +253,7 @@ def main():
                     links_europa[uri] = key
                     links_portal.setdefault(uri, key)
             elif field == "alias":
-                r["alias"] = sorted(set(value), key=lambda v: (v.casefold(), v))
+                alias(r, *value)
             else:
                 r[field] = value
         r["source"].append("edits")
@@ -233,6 +264,8 @@ def main():
             r["label"].setdefault(lang, min(candidates)[1])
         if not r["label"]:
             r["label"]["sv"] = r.get("registered_label") or r["id"]
+        if r["id"] in latest_name and latest_name[r["id"]] not in r["label"].values():
+            alias(r, latest_name[r["id"]])
         if "-" in r["id"] and "part_of" not in r:
             r["part_of"] = r["id"].split("-")[0]
 
