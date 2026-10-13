@@ -7,7 +7,7 @@ import io
 import zipfile
 from pathlib import Path
 
-from .common import cached, http
+from .common import cached, http, skip
 
 URL = "https://vardefulla-datamangder.bolagsverket.se/scb/scb_bulkfil.zip"
 PUBLIC_FORMS = {"81", "82", "83", "84", "85", "87", "88", "89"}
@@ -32,26 +32,25 @@ def fetch(cache: Path, wanted=frozenset()):
         with z.open(name) as raw:
             reader = csv.DictReader(io.TextIOWrapper(raw, encoding="cp1252", newline=""), delimiter="\t")
             for r in reader:
-                pe = (r.get("PeOrgNr") or "").strip()
-                if len(pe) != 12 or not pe.startswith("16"):
-                    continue  # sole traders and other personal identities are out of scope
-                number = pe[2:]
-                form = (r.get("JurForm") or "").strip()
-                if form not in PUBLIC_FORMS and number not in wanted:
-                    continue
-                rows[number] = {
-                    "name": (r.get("Namn") or r.get("Foretagsnamn") or "").strip(),
-                    "legal_form": form,
-                    "ftgstat": (r.get("FtgStat") or "").strip(),
-                    "jestat": (r.get("JEStat") or "").strip(),
-                    "registered": _iso((r.get("RegDatKtid") or "").strip()),
-                    "postort": (r.get("PostOrt") or "").strip(),
-                }
+                try:
+                    pe = (r.get("PeOrgNr") or "").strip()
+                    if len(pe) != 12 or not pe.startswith("16"):
+                        continue  # sole traders and other personal identities are out of scope
+                    number = pe[2:]
+                    form = (r.get("JurForm") or "").strip()
+                    if form not in PUBLIC_FORMS and number not in wanted:
+                        continue
+                    rows[number] = {
+                        "name": (r.get("Namn") or r.get("Foretagsnamn") or "").strip(),
+                        "legal_form": form,
+                        "ftgstat": (r.get("FtgStat") or "").strip(),
+                        "jestat": (r.get("JEStat") or "").strip(),
+                        "registered": _iso((r.get("RegDatKtid") or "").strip()),
+                        "postort": (r.get("PostOrt") or "").strip(),
+                    }
+                except Exception as error:  # noqa: BLE001
+                    skip("scb_bulk", r, error)
     return rows
-
-
-def _iso(value):
-    return f"{value[:4]}-{value[4:6]}-{value[6:8]}" if len(value) == 8 and value.isdigit() else value
 
 
 def _iso(value):

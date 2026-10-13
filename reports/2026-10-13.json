@@ -1,6 +1,6 @@
 {
   "added": [],
-  "changed": 6,
+  "changed": 389,
   "count": 1037,
   "date": "2026-10-13",
   "legal_type": {
@@ -41,9 +41,8 @@
       "status": "fetched"
     },
     "wikidata": {
-      "error": "HTTP Error 504: Gateway Timeout",
       "rows": 718,
-      "status": "stale"
+      "status": "fetched"
     }
   },
   "removed": []

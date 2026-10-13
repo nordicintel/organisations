@@ -3,7 +3,7 @@ import json
 import urllib.parse
 from pathlib import Path
 
-from .common import cached, http, sparql
+from .common import cached, http, skip, sparql
 
 STORE = "https://admin.dataportal.se/store"
 SPARQL = "https://admin.dataportal.se/sparql"
@@ -38,20 +38,23 @@ def fetch_registry(cache: Path):
         data = json.loads(path.read_text(encoding="utf-8"))
         resources = data.get("resource", {}).get("children", [])
         for entry in resources:
-            uri = entry.get("info", {}).get(f"{STORE}/{CTX}/entry/{entry['entryId']}", {}) \
-                .get("http://entrystore.org/terms/resource", [{}])[0].get("value")
-            md = entry.get("metadata", {})
-            if not uri or uri not in md:
-                continue
-            names = {lang or "sv": v for v, lang in _values(md, uri, P["name"]) if v}
-            orgs[uri] = {
-                "names": names,
-                "identifier": next((v for v, _ in _values(md, uri, P["identifier"])), None),
-                "type": next((v.rsplit("/", 1)[-1] for v, _ in _values(md, uri, P["type"])), None),
-                "homepage": next((v for v, _ in _values(md, uri, P["homepage"]) + _values(md, uri, P["page"])), None),
-                "email": next((v.replace("mailto:", "") for v, _ in _values(md, uri, P["mbox"])), None),
-                "same_as": [v for v, _ in _values(md, uri, P["sameAs"])],
-            }
+            try:
+                uri = entry.get("info", {}).get(f"{STORE}/{CTX}/entry/{entry['entryId']}", {}) \
+                    .get("http://entrystore.org/terms/resource", [{}])[0].get("value")
+                md = entry.get("metadata", {})
+                if not uri or uri not in md:
+                    continue
+                names = {lang or "sv": v for v, lang in _values(md, uri, P["name"]) if v}
+                orgs[uri] = {
+                    "names": names,
+                    "identifier": next((v for v, _ in _values(md, uri, P["identifier"])), None),
+                    "type": next((v.rsplit("/", 1)[-1] for v, _ in _values(md, uri, P["type"])), None),
+                    "homepage": next((v for v, _ in _values(md, uri, P["homepage"]) + _values(md, uri, P["page"])), None),
+                    "email": next((v.replace("mailto:", "") for v, _ in _values(md, uri, P["mbox"])), None),
+                    "same_as": [v for v, _ in _values(md, uri, P["sameAs"])],
+                }
+            except Exception as error:  # noqa: BLE001
+                skip("dataportal registry", entry, error)
         if len(resources) < 100 or offset >= 5000:
             break
         offset += 100
@@ -69,9 +72,13 @@ GROUP BY ?uri
 def fetch_publishers(cache: Path):
     path = cached(cache, "dataportal_publishers.json",
                   lambda: json.dumps(sparql(SPARQL, PUBLISHERS_Q)).encode())
-    rows = json.loads(path.read_text(encoding="utf-8"))
-    return {r["uri"]["value"]: {k: r[k]["value"] for k in ("name", "identifier", "type") if k in r}
-            for r in rows}
+    out = {}
+    for r in json.loads(path.read_text(encoding="utf-8")):
+        try:
+            out[r["uri"]["value"]] = {k: r[k]["value"] for k in ("name", "identifier", "type") if k in r}
+        except Exception as error:  # noqa: BLE001
+            skip("dataportal publishers", r, error)
+    return out
 
 
 def fetch(cache: Path):

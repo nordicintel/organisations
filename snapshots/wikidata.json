@@ -4,6 +4,7 @@
     "kind": "myndighet",
     "label": "Nämnden för prövning av oredlighet i forskning",
     "label_en": "The Swedish National Board for Assessment of Research Misconduct",
+    "names": [],
     "orgnr": "2021006933",
     "replaced_by": []
   },
@@ -12,6 +13,7 @@
     "kind": "myndighet",
     "label": "Alkoholsortimentsnämnden",
     "label_en": "Alcoholic Beverages Product Range Board",
+    "names": [],
     "orgnr": "2021005943",
     "replaced_by": []
   },
@@ -19,6 +21,7 @@
     "department": "Näringsdepartementet",
     "kind": "myndighet",
     "label": "Ansvarsnämnden för djurens hälso- och sjukvård",
+    "names": [],
     "orgnr": "2021006834",
     "replaced_by": []
   },
@@ -28,6 +31,7 @@
     "kind": "myndighet",
     "label": "Arbetsgivarverket",
     "label_en": "Swedish Agency for Government Employers",
+    "names": [],
     "orgnr": "2021003476",
     "replaced_by": []
   },
@@ -37,12 +41,14 @@
     "kind": "myndighet",
     "label": "Arbetslivsinstitutet",
     "label_en": "National Institute for Working Life",
+    "names": [],
     "replaced_by": []
   },
   "Q10416973": {
     "dissolved": "2008-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Arbetsmarknadsverket",
+    "names": [],
     "replaced_by": [
       "Q3440237"
     ]
@@ -53,6 +59,7 @@
     "kind": "myndighet",
     "label": "Arbetsmiljöverket",
     "label_en": "Swedish Work Environment Authority",
+    "names": [],
     "orgnr": "2021002148",
     "replaced_by": []
   },
@@ -60,6 +67,7 @@
     "dissolved": "2008-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Avvecklingsmyndigheten för Integrationsverket",
+    "names": [],
     "replaced_by": []
   },
   "Q10426065": {
@@ -68,6 +76,7 @@
     "kind": "myndighet",
     "label": "Bankinspektionen",
     "label_en": "Bankinspektionen",
+    "names": [],
     "replaced_by": []
   },
   "Q10432198": {
@@ -75,6 +84,7 @@
     "kind": "myndighet",
     "label": "Bokföringsnämnden",
     "label_en": "Swedish Accounting Standards Board",
+    "names": [],
     "orgnr": "2021003278",
     "replaced_by": []
   },
@@ -84,6 +94,9 @@
     "kind": "myndighet",
     "label": "Brottsförebyggande rådet",
     "label_en": "Swedish National Council for Crime Prevention",
+    "names": [
+      "BRÅ"
+    ],
     "orgnr": "2021000068",
     "replaced_by": []
   },
@@ -94,6 +107,9 @@
     "kommunkod": "2409",
     "label": "Bygdeå kommun",
     "label_en": "Bygdeå municipality",
+    "names": [
+      "Bygdeå landskommun"
+    ],
     "replaced_by": [
       "Q507670"
     ]
@@ -103,6 +119,7 @@
     "kind": "myndighet",
     "label": "Centrala djurförsöksetiska nämnden",
     "label_en": "Swedish National board on research animal ethics",
+    "names": [],
     "orgnr": "2021006909",
     "replaced_by": []
   },
@@ -111,6 +128,7 @@
     "inception": "1907-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Centralanstalten för försöksväsendet på jordbruksområdet",
+    "names": [],
     "replaced_by": []
   },
   "Q10474991": {
@@ -119,6 +137,7 @@
     "kind": "myndighet",
     "label": "Djurskyddsmyndigheten",
     "label_en": "Swedish Animal Welfare Agency",
+    "names": [],
     "replaced_by": []
   },
   "Q10475766": {
@@ -126,6 +145,7 @@
     "kind": "myndighet",
     "label": "Domarnämnden",
     "label_en": "Judges Proposals Board",
+    "names": [],
     "orgnr": "2021006081",
     "replaced_by": []
   },
@@ -134,6 +154,7 @@
     "inception": "2011-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "E-legitimationsnämnden",
+    "names": [],
     "replaced_by": []
   },
   "Q10482004": {
@@ -142,6 +163,7 @@
     "kind": "myndighet",
     "label": "Elsäkerhetsverket",
     "label_en": "National Electrical Safety Board",
+    "names": [],
     "orgnr": "2021004466",
     "replaced_by": []
   },
@@ -150,6 +172,9 @@
     "kind": "myndighet",
     "label": "Energimyndigheten",
     "label_en": "Swedish Energy Agency",
+    "names": [
+      "Statens energimyndighet"
+    ],
     "orgnr": "2021005000",
     "replaced_by": []
   },
@@ -158,6 +183,9 @@
     "kind": "myndighet",
     "label": "Energimarknadsinspektionen",
     "label_en": "Swedish Energy Markets Inspectorate",
+    "names": [
+      "Ei"
+    ],
     "orgnr": "2021005695",
     "replaced_by": []
   },
@@ -167,6 +195,9 @@
     "kind": "myndighet",
     "label": "Alkoholinspektionen",
     "label_en": "The National Alcohol Board",
+    "names": [
+      "AI"
+    ],
     "replaced_by": [
       "Q1252909"
     ]
@@ -176,6 +207,7 @@
     "kind": "myndighet",
     "label": "Fideikommissnämnden",
     "label_en": "Fideikommissnämnden",
+    "names": [],
     "orgnr": "2021000043",
     "replaced_by": []
   },
@@ -186,6 +218,7 @@
     "kind": "myndighet",
     "label": "Fiskeriverket",
     "label_en": "National Board of Fisheries",
+    "names": [],
     "replaced_by": []
   },
   "Q10497097": {
@@ -194,6 +227,7 @@
     "kind": "myndighet",
     "label": "Flygplatsnämnden",
     "label_en": "Swedish airport board",
+    "names": [],
     "replaced_by": []
   },
   "Q10497113": {
@@ -202,6 +236,9 @@
     "kind": "myndighet",
     "label": "Flygtekniska försöksanstalten",
     "label_en": "National Aeronautical Research Institute",
+    "names": [
+      "FFA"
+    ],
     "replaced_by": []
   },
   "Q10497349": {
@@ -210,6 +247,7 @@
     "kind": "myndighet",
     "label": "Folke Bernadotteakademin",
     "label_en": "Folke Bernadotte Academy",
+    "names": [],
     "orgnr": "2021005380",
     "replaced_by": []
   },
@@ -219,6 +257,9 @@
     "kind": "myndighet",
     "label": "Forskningsrådet för miljö, areella näringar och samhällsbyggande",
     "label_en": "Formas",
+    "names": [
+      "Formas"
+    ],
     "orgnr": "2021005232",
     "replaced_by": []
   },
@@ -228,6 +269,9 @@
     "kind": "kommun",
     "kommunkod": "2301",
     "label": "Fors kommun",
+    "names": [
+      "Fors landskommun, Jämtland"
+    ],
     "replaced_by": [
       "Q515342"
     ]
@@ -237,6 +281,7 @@
     "kind": "myndighet",
     "label": "Forskarskattenämnden",
     "label_en": "The Taxation of Research Workers Board",
+    "names": [],
     "orgnr": "2021005893",
     "replaced_by": []
   },
@@ -246,6 +291,9 @@
     "kind": "myndighet",
     "label": "Försvarets forskningsanstalt",
     "label_en": "Swedish National Defence Research Institute",
+    "names": [
+      "FOA"
+    ],
     "replaced_by": []
   },
   "Q10501643": {
@@ -253,6 +301,7 @@
     "inception": "1903-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Försäkringsinspektionen",
+    "names": [],
     "replaced_by": []
   },
   "Q10503899": {
@@ -260,6 +309,7 @@
     "kind": "myndighet",
     "label": "Gentekniknämnden",
     "label_en": "Swedish Gene Technology Advisory Board",
+    "names": [],
     "orgnr": "2021004813",
     "replaced_by": []
   },
@@ -269,6 +319,7 @@
     "kind": "myndighet",
     "label": "Glesbygdsverket",
     "label_en": "National Rural Development Agency",
+    "names": [],
     "replaced_by": []
   },
   "Q10507694": {
@@ -276,6 +327,7 @@
     "inception": "1863-01-01T00:00:00Z",
     "kind": "region",
     "label": "Gotlands läns landsting",
+    "names": [],
     "replaced_by": []
   },
   "Q10511124": {
@@ -285,6 +337,9 @@
     "kommunkod": "1711",
     "label": "Gustav Adolfs kommun",
     "label_en": "Gustav Adolf Muncipiality",
+    "names": [
+      "Gustav Adolfs landskommun, Värmland"
+    ],
     "replaced_by": [
       "Q511407"
     ]
@@ -295,6 +350,10 @@
     "kind": "myndighet",
     "label": "Havs- och vattenmyndigheten",
     "label_en": "Swedish Agency for Marine and Water Management",
+    "names": [
+      "HaV",
+      "Havs- och Vattenmyndigheten"
+    ],
     "orgnr": "2021006420",
     "replaced_by": []
   },
@@ -304,6 +363,9 @@
     "kind": "myndighet",
     "label": "Humanistisk-samhällsvetenskapliga forskningsrådet",
     "label_en": "Council for Research in the Humanities and Social Sciences",
+    "names": [
+      "HSFR"
+    ],
     "replaced_by": []
   },
   "Q10531505": {
@@ -312,6 +374,9 @@
     "kind": "myndighet",
     "label": "Hälso- och sjukvårdens ansvarsnämnd",
     "label_en": "Medical Responsibility Board",
+    "names": [
+      "Hälso- & sjukvårdens ansvarsnämnd"
+    ],
     "orgnr": "2021003765",
     "replaced_by": []
   },
@@ -320,6 +385,7 @@
     "kind": "myndighet",
     "label": "Inspektionen för arbetslöshetsförsäkringen",
     "label_en": "The Swedish Unemployment Insurance Inspectorate",
+    "names": [],
     "orgnr": "2021005414",
     "replaced_by": []
   },
@@ -329,6 +395,9 @@
     "kind": "myndighet",
     "label": "Inspektionen för vård och omsorg",
     "label_en": "Health and Social Care Inspectorate",
+    "names": [
+      "IVO"
+    ],
     "orgnr": "2021006537",
     "replaced_by": []
   },
@@ -337,6 +406,7 @@
     "kind": "myndighet",
     "label": "Inspektionen för socialförsäkringen",
     "label_en": "Swedish Social Insurance Inspectorate",
+    "names": [],
     "orgnr": "2021006248",
     "replaced_by": []
   },
@@ -345,6 +415,10 @@
     "kind": "myndighet",
     "label": "Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
     "label_en": "Institute for Evaluation of Labour Market and Education Policy",
+    "names": [
+      "IFAU",
+      "Institutet för arbetsmarknadspolitisk utvärdering"
+    ],
     "orgnr": "2021004946",
     "replaced_by": []
   },
@@ -354,6 +428,9 @@
     "kind": "myndighet",
     "label": "Institutet för psykosocial medicin",
     "label_en": "National Institute for Psychosocial Medicine",
+    "names": [
+      "Statens institut för psykosocial miljömedicin"
+    ],
     "replaced_by": []
   },
   "Q10536085": {
@@ -362,6 +439,7 @@
     "kind": "myndighet",
     "label": "Institutet för tillväxtpolitiska studier",
     "label_en": "Swedish Institute for Growth Policy Studies",
+    "names": [],
     "replaced_by": []
   },
   "Q10536086": {
@@ -370,6 +448,7 @@
     "kind": "myndighet",
     "label": "Institutet för utvärdering av internationellt utvecklingssamarbete",
     "label_en": "The Swedish Agency for Development Evaluation",
+    "names": [],
     "replaced_by": []
   },
   "Q10536128": {
@@ -378,6 +457,7 @@
     "kind": "myndighet",
     "label": "Insättningsgarantinämnden",
     "label_en": "Deposit Guarantee Board",
+    "names": [],
     "replaced_by": []
   },
   "Q10536287": {
@@ -386,6 +466,7 @@
     "kind": "myndighet",
     "label": "Internationella programkontoret för utbildningsområdet",
     "label_en": "International Programme Office for Education and Training",
+    "names": [],
     "replaced_by": []
   },
   "Q10541685": {
@@ -394,6 +475,7 @@
     "kind": "myndighet",
     "label": "Jämställdhetsnämnden",
     "label_en": "The Equal Opportunities Commission",
+    "names": [],
     "replaced_by": []
   },
   "Q10541927": {
@@ -402,6 +484,7 @@
     "kind": "myndighet",
     "label": "Järnvägsstyrelsen",
     "label_en": "The Swedish Rail Agency",
+    "names": [],
     "replaced_by": []
   },
   "Q10544771": {
@@ -409,6 +492,7 @@
     "kind": "myndighet",
     "label": "Kemikalieinspektionen",
     "label_en": "Swedish Chemicals Agency",
+    "names": [],
     "orgnr": "2021003880",
     "replaced_by": []
   },
@@ -418,6 +502,7 @@
     "kind": "myndighet",
     "label": "Kommerskollegium",
     "label_en": "National Board of Trade",
+    "names": [],
     "orgnr": "2021002007",
     "replaced_by": []
   },
@@ -427,6 +512,10 @@
     "kind": "myndighet",
     "label": "Kompetensrådet för utveckling i staten",
     "label_en": "Kompetensrådet för utveckling i staten",
+    "names": [
+      "KRUS",
+      "Kompetensråd för utveckling i staten"
+    ],
     "replaced_by": [],
     "riksarkivet": "agent/zs2PowaY5QB7n4KWBVkC55"
   },
@@ -435,6 +524,7 @@
     "kind": "myndighet",
     "label": "Konstnärsnämnden",
     "label_en": "Swedish Arts Grants Committee",
+    "names": [],
     "orgnr": "2021003252",
     "replaced_by": []
   },
@@ -442,6 +532,7 @@
     "department": "Finansdepartementet",
     "kind": "myndighet",
     "label": "Krigsförsäkringsnämnden",
+    "names": [],
     "orgnr": "2021005810",
     "replaced_by": []
   },
@@ -451,6 +542,7 @@
     "kind": "myndighet",
     "label": "Krisberedskapsmyndigheten",
     "label_en": "Swedish Emergency Management Agency",
+    "names": [],
     "replaced_by": [
       "Q3430725"
     ]
@@ -462,6 +554,9 @@
     "kommunkod": "1140",
     "label": "Kvidinge kommun",
     "label_en": "Kvidinge municipality",
+    "names": [
+      "Kvidinge landskommun"
+    ],
     "replaced_by": [
       "Q201813"
     ]
@@ -471,6 +566,7 @@
     "kind": "myndighet",
     "label": "Kärnavfallsfonden",
     "label_en": "Nuclear Waste Fund",
+    "names": [],
     "orgnr": "2021004904",
     "replaced_by": []
   },
@@ -480,6 +576,9 @@
     "kind": "myndighet",
     "label": "Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet",
     "label_en": "Royal Armoury and Skokloster Castle with Foundation of Hallwyl Museum",
+    "names": [
+      "LSH museet"
+    ],
     "replaced_by": []
   },
   "Q10568238": {
@@ -487,6 +586,7 @@
     "inception": "1999-07-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Livsmedelsekonomiska institutet",
+    "names": [],
     "replaced_by": []
   },
   "Q10569896": {
@@ -494,6 +594,9 @@
     "kind": "myndighet",
     "label": "Spelinspektionen",
     "label_en": "Spelinspektionen",
+    "names": [
+      "Lotteriinspektionen"
+    ],
     "orgnr": "2021003310",
     "replaced_by": []
   },
@@ -502,6 +605,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Östergötlands län",
     "label_en": "Östergötland County Administrative Board",
+    "names": [],
     "orgnr": "2021002270",
     "replaced_by": []
   },
@@ -511,6 +615,9 @@
     "kind": "myndighet",
     "label": "Medicinska forskningsrådet",
     "label_en": "Swedish Medical Research Council",
+    "names": [
+      "MFR"
+    ],
     "replaced_by": []
   },
   "Q10579266": {
@@ -519,6 +626,7 @@
     "kind": "myndighet",
     "label": "Medlingsinstitutet",
     "label_en": "National Mediation Office",
+    "names": [],
     "orgnr": "2021005174",
     "replaced_by": []
   },
@@ -528,6 +636,9 @@
     "kind": "myndighet",
     "label": "Myndigheten för familjerätt och föräldraskapsstöd",
     "label_en": "Swedish Intercountry Adoptions Authority",
+    "names": [
+      "Myndigheten för internationella adoptionsfrågor"
+    ],
     "orgnr": "2021004169",
     "replaced_by": []
   },
@@ -536,6 +647,7 @@
     "kind": "myndighet",
     "label": "Myndigheten för kulturanalys",
     "label_en": "Swedish Agency for Cultural Policy Analysis",
+    "names": [],
     "orgnr": "2021006404",
     "replaced_by": []
   },
@@ -545,6 +657,7 @@
     "kind": "myndighet",
     "label": "Myndigheten för kvalificerad yrkesutbildning",
     "label_en": "The Swedish Agency for Advanced Vocational Education",
+    "names": [],
     "replaced_by": [
       "Q10591756"
     ]
@@ -555,6 +668,9 @@
     "kind": "myndighet",
     "label": "Myndigheten för skolutveckling",
     "label_en": "National Agency for Education",
+    "names": [
+      "MSU"
+    ],
     "replaced_by": []
   },
   "Q10591752": {
@@ -563,6 +679,12 @@
     "kind": "myndighet",
     "label": "Mediemyndigheten",
     "label_en": "Swedish Agency for the Media",
+    "names": [
+      "MEMYFS",
+      "MPRT",
+      "Myndigheten för press, radio och tv",
+      "Myndigheten för radio och tv"
+    ],
     "orgnr": "2021006347",
     "replaced_by": []
   },
@@ -572,6 +694,7 @@
     "kind": "myndighet",
     "label": "Myndigheten för tillväxtpolitiska utvärderingar och analyser",
     "label_en": "Swedish Agency for Growth Policy Analysis",
+    "names": [],
     "orgnr": "2021006164",
     "replaced_by": []
   },
@@ -581,6 +704,7 @@
     "kind": "myndighet",
     "label": "Myndigheten för vård- och omsorgsanalys",
     "label_en": "Swedish Agency for Health and Care Services Analysis",
+    "names": [],
     "orgnr": "2021006412",
     "replaced_by": []
   },
@@ -590,6 +714,9 @@
     "kind": "myndighet",
     "label": "Myndigheten för yrkeshögskolan",
     "label_en": "Swedish National Agency for Higher Vocational Education",
+    "names": [
+      "YH-myndigheten"
+    ],
     "orgnr": "2021006230",
     "replaced_by": []
   },
@@ -598,6 +725,7 @@
     "inception": "1946-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Naturvetenskapliga forskningsrådet",
+    "names": [],
     "replaced_by": []
   },
   "Q10603347": {
@@ -605,6 +733,7 @@
     "kind": "myndighet",
     "label": "Notarienämnden",
     "label_en": "Law Clerks Board",
+    "names": [],
     "orgnr": "2021006032",
     "replaced_by": []
   },
@@ -613,6 +742,7 @@
     "kind": "myndighet",
     "label": "Nämnden för hemslöjdsfrågor",
     "label_en": "The National Swedish Handicraft Council",
+    "names": [],
     "orgnr": "2021004144",
     "replaced_by": []
   },
@@ -622,6 +752,9 @@
     "kind": "myndighet",
     "label": "Nämnden för offentlig upphandling",
     "label_en": "National Board for Public Procurement",
+    "names": [
+      "NOU"
+    ],
     "replaced_by": []
   },
   "Q10605070": {
@@ -630,6 +763,9 @@
     "kind": "myndighet",
     "label": "Myndigheten för stöd till trossamfund",
     "label_en": "Swedish Agency for Support to Faith Communities",
+    "names": [
+      "Nämnden för statligt stöd till trossamfund"
+    ],
     "orgnr": "2021005141",
     "replaced_by": []
   },
@@ -638,6 +774,7 @@
     "kind": "myndighet",
     "label": "Nämnden för styrelserepresentationsfrågor",
     "label_en": "Council for Employee Representation on Boards of Directors",
+    "names": [],
     "orgnr": "2021005786",
     "replaced_by": []
   },
@@ -645,6 +782,7 @@
     "department": "Arbetsmarknadsdepartementet",
     "kind": "myndighet",
     "label": "Nämnden mot diskriminering",
+    "names": [],
     "orgnr": "2021006206",
     "replaced_by": []
   },
@@ -654,6 +792,7 @@
     "kind": "myndighet",
     "label": "Myndigheten för psykologiskt försvar",
     "label_en": "Office of Psychological Defense",
+    "names": [],
     "orgnr": "2021007014",
     "replaced_by": []
   },
@@ -661,6 +800,7 @@
     "department": "Infrastrukturdepartementet",
     "kind": "myndighet",
     "label": "Oljekrisnämnden",
+    "names": [],
     "orgnr": "2021006776",
     "replaced_by": []
   },
@@ -670,6 +810,7 @@
     "kind": "myndighet",
     "label": "Ombudsmannen mot etnisk diskriminering",
     "label_en": "The Ombudsman against Ethnic Discrimination",
+    "names": [],
     "replaced_by": []
   },
   "Q10621662": {
@@ -678,6 +819,10 @@
     "kind": "myndighet",
     "label": "Patent- och registreringsverket",
     "label_en": "Swedish Patent and Registration Office",
+    "names": [
+      "PRV",
+      "Patentverket"
+    ],
     "orgnr": "2021002072",
     "replaced_by": []
   },
@@ -687,6 +832,7 @@
     "kind": "myndighet",
     "label": "Pensionsmyndigheten",
     "label_en": "Swedish Pensions Agency",
+    "names": [],
     "orgnr": "2021006255",
     "replaced_by": []
   },
@@ -696,6 +842,7 @@
     "kind": "myndighet",
     "label": "Institutet för mänskliga rättigheter",
     "label_en": "The Swedish Institute for Human Rights",
+    "names": [],
     "orgnr": "2021007022",
     "replaced_by": []
   },
@@ -705,6 +852,7 @@
     "kind": "myndighet",
     "label": "Polarforskningssekretariatet",
     "label_en": "Swedish Polar Research Secretariat",
+    "names": [],
     "orgnr": "2021004060",
     "replaced_by": []
   },
@@ -713,6 +861,7 @@
     "kind": "myndighet",
     "label": "Polismyndigheten Västra Götaland",
     "label_en": "Västra Götaland Police Authority",
+    "names": [],
     "replaced_by": [
       "Q11995938"
     ]
@@ -723,6 +872,7 @@
     "kind": "myndighet",
     "label": "Premiepensionsmyndigheten",
     "label_en": "The Premium Pension Authority",
+    "names": [],
     "replaced_by": []
   },
   "Q10638606": {
@@ -731,6 +881,7 @@
     "kind": "myndighet",
     "label": "Presstödsnämnden",
     "label_en": "Press Subsidies Council",
+    "names": [],
     "replaced_by": [
       "Q10591752"
     ]
@@ -741,6 +892,9 @@
     "kind": "myndighet",
     "label": "Radio- och TV-verket",
     "label_en": "The Swedish Radio and TV Authority",
+    "names": [
+      "RTVV"
+    ],
     "replaced_by": []
   },
   "Q10650489": {
@@ -749,6 +903,10 @@
     "kind": "myndighet",
     "label": "Regeringskansliet",
     "label_en": "Government Offices of Sweden",
+    "names": [
+      "Kanslihuset",
+      "Rosenbad"
+    ],
     "orgnr": "2021003831",
     "replaced_by": []
   },
@@ -758,6 +916,9 @@
     "kind": "myndighet",
     "label": "Revisorsinspektionen",
     "label_en": "Swedish Inspectorate of Auditors",
+    "names": [
+      "Revisorsnämnden"
+    ],
     "orgnr": "2021004805",
     "replaced_by": []
   },
@@ -767,6 +928,7 @@
     "kind": "myndighet",
     "label": "Rikstrafiken",
     "label_en": "The Swedish National Public Transport Agency",
+    "names": [],
     "replaced_by": []
   },
   "Q10658525": {
@@ -775,6 +937,7 @@
     "kind": "myndighet",
     "label": "Rättshjälpsmyndigheten",
     "label_en": "National Legal Aid Authority",
+    "names": [],
     "orgnr": "2021006016",
     "replaced_by": []
   },
@@ -783,6 +946,9 @@
     "kind": "myndighet",
     "label": "Rättshjälpsnämnden",
     "label_en": "Legal Aid Board",
+    "names": [
+      "Rättshjälpnämnden"
+    ],
     "orgnr": "2021006008",
     "replaced_by": []
   },
@@ -792,6 +958,7 @@
     "kind": "myndighet",
     "label": "Rättsmedicinalverket",
     "label_en": "National Board of Forensic Medicine",
+    "names": [],
     "orgnr": "2021004227",
     "replaced_by": []
   },
@@ -800,6 +967,9 @@
     "kind": "myndighet",
     "label": "Rådet för Europeiska socialfonden i Sverige",
     "label_en": "Swedish European Social Fund Council",
+    "names": [
+      "Svenska ESF-rådet"
+    ],
     "orgnr": "2021005224",
     "replaced_by": []
   },
@@ -810,11 +980,12 @@
     "kommunkod": "0128",
     "label": "Salems landskommun",
     "label_en": "Salem Municipality (1971-73)",
+    "names": [
+      "Salems kommun (1971-73)"
+    ],
     "replaced_by": [
-      "Q516336",
-      "Q516336",
       "Q113718",
-      "Q113718"
+      "Q516336"
     ]
   },
   "Q10660879": {
@@ -823,6 +994,7 @@
     "kind": "myndighet",
     "label": "Sameskolstyrelsen",
     "label_en": "Sami Education Board",
+    "names": [],
     "orgnr": "2021004631",
     "replaced_by": []
   },
@@ -832,6 +1004,7 @@
     "kind": "myndighet",
     "label": "Signalspaningsnämnden",
     "label_en": "The Signals Intelligence Board",
+    "names": [],
     "replaced_by": [
       "Q10501617"
     ]
@@ -841,6 +1014,7 @@
     "kind": "myndighet",
     "label": "Skatterättsnämnden",
     "label_en": "Skatterättsnämnden",
+    "names": [],
     "orgnr": "2021005901",
     "replaced_by": []
   },
@@ -849,6 +1023,7 @@
     "kind": "myndighet",
     "label": "Skiljenämnden i vissa trygghetsfrågor",
     "label_en": "Arbitration Tribunal for Occupational Injury Compensation",
+    "names": [],
     "orgnr": "2021005869",
     "replaced_by": []
   },
@@ -858,6 +1033,9 @@
     "kind": "myndighet",
     "label": "Skogs- och jordbrukets forskningsråd",
     "label_en": "Skogs- och jordbrukets forskningsråd",
+    "names": [
+      "SJFR"
+    ],
     "replaced_by": []
   },
   "Q10670401": {
@@ -866,6 +1044,7 @@
     "kind": "myndighet",
     "label": "Skogsstyrelsen",
     "label_en": "Swedish Forest Agency",
+    "names": [],
     "orgnr": "2021005612",
     "replaced_by": []
   },
@@ -874,6 +1053,7 @@
     "kind": "myndighet",
     "label": "Skolväsendets överklagandenämnd",
     "label_en": "The Board of Appeal for Education",
+    "names": [],
     "orgnr": "2021005729",
     "replaced_by": []
   },
@@ -883,12 +1063,16 @@
     "kind": "myndighet",
     "label": "Smittskyddsinstitutet",
     "label_en": "Swedish Institute for Communicable Disease Control",
+    "names": [
+      "Statens bakteriologiska laboratorium"
+    ],
     "replaced_by": []
   },
   "Q10672488": {
     "dissolved": "2008-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Småhusskadenämnden",
+    "names": [],
     "replaced_by": []
   },
   "Q10672945": {
@@ -897,6 +1081,9 @@
     "kind": "myndighet",
     "label": "Socialvetenskapliga forskningsrådet",
     "label_en": "Swedish Council for Social Research",
+    "names": [
+      "SFR"
+    ],
     "replaced_by": []
   },
   "Q10674564": {
@@ -905,6 +1092,7 @@
     "kind": "myndighet",
     "label": "Specialpedagogiska institutet",
     "label_en": "The Swedish Institute for Special Needs Education",
+    "names": [],
     "replaced_by": []
   },
   "Q10674565": {
@@ -913,6 +1101,7 @@
     "kind": "myndighet",
     "label": "Specialpedagogiska skolmyndigheten",
     "label_en": "The National Agency for Special Needs Education and Schools",
+    "names": [],
     "orgnr": "2021005745",
     "replaced_by": []
   },
@@ -921,6 +1110,7 @@
     "inception": "2000-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Specialskolemyndigheten",
+    "names": [],
     "replaced_by": []
   },
   "Q10676634": {
@@ -928,6 +1118,9 @@
     "kind": "myndighet",
     "label": "Sprängämnesinspektionen",
     "label_en": "National Inspectorate of Explosives and Flammables",
+    "names": [
+      "SAI"
+    ],
     "replaced_by": []
   },
   "Q10677662": {
@@ -935,6 +1128,7 @@
     "kind": "myndighet",
     "label": "Statens ansvarsnämnd",
     "label_en": "State Accountability Board",
+    "names": [],
     "orgnr": "2021005836",
     "replaced_by": []
   },
@@ -944,6 +1138,11 @@
     "kind": "myndighet",
     "label": "Statens beredning för medicinsk och social utvärdering",
     "label_en": "Swedish Agency for Health Technology Assessment and Assessment of Social Services",
+    "names": [
+      "SBU",
+      "Statens beredning för medicinsk utvärdering",
+      "Svenska beredning för medicinsk utvärdering Health Care"
+    ],
     "orgnr": "2021004417",
     "replaced_by": []
   },
@@ -953,6 +1152,12 @@
     "kind": "myndighet",
     "label": "Statens biografbyrå",
     "label_en": "The National Board of Film Classification",
+    "names": [
+      "Biografbyrån",
+      "S.B.F.C.",
+      "SBB",
+      "SBFC"
+    ],
     "orgnr": "2021001041",
     "replaced_by": [],
     "riksarkivet": "agent/AVaTA8hDrH646m3GjpvwY3"
@@ -963,6 +1168,9 @@
     "kind": "myndighet",
     "label": "Statens bostadskreditnämnd",
     "label_en": "The Swedish National Housing Credit Guarantee Board",
+    "names": [
+      "BKN"
+    ],
     "replaced_by": []
   },
   "Q10677675": {
@@ -970,6 +1178,9 @@
     "inception": "1983-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Statens energiverk",
+    "names": [
+      "STEV"
+    ],
     "replaced_by": []
   },
   "Q10677676": {
@@ -979,6 +1190,9 @@
     "kind": "myndighet",
     "label": "Statens försvarshistoriska museer",
     "label_en": "National Swedish Museums of Military History",
+    "names": [
+      "SFHM"
+    ],
     "orgnr": "2021000464",
     "replaced_by": [
       "Q10677695"
@@ -989,6 +1203,7 @@
     "kind": "myndighet",
     "label": "Statens geotekniska institut",
     "label_en": "Swedish Geotechnical Institute",
+    "names": [],
     "orgnr": "2021000712",
     "replaced_by": []
   },
@@ -998,6 +1213,10 @@
     "kind": "myndighet",
     "label": "Statens inspektion för försvarsunderrättelseverksamheten",
     "label_en": "The Swedish Foreign Intelligence Inspectorate",
+    "names": [
+      "SIUN",
+      "Statens Inspektion För Försvarsunderrättelseverksamheten (siun)"
+    ],
     "orgnr": "2021006214",
     "replaced_by": []
   },
@@ -1007,9 +1226,13 @@
     "kind": "myndighet",
     "label": "Statens institut för kommunikationsanalys",
     "label_en": "Statens institut för kommunikationsanalys",
+    "names": [
+      "Delegationen för prognos- och utvecklingsverksamhet inom transportsektorn",
+      "SIKA"
+    ],
     "replaced_by": [
-      "Q1677108",
-      "Q10701016"
+      "Q10701016",
+      "Q1677108"
     ]
   },
   "Q10677686": {
@@ -1017,6 +1240,9 @@
     "kind": "myndighet",
     "label": "Statens institutionsstyrelse",
     "label_en": "National Board of Institutional Care",
+    "names": [
+      "Sis"
+    ],
     "orgnr": "2021004508",
     "replaced_by": []
   },
@@ -1026,6 +1252,7 @@
     "kind": "myndighet",
     "label": "Statens kulturråd",
     "label_en": "Swedish Arts Council",
+    "names": [],
     "orgnr": "2021001280",
     "replaced_by": []
   },
@@ -1035,6 +1262,7 @@
     "kind": "myndighet",
     "label": "Statens ljud- och bildarkiv",
     "label_en": "Swedish National Archive of Recorded Sound and Moving Images",
+    "names": [],
     "replaced_by": []
   },
   "Q10677695": {
@@ -1043,6 +1271,11 @@
     "kind": "myndighet",
     "label": "Statens museer för maritim, transport- och försvarshistoria",
     "label_en": "Swedish National Maritime, Transport and Military Museums",
+    "names": [
+      "SMTM",
+      "Statens maritima museer",
+      "Statens maritima och transporthistoriska museer"
+    ],
     "orgnr": "2021001132",
     "replaced_by": []
   },
@@ -1053,6 +1286,7 @@
     "kind": "myndighet",
     "label": "Statens medieråd",
     "label_en": "Swedish Media Council",
+    "names": [],
     "orgnr": "2021006396",
     "replaced_by": []
   },
@@ -1061,6 +1295,10 @@
     "kind": "myndighet",
     "label": "Statens museer för världskultur",
     "label_en": "The National Museums of World Culture",
+    "names": [
+      "SMVK",
+      "Världskulturmuseerna"
+    ],
     "orgnr": "2021005075",
     "replaced_by": []
   },
@@ -1070,6 +1308,9 @@
     "kind": "myndighet",
     "label": "Statens musikverk",
     "label_en": "National Collections of Music, Theatre and Dance",
+    "names": [
+      "Musikverket"
+    ],
     "orgnr": "2021003666",
     "replaced_by": []
   },
@@ -1078,6 +1319,9 @@
     "kind": "myndighet",
     "label": "Statens nämnd för arbetstagares uppfinningar",
     "label_en": "National Advisory Board on Patent Rights and Compensation Settlements for Inventions at Work",
+    "names": [
+      "SNAU"
+    ],
     "orgnr": "2021005778",
     "replaced_by": []
   },
@@ -1086,6 +1330,7 @@
     "kind": "myndighet",
     "label": "Statens servicecenter",
     "label_en": "National Government Service Centre",
+    "names": [],
     "orgnr": "2021006453",
     "replaced_by": []
   },
@@ -1094,6 +1339,7 @@
     "kind": "myndighet",
     "label": "Statens skaderegleringsnämnd",
     "label_en": "National Claims Adjustment Board",
+    "names": [],
     "orgnr": "2021005828",
     "replaced_by": []
   },
@@ -1102,6 +1348,9 @@
     "kind": "myndighet",
     "label": "Statens skolinspektion",
     "label_en": "Swedish School Inspectorate",
+    "names": [
+      "Skolinspektionen"
+    ],
     "orgnr": "2021006065",
     "replaced_by": []
   },
@@ -1111,6 +1360,7 @@
     "kind": "myndighet",
     "label": "Statens strålskyddsinstitut",
     "label_en": "National Radiation Protection Authority",
+    "names": [],
     "replaced_by": []
   },
   "Q10677726": {
@@ -1118,6 +1368,11 @@
     "kind": "myndighet",
     "label": "Statens tjänstepensionsverk",
     "label_en": "National Government Employee Pensions Board",
+    "names": [
+      "SPV",
+      "Statens löne- och pensionsverk",
+      "Statens pensionsverk"
+    ],
     "orgnr": "2021000928",
     "replaced_by": []
   },
@@ -1127,6 +1382,7 @@
     "kind": "myndighet",
     "label": "Statens va-nämnd",
     "label_en": "Swedish Water Supply and Sewage Tribunal",
+    "names": [],
     "replaced_by": []
   },
   "Q10677733": {
@@ -1135,6 +1391,9 @@
     "kind": "myndighet",
     "label": "Statens veterinärmedicinska anstalt",
     "label_en": "National Veterinary Institute",
+    "names": [
+      "SVA"
+    ],
     "orgnr": "2021001868",
     "replaced_by": []
   },
@@ -1142,6 +1401,7 @@
     "department": "Finansdepartementet",
     "kind": "myndighet",
     "label": "Statens överklagandenämnd",
+    "names": [],
     "orgnr": "2021004763",
     "replaced_by": []
   },
@@ -1152,6 +1412,7 @@
     "kind": "myndighet",
     "label": "Statskontoret",
     "label_en": "Swedish Agency for Public Management",
+    "names": [],
     "orgnr": "2021000852",
     "replaced_by": []
   },
@@ -1161,6 +1422,7 @@
     "kind": "myndighet",
     "label": "Styrelsen för psykologiskt försvar",
     "label_en": "National Board of Psychological Defence",
+    "names": [],
     "replaced_by": [
       "Q3430725"
     ]
@@ -1170,6 +1432,7 @@
     "kind": "myndighet",
     "label": "Svenska institutet för Europapolitiska studier",
     "label_en": "The Swedish Institute for European Policy Studies",
+    "names": [],
     "orgnr": "2021005331",
     "replaced_by": []
   },
@@ -1179,6 +1442,12 @@
     "kind": "myndighet",
     "label": "Myndigheten för säkerhet och integritetsskydd",
     "label_en": "Swedish Commission on Security and Integrity Protection",
+    "names": [
+      "Integritetsskyddsnämnden",
+      "MSI",
+      "SIN",
+      "Säkerhets- och integritetsskyddsnämnden"
+    ],
     "orgnr": "2021005703",
     "replaced_by": []
   },
@@ -1188,6 +1457,11 @@
     "kind": "myndighet",
     "label": "Myndigheten för tillgängliga medier",
     "label_en": "Swedish Agency for Accessible Media",
+    "names": [
+      "MTM",
+      "TPB",
+      "Talboks- och punktskriftsbiblioteket"
+    ],
     "orgnr": "2021003591",
     "replaced_by": []
   },
@@ -1197,6 +1471,9 @@
     "kind": "myndighet",
     "label": "Tandvårds- och läkemedelsförmånsverket",
     "label_en": "Dental and Pharmaceutical Benefits Agency",
+    "names": [
+      "TLV"
+    ],
     "orgnr": "2021005364",
     "replaced_by": []
   },
@@ -1206,6 +1483,9 @@
     "kind": "myndighet",
     "label": "Teknikvetenskapliga forskningsrådet",
     "label_en": "Swedish Research Council for Engineering Sciences",
+    "names": [
+      "TFR"
+    ],
     "replaced_by": []
   },
   "Q10701016": {
@@ -1214,6 +1494,7 @@
     "kind": "myndighet",
     "label": "Trafikanalys",
     "label_en": "Transport Analysis",
+    "names": [],
     "orgnr": "2021006305",
     "replaced_by": []
   },
@@ -1223,6 +1504,10 @@
     "kind": "myndighet",
     "label": "Transportstyrelsen",
     "label_en": "Swedish Transport Agency",
+    "names": [
+      "TNS",
+      "TS"
+    ],
     "orgnr": "2021006099",
     "replaced_by": []
   },
@@ -1232,6 +1517,9 @@
     "kind": "myndighet",
     "label": "Turistdelegationen",
     "label_en": "Swedish Tourist Authority",
+    "names": [
+      "TD"
+    ],
     "replaced_by": []
   },
   "Q10709560": {
@@ -1240,6 +1528,9 @@
     "kind": "myndighet",
     "label": "Myndigheten för ungdoms- och civilsamhällesfrågor",
     "label_en": "National Board for Youth Affairs",
+    "names": [
+      "Ungdomsstyrelsen"
+    ],
     "orgnr": "2021001173",
     "replaced_by": []
   },
@@ -1249,6 +1540,9 @@
     "kind": "myndighet",
     "label": "Universitets- och högskolerådet",
     "label_en": "Swedish Council for Higher Education",
+    "names": [
+      "UHR"
+    ],
     "orgnr": "2021006487",
     "replaced_by": []
   },
@@ -1257,6 +1551,7 @@
     "kind": "myndighet",
     "label": "Verket för högskoleservice",
     "label_en": "Verket för högskoleservice",
+    "names": [],
     "replaced_by": [
       "Q10709720"
     ]
@@ -1267,9 +1562,13 @@
     "kind": "myndighet",
     "label": "Verva",
     "label_en": "Swedish Administrative Development Agency",
+    "names": [
+      "VERVA",
+      "Verket för förvaltningsutveckling"
+    ],
     "replaced_by": [
-      "Q5495902",
-      "Q10547498"
+      "Q10547498",
+      "Q5495902"
     ]
   },
   "Q107157371": {
@@ -1277,6 +1576,7 @@
     "inception": "1961-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Riksförsäkringsverket",
+    "names": [],
     "replaced_by": []
   },
   "Q10715803": {
@@ -1286,6 +1586,9 @@
     "kommunkod": "1132",
     "label": "Vinslövs kommun",
     "label_en": "Vinslöv municipality",
+    "names": [
+      "Vinslövs landskommun"
+    ],
     "replaced_by": [
       "Q10715802",
       "Q508125"
@@ -1295,6 +1598,7 @@
     "dissolved": "1982-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Överexekutor",
+    "names": [],
     "replaced_by": []
   },
   "Q10728611": {
@@ -1303,6 +1607,7 @@
     "kind": "myndighet",
     "label": "Överklagandenämnden för högskolan",
     "label_en": "The Higher Education Appeals Board",
+    "names": [],
     "orgnr": "2021004375",
     "replaced_by": []
   },
@@ -1311,6 +1616,7 @@
     "kind": "myndighet",
     "label": "Överklagandenämnden för studiestöd",
     "label_en": "The National Board of Appeal for Student Aid",
+    "names": [],
     "orgnr": "2021005273",
     "replaced_by": []
   },
@@ -1320,6 +1626,7 @@
     "kind": "myndighet",
     "label": "Handikappombudsmannen",
     "label_en": "Office of the Swedish Disability Ombudsman",
+    "names": [],
     "replaced_by": []
   },
   "Q109010": {
@@ -1328,6 +1635,12 @@
     "kommunkod": "0184",
     "label": "Solna kommun",
     "label_en": "Solna Municipality",
+    "names": [
+      "Solna",
+      "Solna stad",
+      "Solnas kommun",
+      "Solnas stad"
+    ],
     "orgnr": "2120000183",
     "replaced_by": []
   },
@@ -1337,6 +1650,9 @@
     "kind": "myndighet",
     "label": "Försvarsexportmyndigheten",
     "label_en": "The Swedish Defence and Security Export Agency",
+    "names": [
+      "FXM"
+    ],
     "replaced_by": []
   },
   "Q111206162": {
@@ -1345,6 +1661,7 @@
     "kind": "myndighet",
     "label": "Utbetalningsmyndigheten",
     "label_en": "Swedish Payments Agency",
+    "names": [],
     "replaced_by": []
   },
   "Q1128384": {
@@ -1353,6 +1670,7 @@
     "kommunkod": "1080",
     "label": "Karlskrona kommun",
     "label_en": "Karlskrona Municipality",
+    "names": [],
     "orgnr": "2120000829",
     "replaced_by": []
   },
@@ -1360,6 +1678,10 @@
     "kind": "region",
     "label": "Region Jämtland Härjedalen",
     "label_en": "Region Jämtland Härjedalen",
+    "names": [
+      "Jämtlands läns landsting",
+      "Region Jämtland"
+    ],
     "orgnr": "2321000214",
     "replaced_by": []
   },
@@ -1369,6 +1691,10 @@
     "kommunkod": "1285",
     "label": "Eslövs kommun",
     "label_en": "Eslöv Municipality",
+    "names": [
+      "Eslöv",
+      "Eslöv kommun"
+    ],
     "orgnr": "2120001173",
     "replaced_by": []
   },
@@ -1378,6 +1704,7 @@
     "kind": "myndighet",
     "label": "Svenskt biografiskt lexikon",
     "label_en": "Dictionary of Swedish National Biography",
+    "names": [],
     "replaced_by": []
   },
   "Q113673": {
@@ -1386,6 +1713,11 @@
     "kommunkod": "0139",
     "label": "Upplands-Bro kommun",
     "label_en": "Upplands-Bro Municipality",
+    "names": [
+      "Upplands Bro",
+      "Upplands Bro kommun",
+      "Upplands-Bro"
+    ],
     "orgnr": "2120000100",
     "replaced_by": []
   },
@@ -1395,6 +1727,10 @@
     "kommunkod": "0162",
     "label": "Danderyds kommun",
     "label_en": "Danderyd Municipality",
+    "names": [
+      "Danderyd",
+      "Danderyd kommun"
+    ],
     "orgnr": "2120000126",
     "replaced_by": []
   },
@@ -1404,6 +1740,10 @@
     "kommunkod": "0136",
     "label": "Haninge kommun",
     "label_en": "Haninge Municipality",
+    "names": [
+      "Haninge",
+      "Haninges kommun"
+    ],
     "orgnr": "2120000084",
     "replaced_by": []
   },
@@ -1413,6 +1753,11 @@
     "kommunkod": "0127",
     "label": "Botkyrka kommun",
     "label_en": "Botkyrka Municipality",
+    "names": [
+      "Botkyrka",
+      "Botkyrkas kommun",
+      "Vårsta/Grödinge"
+    ],
     "orgnr": "2120002882",
     "replaced_by": [
       "Q516080"
@@ -1424,6 +1769,10 @@
     "kommunkod": "0138",
     "label": "Tyresö kommun",
     "label_en": "Tyresö Municipality",
+    "names": [
+      "Tyresö",
+      "Tyresös kommun"
+    ],
     "orgnr": "2120000092",
     "replaced_by": []
   },
@@ -1433,6 +1782,9 @@
     "kind": "myndighet",
     "label": "Umeå universitet",
     "label_en": "Umeå University",
+    "names": [
+      "UmU"
+    ],
     "orgnr": "2021002874",
     "replaced_by": []
   },
@@ -1442,12 +1794,14 @@
     "kind": "myndighet",
     "label": "Fondtorgsnämnden",
     "label_en": "Swedish Fund Selection Agency",
+    "names": [],
     "orgnr": "2021007030",
     "replaced_by": []
   },
   "Q114776779": {
     "kind": "myndighet",
     "label": "Polismyndigheten i Älvsborgs län",
+    "names": [],
     "replaced_by": [
       "Q10636140"
     ]
@@ -1455,6 +1809,7 @@
   "Q114776862": {
     "kind": "myndighet",
     "label": "Polismyndigheten i Malmöhus län",
+    "names": [],
     "replaced_by": [
       "Q114776912"
     ]
@@ -1462,6 +1817,7 @@
   "Q114776896": {
     "kind": "myndighet",
     "label": "Polismyndigheten i Kristianstads län",
+    "names": [],
     "replaced_by": [
       "Q114776912"
     ]
@@ -1471,6 +1827,7 @@
     "kind": "myndighet",
     "label": "Polismyndigheten i Uppsala län",
     "label_en": "Uppsala County Police Authority",
+    "names": [],
     "replaced_by": [
       "Q11995938"
     ]
@@ -1480,6 +1837,9 @@
     "inception": "1984-07-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Transportforskningsberedningen",
+    "names": [
+      "TFB"
+    ],
     "replaced_by": []
   },
   "Q116024923": {
@@ -1488,6 +1848,9 @@
     "kind": "myndighet",
     "label": "Myndigheten för totalförsvarsanalys",
     "label_en": "Swedish Agency for Defence Analysis",
+    "names": [
+      "MFTA"
+    ],
     "orgnr": "2021007055",
     "replaced_by": []
   },
@@ -1497,6 +1860,11 @@
     "kind": "myndighet",
     "label": "Blekinge tekniska högskola",
     "label_en": "Blekinge Institute of Technology",
+    "names": [
+      "BTH",
+      "Hk-r",
+      "Högskolan i Karlskrona-Ronneby"
+    ],
     "orgnr": "2021004011",
     "replaced_by": []
   },
@@ -1506,6 +1874,9 @@
     "kommunkod": "2514",
     "label": "Kalix kommun",
     "label_en": "Kalix Municipality",
+    "names": [
+      "Kalix"
+    ],
     "orgnr": "2120002692",
     "replaced_by": []
   },
@@ -1515,6 +1886,10 @@
     "kind": "myndighet",
     "label": "Integritetsskyddsmyndigheten",
     "label_en": "Swedish Authority for Privacy Protection",
+    "names": [
+      "Datainspektionen",
+      "IMY"
+    ],
     "orgnr": "2021000050",
     "replaced_by": []
   },
@@ -1524,6 +1899,10 @@
     "kommunkod": "0117",
     "label": "Österåkers kommun",
     "label_en": "Österåker Municipality",
+    "names": [
+      "Österåker",
+      "Österåker kommun"
+    ],
     "orgnr": "2120002890",
     "replaced_by": []
   },
@@ -1532,6 +1911,7 @@
     "kind": "myndighet",
     "label": "Polismyndigheten i Gävleborgs län",
     "label_en": "Gävleborg County Police Authority",
+    "names": [],
     "replaced_by": [
       "Q11995938"
     ]
@@ -1541,6 +1921,7 @@
     "kind": "myndighet",
     "label": "Polismyndigheten i Blekinge län",
     "label_en": "Blekinge County Police Authority",
+    "names": [],
     "replaced_by": [
       "Q11995938"
     ]
@@ -1550,6 +1931,7 @@
     "kind": "myndighet",
     "label": "Polismyndigheten i Norrbottens län",
     "label_en": "Norrbotten County Police Authority",
+    "names": [],
     "replaced_by": [
       "Q11995938"
     ]
@@ -1558,6 +1940,7 @@
     "dissolved": "2014-12-31T00:00:00Z",
     "kind": "myndighet",
     "label": "Polismyndigheten i Jönköpings län",
+    "names": [],
     "replaced_by": [
       "Q11995938"
     ]
@@ -1566,6 +1949,7 @@
     "dissolved": "2014-12-31T00:00:00Z",
     "kind": "myndighet",
     "label": "Polismyndigheten i Kalmar län",
+    "names": [],
     "replaced_by": [
       "Q11995938"
     ]
@@ -1576,6 +1960,7 @@
     "kind": "myndighet",
     "label": "Polismyndigheten",
     "label_en": "Swedish Police Authority",
+    "names": [],
     "orgnr": "2021000076",
     "replaced_by": []
   },
@@ -1583,6 +1968,11 @@
     "dissolved": "2000-12-31T00:00:00Z",
     "kind": "myndighet",
     "label": "Expertgruppen för forskning om regional utveckling",
+    "names": [
+      "Expertgruppen för forskning om regional utvecklin",
+      "SIR",
+      "Statens institut för regionalforskning"
+    ],
     "replaced_by": [
       "Q10536085"
     ]
@@ -1593,6 +1983,10 @@
     "kommunkod": "2039",
     "label": "Älvdalens kommun",
     "label_en": "Älvdalen Municipality",
+    "names": [
+      "Älvdalen",
+      "Älvdalen kommun"
+    ],
     "orgnr": "2120002197",
     "replaced_by": []
   },
@@ -1601,6 +1995,7 @@
     "kind": "myndighet",
     "label": "Ersättningsnämnden",
     "label_en": "The Compensation Board",
+    "names": [],
     "replaced_by": [],
     "riksarkivet": "agent/2hep13ntgqoC7EXz5jcw07"
   },
@@ -1610,6 +2005,10 @@
     "kommunkod": "1402",
     "label": "Partille kommun",
     "label_en": "Partille Municipality",
+    "names": [
+      "Partille",
+      "Partilles kommun"
+    ],
     "orgnr": "2120001272",
     "replaced_by": []
   },
@@ -1618,6 +2017,7 @@
     "kind": "myndighet",
     "label": "Statens folkhälsoinstitut",
     "label_en": "Swedish National Institute of Public Health",
+    "names": [],
     "replaced_by": []
   },
   "Q1274511": {
@@ -1626,6 +2026,7 @@
     "kind": "myndighet",
     "label": "Moderna Museet",
     "label_en": "Moderna Museet",
+    "names": [],
     "orgnr": "2021005091",
     "replaced_by": []
   },
@@ -1635,6 +2036,7 @@
     "kind": "myndighet",
     "label": "Lärarhögskolan i Stockholm",
     "label_en": "Stockholm Institute of Education",
+    "names": [],
     "replaced_by": []
   },
   "Q127765050": {
@@ -1643,6 +2045,9 @@
     "kind": "myndighet",
     "label": "Statens kvalitets- och kompetensråd",
     "label_en": "The National Council for Quality and Development",
+    "names": [
+      "KKR"
+    ],
     "replaced_by": []
   },
   "Q127767382": {
@@ -1651,6 +2056,9 @@
     "kind": "myndighet",
     "label": "Myndigheten för utländska investeringar i Sverige",
     "label_en": "Invest Sweden",
+    "names": [
+      "ISA"
+    ],
     "orgnr": "2021004862",
     "replaced_by": []
   },
@@ -1660,6 +2068,9 @@
     "kind": "myndighet",
     "label": "Nationellt centrum för flexibelt lärande",
     "label_en": "Swedish Agency for flexible learning",
+    "names": [
+      "CFL"
+    ],
     "replaced_by": []
   },
   "Q127808720": {
@@ -1668,6 +2079,9 @@
     "kind": "myndighet",
     "label": "Valideringsdelegationen",
     "label_en": "National Commission on Validation",
+    "names": [
+      "VALID"
+    ],
     "replaced_by": []
   },
   "Q127808895": {
@@ -1676,6 +2090,9 @@
     "kind": "myndighet",
     "label": "Handelsflottans kultur- och fritidsråd",
     "label_en": "Swedish Government Seamen's Service",
+    "names": [
+      "HKF"
+    ],
     "replaced_by": []
   },
   "Q127867565": {
@@ -1683,6 +2100,9 @@
     "kind": "myndighet",
     "label": "Statens institut för särskilt utbildningsstöd",
     "label_en": "National Agency for Special Educational Support",
+    "names": [
+      "SISUS"
+    ],
     "replaced_by": []
   },
   "Q127867566": {
@@ -1691,6 +2111,9 @@
     "kind": "myndighet",
     "label": "Rådet för forsknings- och utvecklingssamarbete inom EU",
     "label_en": "The Swedish EU-R&D Council",
+    "names": [
+      "EUFOU"
+    ],
     "replaced_by": []
   },
   "Q127867568": {
@@ -1699,6 +2122,9 @@
     "kind": "myndighet",
     "label": "Statens bostadsnämnd",
     "label_en": "The National Housing Committee",
+    "names": [
+      "SBN"
+    ],
     "replaced_by": []
   },
   "Q127911668": {
@@ -1707,12 +2133,18 @@
     "kind": "myndighet",
     "label": "Steriliseringsersättningsnämnden",
     "label_en": "Sterilization Compensation Board",
+    "names": [
+      "SEN"
+    ],
     "replaced_by": []
   },
   "Q127912217": {
     "dissolved": "2001-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Statens skola för vuxna i Norrköping",
+    "names": [
+      "SSVN"
+    ],
     "replaced_by": []
   },
   "Q127912440": {
@@ -1721,6 +2153,9 @@
     "kind": "myndighet",
     "label": "Totalförsvarets chefsnämnd",
     "label_en": "Total Defence's head-board",
+    "names": [
+      "TCN"
+    ],
     "replaced_by": []
   },
   "Q127946640": {
@@ -1728,6 +2163,10 @@
     "inception": "1972-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Allmänna advokatbyråerna",
+    "names": [
+      "AAB",
+      "rättshjälpsbyrå"
+    ],
     "replaced_by": []
   },
   "Q127946649": {
@@ -1736,6 +2175,9 @@
     "kind": "myndighet",
     "label": "Byggforskningsrådet",
     "label_en": "Swedish Council for Building Research",
+    "names": [
+      "BFR"
+    ],
     "replaced_by": [
       "Q10497831"
     ]
@@ -1745,6 +2187,9 @@
     "inception": "1993-07-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Kommunikationsforskningsberedningen",
+    "names": [
+      "KFB"
+    ],
     "replaced_by": []
   },
   "Q127950228": {
@@ -1752,6 +2197,9 @@
     "inception": "1991-07-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Statens institut för handikappfrågor i skolan",
+    "names": [
+      "SIH"
+    ],
     "replaced_by": []
   },
   "Q1312762": {
@@ -1760,6 +2208,7 @@
     "kind": "myndighet",
     "label": "Sveriges lantbruksuniversitet",
     "label_en": "Swedish University of Agricultural Sciences",
+    "names": [],
     "orgnr": "2021002817",
     "replaced_by": []
   },
@@ -1769,6 +2218,10 @@
     "kommunkod": "2425",
     "label": "Dorotea kommun",
     "label_en": "Dorotea Municipality",
+    "names": [
+      "Dorotea",
+      "Doroteas kommun"
+    ],
     "orgnr": "2120002809",
     "replaced_by": []
   },
@@ -1778,6 +2231,12 @@
     "kind": "myndighet",
     "label": "Säkerhetspolisen",
     "label_en": "Swedish Security Service",
+    "names": [
+      "RPS/Säk",
+      "Rikspolisstyrelsens säkerhetsavdelning",
+      "SÄPO",
+      "Säpo"
+    ],
     "orgnr": "2021006594",
     "replaced_by": [],
     "riksarkivet": "agent/9ijhDjdEd4YrtyPPvF80U4"
@@ -1788,6 +2247,10 @@
     "kommunkod": "2082",
     "label": "Säters kommun",
     "label_en": "Säter Municipality",
+    "names": [
+      "Säter",
+      "Säter kommun"
+    ],
     "orgnr": "2120002247",
     "replaced_by": []
   },
@@ -1796,6 +2259,9 @@
     "inception": "1917-10-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Försäkringsrådet",
+    "names": [
+      "Kungliga Försäkringsrådet"
+    ],
     "replaced_by": [],
     "riksarkivet": "agent/zFmEb4LcweZ23O1eMvyUeB"
   },
@@ -1804,6 +2270,7 @@
     "inception": "1949-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Statens trafiksäkerhetsråd",
+    "names": [],
     "replaced_by": []
   },
   "Q1354321": {
@@ -1812,6 +2279,7 @@
     "kind": "myndighet",
     "label": "Integrationsverket",
     "label_en": "Swedish Integration Board",
+    "names": [],
     "replaced_by": [
       "Q4585222"
     ]
@@ -1821,10 +2289,11 @@
     "inception": "1938-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Statens institut för folkhälsan",
+    "names": [],
     "replaced_by": [
+      "Q138302567",
       "Q6971056",
-      "Q6972720",
-      "Q138302567"
+      "Q6972720"
     ]
   },
   "Q138302567": {
@@ -1832,6 +2301,7 @@
     "inception": "1966-07-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Arbetsmedicinska institutet",
+    "names": [],
     "replaced_by": [
       "Q10416923"
     ]
@@ -1840,6 +2310,7 @@
     "inception": "2027-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Digitaliseringsmyndigheten",
+    "names": [],
     "replaced_by": []
   },
   "Q1420103": {
@@ -1848,6 +2319,13 @@
     "kind": "myndighet",
     "label": "Naturhistoriska riksmuseet",
     "label_en": "Swedish Museum of Natural History",
+    "names": [
+      "NRM",
+      "Naturhistoriska riksmuseum",
+      "Riksmuseet",
+      "Riksmuseum",
+      "Sveriges naturhistoriska riksmuseum"
+    ],
     "orgnr": "2021001124",
     "replaced_by": []
   },
@@ -1857,6 +2335,10 @@
     "kind": "myndighet",
     "label": "Forum för levande historia",
     "label_en": "Forum för levande historia",
+    "names": [
+      "Forum för Levande Historia",
+      "Levande Historia"
+    ],
     "orgnr": "2021005356",
     "replaced_by": []
   },
@@ -1866,6 +2348,9 @@
     "kommunkod": "2182",
     "label": "Söderhamns kommun",
     "label_en": "Söderhamn Municipality",
+    "names": [
+      "Söderhamn kommun"
+    ],
     "orgnr": "2120002353",
     "replaced_by": []
   },
@@ -1875,6 +2360,9 @@
     "kind": "myndighet",
     "label": "Högskolan i Skövde",
     "label_en": "University of Skövde",
+    "names": [
+      "HiS"
+    ],
     "orgnr": "2021003146",
     "replaced_by": []
   },
@@ -1884,6 +2372,7 @@
     "kind": "myndighet",
     "label": "Postverket",
     "label_en": "Postverket",
+    "names": [],
     "replaced_by": [
       "Q3482100"
     ]
@@ -1894,6 +2383,11 @@
     "kind": "myndighet",
     "label": "SCB",
     "label_en": "Statistics Sweden",
+    "names": [
+      "Kungliga Statistiska centralbyrån",
+      "Statistikmyndigheten",
+      "Statistiska centralbyrån"
+    ],
     "orgnr": "2021000837",
     "replaced_by": []
   },
@@ -1903,6 +2397,10 @@
     "kind": "myndighet",
     "label": "Försvarets radioanstalt",
     "label_en": "National Defence Radio Establishment",
+    "names": [
+      "FRA",
+      "Försvarets Radioanstalt"
+    ],
     "orgnr": "2021000365",
     "replaced_by": []
   },
@@ -1912,6 +2410,7 @@
     "kommunkod": "2181",
     "label": "Sandvikens kommun",
     "label_en": "Sandviken Municipality",
+    "names": [],
     "orgnr": "2120002346",
     "replaced_by": []
   },
@@ -1922,6 +2421,7 @@
     "kommunkod": "0488",
     "label": "Trosa kommun",
     "label_en": "Trosa Municipality",
+    "names": [],
     "replaced_by": [
       "Q500267"
     ]
@@ -1933,6 +2433,7 @@
     "kommunkod": "0666",
     "label": "Anderstorps kommun",
     "label_en": "Anderstorp Municipality",
+    "names": [],
     "replaced_by": [
       "Q505259"
     ]
@@ -1944,6 +2445,7 @@
     "kommunkod": "0584",
     "label": "Vadstena kommun",
     "label_en": "Vadstena Municipality",
+    "names": [],
     "replaced_by": [
       "Q508108"
     ]
@@ -1955,9 +2457,10 @@
     "kommunkod": "0622",
     "label": "Unnaryds kommun",
     "label_en": "Unnaryd municipality",
+    "names": [],
     "replaced_by": [
-      "Q505259",
-      "Q498477"
+      "Q498477",
+      "Q505259"
     ]
   },
   "Q15209927": {
@@ -1966,6 +2469,7 @@
     "kind": "myndighet",
     "label": "Konkurrensverket",
     "label_en": "Swedish Competition Authority",
+    "names": [],
     "orgnr": "2021004342",
     "replaced_by": []
   },
@@ -1975,6 +2479,9 @@
     "kind": "myndighet",
     "label": "Högskolan på Gotland",
     "label_en": "Gotland University College",
+    "names": [
+      "Campus Gotland"
+    ],
     "replaced_by": []
   },
   "Q15278226": {
@@ -1983,6 +2490,9 @@
     "kind": "myndighet",
     "label": "Universitetskanslersämbetet",
     "label_en": "Swedish Higher Education Authority",
+    "names": [
+      "UKÄ"
+    ],
     "orgnr": "2021006495",
     "replaced_by": []
   },
@@ -1992,6 +2502,7 @@
     "kind": "myndighet",
     "label": "Stockholms konstnärliga högskola",
     "label_en": "Stockholm University of the Arts",
+    "names": [],
     "orgnr": "2021006560",
     "replaced_by": []
   },
@@ -2001,6 +2512,11 @@
     "kind": "myndighet",
     "label": "Mälardalens universitet",
     "label_en": "Mälardalen University",
+    "names": [
+      "MDH",
+      "MDU",
+      "Mälardalens högskola"
+    ],
     "orgnr": "2021002916",
     "replaced_by": []
   },
@@ -2010,6 +2526,14 @@
     "kind": "myndighet",
     "label": "Gymnastik- och idrottshögskolan",
     "label_en": "Swedish School of Sport and Health Sciences",
+    "names": [
+      "G.C.I.",
+      "GCI",
+      "GIH",
+      "Gymnastik- och Idrottshögskolan",
+      "Gymnastiska Centralinstitutet",
+      "Gymnastiska centralinstitutet"
+    ],
     "orgnr": "2021004334",
     "replaced_by": [],
     "riksarkivet": "agent/DFaTA8hDrH646m3GjpvwY3"
@@ -2019,6 +2543,7 @@
     "kind": "myndighet",
     "label": "E-hälsomyndigheten",
     "label_en": "Swedish eHealth Agency",
+    "names": [],
     "orgnr": "2021006552",
     "replaced_by": []
   },
@@ -2029,6 +2554,7 @@
     "kommunkod": "1164",
     "label": "Vinslövs centralkommun",
     "label_en": "Vinslöv central municipality",
+    "names": [],
     "replaced_by": [
       "Q508125"
     ]
@@ -2040,6 +2566,7 @@
     "kommunkod": "1288",
     "label": "Skanör med Falsterbo kommun",
     "label_en": "Skanör med Falsterbo municipality",
+    "names": [],
     "replaced_by": [
       "Q511338"
     ]
@@ -2050,6 +2577,9 @@
     "kind": "myndighet",
     "label": "Högskolan i Borås",
     "label_en": "University of Borås",
+    "names": [
+      "Borås högskola"
+    ],
     "orgnr": "2021003138",
     "replaced_by": []
   },
@@ -2059,6 +2589,7 @@
     "kind": "myndighet",
     "label": "Artilleristaben",
     "label_en": "Artillery Staff",
+    "names": [],
     "replaced_by": []
   },
   "Q1670860": {
@@ -2067,6 +2598,9 @@
     "kind": "myndighet",
     "label": "Sida",
     "label_en": "Swedish International Development Cooperation Agency",
+    "names": [
+      "Styrelsen för internationellt utvecklingssamarbete"
+    ],
     "orgnr": "2021004789",
     "replaced_by": []
   },
@@ -2076,6 +2610,9 @@
     "kind": "myndighet",
     "label": "Trafikverket",
     "label_en": "Swedish Transport Administration",
+    "names": [
+      "TRV"
+    ],
     "orgnr": "2021006297",
     "replaced_by": []
   },
@@ -2085,6 +2622,10 @@
     "kind": "myndighet",
     "label": "Räddningsverket",
     "label_en": "Swedish Rescue Services Agency",
+    "names": [
+      "SRV",
+      "Statens räddningsverk"
+    ],
     "replaced_by": [
       "Q3430725"
     ]
@@ -2095,6 +2636,9 @@
     "kind": "myndighet",
     "label": "Riksarkivet",
     "label_en": "National Archives of Sweden",
+    "names": [
+      "RA"
+    ],
     "orgnr": "2021001074",
     "replaced_by": []
   },
@@ -2104,6 +2648,7 @@
     "kind": "myndighet",
     "label": "Luftfartsstyrelsen",
     "label_en": "Swedish Civil Aviation Authority",
+    "names": [],
     "replaced_by": []
   },
   "Q17518896": {
@@ -2112,6 +2657,7 @@
     "kind": "myndighet",
     "label": "Folkhälsomyndigheten",
     "label_en": "Public Health Agency of Sweden",
+    "names": [],
     "orgnr": "2021006545",
     "replaced_by": []
   },
@@ -2121,6 +2667,10 @@
     "kind": "myndighet",
     "label": "Linnéuniversitetet",
     "label_en": "Linnaeus University",
+    "names": [
+      "LNU",
+      "Linneuniversitetet"
+    ],
     "orgnr": "2021006271",
     "replaced_by": []
   },
@@ -2130,6 +2680,7 @@
     "kind": "myndighet",
     "label": "Svenska institutet",
     "label_en": "Swedish Institute",
+    "names": [],
     "orgnr": "2021004961",
     "replaced_by": []
   },
@@ -2139,6 +2690,9 @@
     "kommunkod": "2580",
     "label": "Luleå kommun",
     "label_en": "Luleå Municipality",
+    "names": [
+      "Luleås kommun"
+    ],
     "orgnr": "2120002742",
     "replaced_by": []
   },
@@ -2148,6 +2702,9 @@
     "kind": "myndighet",
     "label": "Rymdstyrelsen",
     "label_en": "Swedish National Space Agency",
+    "names": [
+      "Statens delegation för rymdverksamhet"
+    ],
     "orgnr": "2021002585",
     "replaced_by": []
   },
@@ -2157,6 +2714,15 @@
     "kind": "myndighet",
     "label": "Konstfack",
     "label_en": "Konstfack",
+    "names": [
+      "Gamla Konstfack",
+      "Högre Konstindustriella Skolan",
+      "Högre konstindustriella skolan",
+      "Konstfackskolan",
+      "Slöjdskolan",
+      "Tekniska Skolan",
+      "Tekniska skolan"
+    ],
     "orgnr": "2021001199",
     "replaced_by": []
   },
@@ -2166,6 +2732,7 @@
     "kind": "myndighet",
     "label": "Konsumentverket",
     "label_en": "Swedish Consumer Agency",
+    "names": [],
     "orgnr": "2021002064",
     "replaced_by": []
   },
@@ -2175,6 +2742,10 @@
     "kommunkod": "1383",
     "label": "Varbergs kommun",
     "label_en": "Varberg Municipality",
+    "names": [
+      "Varberg",
+      "Varberg kommun"
+    ],
     "orgnr": "2120001249",
     "replaced_by": []
   },
@@ -2184,6 +2755,24 @@
     "kind": "myndighet",
     "label": "Kungliga Musikhögskolan i Stockholm",
     "label_en": "Royal College of Music in Stockholm",
+    "names": [
+      "KMH",
+      "Konservatoriet i Stockholm",
+      "Kungl. Musikhögskolan i Stockholm",
+      "Kungliga Musikaliska Akademiens undervisningsverk",
+      "Kungliga Musikhögskolan",
+      "Kungliga Musikkonservatoriet",
+      "Kungliga musikhögskolan",
+      "Musikaliska Akademiens undervisningsverk",
+      "Musikhögskolan i Stockholm",
+      "Musikhögskolan, Stockholm",
+      "Musikkonservatoriet",
+      "Musikkonservatoriet i Stockholm",
+      "Stockholms Musikhögskola",
+      "Stockholms Musikkonservatorium",
+      "Stockholms konservatorium",
+      "Stockholms musikkonservatorium"
+    ],
     "orgnr": "2021001215",
     "replaced_by": []
   },
@@ -2191,6 +2780,9 @@
     "kind": "myndighet",
     "label": "Teaterhögskolan i Stockholm",
     "label_en": "Swedish National Academy of Mime and Acting",
+    "names": [
+      "Scenskolan"
+    ],
     "replaced_by": [
       "Q3412538"
     ]
@@ -2201,6 +2793,10 @@
     "kommunkod": "0764",
     "label": "Alvesta kommun",
     "label_en": "Alvesta Municipality",
+    "names": [
+      "Alvesta",
+      "Alvestas kommun"
+    ],
     "orgnr": "2120000639",
     "replaced_by": []
   },
@@ -2209,6 +2805,7 @@
     "kind": "myndighet",
     "label": "Högskolans avskiljandenämnd",
     "label_en": "The Higher Education Expulsions Board",
+    "names": [],
     "orgnr": "2021006867",
     "replaced_by": []
   },
@@ -2218,6 +2815,9 @@
     "kind": "myndighet",
     "label": "Myndigheten för delaktighet",
     "label_en": "The Swedish Agency for Participation",
+    "names": [
+      "MFD"
+    ],
     "orgnr": "2021005588",
     "replaced_by": []
   },
@@ -2227,6 +2827,7 @@
     "kind": "myndighet",
     "label": "Finanspolitiska rådet",
     "label_en": "Swedish Fiscal Policy Council",
+    "names": [],
     "orgnr": "2021005687",
     "replaced_by": []
   },
@@ -2235,6 +2836,7 @@
     "kind": "myndighet",
     "label": "Sveriges författarfond",
     "label_en": "Swedish Authors’ Fund",
+    "names": [],
     "orgnr": "2021003583",
     "replaced_by": []
   },
@@ -2244,6 +2846,17 @@
     "kind": "myndighet",
     "label": "Uppsala universitet",
     "label_en": "Uppsala University",
+    "names": [
+      "Skandalhuset",
+      "UU",
+      "Universitetet i Uppsala",
+      "Uppsala akademi",
+      "Uppsala universitet: byggnader och platser",
+      "Uppsala universitets byggda miljö",
+      "Uppsala universitets byggnader",
+      "Upsala Universitet",
+      "Upsala akademi"
+    ],
     "orgnr": "2021002932",
     "replaced_by": []
   },
@@ -2253,6 +2866,12 @@
     "kind": "myndighet",
     "label": "Karlstads universitet",
     "label_en": "Karlstad University",
+    "names": [
+      "Handelshögskolan vid Karlstads universitet",
+      "Högskolan i Karlstad",
+      "Karlstad Universitet",
+      "Karlstad business school"
+    ],
     "orgnr": "2021003120",
     "replaced_by": []
   },
@@ -2262,6 +2881,10 @@
     "kommunkod": "2521",
     "label": "Pajala kommun",
     "label_en": "Pajala Municipality",
+    "names": [
+      "Pajala",
+      "Pajalas kommun"
+    ],
     "orgnr": "2120002718",
     "replaced_by": []
   },
@@ -2271,6 +2894,10 @@
     "kommunkod": "1231",
     "label": "Burlövs kommun",
     "label_en": "Burlöv Municipality",
+    "names": [
+      "Burlöv",
+      "Burlöv kommun"
+    ],
     "orgnr": "2120001025",
     "replaced_by": []
   },
@@ -2280,6 +2907,9 @@
     "kind": "myndighet",
     "label": "Läkemedelsverket",
     "label_en": "Swedish Medical Products Agency",
+    "names": [
+      "LV"
+    ],
     "orgnr": "2021004078",
     "replaced_by": []
   },
@@ -2289,6 +2919,10 @@
     "kind": "myndighet",
     "label": "Mittuniversitetet",
     "label_en": "Mid Sweden University",
+    "names": [
+      "MIUN",
+      "Mitthögskolan"
+    ],
     "orgnr": "2021004524",
     "replaced_by": []
   },
@@ -2298,6 +2932,11 @@
     "kind": "myndighet",
     "label": "Luleå tekniska universitet",
     "label_en": "Luleå University of Technology",
+    "names": [
+      "Högskolan i Luleå",
+      "Luleå tekniska högskola",
+      "Tekniska högskolan i Luleå"
+    ],
     "orgnr": "2021002841",
     "replaced_by": []
   },
@@ -2307,6 +2946,9 @@
     "kind": "myndighet",
     "label": "Strålsäkerhetsmyndigheten",
     "label_en": "Swedish Radiation Safety Authority",
+    "names": [
+      "SSM"
+    ],
     "orgnr": "2021005737",
     "replaced_by": []
   },
@@ -2314,6 +2956,9 @@
     "kind": "myndighet",
     "label": "Birgittaskolan, Örebro",
     "label_en": "Birgitta School, Örebro",
+    "names": [
+      "SBIR"
+    ],
     "replaced_by": []
   },
   "Q2002420": {
@@ -2322,6 +2967,14 @@
     "kind": "myndighet",
     "label": "Örebro universitet",
     "label_en": "Örebro University",
+    "names": [
+      "Campus Alfred Nobel",
+      "Högskolan i Örebro",
+      "ORU",
+      "Restauranghögskolan i Grythyttan",
+      "Örebro högskola",
+      "Örebro universitetsbibliotek"
+    ],
     "orgnr": "2021002924",
     "replaced_by": []
   },
@@ -2331,6 +2984,11 @@
     "kind": "myndighet",
     "label": "Nutek",
     "label_en": "Nutek, Swedish Agency for Economic and Regional Growth",
+    "names": [
+      "NUTEK",
+      "Närings- och teknikutvecklingsverket",
+      "Verket för näringslivsutveckling"
+    ],
     "replaced_by": []
   },
   "Q201813": {
@@ -2339,6 +2997,10 @@
     "kommunkod": "1277",
     "label": "Åstorps kommun",
     "label_en": "Åstorp Municipality",
+    "names": [
+      "Åstorp",
+      "Åstorp kommun"
+    ],
     "orgnr": "2120000936",
     "replaced_by": []
   },
@@ -2348,6 +3010,9 @@
     "kind": "myndighet",
     "label": "Ombudsmannen mot diskriminering på grund av sexuell läggning",
     "label_en": "Ombudsman against Discrimination on Grounds of Sexual Orientation",
+    "names": [
+      "HomO"
+    ],
     "replaced_by": []
   },
   "Q209634": {
@@ -2356,6 +3021,9 @@
     "kommunkod": "2280",
     "label": "Härnösands kommun",
     "label_en": "Härnösand Municipality",
+    "names": [
+      "Härnösand kommun"
+    ],
     "orgnr": "2120002403",
     "replaced_by": []
   },
@@ -2365,6 +3033,10 @@
     "kommunkod": "0188",
     "label": "Norrtälje kommun",
     "label_en": "Norrtälje Municipality",
+    "names": [
+      "Norrtälje",
+      "Norrtäljes kommun"
+    ],
     "orgnr": "2120000217",
     "replaced_by": []
   },
@@ -2374,6 +3046,9 @@
     "kind": "myndighet",
     "label": "Riksutställningar",
     "label_en": "Swedish Travelling Exhibitions",
+    "names": [
+      "RU"
+    ],
     "replaced_by": [
       "Q631844"
     ]
@@ -2384,6 +3059,9 @@
     "kommunkod": "0191",
     "label": "Sigtuna kommun",
     "label_en": "Sigtuna Municipality",
+    "names": [
+      "Sigtuna"
+    ],
     "orgnr": "2120000225",
     "replaced_by": []
   },
@@ -2393,6 +3071,11 @@
     "kind": "myndighet",
     "label": "Lunds universitet",
     "label_en": "Lund University",
+    "names": [
+      "Academia Conciliatrix",
+      "Regia Academia Carolina",
+      "Universitetet i Lund"
+    ],
     "orgnr": "2021003211",
     "replaced_by": []
   },
@@ -2402,6 +3085,11 @@
     "kind": "myndighet",
     "label": "Karolinska Institutet",
     "label_en": "Karolinska Institutet",
+    "names": [
+      "Carolinska institutet",
+      "Karolinska mediko-kirurgiska institutet",
+      "Mediko-kirurgiska institutet"
+    ],
     "orgnr": "2021002973",
     "replaced_by": []
   },
@@ -2411,6 +3099,9 @@
     "kommunkod": "1863",
     "label": "Hällefors kommun",
     "label_en": "Hällefors Municipality",
+    "names": [
+      "Hällefors"
+    ],
     "orgnr": "2120001942",
     "replaced_by": []
   },
@@ -2420,6 +3111,13 @@
     "kind": "myndighet",
     "label": "Stockholms universitet",
     "label_en": "Stockholm University",
+    "names": [
+      "Kungliga universitetet i Stockholm",
+      "SU",
+      "Stockholms högskola",
+      "Universitetet i Stockholm",
+      "su.se"
+    ],
     "orgnr": "2021003062",
     "replaced_by": [],
     "riksarkivet": "agent/glWTA8hDrH646m3GjpvwY3"
@@ -2430,6 +3128,10 @@
     "kommunkod": "2283",
     "label": "Sollefteå kommun",
     "label_en": "Sollefteå Municipality",
+    "names": [
+      "Sollefteå",
+      "Sollefteås kommun"
+    ],
     "orgnr": "2120002437",
     "replaced_by": []
   },
@@ -2438,6 +3140,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Uppsala län",
     "label_en": "Uppsala County Administrative Board",
+    "names": [],
     "orgnr": "2021002254",
     "replaced_by": []
   },
@@ -2446,6 +3149,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Stockholms län",
     "label_en": "Stockholm County Administrative Board",
+    "names": [],
     "orgnr": "2021002247",
     "replaced_by": []
   },
@@ -2455,6 +3159,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Skåne län",
     "label_en": "Skåne County Administrative Board",
+    "names": [],
     "orgnr": "2021002346",
     "replaced_by": []
   },
@@ -2463,6 +3168,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Gävleborgs län",
     "label_en": "Gävleborg County Administrative Board",
+    "names": [],
     "orgnr": "2021002437",
     "replaced_by": []
   },
@@ -2472,6 +3178,10 @@
     "kind": "myndighet",
     "label": "Skolverket",
     "label_en": "National Agency for Education",
+    "names": [
+      "Lärarnas ansvarsnämnd",
+      "Statens skolverk"
+    ],
     "orgnr": "2021004185",
     "replaced_by": []
   },
@@ -2481,6 +3191,7 @@
     "kind": "myndighet",
     "label": "Operahögskolan i Stockholm",
     "label_en": "University College of Opera, Stockholm",
+    "names": [],
     "replaced_by": []
   },
   "Q2324548": {
@@ -2488,6 +3199,9 @@
     "kind": "myndighet",
     "label": "Statens historiska museer",
     "label_en": "National Historical Museums of Sweden",
+    "names": [
+      "SHM"
+    ],
     "orgnr": "2021004953",
     "replaced_by": []
   },
@@ -2497,6 +3211,13 @@
     "kind": "myndighet",
     "label": "Statens kärnkraftinspektion",
     "label_en": "Swedish Nuclear Power Inspectorate",
+    "names": [
+      "SKI",
+      "SKi",
+      "Statens Kärnkraftinspektion",
+      "Statens Kärnkraftsinspektion",
+      "Statens kärnkraftsinspektion"
+    ],
     "replaced_by": []
   },
   "Q239332": {
@@ -2505,6 +3226,10 @@
     "kommunkod": "0461",
     "label": "Gnesta kommun",
     "label_en": "Gnesta Municipality",
+    "names": [
+      "Gnesta",
+      "Gnestas kommun"
+    ],
     "orgnr": "2120002965",
     "replaced_by": []
   },
@@ -2514,6 +3239,14 @@
     "kind": "myndighet",
     "label": "Dans- och cirkushögskolan",
     "label_en": "University of Dance and Circus",
+    "names": [
+      "Dans och Cirkushögskolan",
+      "Dans och cirkushögskolan",
+      "Dans- och Cirkushögskolan",
+      "Danshögskolan",
+      "Danshögskolan i Stockholm",
+      "Statens Dansskola"
+    ],
     "replaced_by": []
   },
   "Q240574": {
@@ -2522,6 +3255,10 @@
     "kommunkod": "0767",
     "label": "Markaryds kommun",
     "label_en": "Markaryd Municipality",
+    "names": [
+      "Markaryd",
+      "Markaryd kommun"
+    ],
     "orgnr": "2120000654",
     "replaced_by": []
   },
@@ -2531,6 +3268,9 @@
     "kind": "myndighet",
     "label": "Totalförsvarets forskningsinstitut",
     "label_en": "Swedish Defence Research Agency",
+    "names": [
+      "FOI"
+    ],
     "orgnr": "2021005182",
     "replaced_by": []
   },
@@ -2540,6 +3280,10 @@
     "kommunkod": "0428",
     "label": "Vingåkers kommun",
     "label_en": "Vingåker Municipality",
+    "names": [
+      "Vingåker",
+      "Vingåker kommun"
+    ],
     "orgnr": "2120000308",
     "replaced_by": []
   },
@@ -2548,6 +3292,9 @@
     "kind": "myndighet",
     "label": "Sametinget",
     "label_en": "Sami Parliament of Sweden",
+    "names": [
+      "Sametinget i Sverige"
+    ],
     "orgnr": "2021004573",
     "replaced_by": []
   },
@@ -2556,6 +3303,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Kalmar län",
     "label_en": "Kalmar County Administrative Board",
+    "names": [],
     "orgnr": "2021002304",
     "replaced_by": []
   },
@@ -2564,6 +3312,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Norrbottens län",
     "label_en": "Norrbotten County Administrative Board",
+    "names": [],
     "orgnr": "2021002478",
     "replaced_by": []
   },
@@ -2573,6 +3322,10 @@
     "kommunkod": "0765",
     "label": "Älmhults kommun",
     "label_en": "Älmhult Municipality",
+    "names": [
+      "Älmhult",
+      "Älmhult kommun"
+    ],
     "orgnr": "2120000647",
     "replaced_by": []
   },
@@ -2582,6 +3335,10 @@
     "kommunkod": "2560",
     "label": "Älvsbyns kommun",
     "label_en": "Älvsbyn Municipality",
+    "names": [
+      "Älvsbyn",
+      "Älvsbyn kommun"
+    ],
     "orgnr": "2120002734",
     "replaced_by": []
   },
@@ -2591,6 +3348,9 @@
     "kommunkod": "1182",
     "label": "Ängelholms kommun",
     "label_en": "Ängelholm Municipality",
+    "names": [
+      "Ängelholm kommun"
+    ],
     "orgnr": "2120000977",
     "replaced_by": []
   },
@@ -2599,6 +3359,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Västernorrlands län",
     "label_en": "Västernorrland County Administrative Board",
+    "names": [],
     "orgnr": "2021002445",
     "replaced_by": []
   },
@@ -2608,6 +3369,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Västmanlands län",
     "label_en": "Västmanland County Administrative Board",
+    "names": [],
     "orgnr": "2021002411",
     "replaced_by": []
   },
@@ -2616,6 +3378,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Västra Götalands län",
     "label_en": "Västra Götaland County Administrative Board",
+    "names": [],
     "orgnr": "2021002361",
     "replaced_by": []
   },
@@ -2624,6 +3387,7 @@
     "kind": "myndighet",
     "label": "Upphandlingsmyndigheten",
     "label_en": "The National Agency for Public Procurement",
+    "names": [],
     "orgnr": "2021006610",
     "replaced_by": []
   },
@@ -2633,6 +3397,10 @@
     "kommunkod": "2026",
     "label": "Gagnefs kommun",
     "label_en": "Gagnef Municipality",
+    "names": [
+      "Gagnef",
+      "Gagnef kommun"
+    ],
     "orgnr": "2120002155",
     "replaced_by": []
   },
@@ -2642,6 +3410,10 @@
     "kommunkod": "1267",
     "label": "Höörs kommun",
     "label_en": "Höör Municipality",
+    "names": [
+      "Höör",
+      "Höör kommun"
+    ],
     "orgnr": "2120001116",
     "replaced_by": []
   },
@@ -2651,6 +3423,10 @@
     "kommunkod": "0586",
     "label": "Mjölby kommun",
     "label_en": "Mjölby Municipality",
+    "names": [
+      "Mjölby",
+      "Mjölbys kommun"
+    ],
     "orgnr": "2120000480",
     "replaced_by": []
   },
@@ -2660,6 +3436,9 @@
     "kommunkod": "1460",
     "label": "Bengtsfors kommun",
     "label_en": "Bengtsfors Municipality",
+    "names": [
+      "Bengtsfors"
+    ],
     "orgnr": "2120001470",
     "replaced_by": []
   },
@@ -2669,6 +3448,10 @@
     "kommunkod": "1492",
     "label": "Åmåls kommun",
     "label_en": "Åmål Municipality",
+    "names": [
+      "Åmål",
+      "Åmål kommun"
+    ],
     "orgnr": "2120001587",
     "replaced_by": []
   },
@@ -2678,6 +3461,10 @@
     "kommunkod": "2260",
     "label": "Ånge kommun",
     "label_en": "Ånge Municipality",
+    "names": [
+      "Ånge",
+      "Ånges kommun"
+    ],
     "orgnr": "2120002387",
     "replaced_by": []
   },
@@ -2687,6 +3474,10 @@
     "kommunkod": "2321",
     "label": "Åre kommun",
     "label_en": "Åre Municipality",
+    "names": [
+      "Åre",
+      "Åres kommun"
+    ],
     "orgnr": "2120002494",
     "replaced_by": []
   },
@@ -2696,6 +3487,9 @@
     "kommunkod": "2463",
     "label": "Åsele kommun",
     "label_en": "Åsele Municipality",
+    "names": [
+      "Åseles kommun"
+    ],
     "orgnr": "2120002791",
     "replaced_by": [
       "Q132334"
@@ -2707,6 +3501,10 @@
     "kommunkod": "0561",
     "label": "Åtvidabergs kommun",
     "label_en": "Åtvidaberg Municipality",
+    "names": [
+      "Åtvidaberg",
+      "Åtvidaberg kommun"
+    ],
     "orgnr": "2120000415",
     "replaced_by": []
   },
@@ -2716,6 +3514,10 @@
     "kommunkod": "1765",
     "label": "Årjängs kommun",
     "label_en": "Årjäng Municipality",
+    "names": [
+      "Årjäng",
+      "Årjäng kommun"
+    ],
     "orgnr": "2120001835",
     "replaced_by": []
   },
@@ -2725,6 +3527,10 @@
     "kommunkod": "0482",
     "label": "Flens kommun",
     "label_en": "Flen Municipality",
+    "names": [
+      "Flen",
+      "Flen kommun"
+    ],
     "orgnr": "2120000332",
     "replaced_by": []
   },
@@ -2734,6 +3540,10 @@
     "kommunkod": "0683",
     "label": "Värnamo kommun",
     "label_en": "Värnamo Municipality",
+    "names": [
+      "Värnamo",
+      "Värnamos kommun"
+    ],
     "orgnr": "2120000555",
     "replaced_by": []
   },
@@ -2743,6 +3553,12 @@
     "kommunkod": "1488",
     "label": "Trollhättans kommun",
     "label_en": "Trollhättan Municipality",
+    "names": [
+      "Trollhättan",
+      "Trollhättan kommun",
+      "Trollhättan stad",
+      "Trollhättans Stad"
+    ],
     "orgnr": "2120001546",
     "replaced_by": []
   },
@@ -2752,6 +3568,7 @@
     "kind": "myndighet",
     "label": "Diskrimineringsombudsmannen",
     "label_en": "Discrimination Ombudsman",
+    "names": [],
     "orgnr": "2021006073",
     "replaced_by": []
   },
@@ -2761,6 +3578,10 @@
     "kommunkod": "1884",
     "label": "Nora kommun",
     "label_en": "Nora Municipality",
+    "names": [
+      "Nora",
+      "Noras kommun"
+    ],
     "orgnr": "2120002007",
     "replaced_by": []
   },
@@ -2770,6 +3591,7 @@
     "kind": "myndighet",
     "label": "Valmyndigheten",
     "label_en": "Swedish Election Authority",
+    "names": [],
     "orgnr": "2021005281",
     "replaced_by": []
   },
@@ -2778,6 +3600,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Blekinge län",
     "label_en": "Blekinge County Administrative Board",
+    "names": [],
     "orgnr": "2021002320",
     "replaced_by": []
   },
@@ -2786,6 +3609,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Dalarnas län",
     "label_en": "Dalarna County Administrative Board",
+    "names": [],
     "orgnr": "2021002429",
     "replaced_by": []
   },
@@ -2794,6 +3618,9 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Gotlands län",
     "label_en": "Gotland County Administrative Board",
+    "names": [
+      "Länsstyrelsen på Gotland"
+    ],
     "orgnr": "2021002312",
     "replaced_by": []
   },
@@ -2802,6 +3629,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Hallands län",
     "label_en": "Halland County Administrative Board",
+    "names": [],
     "orgnr": "2021002353",
     "replaced_by": []
   },
@@ -2810,6 +3638,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Jämtlands län",
     "label_en": "Jämtland County Administrative Board",
+    "names": [],
     "orgnr": "2021002452",
     "replaced_by": []
   },
@@ -2818,6 +3647,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Jönköpings län",
     "label_en": "Jönköping County Administrative Board",
+    "names": [],
     "orgnr": "2021002288",
     "replaced_by": []
   },
@@ -2826,6 +3656,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Kronobergs län",
     "label_en": "Kronoberg County Administrative Board",
+    "names": [],
     "orgnr": "2021002296",
     "replaced_by": []
   },
@@ -2834,6 +3665,9 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Södermanlands län",
     "label_en": "Södermanland County Administrative Board",
+    "names": [
+      "Länsstyrelsen i Sörmlands län"
+    ],
     "orgnr": "2021002262",
     "replaced_by": []
   },
@@ -2842,6 +3676,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Värmlands län",
     "label_en": "Värmland County Administrative Board",
+    "names": [],
     "orgnr": "2021002395",
     "replaced_by": []
   },
@@ -2850,6 +3685,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Västerbottens län",
     "label_en": "Västerbotten County Administrative Board",
+    "names": [],
     "orgnr": "2021002460",
     "replaced_by": []
   },
@@ -2858,6 +3694,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Örebro län",
     "label_en": "Örebro County Administrative Board",
+    "names": [],
     "orgnr": "2021002403",
     "replaced_by": []
   },
@@ -2867,6 +3704,10 @@
     "kommunkod": "1407",
     "label": "Öckerö kommun",
     "label_en": "Öckerö Municipality",
+    "names": [
+      "Öckerö",
+      "Öckerös kommun"
+    ],
     "orgnr": "2120001280",
     "replaced_by": []
   },
@@ -2876,6 +3717,10 @@
     "kommunkod": "0509",
     "label": "Ödeshögs kommun",
     "label_en": "Ödeshög Municipality",
+    "names": [
+      "Ödeshög",
+      "Ödeshög kommun"
+    ],
     "orgnr": "2120000373",
     "replaced_by": []
   },
@@ -2885,6 +3730,7 @@
     "kind": "myndighet",
     "label": "Naturvårdsverket",
     "label_en": "Swedish Environmental Protection Agency",
+    "names": [],
     "orgnr": "2021001975",
     "replaced_by": []
   },
@@ -2894,6 +3740,9 @@
     "kommunkod": "1880",
     "label": "Örebro kommun",
     "label_en": "Örebro Municipality",
+    "names": [
+      "Örebros kommun"
+    ],
     "orgnr": "2120001967",
     "replaced_by": [
       "Q515282"
@@ -2905,6 +3754,10 @@
     "kommunkod": "1137",
     "label": "Örkelljunga kommun",
     "label_en": "Örkelljunga Municipality",
+    "names": [
+      "Örkelljunga",
+      "Örkelljungas kommun"
+    ],
     "orgnr": "2120000878",
     "replaced_by": []
   },
@@ -2914,6 +3767,11 @@
     "kommunkod": "2284",
     "label": "Örnsköldsviks kommun",
     "label_en": "Örnsköldsvik Municipality",
+    "names": [
+      "Ö-viks kommun",
+      "Örnsköldsvik kommun",
+      "öviks kommun"
+    ],
     "orgnr": "2120002445",
     "replaced_by": []
   },
@@ -2923,6 +3781,9 @@
     "kind": "myndighet",
     "label": "Sveriges meteorologiska och hydrologiska institut",
     "label_en": "Swedish Meteorological and Hydrological Institute",
+    "names": [
+      "SMHI"
+    ],
     "orgnr": "2021000696",
     "replaced_by": []
   },
@@ -2932,6 +3793,9 @@
     "kommunkod": "2184",
     "label": "Hudiksvalls kommun",
     "label_en": "Hudiksvall Municipality",
+    "names": [
+      "Hudiksvall kommun"
+    ],
     "orgnr": "2120002379",
     "replaced_by": []
   },
@@ -2941,6 +3805,9 @@
     "kommunkod": "0123",
     "label": "Järfälla kommun",
     "label_en": "Järfälla Municipality",
+    "names": [
+      "Järfälla"
+    ],
     "orgnr": "2120000043",
     "replaced_by": []
   },
@@ -2950,6 +3817,9 @@
     "kind": "myndighet",
     "label": "Forskningsrådet för hälsa, arbetsliv och välfärd",
     "label_en": "Swedish Research Council for Health Working Life and Welfare",
+    "names": [
+      "Forskningsrådet för arbetsliv och socialvetenskap"
+    ],
     "orgnr": "2021005240",
     "replaced_by": []
   },
@@ -2959,6 +3829,7 @@
     "kind": "myndighet",
     "label": "Dramatiska Institutet",
     "label_en": "University College of Film, Radio, Television and Theatre",
+    "names": [],
     "replaced_by": []
   },
   "Q306789": {
@@ -2967,6 +3838,9 @@
     "kommunkod": "2380",
     "label": "Östersunds kommun",
     "label_en": "Östersund Municipality",
+    "names": [
+      "Östersund kommun"
+    ],
     "orgnr": "2120002528",
     "replaced_by": []
   },
@@ -2975,6 +3849,7 @@
     "inception": "1944-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Överstyrelsen för yrkesutbildning",
+    "names": [],
     "replaced_by": []
   },
   "Q307370": {
@@ -2983,6 +3858,10 @@
     "kommunkod": "1121",
     "label": "Östra Göinge kommun",
     "label_en": "Östra Göinge Municipality",
+    "names": [
+      "Östra Göinge",
+      "Östra Göinges kommun"
+    ],
     "orgnr": "2120000860",
     "replaced_by": []
   },
@@ -2992,6 +3871,9 @@
     "kommunkod": "2513",
     "label": "Överkalix kommun",
     "label_en": "Överkalix Municipality",
+    "names": [
+      "Överkalix"
+    ],
     "orgnr": "2120002684",
     "replaced_by": []
   },
@@ -3001,6 +3883,10 @@
     "kommunkod": "2518",
     "label": "Övertorneå kommun",
     "label_en": "Övertorneå Municipality",
+    "names": [
+      "Övertorneå",
+      "Övertorneås kommun"
+    ],
     "orgnr": "2120002700",
     "replaced_by": []
   },
@@ -3010,6 +3896,9 @@
     "kind": "myndighet",
     "label": "Rådet för arbetslivsforskning",
     "label_en": "Swedish Council for Work Life Research",
+    "names": [
+      "RALF"
+    ],
     "replaced_by": []
   },
   "Q3110979": {
@@ -3018,6 +3907,10 @@
     "kind": "myndighet",
     "label": "Södertörns högskola",
     "label_en": "Södertörn University",
+    "names": [
+      "SH",
+      "Södertörns Högskola"
+    ],
     "orgnr": "2021004896",
     "replaced_by": []
   },
@@ -3027,6 +3920,10 @@
     "kommunkod": "0186",
     "label": "Lidingö kommun",
     "label_en": "Lidingö Municipality",
+    "names": [
+      "Lidingö",
+      "Lidingös kommun"
+    ],
     "orgnr": "2120000191",
     "replaced_by": []
   },
@@ -3035,6 +3932,7 @@
     "kind": "myndighet",
     "label": "Skolforskningsinstitutet",
     "label_en": "Swedish Institute for Educational Research",
+    "names": [],
     "orgnr": "2021006602",
     "replaced_by": []
   },
@@ -3043,6 +3941,7 @@
     "kind": "myndighet",
     "label": "Länsstyrelsen i Skaraborgs län",
     "label_en": "Skaraborg County Administrative Board",
+    "names": [],
     "replaced_by": []
   },
   "Q31887055": {
@@ -3050,12 +3949,17 @@
     "inception": "1973-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Nämnden för statens gruvegendom",
+    "names": [],
     "replaced_by": []
   },
   "Q31888100": {
     "dissolved": "2001-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Statens gymnasium för vuxna i Härnösand",
+    "names": [
+      "SSVH",
+      "Statens skola för vuxna i Härnösand"
+    ],
     "replaced_by": []
   },
   "Q31888128": {
@@ -3063,6 +3967,7 @@
     "inception": "1856-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Styrelsen för statens järnvägsbyggnader",
+    "names": [],
     "replaced_by": [
       "Q52912"
     ]
@@ -3072,6 +3977,10 @@
     "kind": "region",
     "label": "Region Blekinge",
     "label_en": "Region Blekinge",
+    "names": [
+      "Blekinge läns landsting",
+      "Landstinget Blekinge"
+    ],
     "orgnr": "2321000081",
     "replaced_by": []
   },
@@ -3079,6 +3988,10 @@
     "kind": "region",
     "label": "Region Dalarna",
     "label_en": "Region Dalarna",
+    "names": [
+      "Dalarnas läns landsting",
+      "Landstinget Dalarna"
+    ],
     "orgnr": "2321000180",
     "replaced_by": []
   },
@@ -3086,6 +3999,10 @@
     "kind": "region",
     "label": "Region Gävleborg",
     "label_en": "Region Gävleborg",
+    "names": [
+      "Gävleborgs läns landsting",
+      "Landstinget Gävleborg"
+    ],
     "orgnr": "2321000198",
     "replaced_by": []
   },
@@ -3093,6 +4010,10 @@
     "kind": "region",
     "label": "Region Jönköpings län",
     "label_en": "Region Jönköping County",
+    "names": [
+      "Jönköpings läns landsting",
+      "Landstinget i Jönköpings län"
+    ],
     "orgnr": "2321000057",
     "replaced_by": []
   },
@@ -3100,6 +4021,10 @@
     "kind": "region",
     "label": "Region Kalmar län",
     "label_en": "Region Kalmar County",
+    "names": [
+      "Kalmar läns landsting",
+      "Landstinget i Kalmar län"
+    ],
     "orgnr": "2321000073",
     "replaced_by": []
   },
@@ -3107,6 +4032,10 @@
     "kind": "region",
     "label": "Region Uppsala",
     "label_en": "Region Uppsala",
+    "names": [
+      "Landstinget i Uppsala län",
+      "Uppsala läns landsting"
+    ],
     "orgnr": "2321000024",
     "replaced_by": []
   },
@@ -3114,6 +4043,10 @@
     "kind": "region",
     "label": "Region Värmland",
     "label_en": "Region Värmland",
+    "names": [
+      "Landstinget i Värmland",
+      "Värmlands läns landsting"
+    ],
     "orgnr": "2321000156",
     "replaced_by": []
   },
@@ -3122,6 +4055,10 @@
     "kind": "region",
     "label": "Region Östergötland",
     "label_en": "Region Östergötland",
+    "names": [
+      "Landstinget i Östergötland",
+      "Östergötlands läns landsting"
+    ],
     "orgnr": "2321000040",
     "replaced_by": []
   },
@@ -3129,6 +4066,10 @@
     "kind": "region",
     "label": "Region Kronoberg",
     "label_en": "Region Kronoberg",
+    "names": [
+      "Kronobergs läns landsting",
+      "Landstinget Kronoberg"
+    ],
     "orgnr": "2321000065",
     "replaced_by": []
   },
@@ -3137,6 +4078,9 @@
     "kind": "region",
     "label": "Region Sörmland",
     "label_en": "Region Sörmland",
+    "names": [
+      "Södermanlands läns landsting"
+    ],
     "orgnr": "2321000032",
     "replaced_by": []
   },
@@ -3144,6 +4088,9 @@
     "kind": "region",
     "label": "Region Västmanland",
     "label_en": "Region Västmanland",
+    "names": [
+      "Västmanlands läns landsting"
+    ],
     "orgnr": "2321000172",
     "replaced_by": []
   },
@@ -3151,6 +4098,9 @@
     "kind": "region",
     "label": "Region Norrbotten",
     "label_en": "Region Norrbotten",
+    "names": [
+      "Norrbottens läns landsting"
+    ],
     "orgnr": "2321000230",
     "replaced_by": []
   },
@@ -3159,6 +4109,7 @@
     "kind": "region",
     "label": "Region Halland",
     "label_en": "Region Halland",
+    "names": [],
     "orgnr": "2321000115",
     "replaced_by": []
   },
@@ -3167,6 +4118,9 @@
     "kind": "region",
     "label": "Region Skåne",
     "label_en": "Region Skåne",
+    "names": [
+      "Skåne läns landsting"
+    ],
     "orgnr": "2321000255",
     "replaced_by": []
   },
@@ -3174,6 +4128,10 @@
     "kind": "region",
     "label": "Region Stockholm",
     "label_en": "Region Stockholm",
+    "names": [
+      "Landstinget i Stockholm",
+      "Stockholms Läns Landsting"
+    ],
     "orgnr": "2321000016",
     "replaced_by": []
   },
@@ -3182,6 +4140,9 @@
     "kind": "region",
     "label": "Region Västerbotten",
     "label_en": "Region Västerbotten",
+    "names": [
+      "Västerbottens läns landsting"
+    ],
     "orgnr": "2321000222",
     "replaced_by": []
   },
@@ -3190,6 +4151,11 @@
     "kind": "region",
     "label": "Västra Götalandsregionen",
     "label_en": "Region Västra Götaland",
+    "names": [
+      "Region Västra Götaland",
+      "VGR",
+      "Västra Götalands läns landsting"
+    ],
     "orgnr": "2321000131",
     "replaced_by": []
   },
@@ -3198,6 +4164,9 @@
     "kind": "region",
     "label": "Region Örebro län",
     "label_en": "Region Örebro County",
+    "names": [
+      "Örebro läns landsting"
+    ],
     "orgnr": "2321000164",
     "replaced_by": []
   },
@@ -3207,6 +4176,9 @@
     "kind": "myndighet",
     "label": "Kustbevakningen",
     "label_en": "Swedish Coast Guard",
+    "names": [
+      "KBV"
+    ],
     "orgnr": "2021003997",
     "replaced_by": []
   },
@@ -3216,6 +4188,9 @@
     "kind": "myndighet",
     "label": "Växjö universitet",
     "label_en": "Växjö University",
+    "names": [
+      "Växjö Högskola"
+    ],
     "replaced_by": [
       "Q1751928"
     ]
@@ -3226,6 +4201,9 @@
     "kind": "myndighet",
     "label": "Kungliga Konsthögskolan",
     "label_en": "Royal Institute of Art",
+    "names": [
+      "Konsthögskolan"
+    ],
     "orgnr": "2021002957",
     "replaced_by": []
   },
@@ -3235,6 +4213,9 @@
     "kind": "myndighet",
     "label": "Ekobrottsmyndigheten",
     "label_en": "Swedish Economic Crime Authority",
+    "names": [
+      "EBM"
+    ],
     "orgnr": "2021004979",
     "replaced_by": []
   },
@@ -3244,6 +4225,9 @@
     "kind": "myndighet",
     "label": "Statens haverikommission",
     "label_en": "Swedish Accident Investigation Authority",
+    "names": [
+      "SHK"
+    ],
     "orgnr": "2021003260",
     "replaced_by": []
   },
@@ -3253,6 +4237,9 @@
     "kind": "myndighet",
     "label": "Tillväxtverket",
     "label_en": "Swedish Agency for Economic and Regional Growth",
+    "names": [
+      "Regelrådet"
+    ],
     "orgnr": "2021006149",
     "replaced_by": []
   },
@@ -3262,6 +4249,10 @@
     "kind": "myndighet",
     "label": "Plikt- och prövningsverket",
     "label_en": "Swedish Defence Recruitment Agency",
+    "names": [
+      "Totalförsvarets plikt- och prövningsverk",
+      "Totalförsvarets rekryteringsmyndighet"
+    ],
     "orgnr": "2021004771",
     "replaced_by": []
   },
@@ -3271,6 +4262,9 @@
     "kind": "myndighet",
     "label": "Försäkringskassan",
     "label_en": "Swedish Social Insurance Agency",
+    "names": [
+      "FK"
+    ],
     "orgnr": "2021005521",
     "replaced_by": []
   },
@@ -3280,6 +4274,9 @@
     "kind": "myndighet",
     "label": "Riksgälden",
     "label_en": "Swedish National Debt Office",
+    "names": [
+      "Riksgäldskontoret"
+    ],
     "orgnr": "2021002635",
     "replaced_by": []
   },
@@ -3289,6 +4286,10 @@
     "kommunkod": "1421",
     "label": "Orusts kommun",
     "label_en": "Orust Municipality",
+    "names": [
+      "Orust",
+      "Orust kommun"
+    ],
     "orgnr": "2120001314",
     "replaced_by": []
   },
@@ -3298,6 +4299,9 @@
     "kind": "myndighet",
     "label": "Åklagarmyndigheten",
     "label_en": "Swedish Prosecution Authority",
+    "names": [
+      "Åklagarmyndigheten (Sverige)"
+    ],
     "orgnr": "2021000084",
     "replaced_by": []
   },
@@ -3307,6 +4311,9 @@
     "kommunkod": "1907",
     "label": "Surahammars kommun",
     "label_en": "Surahammar Municipality",
+    "names": [
+      "Surahammar"
+    ],
     "orgnr": "2120002031",
     "replaced_by": []
   },
@@ -3316,6 +4323,7 @@
     "kind": "myndighet",
     "label": "Stockholms dramatiska högskola",
     "label_en": "Stockholm Academy of Dramatic Arts",
+    "names": [],
     "replaced_by": []
   },
   "Q3430725": {
@@ -3324,6 +4332,9 @@
     "kind": "myndighet",
     "label": "Myndigheten för civilt försvar",
     "label_en": "Swedish Civil Defence and Resilience Agency",
+    "names": [
+      "Myndigheten för samhällsskydd och beredskap"
+    ],
     "orgnr": "2021005984",
     "replaced_by": []
   },
@@ -3333,6 +4344,9 @@
     "kind": "myndighet",
     "label": "Arbetsförmedlingen",
     "label_en": "Swedish Public Employment Service",
+    "names": [
+      "AF"
+    ],
     "orgnr": "2021002114",
     "replaced_by": []
   },
@@ -3342,6 +4356,7 @@
     "kommunkod": "1980",
     "label": "Västerås kommun",
     "label_en": "Västerås Municipality",
+    "names": [],
     "orgnr": "2120002080",
     "replaced_by": []
   },
@@ -3351,6 +4366,10 @@
     "kind": "myndighet",
     "label": "Statens väg- och transportforskningsinstitut",
     "label_en": "Swedish National Road and Transport Research Institute",
+    "names": [
+      "Statens Väg- & Transportforskningsinstitut VTI",
+      "statens väg- och trafikinstitut"
+    ],
     "orgnr": "2021000704",
     "replaced_by": []
   },
@@ -3360,6 +4379,13 @@
     "kind": "myndighet",
     "label": "Göteborgs universitet",
     "label_en": "University of Gothenburg",
+    "names": [
+      "Filmhögskolan i Göteborg",
+      "GU",
+      "Gbgs universitet",
+      "Göteborgs högskola",
+      "Kungl. Universitetet i Göteborg"
+    ],
     "orgnr": "2021003153",
     "replaced_by": []
   },
@@ -3369,6 +4395,10 @@
     "kommunkod": "1981",
     "label": "Sala kommun",
     "label_en": "Sala Municipality",
+    "names": [
+      "Sala",
+      "Salas kommun"
+    ],
     "orgnr": "2120002098",
     "replaced_by": []
   },
@@ -3378,6 +4408,10 @@
     "kommunkod": "1962",
     "label": "Norbergs kommun",
     "label_en": "Norberg Municipality",
+    "names": [
+      "Norberg",
+      "Norberg kommun"
+    ],
     "orgnr": "2120002072",
     "replaced_by": []
   },
@@ -3387,6 +4421,10 @@
     "kommunkod": "1904",
     "label": "Skinnskattebergs kommun",
     "label_en": "Skinnskatteberg Municipality",
+    "names": [
+      "Skinnskatteberg",
+      "Skinnskatteberg kommun"
+    ],
     "orgnr": "2120002023",
     "replaced_by": []
   },
@@ -3396,6 +4434,10 @@
     "kommunkod": "0980",
     "label": "Region Gotland",
     "label_en": "Region Gotland",
+    "names": [
+      "Gotland",
+      "Gotlands kommun"
+    ],
     "orgnr": "2120000803",
     "replaced_by": []
   },
@@ -3405,6 +4447,10 @@
     "kommunkod": "2403",
     "label": "Bjurholms kommun",
     "label_en": "Bjurholm Municipality",
+    "names": [
+      "Bjurholm",
+      "Bjurholm kommun"
+    ],
     "orgnr": "2120002833",
     "replaced_by": []
   },
@@ -3414,6 +4460,10 @@
     "kommunkod": "1491",
     "label": "Ulricehamns kommun",
     "label_en": "Ulricehamn Municipality",
+    "names": [
+      "Ulricehamn",
+      "Ulricehamn kommun"
+    ],
     "orgnr": "2120001579",
     "replaced_by": []
   },
@@ -3423,6 +4473,7 @@
     "kind": "myndighet",
     "label": "Nordiska Afrikainstitutet",
     "label_en": "Nordic Africa Institute",
+    "names": [],
     "orgnr": "2021002726",
     "replaced_by": []
   },
@@ -3432,6 +4483,10 @@
     "kommunkod": "1430",
     "label": "Munkedals kommun",
     "label_en": "Munkedal Municipality",
+    "names": [
+      "Munkedal",
+      "Munkedal kommun"
+    ],
     "orgnr": "2120001330",
     "replaced_by": []
   },
@@ -3440,6 +4495,7 @@
     "kind": "myndighet",
     "label": "Lagrådet",
     "label_en": "Council on Legislation",
+    "names": [],
     "orgnr": "2021005315",
     "replaced_by": []
   },
@@ -3449,6 +4505,10 @@
     "kommunkod": "1983",
     "label": "Köpings kommun",
     "label_en": "Köping Municipality",
+    "names": [
+      "Köping",
+      "Köping kommun"
+    ],
     "orgnr": "2120002114",
     "replaced_by": []
   },
@@ -3458,6 +4518,10 @@
     "kommunkod": "1493",
     "label": "Mariestads kommun",
     "label_en": "Mariestad Municipality",
+    "names": [
+      "Mariestad",
+      "Mariestad kommun"
+    ],
     "orgnr": "2120001686",
     "replaced_by": []
   },
@@ -3467,6 +4531,10 @@
     "kommunkod": "1262",
     "label": "Lomma kommun",
     "label_en": "Lomma Municipality",
+    "names": [
+      "Lomma",
+      "Lommas kommun"
+    ],
     "orgnr": "2120001066",
     "replaced_by": []
   },
@@ -3476,6 +4544,9 @@
     "kommunkod": "1497",
     "label": "Hjo kommun",
     "label_en": "Hjo Municipality",
+    "names": [
+      "Hjos kommun"
+    ],
     "orgnr": "2120001728",
     "replaced_by": []
   },
@@ -3485,6 +4556,9 @@
     "kommunkod": "2482",
     "label": "Skellefteå kommun",
     "label_en": "Skellefteå Municipality",
+    "names": [
+      "Skellefteås kommun"
+    ],
     "orgnr": "2120002643",
     "replaced_by": []
   },
@@ -3494,6 +4568,10 @@
     "kommunkod": "1984",
     "label": "Arboga kommun",
     "label_en": "Arboga Municipality",
+    "names": [
+      "Arboga",
+      "Arbogas kommun"
+    ],
     "orgnr": "2120002122",
     "replaced_by": []
   },
@@ -3502,6 +4580,9 @@
     "kind": "myndighet",
     "label": "Kunglig Majestäts kansli",
     "label_en": "The Royal Office in Sweden",
+    "names": [
+      "Kanslikollegium"
+    ],
     "replaced_by": [
       "Q10650489"
     ]
@@ -3512,6 +4593,9 @@
     "kind": "myndighet",
     "label": "Verket för innovationssystem",
     "label_en": "Swedish Governmental Agency for Innovation Systems",
+    "names": [
+      "Vinnova"
+    ],
     "orgnr": "2021005216",
     "replaced_by": []
   },
@@ -3522,6 +4606,13 @@
     "kind": "myndighet",
     "label": "Statens centrum för arkitektur och design",
     "label_en": "Swedish Centre for Architecture and Design",
+    "names": [
+      "ArkDes",
+      "ArkDesC",
+      "Arkitektur- och designcentrum",
+      "Arkitekturmuseet",
+      "Sveriges arkitekturmuseum"
+    ],
     "orgnr": "2021003427",
     "replaced_by": []
   },
@@ -3531,6 +4622,9 @@
     "kind": "myndighet",
     "label": "Institutet för rymdfysik",
     "label_en": "Swedish Institute of Space Physics",
+    "names": [
+      "IRF"
+    ],
     "orgnr": "2021003567",
     "replaced_by": []
   },
@@ -3540,6 +4634,9 @@
     "kind": "myndighet",
     "label": "Inspektionen för strategiska produkter",
     "label_en": "Swedish Agency for Non-Proliferation and Export Controls",
+    "names": [
+      "ISP"
+    ],
     "orgnr": "2021004912",
     "replaced_by": []
   },
@@ -3549,6 +4646,9 @@
     "kind": "myndighet",
     "label": "Kronofogdemyndigheten",
     "label_en": "Swedish Enforcement Authority",
+    "names": [
+      "Kronofogden"
+    ],
     "orgnr": "2021005646",
     "replaced_by": []
   },
@@ -3558,6 +4658,7 @@
     "kind": "myndighet",
     "label": "Tullverket",
     "label_en": "Swedish Customs",
+    "names": [],
     "orgnr": "2021000969",
     "replaced_by": []
   },
@@ -3567,6 +4668,10 @@
     "kind": "myndighet",
     "label": "Migrationsverket",
     "label_en": "Swedish Migration Agency",
+    "names": [
+      "Invandrarverket",
+      "Statens invandrarverk"
+    ],
     "orgnr": "2021002163",
     "replaced_by": []
   },
@@ -3576,6 +4681,9 @@
     "kind": "myndighet",
     "label": "Delegationen mot segregation",
     "label_en": "The Delegation Against Segregation",
+    "names": [
+      "Delmos"
+    ],
     "orgnr": "2021006701",
     "replaced_by": []
   },
@@ -3585,6 +4693,10 @@
     "kommunkod": "1982",
     "label": "Fagersta kommun",
     "label_en": "Fagersta Municipality",
+    "names": [
+      "Fagersta",
+      "Fagerstas kommun"
+    ],
     "orgnr": "2120002106",
     "replaced_by": []
   },
@@ -3594,6 +4706,10 @@
     "kommunkod": "1961",
     "label": "Hallstahammars kommun",
     "label_en": "Hallstahammar Municipality",
+    "names": [
+      "Hallstahammar kommun",
+      "Halstahammar"
+    ],
     "orgnr": "2120002064",
     "replaced_by": []
   },
@@ -3603,6 +4719,9 @@
     "kind": "myndighet",
     "label": "Matematikmaskinnämnden",
     "label_en": "Swedish Board for Computing Machinery",
+    "names": [
+      "MMN"
+    ],
     "replaced_by": [
       "Q10677795"
     ]
@@ -3613,6 +4732,10 @@
     "kommunkod": "1960",
     "label": "Kungsörs kommun",
     "label_en": "Kungsör Municipality",
+    "names": [
+      "Kungsör",
+      "Kungsör kommun"
+    ],
     "orgnr": "2120002056",
     "replaced_by": []
   },
@@ -3622,6 +4745,7 @@
     "kind": "myndighet",
     "label": "Utlänningsnämnden",
     "label_en": "Aliens Appeals Board of Sweden",
+    "names": [],
     "replaced_by": []
   },
   "Q474816": {
@@ -3630,6 +4754,12 @@
     "kind": "myndighet",
     "label": "Sveriges geologiska undersökning",
     "label_en": "Geological Survey of Sweden",
+    "names": [
+      "1:e statsgeolog",
+      "SGU",
+      "Statsgeofysiker",
+      "Statsgeolog"
+    ],
     "orgnr": "2021002528",
     "replaced_by": []
   },
@@ -3639,6 +4769,10 @@
     "kommunkod": "1381",
     "label": "Laholms kommun",
     "label_en": "Laholm Municipality",
+    "names": [
+      "Laholm",
+      "Laholm kommun"
+    ],
     "orgnr": "2120001223",
     "replaced_by": []
   },
@@ -3648,6 +4782,12 @@
     "kommunkod": "1283",
     "label": "Helsingborgs kommun",
     "label_en": "Helsingborg Municipality",
+    "names": [
+      "Helsingborg",
+      "Helsingborg kommun",
+      "Helsingborg stad",
+      "Helsingborgs stad"
+    ],
     "orgnr": "2120001157",
     "replaced_by": []
   },
@@ -3655,12 +4795,14 @@
     "dissolved": "2003-07-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Riksrevisionsverket",
+    "names": [],
     "replaced_by": []
   },
   "Q49100988": {
     "dissolved": "2002-07-31T00:00:00Z",
     "kind": "myndighet",
     "label": "Bostadsdelegationen",
+    "names": [],
     "replaced_by": []
   },
   "Q492575": {
@@ -3669,6 +4811,10 @@
     "kommunkod": "0126",
     "label": "Huddinge kommun",
     "label_en": "Huddinge Municipality",
+    "names": [
+      "Huddinge",
+      "Huddinges kommun"
+    ],
     "orgnr": "2120000068",
     "replaced_by": []
   },
@@ -3678,6 +4824,10 @@
     "kommunkod": "0125",
     "label": "Ekerö kommun",
     "label_en": "Ekerö Municipality",
+    "names": [
+      "Ekerö",
+      "Ekerös kommun"
+    ],
     "orgnr": "2120000050",
     "replaced_by": []
   },
@@ -3687,6 +4837,10 @@
     "kommunkod": "0160",
     "label": "Täby kommun",
     "label_en": "Täby Municipality",
+    "names": [
+      "Täby",
+      "Täbys kommun"
+    ],
     "orgnr": "2120000118",
     "replaced_by": []
   },
@@ -3695,6 +4849,7 @@
     "kind": "myndighet",
     "label": "Fastighetsmäklarinspektionen",
     "label_en": "Swedish Estate Agents Inspectorate",
+    "names": [],
     "orgnr": "2021004870",
     "replaced_by": []
   },
@@ -3704,6 +4859,10 @@
     "kommunkod": "2523",
     "label": "Gällivare kommun",
     "label_en": "Gällivare Municipality",
+    "names": [
+      "Gällivare",
+      "Gällivares kommun"
+    ],
     "orgnr": "2120002726",
     "replaced_by": []
   },
@@ -3713,6 +4872,10 @@
     "kommunkod": "0120",
     "label": "Värmdö kommun",
     "label_en": "Värmdö Municipality",
+    "names": [
+      "Värmdö",
+      "Värmdös kommun"
+    ],
     "orgnr": "2120000035",
     "replaced_by": []
   },
@@ -3722,6 +4885,10 @@
     "kommunkod": "2506",
     "label": "Arjeplogs kommun",
     "label_en": "Arjeplog Municipality",
+    "names": [
+      "Arjeplog",
+      "Arjeplog kommun"
+    ],
     "orgnr": "2120002668",
     "replaced_by": []
   },
@@ -3731,6 +4898,10 @@
     "kommunkod": "1730",
     "label": "Eda kommun",
     "label_en": "Eda Municipality",
+    "names": [
+      "Eda",
+      "Edas kommun"
+    ],
     "orgnr": "2120001769",
     "replaced_by": []
   },
@@ -3740,6 +4911,10 @@
     "kommunkod": "1780",
     "label": "Karlstads kommun",
     "label_en": "Karlstad Municipality",
+    "names": [
+      "Karlstad",
+      "Karlstad kommun"
+    ],
     "orgnr": "2120001850",
     "replaced_by": []
   },
@@ -3749,6 +4924,10 @@
     "kommunkod": "1440",
     "label": "Ale kommun",
     "label_en": "Ale Municipality",
+    "names": [
+      "Ale",
+      "Ales kommun"
+    ],
     "orgnr": "2120001439",
     "replaced_by": []
   },
@@ -3758,6 +4937,10 @@
     "kommunkod": "1315",
     "label": "Hylte kommun",
     "label_en": "Hylte Municipality",
+    "names": [
+      "Hylte",
+      "Hyltes kommun"
+    ],
     "orgnr": "2120001207",
     "replaced_by": []
   },
@@ -3767,6 +4950,9 @@
     "kommunkod": "1180",
     "label": "Kristianstads kommun",
     "label_en": "Kristianstad Municipality",
+    "names": [
+      "Kristianstad kommun"
+    ],
     "orgnr": "2120000951",
     "replaced_by": []
   },
@@ -3776,6 +4962,10 @@
     "kommunkod": "1761",
     "label": "Hammarö kommun",
     "label_en": "Hammarö Municipality",
+    "names": [
+      "Hammarö",
+      "Hammarös kommun"
+    ],
     "orgnr": "2120001793",
     "replaced_by": []
   },
@@ -3785,6 +4975,10 @@
     "kommunkod": "1384",
     "label": "Kungsbacka kommun",
     "label_en": "Kungsbacka Municipality",
+    "names": [
+      "Kungsbacka",
+      "Kungsbackas kommun"
+    ],
     "orgnr": "2120001256",
     "replaced_by": []
   },
@@ -3794,6 +4988,10 @@
     "kommunkod": "1763",
     "label": "Forshaga kommun",
     "label_en": "Forshaga Municipality",
+    "names": [
+      "Forshaga",
+      "Forshagas kommun"
+    ],
     "orgnr": "2120001819",
     "replaced_by": []
   },
@@ -3803,6 +5001,10 @@
     "kommunkod": "1715",
     "label": "Kils kommun",
     "label_en": "Kil Municipality",
+    "names": [
+      "Kil",
+      "Kil kommun"
+    ],
     "orgnr": "2120001751",
     "replaced_by": []
   },
@@ -3812,6 +5014,10 @@
     "kommunkod": "2505",
     "label": "Arvidsjaurs kommun",
     "label_en": "Arvidsjaur Municipality",
+    "names": [
+      "Arvidsjaur",
+      "Arvidsjaur kommun"
+    ],
     "orgnr": "2120002650",
     "replaced_by": []
   },
@@ -3821,6 +5027,7 @@
     "kind": "myndighet",
     "label": "överståthållarämbetet",
     "label_en": "Over-Governors office",
+    "names": [],
     "replaced_by": [
       "Q104231"
     ]
@@ -3831,6 +5038,9 @@
     "kommunkod": "0580",
     "label": "Linköpings kommun",
     "label_en": "Linköping Municipality",
+    "names": [
+      "Linköping kommun"
+    ],
     "orgnr": "2120000449",
     "replaced_by": []
   },
@@ -3840,6 +5050,10 @@
     "kommunkod": "2421",
     "label": "Storumans kommun",
     "label_en": "Storuman Municipality",
+    "names": [
+      "Storuman",
+      "Storuman kommun"
+    ],
     "orgnr": "2120002577",
     "replaced_by": []
   },
@@ -3849,6 +5063,10 @@
     "kommunkod": "1495",
     "label": "Skara kommun",
     "label_en": "Skara Municipality",
+    "names": [
+      "Skara",
+      "Skaras kommun"
+    ],
     "orgnr": "2120001702",
     "replaced_by": []
   },
@@ -3858,6 +5076,11 @@
     "kommunkod": "0114",
     "label": "Upplands Väsby kommun",
     "label_en": "Upplands Väsby Municipality",
+    "names": [
+      "Upplands Väsby",
+      "Upplands-Väsby",
+      "Upplands-Väsby kommun"
+    ],
     "orgnr": "2120000019",
     "replaced_by": []
   },
@@ -3867,6 +5090,10 @@
     "kommunkod": "1446",
     "label": "Karlsborgs kommun",
     "label_en": "Karlsborg Municipality",
+    "names": [
+      "Karlsborg",
+      "Karlsborg kommun"
+    ],
     "orgnr": "2120001629",
     "replaced_by": []
   },
@@ -3876,6 +5103,10 @@
     "kommunkod": "1439",
     "label": "Färgelanda kommun",
     "label_en": "Färgelanda Municipality",
+    "names": [
+      "Färgelanda",
+      "Färgelandas kommun"
+    ],
     "orgnr": "2120001421",
     "replaced_by": []
   },
@@ -3885,6 +5116,10 @@
     "kommunkod": "0140",
     "label": "Nykvarns kommun",
     "label_en": "Nykvarn Municipality",
+    "names": [
+      "Nykvarn",
+      "Nykvarn kommun"
+    ],
     "orgnr": "2120002999",
     "replaced_by": []
   },
@@ -3894,6 +5129,10 @@
     "kommunkod": "1278",
     "label": "Båstads kommun",
     "label_en": "Båstad Municipality",
+    "names": [
+      "Båstad",
+      "Båstad kommun"
+    ],
     "orgnr": "2120000944",
     "replaced_by": []
   },
@@ -3903,6 +5142,9 @@
     "kommunkod": "2584",
     "label": "Kiruna kommun",
     "label_en": "Kiruna Municipality",
+    "names": [
+      "Kirunas kommun"
+    ],
     "orgnr": "2120002783",
     "replaced_by": []
   },
@@ -3912,6 +5154,10 @@
     "kommunkod": "2084",
     "label": "Avesta kommun",
     "label_en": "Avesta Municipality",
+    "names": [
+      "Avesta",
+      "Avestas kommun"
+    ],
     "orgnr": "2120002262",
     "replaced_by": []
   },
@@ -3921,6 +5167,10 @@
     "kommunkod": "0187",
     "label": "Vaxholms kommun",
     "label_en": "Vaxholm Municipality",
+    "names": [
+      "Vaxholm",
+      "Vaxholm kommun"
+    ],
     "orgnr": "2120002908",
     "replaced_by": [
       "Q117728"
@@ -3932,6 +5182,10 @@
     "kommunkod": "1401",
     "label": "Härryda kommun",
     "label_en": "Härryda Municipality",
+    "names": [
+      "Härryda",
+      "Härrydas kommun"
+    ],
     "orgnr": "2120001264",
     "replaced_by": []
   },
@@ -3941,6 +5195,10 @@
     "kommunkod": "1463",
     "label": "Marks kommun",
     "label_en": "Mark Municipality",
+    "names": [
+      "Mark",
+      "Mark kommun"
+    ],
     "orgnr": "2120001504",
     "replaced_by": []
   },
@@ -3950,6 +5208,10 @@
     "kommunkod": "2460",
     "label": "Vännäs kommun",
     "label_en": "Vännäs Municipality",
+    "names": [
+      "Vännäs",
+      "Wännäs kommun"
+    ],
     "orgnr": "2120002841",
     "replaced_by": [
       "Q376003"
@@ -3961,6 +5223,9 @@
     "kommunkod": "0780",
     "label": "Växjö kommun",
     "label_en": "Växjö Municipality",
+    "names": [
+      "Växjös kommun"
+    ],
     "orgnr": "2120000662",
     "replaced_by": []
   },
@@ -3970,10 +5235,13 @@
     "kommunkod": "0480",
     "label": "Nyköpings kommun",
     "label_en": "Nyköping Municipality",
+    "names": [
+      "Nyköping kommun"
+    ],
     "orgnr": "2120002940",
     "replaced_by": [
-      "Q505064",
-      "Q239332"
+      "Q239332",
+      "Q505064"
     ]
   },
   "Q501205": {
@@ -3982,6 +5250,10 @@
     "kommunkod": "1766",
     "label": "Sunne kommun",
     "label_en": "Sunne Municipality",
+    "names": [
+      "Sunne",
+      "Sunnes kommun"
+    ],
     "orgnr": "2120001843",
     "replaced_by": []
   },
@@ -3991,6 +5263,9 @@
     "kommunkod": "1427",
     "label": "Sotenäs kommun",
     "label_en": "Sotenäs Municipality",
+    "names": [
+      "Sotenäs"
+    ],
     "orgnr": "2120001322",
     "replaced_by": []
   },
@@ -4000,6 +5275,10 @@
     "kommunkod": "1486",
     "label": "Strömstads kommun",
     "label_en": "Strömstad Municipality",
+    "names": [
+      "Strömstad",
+      "Strömstad kommun"
+    ],
     "orgnr": "2120001405",
     "replaced_by": []
   },
@@ -4009,9 +5288,12 @@
     "kommunkod": "1470",
     "label": "Vara kommun",
     "label_en": "Vara Municipality",
+    "names": [
+      "Vara",
+      "Varas kommun"
+    ],
     "orgnr": "2120002924",
     "replaced_by": [
-      "Q503127",
       "Q503127"
     ]
   },
@@ -4021,6 +5303,10 @@
     "kommunkod": "1472",
     "label": "Tibro kommun",
     "label_en": "Tibro Municipality",
+    "names": [
+      "Tibro",
+      "Tibros kommun"
+    ],
     "orgnr": "2120001660",
     "replaced_by": []
   },
@@ -4030,6 +5316,7 @@
     "kommunkod": "1461",
     "label": "Melleruds kommun",
     "label_en": "Mellerud Municipality",
+    "names": [],
     "orgnr": "2120001488",
     "replaced_by": []
   },
@@ -4039,6 +5326,9 @@
     "kommunkod": "1485",
     "label": "Uddevalla kommun",
     "label_en": "Uddevalla Municipality",
+    "names": [
+      "Uddevallas kommun"
+    ],
     "orgnr": "2120001397",
     "replaced_by": []
   },
@@ -4048,6 +5338,10 @@
     "kommunkod": "1419",
     "label": "Tjörns kommun",
     "label_en": "Tjörn Municipality",
+    "names": [
+      "Tjörn",
+      "Tjörn kommun"
+    ],
     "orgnr": "2120001306",
     "replaced_by": []
   },
@@ -4057,6 +5351,10 @@
     "kommunkod": "1496",
     "label": "Skövde kommun",
     "label_en": "Skövde Municipality",
+    "names": [
+      "Skövde",
+      "Skövdes kommun"
+    ],
     "orgnr": "2120001710",
     "replaced_by": []
   },
@@ -4066,6 +5364,10 @@
     "kommunkod": "1498",
     "label": "Tidaholms kommun",
     "label_en": "Tidaholm Municipality",
+    "names": [
+      "Tidaholm",
+      "Tidaholm kommun"
+    ],
     "orgnr": "2120001736",
     "replaced_by": []
   },
@@ -4075,6 +5377,10 @@
     "kommunkod": "2422",
     "label": "Sorsele kommun",
     "label_en": "Sorsele Municipality",
+    "names": [
+      "Sorsele",
+      "Sorseles kommun"
+    ],
     "orgnr": "2120002585",
     "replaced_by": []
   },
@@ -4084,6 +5390,10 @@
     "kommunkod": "1473",
     "label": "Töreboda kommun",
     "label_en": "Töreboda Municipality",
+    "names": [
+      "Toreboda",
+      "Torebodas kommun"
+    ],
     "orgnr": "2120001678",
     "replaced_by": []
   },
@@ -4093,6 +5403,9 @@
     "kommunkod": "1452",
     "label": "Tranemo kommun",
     "label_en": "Tranemo Municipality",
+    "names": [
+      "Tranemo"
+    ],
     "orgnr": "2120001462",
     "replaced_by": []
   },
@@ -4102,6 +5415,10 @@
     "kommunkod": "1465",
     "label": "Svenljunga kommun",
     "label_en": "Svenljunga Municipality",
+    "names": [
+      "Svenljunga",
+      "Svenljungas kommun"
+    ],
     "orgnr": "2120001512",
     "replaced_by": []
   },
@@ -4111,6 +5428,9 @@
     "kommunkod": "1762",
     "label": "Munkfors kommun",
     "label_en": "Munkfors Municipality",
+    "names": [
+      "Munkfors"
+    ],
     "orgnr": "2120001801",
     "replaced_by": []
   },
@@ -4120,6 +5440,10 @@
     "kommunkod": "0115",
     "label": "Vallentuna kommun",
     "label_en": "Vallentuna Municipality",
+    "names": [
+      "Vallentuna",
+      "Vallentunas kommun"
+    ],
     "orgnr": "2120000027",
     "replaced_by": []
   },
@@ -4129,6 +5453,7 @@
     "kommunkod": "0486",
     "label": "Strängnäs kommun",
     "label_en": "Strängnäs Municipality",
+    "names": [],
     "orgnr": "2120000365",
     "replaced_by": []
   },
@@ -4138,6 +5463,10 @@
     "kommunkod": "2418",
     "label": "Malå kommun",
     "label_en": "Malå Municipality",
+    "names": [
+      "Malå",
+      "Malås kommun"
+    ],
     "orgnr": "2120002866",
     "replaced_by": []
   },
@@ -4147,6 +5476,10 @@
     "kommunkod": "2080",
     "label": "Falu kommun",
     "label_en": "Falun Municipality",
+    "names": [
+      "Falun kommun",
+      "Faluns kommun"
+    ],
     "orgnr": "2120002221",
     "replaced_by": []
   },
@@ -4156,6 +5489,10 @@
     "kommunkod": "2021",
     "label": "Vansbro kommun",
     "label_en": "Vansbro Municipality",
+    "names": [
+      "Vansbro",
+      "Vansbros kommun"
+    ],
     "orgnr": "2120002130",
     "replaced_by": []
   },
@@ -4165,6 +5502,10 @@
     "kommunkod": "1282",
     "label": "Landskrona kommun",
     "label_en": "Landskrona Municipality",
+    "names": [
+      "Landskrona",
+      "Landskronas kommun"
+    ],
     "orgnr": "2120001140",
     "replaced_by": []
   },
@@ -4174,6 +5515,9 @@
     "kind": "myndighet",
     "label": "Högskolan Kristianstad",
     "label_en": "Kristianstad University",
+    "names": [
+      "Högskolan i Kristianstad"
+    ],
     "orgnr": "2021003195",
     "replaced_by": []
   },
@@ -4183,6 +5527,9 @@
     "kind": "myndighet",
     "label": "Högskolan i Halmstad",
     "label_en": "Halmstad University College",
+    "names": [
+      "Halmstad Högskola"
+    ],
     "orgnr": "2021003203",
     "replaced_by": []
   },
@@ -4192,6 +5539,10 @@
     "kommunkod": "1443",
     "label": "Bollebygds kommun",
     "label_en": "Bollebygd Municipality",
+    "names": [
+      "Bollebygd",
+      "Bollebygd kommun"
+    ],
     "orgnr": "2120002973",
     "replaced_by": []
   },
@@ -4201,6 +5552,10 @@
     "kommunkod": "1466",
     "label": "Herrljunga kommun",
     "label_en": "Herrljunga Municipality",
+    "names": [
+      "Herrljunga",
+      "Herrljungas kommun"
+    ],
     "orgnr": "2120001520",
     "replaced_by": []
   },
@@ -4210,6 +5565,9 @@
     "kommunkod": "1764",
     "label": "Grums kommun",
     "label_en": "Grums Municipality",
+    "names": [
+      "Grums"
+    ],
     "orgnr": "2120001827",
     "replaced_by": []
   },
@@ -4219,6 +5577,10 @@
     "kommunkod": "1445",
     "label": "Essunga kommun",
     "label_en": "Essunga Municipality",
+    "names": [
+      "Essunga",
+      "Essungas kommun"
+    ],
     "orgnr": "2120002916",
     "replaced_by": []
   },
@@ -4228,6 +5590,13 @@
     "kommunkod": "1438",
     "label": "Dals-Eds kommun",
     "label_en": "Dals-Ed Municipality",
+    "names": [
+      "Dals Ed",
+      "Dals Ed kommun",
+      "Dals Eds kommun",
+      "Dals-Ed",
+      "Dals-Ed kommun"
+    ],
     "orgnr": "2120001413",
     "replaced_by": []
   },
@@ -4237,6 +5606,9 @@
     "kommunkod": "0484",
     "label": "Eskilstuna kommun",
     "label_en": "Eskilstuna Municipality",
+    "names": [
+      "Eskilstunas kommun"
+    ],
     "orgnr": "2120000357",
     "replaced_by": []
   },
@@ -4246,6 +5618,10 @@
     "kommunkod": "1444",
     "label": "Grästorps kommun",
     "label_en": "Grästorp Municipality",
+    "names": [
+      "Grästorp",
+      "Grästorp kommun"
+    ],
     "orgnr": "2120001595",
     "replaced_by": []
   },
@@ -4255,6 +5631,9 @@
     "kommunkod": "1489",
     "label": "Alingsås kommun",
     "label_en": "Alingsås Municipality",
+    "names": [
+      "Alingsås"
+    ],
     "orgnr": "2120001553",
     "replaced_by": []
   },
@@ -4264,6 +5643,10 @@
     "kommunkod": "0604",
     "label": "Aneby kommun",
     "label_en": "Aneby Municipality",
+    "names": [
+      "Aneby",
+      "Anebys kommun"
+    ],
     "orgnr": "2120000498",
     "replaced_by": []
   },
@@ -4273,6 +5656,10 @@
     "kommunkod": "1484",
     "label": "Lysekils kommun",
     "label_en": "Lysekil Municipality",
+    "names": [
+      "Lysekil",
+      "Lysekil kommun"
+    ],
     "orgnr": "2120001389",
     "replaced_by": []
   },
@@ -4282,6 +5669,10 @@
     "kommunkod": "0562",
     "label": "Finspångs kommun",
     "label_en": "Finspång Municipality",
+    "names": [
+      "Finspång",
+      "Finspång kommun"
+    ],
     "orgnr": "2120000423",
     "replaced_by": []
   },
@@ -4291,6 +5682,10 @@
     "kommunkod": "2085",
     "label": "Ludvika kommun",
     "label_en": "Ludvika Municipality",
+    "names": [
+      "Ludvika",
+      "Ludvikas kommun"
+    ],
     "orgnr": "2120002270",
     "replaced_by": []
   },
@@ -4300,6 +5695,10 @@
     "kommunkod": "1441",
     "label": "Lerums kommun",
     "label_en": "Lerum Municipality",
+    "names": [
+      "Lerum",
+      "Lerum kommun"
+    ],
     "orgnr": "2120001447",
     "replaced_by": []
   },
@@ -4309,6 +5708,10 @@
     "kommunkod": "1447",
     "label": "Gullspångs kommun",
     "label_en": "Gullspång Municipality",
+    "names": [
+      "Gullspång",
+      "Gullspång kommun"
+    ],
     "orgnr": "2120001637",
     "replaced_by": []
   },
@@ -4318,6 +5721,9 @@
     "kommunkod": "0643",
     "label": "Habo kommun",
     "label_en": "Habo Municipality",
+    "names": [
+      "Habos kommun"
+    ],
     "orgnr": "2120001611",
     "replaced_by": []
   },
@@ -4327,6 +5733,10 @@
     "kommunkod": "1782",
     "label": "Filipstads kommun",
     "label_en": "Filipstad Municipality",
+    "names": [
+      "Filipstad",
+      "Filipstad kommun"
+    ],
     "orgnr": "2120001876",
     "replaced_by": []
   },
@@ -4336,6 +5746,10 @@
     "kommunkod": "2081",
     "label": "Borlänge kommun",
     "label_en": "Borlänge Municipality",
+    "names": [
+      "Borlänge",
+      "Borlänges kommun"
+    ],
     "orgnr": "2120002239",
     "replaced_by": []
   },
@@ -4345,6 +5759,10 @@
     "kommunkod": "1499",
     "label": "Falköpings kommun",
     "label_en": "Falköping Municipality",
+    "names": [
+      "Falköping",
+      "Falköping kommun"
+    ],
     "orgnr": "2120001744",
     "replaced_by": []
   },
@@ -4354,6 +5772,9 @@
     "kommunkod": "1280",
     "label": "Malmö kommun",
     "label_en": "Malmö Municipality",
+    "names": [
+      "Malmö stad"
+    ],
     "orgnr": "2120001124",
     "replaced_by": []
   },
@@ -4363,6 +5784,9 @@
     "kommunkod": "0163",
     "label": "Sollentuna kommun",
     "label_en": "Sollentuna Municipality",
+    "names": [
+      "Sollentuna"
+    ],
     "orgnr": "2120000134",
     "replaced_by": []
   },
@@ -4372,6 +5796,9 @@
     "kommunkod": "1287",
     "label": "Trelleborgs kommun",
     "label_en": "Trelleborg Municipality",
+    "names": [
+      "Trelleborg"
+    ],
     "orgnr": "2120001199",
     "replaced_by": []
   },
@@ -4381,6 +5808,9 @@
     "kommunkod": "1214",
     "label": "Svalövs kommun",
     "label_en": "Svalöv Municipality",
+    "names": [
+      "Svalöv"
+    ],
     "orgnr": "2120000993",
     "replaced_by": []
   },
@@ -4390,6 +5820,10 @@
     "kommunkod": "0781",
     "label": "Ljungby kommun",
     "label_en": "Ljungby Municipality",
+    "names": [
+      "Ljungby",
+      "Ljungbys kommun"
+    ],
     "orgnr": "2120000670",
     "replaced_by": []
   },
@@ -4399,6 +5833,9 @@
     "kommunkod": "2062",
     "label": "Mora kommun",
     "label_en": "Mora Municipality",
+    "names": [
+      "Moras kommun"
+    ],
     "orgnr": "2120002213",
     "replaced_by": []
   },
@@ -4408,6 +5845,10 @@
     "kommunkod": "2031",
     "label": "Rättviks kommun",
     "label_en": "Rättvik Municipality",
+    "names": [
+      "Rättvik",
+      "Rättvik kommun"
+    ],
     "orgnr": "2120002171",
     "replaced_by": []
   },
@@ -4417,6 +5858,10 @@
     "kommunkod": "1275",
     "label": "Perstorps kommun",
     "label_en": "Perstorp Municipality",
+    "names": [
+      "Perstorp",
+      "Perstorp kommun"
+    ],
     "orgnr": "2120000910",
     "replaced_by": []
   },
@@ -4426,6 +5871,10 @@
     "kommunkod": "1060",
     "label": "Olofströms kommun",
     "label_en": "Olofström Municipality",
+    "names": [
+      "Olofström kommun",
+      "Olofström."
+    ],
     "orgnr": "2120000811",
     "replaced_by": []
   },
@@ -4435,6 +5884,10 @@
     "kommunkod": "2305",
     "label": "Bräcke kommun",
     "label_en": "Bräcke Municipality",
+    "names": [
+      "Bräcke",
+      "Bräckes kommun"
+    ],
     "orgnr": "2120002460",
     "replaced_by": []
   },
@@ -4444,6 +5897,11 @@
     "kommunkod": "2023",
     "label": "Malung-Sälens kommun",
     "label_en": "Malung-Sälen Municipality",
+    "names": [
+      "Malung Sälens kommun",
+      "Malungs kommun",
+      "Sälens kommun"
+    ],
     "orgnr": "2120002148",
     "replaced_by": []
   },
@@ -4453,6 +5911,9 @@
     "kommunkod": "0330",
     "label": "Knivsta kommun",
     "label_en": "Knivsta Municipality",
+    "names": [
+      "Knivstas kommun"
+    ],
     "orgnr": "2120003013",
     "replaced_by": []
   },
@@ -4462,6 +5923,10 @@
     "kommunkod": "2404",
     "label": "Vindelns kommun",
     "label_en": "Vindeln Municipality",
+    "names": [
+      "Vindeln",
+      "Vindeln kommun"
+    ],
     "orgnr": "2120002544",
     "replaced_by": []
   },
@@ -4471,6 +5936,10 @@
     "kommunkod": "1163",
     "label": "Osby kommun",
     "label_en": "Osby Municipality",
+    "names": [
+      "Osby",
+      "Osbys kommun"
+    ],
     "orgnr": "2120000902",
     "replaced_by": []
   },
@@ -4480,6 +5949,10 @@
     "kommunkod": "1265",
     "label": "Sjöbo kommun",
     "label_en": "Sjöbo Municipality",
+    "names": [
+      "Sjöbo",
+      "Sjöbos kommun"
+    ],
     "orgnr": "2120001090",
     "replaced_by": []
   },
@@ -4489,6 +5962,10 @@
     "kommunkod": "1230",
     "label": "Staffanstorps kommun",
     "label_en": "Staffanstorp Municipality",
+    "names": [
+      "Staffanstorp",
+      "Staffanstorp kommun"
+    ],
     "orgnr": "2120001017",
     "replaced_by": []
   },
@@ -4498,6 +5975,10 @@
     "kommunkod": "1166",
     "label": "Klippans kommun",
     "label_en": "Klippan Municipality",
+    "names": [
+      "Klippan",
+      "Klippan kommun"
+    ],
     "orgnr": "2120000928",
     "replaced_by": []
   },
@@ -4507,6 +5988,10 @@
     "kommunkod": "1266",
     "label": "Hörby kommun",
     "label_en": "Hörby Municipality",
+    "names": [
+      "Hörby",
+      "Hörbys kommun"
+    ],
     "orgnr": "2120001108",
     "replaced_by": []
   },
@@ -4516,6 +6001,10 @@
     "kommunkod": "1181",
     "label": "Simrishamns kommun",
     "label_en": "Simrishamn Municipality",
+    "names": [
+      "Simrishamn",
+      "Simrishamn kommun"
+    ],
     "orgnr": "2120000969",
     "replaced_by": []
   },
@@ -4525,6 +6014,10 @@
     "kommunkod": "2034",
     "label": "Orsa kommun",
     "label_en": "Orsa Municipality",
+    "names": [
+      "Orsa",
+      "Orsas kommun"
+    ],
     "orgnr": "2120002189",
     "replaced_by": []
   },
@@ -4534,6 +6027,9 @@
     "kommunkod": "0581",
     "label": "Norrköpings kommun",
     "label_en": "Norrköping Municipality",
+    "names": [
+      "Norrköping kommun"
+    ],
     "orgnr": "2120000456",
     "replaced_by": []
   },
@@ -4543,6 +6039,9 @@
     "kommunkod": "0680",
     "label": "Jönköpings kommun",
     "label_en": "Jönköping Municipality",
+    "names": [
+      "Jönköping kommun"
+    ],
     "orgnr": "2120000530",
     "replaced_by": []
   },
@@ -4552,6 +6051,9 @@
     "kommunkod": "1380",
     "label": "Halmstads kommun",
     "label_en": "Halmstad Municipality",
+    "names": [
+      "Halmstad kommun"
+    ],
     "orgnr": "2120001215",
     "replaced_by": []
   },
@@ -4561,6 +6063,9 @@
     "kommunkod": "2262",
     "label": "Timrå kommun",
     "label_en": "Timrå Municipality",
+    "names": [
+      "Timrås kommun"
+    ],
     "orgnr": "2120002395",
     "replaced_by": []
   },
@@ -4570,6 +6075,10 @@
     "kommunkod": "1881",
     "label": "Kumla kommun",
     "label_en": "Kumla Municipality",
+    "names": [
+      "Kumla",
+      "Kumlas kommun"
+    ],
     "orgnr": "2120001975",
     "replaced_by": []
   },
@@ -4579,6 +6088,9 @@
     "kommunkod": "2281",
     "label": "Sundsvalls kommun",
     "label_en": "Sundsvall Municipality",
+    "names": [
+      "Sundsvall kommun"
+    ],
     "orgnr": "2120002411",
     "replaced_by": []
   },
@@ -4588,6 +6100,10 @@
     "kommunkod": "0882",
     "label": "Oskarshamns kommun",
     "label_en": "Oskarshamn Municipality",
+    "names": [
+      "Oskarshamn",
+      "Oskarshamn kommun"
+    ],
     "orgnr": "2120000761",
     "replaced_by": []
   },
@@ -4597,6 +6113,9 @@
     "kommunkod": "1284",
     "label": "Höganäs kommun",
     "label_en": "Höganäs Municipality",
+    "names": [
+      "Höganäs"
+    ],
     "orgnr": "2120001165",
     "replaced_by": []
   },
@@ -4606,6 +6125,9 @@
     "kommunkod": "1281",
     "label": "Lunds kommun",
     "label_en": "Lund Municipality",
+    "names": [
+      "Lund kommun"
+    ],
     "orgnr": "2120001132",
     "replaced_by": []
   },
@@ -4615,6 +6137,10 @@
     "kommunkod": "2061",
     "label": "Smedjebackens kommun",
     "label_en": "Smedjebacken Municipality",
+    "names": [
+      "Smedjebacken",
+      "Smedjebacken kommun"
+    ],
     "orgnr": "2120002205",
     "replaced_by": []
   },
@@ -4624,6 +6150,10 @@
     "kommunkod": "0685",
     "label": "Vetlanda kommun",
     "label_en": "Vetlanda Municipality",
+    "names": [
+      "Vetlanda",
+      "Vetlandas kommun"
+    ],
     "orgnr": "2120000571",
     "replaced_by": []
   },
@@ -4633,6 +6163,10 @@
     "kommunkod": "0884",
     "label": "Vimmerby kommun",
     "label_en": "Vimmerby Municipality",
+    "names": [
+      "Vimmerby",
+      "Vimmerbys kommun"
+    ],
     "orgnr": "2120000787",
     "replaced_by": []
   },
@@ -4642,6 +6176,10 @@
     "kommunkod": "0488",
     "label": "Trosa kommun",
     "label_en": "Trosa Municipality",
+    "names": [
+      "Trosa",
+      "Trosas kommun"
+    ],
     "orgnr": "2120002957",
     "replaced_by": []
   },
@@ -4651,6 +6189,9 @@
     "kommunkod": "0687",
     "label": "Tranås kommun",
     "label_en": "Tranås Municipality",
+    "names": [
+      "Tranås"
+    ],
     "orgnr": "2120000597",
     "replaced_by": []
   },
@@ -4660,6 +6201,9 @@
     "kommunkod": "0642",
     "label": "Mullsjö kommun",
     "label_en": "Mullsjö Municipality",
+    "names": [
+      "Mullsjös kommun"
+    ],
     "orgnr": "2120001603",
     "replaced_by": []
   },
@@ -4669,6 +6213,9 @@
     "kommunkod": "2121",
     "label": "Ovanåkers kommun",
     "label_en": "Ovanåker Municipality",
+    "names": [
+      "Ovanåker kommun"
+    ],
     "orgnr": "2120002304",
     "replaced_by": []
   },
@@ -4678,6 +6225,10 @@
     "kommunkod": "0192",
     "label": "Nynäshamns kommun",
     "label_en": "Nynäshamn Municipality",
+    "names": [
+      "Nynäshamn",
+      "Nynäshamn kommun"
+    ],
     "orgnr": "2120000233",
     "replaced_by": []
   },
@@ -4687,6 +6238,10 @@
     "kommunkod": "0682",
     "label": "Nässjö kommun",
     "label_en": "Nässjö Municipality",
+    "names": [
+      "Nässjö",
+      "Nässjös kommun"
+    ],
     "orgnr": "2120000548",
     "replaced_by": []
   },
@@ -4696,6 +6251,10 @@
     "kommunkod": "1286",
     "label": "Ystads kommun",
     "label_en": "Ystad Municipality",
+    "names": [
+      "Ystad",
+      "Ystad kommun"
+    ],
     "orgnr": "2120001181",
     "replaced_by": []
   },
@@ -4705,6 +6264,10 @@
     "kommunkod": "2101",
     "label": "Ockelbo kommun",
     "label_en": "Ockelbo Municipality",
+    "names": [
+      "Ockelbo",
+      "Ockelbos kommun"
+    ],
     "orgnr": "2120002288",
     "replaced_by": []
   },
@@ -4714,6 +6277,10 @@
     "kommunkod": "0684",
     "label": "Sävsjö kommun",
     "label_en": "Sävsjö Municipality",
+    "names": [
+      "Sävsjö",
+      "Sävsjös kommun"
+    ],
     "orgnr": "2120000563",
     "replaced_by": []
   },
@@ -4723,6 +6290,10 @@
     "kommunkod": "0481",
     "label": "Oxelösunds kommun",
     "label_en": "Oxelösund Municipality",
+    "names": [
+      "Oxelösund",
+      "Oxelösund kommun"
+    ],
     "orgnr": "2120000324",
     "replaced_by": []
   },
@@ -4732,6 +6303,7 @@
     "kommunkod": "0662",
     "label": "Gislaveds kommun",
     "label_en": "Gislaved Municipality",
+    "names": [],
     "orgnr": "2120000514",
     "replaced_by": []
   },
@@ -4741,6 +6313,9 @@
     "kommunkod": "1760",
     "label": "Storfors kommun",
     "label_en": "Storfors Municipality",
+    "names": [
+      "Storfors"
+    ],
     "orgnr": "2120001785",
     "replaced_by": []
   },
@@ -4750,6 +6325,9 @@
     "kommunkod": "0180",
     "label": "Stockholms kommun",
     "label_en": "Stockholm Municipality",
+    "names": [
+      "Stockholms stad"
+    ],
     "orgnr": "2120000142",
     "replaced_by": []
   },
@@ -4759,6 +6337,10 @@
     "kommunkod": "2417",
     "label": "Norsjö kommun",
     "label_en": "Norsjö Municipality",
+    "names": [
+      "Norsjö",
+      "Norsjös kommun"
+    ],
     "orgnr": "2120002858",
     "replaced_by": [
       "Q501540"
@@ -4770,6 +6352,10 @@
     "kommunkod": "2581",
     "label": "Piteå kommun",
     "label_en": "Piteå Municipality",
+    "names": [
+      "Piteå",
+      "Piteås kommun"
+    ],
     "orgnr": "2120002759",
     "replaced_by": []
   },
@@ -4779,6 +6365,9 @@
     "kommunkod": "2409",
     "label": "Robertsfors kommun",
     "label_en": "Robertsfors Municipality",
+    "names": [
+      "Robertsfors"
+    ],
     "orgnr": "2120002551",
     "replaced_by": []
   },
@@ -4788,6 +6377,10 @@
     "kommunkod": "2083",
     "label": "Hedemora kommun",
     "label_en": "Hedemora Municipality",
+    "names": [
+      "Hedemora",
+      "Hedemoras kommun"
+    ],
     "orgnr": "2120002254",
     "replaced_by": []
   },
@@ -4797,6 +6390,7 @@
     "kommunkod": "2480",
     "label": "Umeå kommun",
     "label_en": "Umeå Municipality",
+    "names": [],
     "orgnr": "2120002627",
     "replaced_by": []
   },
@@ -4806,6 +6400,9 @@
     "kommunkod": "0583",
     "label": "Motala kommun",
     "label_en": "Motala Municipality",
+    "names": [
+      "Motalas kommun"
+    ],
     "orgnr": "2120002817",
     "replaced_by": [
       "Q515969"
@@ -4817,6 +6414,10 @@
     "kommunkod": "1183",
     "label": "Hässleholms kommun",
     "label_en": "Hässleholm Municipality",
+    "names": [
+      "Hässleholm",
+      "Hässleholm kommun"
+    ],
     "orgnr": "2120000985",
     "replaced_by": []
   },
@@ -4826,6 +6427,10 @@
     "kommunkod": "0483",
     "label": "Katrineholms kommun",
     "label_en": "Katrineholm Municipality",
+    "names": [
+      "Katrineholm",
+      "Katrineholm kommun"
+    ],
     "orgnr": "2120000340",
     "replaced_by": []
   },
@@ -4835,6 +6440,9 @@
     "kommunkod": "0880",
     "label": "Kalmar kommun",
     "label_en": "Kalmar Municipality",
+    "names": [
+      "Kalmars kommun"
+    ],
     "orgnr": "2120000746",
     "replaced_by": []
   },
@@ -4844,6 +6452,10 @@
     "kommunkod": "1382",
     "label": "Falkenbergs kommun",
     "label_en": "Falkenberg Municipality",
+    "names": [
+      "Falkenberg",
+      "Falkenberg kommun"
+    ],
     "orgnr": "2120001231",
     "replaced_by": []
   },
@@ -4853,6 +6465,10 @@
     "kommunkod": "1861",
     "label": "Hallsbergs kommun",
     "label_en": "Hallsberg Municipality",
+    "names": [
+      "Hallsberg",
+      "Hallsberg kommun"
+    ],
     "orgnr": "2120001926",
     "replaced_by": []
   },
@@ -4862,6 +6478,10 @@
     "kommunkod": "0862",
     "label": "Emmaboda kommun",
     "label_en": "Emmaboda Municipality",
+    "names": [
+      "Emmaboda",
+      "Emmabodas kommun"
+    ],
     "orgnr": "2120000738",
     "replaced_by": []
   },
@@ -4871,6 +6491,9 @@
     "kommunkod": "1862",
     "label": "Degerfors kommun",
     "label_en": "Degerfors Municipality",
+    "names": [
+      "Degerfors"
+    ],
     "orgnr": "2120001934",
     "replaced_by": []
   },
@@ -4880,6 +6503,10 @@
     "kommunkod": "2582",
     "label": "Bodens kommun",
     "label_en": "Boden Municipality",
+    "names": [
+      "Boden",
+      "Boden kommun"
+    ],
     "orgnr": "2120002767",
     "replaced_by": []
   },
@@ -4889,6 +6516,10 @@
     "kommunkod": "0761",
     "label": "Lessebo kommun",
     "label_en": "Lessebo Municipality",
+    "names": [
+      "Lessebo",
+      "Lessebos kommun"
+    ],
     "orgnr": "2120000613",
     "replaced_by": []
   },
@@ -4898,6 +6529,10 @@
     "kommunkod": "1882",
     "label": "Askersunds kommun",
     "label_en": "Askersund Municipality",
+    "names": [
+      "Askersund",
+      "Askersund kommun"
+    ],
     "orgnr": "2120001983",
     "replaced_by": []
   },
@@ -4907,6 +6542,10 @@
     "kommunkod": "0560",
     "label": "Boxholms kommun",
     "label_en": "Boxholm Municipality",
+    "names": [
+      "Boxholm",
+      "Boxholm kommun"
+    ],
     "orgnr": "2120000407",
     "replaced_by": []
   },
@@ -4916,6 +6555,9 @@
     "kommunkod": "0885",
     "label": "Borgholms kommun",
     "label_en": "Borgholm Municipality",
+    "names": [
+      "Borgholm kommun"
+    ],
     "orgnr": "2120000795",
     "replaced_by": []
   },
@@ -4925,6 +6567,10 @@
     "kommunkod": "0381",
     "label": "Enköpings kommun",
     "label_en": "Enköping Municipality",
+    "names": [
+      "Enköping",
+      "Enköping kommun"
+    ],
     "orgnr": "2120000282",
     "replaced_by": []
   },
@@ -4934,6 +6580,10 @@
     "kommunkod": "0617",
     "label": "Gnosjö kommun",
     "label_en": "Gnosjö Municipality",
+    "names": [
+      "Gnosjö",
+      "Gnosjös kommun"
+    ],
     "orgnr": "2120000506",
     "replaced_by": []
   },
@@ -4943,6 +6593,9 @@
     "kommunkod": "1883",
     "label": "Karlskoga kommun",
     "label_en": "Karlskoga Municipality",
+    "names": [
+      "Karlskogas kommun"
+    ],
     "orgnr": "2120001991",
     "replaced_by": []
   },
@@ -4952,6 +6605,9 @@
     "kommunkod": "2029",
     "label": "Leksands kommun",
     "label_en": "Leksand Municipality",
+    "names": [
+      "Leksand kommun"
+    ],
     "orgnr": "2120002163",
     "replaced_by": []
   },
@@ -4961,6 +6617,10 @@
     "kommunkod": "0563",
     "label": "Valdemarsviks kommun",
     "label_en": "Valdemarsvik Municipality",
+    "names": [
+      "Valdemarsvik",
+      "Valdemarsvik kommun"
+    ],
     "orgnr": "2120000431",
     "replaced_by": []
   },
@@ -4970,6 +6630,9 @@
     "kommunkod": "2180",
     "label": "Gävle kommun",
     "label_en": "Gävle Municipality",
+    "names": [
+      "Gävles kommun"
+    ],
     "orgnr": "2120002338",
     "replaced_by": []
   },
@@ -4979,6 +6642,10 @@
     "kommunkod": "1737",
     "label": "Torsby kommun",
     "label_en": "Torsby Municipality",
+    "names": [
+      "Torsby",
+      "Torsbys kommun"
+    ],
     "orgnr": "2120001777",
     "replaced_by": []
   },
@@ -4988,6 +6655,10 @@
     "kommunkod": "0360",
     "label": "Tierps kommun",
     "label_en": "Tierp Municipality",
+    "names": [
+      "Tierp",
+      "Tierp kommun"
+    ],
     "orgnr": "2120000266",
     "replaced_by": []
   },
@@ -4997,6 +6668,10 @@
     "kommunkod": "1082",
     "label": "Karlshamns kommun",
     "label_en": "Karlshamn Municipality",
+    "names": [
+      "Karlshamn",
+      "Karlshamn kommun"
+    ],
     "orgnr": "2120000845",
     "replaced_by": []
   },
@@ -5006,6 +6681,10 @@
     "kommunkod": "0821",
     "label": "Högsby kommun",
     "label_en": "Högsby Municipality",
+    "names": [
+      "Högsby",
+      "Högsbys kommun"
+    ],
     "orgnr": "2120000688",
     "replaced_by": []
   },
@@ -5015,6 +6694,10 @@
     "kommunkod": "2583",
     "label": "Haparanda kommun",
     "label_en": "Haparanda Municipality",
+    "names": [
+      "Haparanda",
+      "Haparandas kommun"
+    ],
     "orgnr": "2120002775",
     "replaced_by": []
   },
@@ -5024,6 +6707,10 @@
     "kommunkod": "1781",
     "label": "Kristinehamns kommun",
     "label_en": "Kristinehamn Municipality",
+    "names": [
+      "Kristinehamn",
+      "Kristinehamn kommun"
+    ],
     "orgnr": "2120001868",
     "replaced_by": []
   },
@@ -5033,6 +6720,10 @@
     "kommunkod": "1435",
     "label": "Tanums kommun",
     "label_en": "Tanum Municipality",
+    "names": [
+      "Tanum",
+      "Tanum kommun"
+    ],
     "orgnr": "2120001348",
     "replaced_by": []
   },
@@ -5042,6 +6733,10 @@
     "kommunkod": "1462",
     "label": "Lilla Edets kommun",
     "label_en": "Lilla Edet Municipality",
+    "names": [
+      "Lilla Edet",
+      "Lilla Edet kommun"
+    ],
     "orgnr": "2120001496",
     "replaced_by": []
   },
@@ -5051,6 +6746,9 @@
     "kommunkod": "0305",
     "label": "Håbo kommun",
     "label_en": "Håbo Municipality",
+    "names": [
+      "Håbos kommun"
+    ],
     "orgnr": "2120000241",
     "replaced_by": []
   },
@@ -5060,6 +6758,10 @@
     "kommunkod": "1481",
     "label": "Mölndals kommun",
     "label_en": "Mölndal Municipality",
+    "names": [
+      "Mölndal",
+      "Mölndal kommun"
+    ],
     "orgnr": "2120001363",
     "replaced_by": []
   },
@@ -5069,6 +6771,10 @@
     "kommunkod": "1471",
     "label": "Götene kommun",
     "label_en": "Götene Municipality",
+    "names": [
+      "Götene",
+      "Götenes kommun"
+    ],
     "orgnr": "2120001652",
     "replaced_by": []
   },
@@ -5078,6 +6784,10 @@
     "kommunkod": "1442",
     "label": "Vårgårda kommun",
     "label_en": "Vårgårda Municipality",
+    "names": [
+      "Vårgårda",
+      "Vårgårdas kommun"
+    ],
     "orgnr": "2120001454",
     "replaced_by": []
   },
@@ -5087,6 +6797,10 @@
     "kommunkod": "1260",
     "label": "Bjuvs kommun",
     "label_en": "Bjuv Municipality",
+    "names": [
+      "Bjuv",
+      "Bjuv kommun"
+    ],
     "orgnr": "2120001041",
     "replaced_by": []
   },
@@ -5096,6 +6810,10 @@
     "kommunkod": "1785",
     "label": "Säffle kommun",
     "label_en": "Säffle Municipality",
+    "names": [
+      "Säffle",
+      "Säffles kommun"
+    ],
     "orgnr": "2120001900",
     "replaced_by": []
   },
@@ -5105,6 +6823,10 @@
     "kommunkod": "1233",
     "label": "Vellinge kommun",
     "label_en": "Vellinge Municipality",
+    "names": [
+      "Vellinge",
+      "Vellinges kommun"
+    ],
     "orgnr": "2120001033",
     "replaced_by": []
   },
@@ -5114,6 +6836,10 @@
     "kommunkod": "1784",
     "label": "Arvika kommun",
     "label_en": "Arvika Municipality",
+    "names": [
+      "Arvika",
+      "Arvikas kommun"
+    ],
     "orgnr": "2120001892",
     "replaced_by": []
   },
@@ -5123,6 +6849,10 @@
     "kommunkod": "1482",
     "label": "Kungälvs kommun",
     "label_en": "Kungälv Municipality",
+    "names": [
+      "Kungälv",
+      "Kungälv kommun"
+    ],
     "orgnr": "2120001371",
     "replaced_by": []
   },
@@ -5132,6 +6862,9 @@
     "kommunkod": "1783",
     "label": "Hagfors kommun",
     "label_en": "Hagfors Municipality",
+    "names": [
+      "Hagfors"
+    ],
     "orgnr": "2120001884",
     "replaced_by": []
   },
@@ -5141,6 +6874,10 @@
     "kommunkod": "1487",
     "label": "Vänersborgs kommun",
     "label_en": "Vänersborg Municipality",
+    "names": [
+      "Vänersborg",
+      "Vänersborg kommun"
+    ],
     "orgnr": "2120001538",
     "replaced_by": []
   },
@@ -5150,6 +6887,10 @@
     "kommunkod": "1415",
     "label": "Stenungsunds kommun",
     "label_en": "Stenungsund Municipality",
+    "names": [
+      "Stenungsund",
+      "Stenungsund kommun"
+    ],
     "orgnr": "2120001298",
     "replaced_by": []
   },
@@ -5159,6 +6900,10 @@
     "kommunkod": "0860",
     "label": "Hultsfreds kommun",
     "label_en": "Hultsfred Municipality",
+    "names": [
+      "Hultsfred",
+      "Hultsfred kommun"
+    ],
     "orgnr": "2120000712",
     "replaced_by": []
   },
@@ -5168,6 +6913,10 @@
     "kommunkod": "0686",
     "label": "Eksjö kommun",
     "label_en": "Eksjö Municipality",
+    "names": [
+      "Eksjö",
+      "Eksjös kommun"
+    ],
     "orgnr": "2120000589",
     "replaced_by": []
   },
@@ -5177,6 +6926,10 @@
     "kommunkod": "2510",
     "label": "Jokkmokks kommun",
     "label_en": "Jokkmokk Municipality",
+    "names": [
+      "Jokkmokk",
+      "Jokkmokk kommun"
+    ],
     "orgnr": "2120002676",
     "replaced_by": []
   },
@@ -5186,6 +6939,10 @@
     "kommunkod": "1261",
     "label": "Kävlinge kommun",
     "label_en": "Kävlinge Municipality",
+    "names": [
+      "Kävlinge",
+      "Kävlinges kommun"
+    ],
     "orgnr": "2120001058",
     "replaced_by": []
   },
@@ -5195,6 +6952,9 @@
     "kommunkod": "2361",
     "label": "Härjedalens kommun",
     "label_en": "Härjedalen Municipality",
+    "names": [
+      "Härjedalen kommun"
+    ],
     "orgnr": "2120002510",
     "replaced_by": []
   },
@@ -5204,6 +6964,10 @@
     "kommunkod": "2309",
     "label": "Krokoms kommun",
     "label_en": "Krokom Municipality",
+    "names": [
+      "Krokom",
+      "Krokom kommun"
+    ],
     "orgnr": "2120002478",
     "replaced_by": []
   },
@@ -5213,6 +6977,9 @@
     "kommunkod": "2401",
     "label": "Nordmalings kommun",
     "label_en": "Nordmaling Municipality",
+    "names": [
+      "Nordmaling kommun"
+    ],
     "orgnr": "2120002536",
     "replaced_by": []
   },
@@ -5222,6 +6989,10 @@
     "kommunkod": "1864",
     "label": "Ljusnarsbergs kommun",
     "label_en": "Ljusnarsberg Municipality",
+    "names": [
+      "Ljusnarsberg",
+      "Ljusnarsberg kommun"
+    ],
     "orgnr": "2120001959",
     "replaced_by": []
   },
@@ -5231,6 +7002,9 @@
     "kommunkod": "0840",
     "label": "Mörbylånga kommun",
     "label_en": "Mörbylånga Municipality",
+    "names": [
+      "Mörbylångas kommun"
+    ],
     "orgnr": "2120000704",
     "replaced_by": []
   },
@@ -5240,6 +7014,10 @@
     "kommunkod": "2313",
     "label": "Strömsunds kommun",
     "label_en": "Strömsund Municipality",
+    "names": [
+      "Strömsund",
+      "Strömsund kommun"
+    ],
     "orgnr": "2120002486",
     "replaced_by": []
   },
@@ -5249,6 +7027,10 @@
     "kommunkod": "2132",
     "label": "Nordanstigs kommun",
     "label_en": "Nordanstig Municipality",
+    "names": [
+      "Nordanstig",
+      "Nordanstig kommun"
+    ],
     "orgnr": "2120002312",
     "replaced_by": []
   },
@@ -5258,6 +7040,7 @@
     "kommunkod": "2282",
     "label": "Kramfors kommun",
     "label_en": "Kramfors Municipality",
+    "names": [],
     "orgnr": "2120002429",
     "replaced_by": []
   },
@@ -5267,6 +7050,10 @@
     "kommunkod": "1162",
     "label": "Bromölla kommun",
     "label_en": "Bromölla Municipality",
+    "names": [
+      "Bromölla",
+      "Bromöllas kommun"
+    ],
     "orgnr": "2120000894",
     "replaced_by": []
   },
@@ -5276,6 +7063,10 @@
     "kommunkod": "1885",
     "label": "Lindesbergs kommun",
     "label_en": "Lindesberg Municipality",
+    "names": [
+      "Lindesberg",
+      "Lindesberg kommun"
+    ],
     "orgnr": "2120002015",
     "replaced_by": []
   },
@@ -5285,6 +7076,9 @@
     "kommunkod": "2161",
     "label": "Ljusdals kommun",
     "label_en": "Ljusdal Municipality",
+    "names": [
+      "Ljusdal kommun"
+    ],
     "orgnr": "2120002320",
     "replaced_by": []
   },
@@ -5294,6 +7088,9 @@
     "kommunkod": "0861",
     "label": "Mönsterås kommun",
     "label_en": "Mönsterås Municipality",
+    "names": [
+      "Mönsterås"
+    ],
     "orgnr": "2120000720",
     "replaced_by": []
   },
@@ -5303,6 +7100,10 @@
     "kommunkod": "1264",
     "label": "Skurups kommun",
     "label_en": "Skurup Municipality",
+    "names": [
+      "Skurup",
+      "Skurup kommun"
+    ],
     "orgnr": "2120001082",
     "replaced_by": []
   },
@@ -5312,6 +7113,10 @@
     "kommunkod": "1814",
     "label": "Lekebergs kommun",
     "label_en": "Lekeberg Municipality",
+    "names": [
+      "Lekeberg",
+      "Lekeberg kommun"
+    ],
     "orgnr": "2120002981",
     "replaced_by": []
   },
@@ -5321,6 +7126,10 @@
     "kommunkod": "0513",
     "label": "Kinda kommun",
     "label_en": "Kinda Municipality",
+    "names": [
+      "Kinda",
+      "Kindas kommun"
+    ],
     "orgnr": "2120000399",
     "replaced_by": []
   },
@@ -5330,6 +7139,10 @@
     "kommunkod": "0881",
     "label": "Nybro kommun",
     "label_en": "Nybro Municipality",
+    "names": [
+      "Nybro",
+      "Nybros kommun"
+    ],
     "orgnr": "2120000753",
     "replaced_by": []
   },
@@ -5339,6 +7152,9 @@
     "kommunkod": "1860",
     "label": "Laxå kommun",
     "label_en": "Laxå Municipality",
+    "names": [
+      "Laxå"
+    ],
     "orgnr": "2120001918",
     "replaced_by": []
   },
@@ -5348,6 +7164,11 @@
     "kommunkod": "2303",
     "label": "Ragunda kommun",
     "label_en": "Ragunda Municipality",
+    "names": [
+      "RK",
+      "Ragunda",
+      "Ragundas kommun"
+    ],
     "orgnr": "2120002452",
     "replaced_by": []
   },
@@ -5357,6 +7178,9 @@
     "kommunkod": "1494",
     "label": "Lidköpings kommun",
     "label_en": "Lidköping Municipality",
+    "names": [
+      "Lidköping kommun"
+    ],
     "orgnr": "2120001694",
     "replaced_by": []
   },
@@ -5366,6 +7190,10 @@
     "kommunkod": "1081",
     "label": "Ronneby kommun",
     "label_en": "Ronneby Municipality",
+    "names": [
+      "Ronneby",
+      "Ronnebys kommun"
+    ],
     "orgnr": "2120000837",
     "replaced_by": []
   },
@@ -5375,6 +7203,10 @@
     "kommunkod": "1083",
     "label": "Sölvesborgs kommun",
     "label_en": "Sölvesborg Municipality",
+    "names": [
+      "Sölvesborg",
+      "Sölvesborg kommun"
+    ],
     "orgnr": "2120000852",
     "replaced_by": []
   },
@@ -5384,6 +7216,10 @@
     "kommunkod": "0883",
     "label": "Västerviks kommun",
     "label_en": "Västervik Municipality",
+    "names": [
+      "Västervik",
+      "Västervik kommun"
+    ],
     "orgnr": "2120000779",
     "replaced_by": []
   },
@@ -5393,6 +7229,10 @@
     "kommunkod": "0763",
     "label": "Tingsryds kommun",
     "label_en": "Tingsryd Municipality",
+    "names": [
+      "Tingsryd",
+      "Tingsryd kommun"
+    ],
     "orgnr": "2120000621",
     "replaced_by": []
   },
@@ -5402,6 +7242,10 @@
     "kommunkod": "0760",
     "label": "Uppvidinge kommun",
     "label_en": "Uppvidinge Municipality",
+    "names": [
+      "Uppvidinge",
+      "Uppvidinges kommun"
+    ],
     "orgnr": "2120000605",
     "replaced_by": []
   },
@@ -5411,6 +7255,10 @@
     "kommunkod": "1160",
     "label": "Tomelilla kommun",
     "label_en": "Tomelilla Municipality",
+    "names": [
+      "Tomelilla",
+      "Tomelillas kommun"
+    ],
     "orgnr": "2120000886",
     "replaced_by": []
   },
@@ -5420,6 +7268,9 @@
     "kommunkod": "0834",
     "label": "Torsås kommun",
     "label_en": "Torsås Municipality",
+    "names": [
+      "Torsås"
+    ],
     "orgnr": "2120000696",
     "replaced_by": []
   },
@@ -5429,6 +7280,10 @@
     "kommunkod": "0582",
     "label": "Söderköpings kommun",
     "label_en": "Söderköping Municipality",
+    "names": [
+      "Söderköping",
+      "Söderköping kommun"
+    ],
     "orgnr": "2120000464",
     "replaced_by": []
   },
@@ -5438,6 +7293,10 @@
     "kommunkod": "0512",
     "label": "Ydre kommun",
     "label_en": "Ydre Municipality",
+    "names": [
+      "Ydre",
+      "Ydres kommun"
+    ],
     "orgnr": "2120000381",
     "replaced_by": []
   },
@@ -5447,6 +7306,10 @@
     "kommunkod": "1263",
     "label": "Svedala kommun",
     "label_en": "Svedala Municipality",
+    "names": [
+      "Svedala",
+      "Svedalas kommun"
+    ],
     "orgnr": "2120001074",
     "replaced_by": []
   },
@@ -5456,6 +7319,10 @@
     "kommunkod": "2462",
     "label": "Vilhelmina kommun",
     "label_en": "Vilhelmina Municipality",
+    "names": [
+      "Vilhelmina",
+      "Vilhelminas kommun"
+    ],
     "orgnr": "2120002601",
     "replaced_by": []
   },
@@ -5465,6 +7332,9 @@
     "kommunkod": "0584",
     "label": "Vadstena kommun",
     "label_en": "Vadstena Municipality",
+    "names": [
+      "Vadstenas kommun"
+    ],
     "orgnr": "2120002825",
     "replaced_by": []
   },
@@ -5474,6 +7344,10 @@
     "kommunkod": "0128",
     "label": "Salems kommun",
     "label_en": "Salem Municipality",
+    "names": [
+      "Salem",
+      "Salem kommun"
+    ],
     "orgnr": "2120002874",
     "replaced_by": []
   },
@@ -5483,6 +7357,10 @@
     "kommunkod": "0331",
     "label": "Heby kommun",
     "label_en": "Heby Municipality",
+    "names": [
+      "Heby",
+      "Hebys kommun"
+    ],
     "orgnr": "2120002049",
     "replaced_by": []
   },
@@ -5492,6 +7370,9 @@
     "kommunkod": "0181",
     "label": "Södertälje kommun",
     "label_en": "Södertälje Municipality",
+    "names": [
+      "Södertäljes kommun"
+    ],
     "orgnr": "2120000159",
     "replaced_by": [
       "Q499460"
@@ -5503,6 +7384,7 @@
     "kind": "myndighet",
     "label": "Brottsoffermyndigheten",
     "label_en": "Crime Victim Compensation and Support Authority",
+    "names": [],
     "orgnr": "2021003435",
     "replaced_by": []
   },
@@ -5512,6 +7394,11 @@
     "kommunkod": "1480",
     "label": "Göteborgs kommun",
     "label_en": "Gothenburg Municipality",
+    "names": [
+      "Göteborg kommun",
+      "Göteborg stad",
+      "Göteborgs stad"
+    ],
     "orgnr": "2120001355",
     "replaced_by": []
   },
@@ -5521,6 +7408,9 @@
     "kind": "myndighet",
     "label": "Försvarets materielverk",
     "label_en": "Defence Materiel Administration",
+    "names": [
+      "FMV"
+    ],
     "orgnr": "2021000340",
     "replaced_by": []
   },
@@ -5530,6 +7420,10 @@
     "kind": "myndighet",
     "label": "Statens Järnvägar",
     "label_en": "Statens Järnvägar",
+    "names": [
+      "Kungl. Järnvägsstyrelsen",
+      "Kungliga Järnvägsstyrelsen"
+    ],
     "replaced_by": []
   },
   "Q52918": {
@@ -5538,6 +7432,15 @@
     "kind": "myndighet",
     "label": "Televerket",
     "label_en": "Televerket",
+    "names": [
+      "Kongl. Elecktriska Telegraf-Werket",
+      "Kongl. Telegrafverket",
+      "Kongliga Elecktriska Telegraf-Werket",
+      "Kongliga Telegrafverket",
+      "Kungl. Telegrafverket",
+      "Kungliga Telegrafverket",
+      "Telegrafverket"
+    ],
     "replaced_by": []
   },
   "Q537526": {
@@ -5546,6 +7449,13 @@
     "kind": "myndighet",
     "label": "Högskolan Dalarna",
     "label_en": "Dalarna University",
+    "names": [
+      "Dalarna University",
+      "Dalarnas Universitet",
+      "Högskolan i Dalarna",
+      "högskolan i Falun-Borlänge",
+      "högskolan i Falun/Borlänge"
+    ],
     "orgnr": "2021002908",
     "replaced_by": []
   },
@@ -5555,6 +7465,7 @@
     "kind": "myndighet",
     "label": "Jämställdhetsombudsmannen",
     "label_en": "Office of the Equal Opportunities Ombudsman",
+    "names": [],
     "replaced_by": []
   },
   "Q5449671": {
@@ -5563,6 +7474,7 @@
     "kind": "myndighet",
     "label": "Finansinspektionen",
     "label_en": "Financial Supervisory Authority",
+    "names": [],
     "orgnr": "2021004235",
     "replaced_by": []
   },
@@ -5572,6 +7484,7 @@
     "kind": "myndighet",
     "label": "Kammarkollegiet",
     "label_en": "Legal, Financial and Administrative Services Agency",
+    "names": [],
     "orgnr": "2021000829",
     "replaced_by": []
   },
@@ -5581,6 +7494,9 @@
     "kind": "myndighet",
     "label": "Högskolan i Gävle",
     "label_en": "University of Gävle",
+    "names": [
+      "Gävle högskola"
+    ],
     "orgnr": "2021002890",
     "replaced_by": []
   },
@@ -5591,6 +7507,10 @@
     "kind": "myndighet",
     "label": "Myndigheten för digital förvaltning",
     "label_en": "Agency for Digital Government",
+    "names": [
+      "DIGG",
+      "Digitaliseringsmyndigheten"
+    ],
     "orgnr": "2021006883",
     "replaced_by": []
   },
@@ -5600,6 +7520,7 @@
     "kind": "myndighet",
     "label": "Högskolan i Kalmar",
     "label_en": "Kalmar University",
+    "names": [],
     "replaced_by": [
       "Q1751928"
     ]
@@ -5610,6 +7531,9 @@
     "kommunkod": "0380",
     "label": "Uppsala kommun",
     "label_en": "Uppsala Municipality",
+    "names": [
+      "Uppsalas kommun"
+    ],
     "orgnr": "2120003005",
     "replaced_by": [
       "Q504465"
@@ -5621,6 +7545,10 @@
     "kommunkod": "0382",
     "label": "Östhammars kommun",
     "label_en": "Östhammar Municipality",
+    "names": [
+      "Östhammar",
+      "Östhammar kommun"
+    ],
     "orgnr": "2120000290",
     "replaced_by": []
   },
@@ -5630,6 +7558,10 @@
     "kommunkod": "0319",
     "label": "Älvkarleby kommun",
     "label_en": "Älvkarleby Municipality",
+    "names": [
+      "Älvkarleby",
+      "Älvkarlebys kommun"
+    ],
     "orgnr": "2120000258",
     "replaced_by": []
   },
@@ -5639,6 +7571,10 @@
     "kommunkod": "0665",
     "label": "Vaggeryds kommun",
     "label_en": "Vaggeryd Municipality",
+    "names": [
+      "Vaggeryd",
+      "Vaggeryd kommun"
+    ],
     "orgnr": "2120000522",
     "replaced_by": []
   },
@@ -5647,6 +7583,7 @@
     "kind": "myndighet",
     "label": "Etikprövningsmyndigheten",
     "label_en": "Swedish Ethical Review Authority",
+    "names": [],
     "orgnr": "2021006925",
     "replaced_by": []
   },
@@ -5656,6 +7593,7 @@
     "kind": "myndighet",
     "label": "Jämställdhetsmyndigheten",
     "label_en": "Swedish Gender Equality Agency",
+    "names": [],
     "orgnr": "2021006693",
     "replaced_by": []
   },
@@ -5665,6 +7603,7 @@
     "kind": "kommun",
     "kommunkod": "2461",
     "label": "Holmsunds kommun",
+    "names": [],
     "replaced_by": [
       "Q507709"
     ]
@@ -5675,6 +7614,7 @@
     "kind": "kommun",
     "kommunkod": "1360",
     "label": "Oskarströms kommun",
+    "names": [],
     "replaced_by": [
       "Q504692"
     ]
@@ -5685,6 +7625,7 @@
     "kind": "kommun",
     "kommunkod": "2361",
     "label": "Svegs kommun",
+    "names": [],
     "replaced_by": [
       "Q513421"
     ]
@@ -5695,6 +7636,7 @@
     "kind": "kommun",
     "kommunkod": "2418",
     "label": "Malå kommun",
+    "names": [],
     "replaced_by": [
       "Q507644"
     ]
@@ -5705,6 +7647,9 @@
     "kommunkod": "2104",
     "label": "Hofors kommun",
     "label_en": "Hofors Municipality",
+    "names": [
+      "Hofors"
+    ],
     "orgnr": "2120002296",
     "replaced_by": []
   },
@@ -5714,6 +7659,7 @@
     "kommunkod": "2183",
     "label": "Bollnäs kommun",
     "label_en": "Bollnäs Municipality",
+    "names": [],
     "orgnr": "2120002361",
     "replaced_by": []
   },
@@ -5723,6 +7669,7 @@
     "kind": "myndighet",
     "label": "Barnombudsmannen",
     "label_en": "Ombudsman for Children in Sweden",
+    "names": [],
     "orgnr": "2021003690",
     "replaced_by": []
   },
@@ -5732,6 +7679,9 @@
     "kind": "myndighet",
     "label": "Riksantikvarieämbetet",
     "label_en": "Swedish National Heritage Board",
+    "names": [
+      "RAÄ"
+    ],
     "orgnr": "2021001090",
     "replaced_by": []
   },
@@ -5741,6 +7691,7 @@
     "kind": "myndighet",
     "label": "Ekonomiska rådet",
     "label_en": "Ekonomiska rådet",
+    "names": [],
     "replaced_by": []
   },
   "Q65195567": {
@@ -5748,6 +7699,7 @@
     "kind": "myndighet",
     "label": "Klimatpolitiska rådet",
     "label_en": "Swedish Climate Policy Council",
+    "names": [],
     "orgnr": "2021006719",
     "replaced_by": []
   },
@@ -5757,6 +7709,7 @@
     "kind": "myndighet",
     "label": "Högskoleverket",
     "label_en": "National Agency for Higher Education",
+    "names": [],
     "replaced_by": []
   },
   "Q6971047": {
@@ -5764,6 +7717,7 @@
     "kind": "myndighet",
     "label": "Allmänna reklamationsnämnden",
     "label_en": "The National Board for Consumer Disputes",
+    "names": [],
     "orgnr": "2021003625",
     "replaced_by": []
   },
@@ -5773,6 +7727,7 @@
     "kind": "myndighet",
     "label": "Socialstyrelsen",
     "label_en": "National Board of Health and Welfare",
+    "names": [],
     "orgnr": "2021000555",
     "replaced_by": []
   },
@@ -5782,6 +7737,9 @@
     "kind": "myndighet",
     "label": "Centrala studiestödsnämnden",
     "label_en": "Swedish Board for Study Support",
+    "names": [
+      "CSN"
+    ],
     "orgnr": "2021001819",
     "replaced_by": []
   },
@@ -5791,6 +7749,7 @@
     "kind": "myndighet",
     "label": "Exportkreditnämnden",
     "label_en": "Swedish Export Credits Guarantee Board",
+    "names": [],
     "orgnr": "2021002098",
     "replaced_by": []
   },
@@ -5800,6 +7759,9 @@
     "kind": "myndighet",
     "label": "Livsmedelsverket",
     "label_en": "National Food Agency",
+    "names": [
+      "Statens livsmedelsverk"
+    ],
     "orgnr": "2021001850",
     "replaced_by": []
   },
@@ -5809,6 +7771,7 @@
     "kind": "myndighet",
     "label": "Konjunkturinstitutet",
     "label_en": "National Institute of Economic Research",
+    "names": [],
     "orgnr": "2021000845",
     "replaced_by": []
   },
@@ -5818,6 +7781,9 @@
     "kind": "myndighet",
     "label": "Kriminalvården",
     "label_en": "Swedish Prison and Probation Service",
+    "names": [
+      "Kriminalvårdsverket"
+    ],
     "orgnr": "2021000225",
     "replaced_by": []
   },
@@ -5827,6 +7793,7 @@
     "kind": "myndighet",
     "label": "Justitiekanslern",
     "label_en": "Chancellor of Justice",
+    "names": [],
     "orgnr": "2021000035",
     "replaced_by": []
   },
@@ -5835,6 +7802,9 @@
     "kind": "myndighet",
     "label": "Styrelsen för ackreditering och teknisk kontroll",
     "label_en": "Swedish Board for Accreditation and Conformity Assessment",
+    "names": [
+      "SWEDAC"
+    ],
     "orgnr": "2021003815",
     "replaced_by": []
   },
@@ -5844,6 +7814,9 @@
     "kind": "myndighet",
     "label": "Statens jordbruksverk",
     "label_en": "Swedish Board of Agriculture",
+    "names": [
+      "Jordbruksverket"
+    ],
     "orgnr": "2021004151",
     "replaced_by": []
   },
@@ -5853,6 +7826,7 @@
     "kind": "myndighet",
     "label": "Fortifikationsverket",
     "label_en": "National Fortifications Administration",
+    "names": [],
     "orgnr": "2021004607",
     "replaced_by": []
   },
@@ -5862,6 +7836,7 @@
     "kind": "myndighet",
     "label": "Svenska institutet i Alexandria",
     "label_en": "Swedish Institute Alexandria",
+    "names": [],
     "replaced_by": []
   },
   "Q7654721": {
@@ -5870,6 +7845,12 @@
     "kind": "myndighet",
     "label": "Institutet för språk och folkminnen",
     "label_en": "Swedish Institute for Language and Folklore",
+    "names": [
+      "DOVA",
+      "Dialekt- och ortnamnsarkiven samt Svenskt visarkiv",
+      "ISOF",
+      "Språk- och folkminnesinstitutet"
+    ],
     "orgnr": "2021001082",
     "replaced_by": []
   },
@@ -5879,6 +7860,7 @@
     "kind": "myndighet",
     "label": "Försvarshögskolan",
     "label_en": "Swedish Defence University",
+    "names": [],
     "replaced_by": []
   },
   "Q7654780": {
@@ -5887,6 +7869,10 @@
     "kind": "myndighet",
     "label": "Statskontoret",
     "label_en": "The Swedish Agency for Financial and Public Management",
+    "names": [
+      "ESV",
+      "Ekonomistyrningsverket"
+    ],
     "orgnr": "2021005026",
     "replaced_by": []
   },
@@ -5896,6 +7882,9 @@
     "kind": "myndighet",
     "label": "Statens växtsortnämnd",
     "label_en": "Swedish National Plant Variety Board",
+    "names": [
+      "SVN"
+    ],
     "replaced_by": []
   },
   "Q7654818": {
@@ -5904,6 +7893,7 @@
     "kind": "myndighet",
     "label": "Post- och telestyrelsen",
     "label_en": "Swedish Post and Telecom Agency",
+    "names": [],
     "orgnr": "2021004359",
     "replaced_by": []
   },
@@ -5913,6 +7903,7 @@
     "kind": "myndighet",
     "label": "Vetenskapsrådet",
     "label_en": "Swedish Research Council",
+    "names": [],
     "orgnr": "2021005208",
     "replaced_by": []
   },
@@ -5922,6 +7913,7 @@
     "kind": "myndighet",
     "label": "Statens utsädeskontroll",
     "label_en": "Swedish Seed Testing and Certification Institute",
+    "names": [],
     "replaced_by": []
   },
   "Q782600": {
@@ -5930,6 +7922,7 @@
     "kind": "myndighet",
     "label": "Linköpings universitet",
     "label_en": "Linköping University",
+    "names": [],
     "orgnr": "2021003096",
     "replaced_by": []
   },
@@ -5938,6 +7931,7 @@
     "kind": "myndighet",
     "label": "Försvarsmakten",
     "label_en": "Swedish Armed Forces",
+    "names": [],
     "orgnr": "2021004615",
     "replaced_by": []
   },
@@ -5947,6 +7941,9 @@
     "kind": "myndighet",
     "label": "Högskolan Väst",
     "label_en": "University West",
+    "names": [
+      "Högskolan i Trollhättan-Uddevalla"
+    ],
     "orgnr": "2021004052",
     "replaced_by": []
   },
@@ -5955,6 +7952,7 @@
     "kind": "myndighet",
     "label": "Svenska Ilo-kommittén",
     "label_en": "Swedish ILO Committee",
+    "names": [],
     "orgnr": "2021005877",
     "replaced_by": []
   },
@@ -5962,6 +7960,7 @@
     "department": "Miljödepartementet",
     "kind": "myndighet",
     "label": "Lokala säkerhetsnämnden vid Barsebäck",
+    "names": [],
     "orgnr": "2021006727",
     "replaced_by": []
   },
@@ -5969,6 +7968,7 @@
     "department": "Miljödepartementet",
     "kind": "myndighet",
     "label": "Lokala säkerhetsnämnden vid Forsmark",
+    "names": [],
     "orgnr": "2021006735",
     "replaced_by": []
   },
@@ -5976,6 +7976,7 @@
     "department": "Miljödepartementet",
     "kind": "myndighet",
     "label": "Lokala säkerhetsnämnden vid Oskarshamn",
+    "names": [],
     "orgnr": "2021006743",
     "replaced_by": []
   },
@@ -5983,6 +7984,7 @@
     "department": "Miljödepartementet",
     "kind": "myndighet",
     "label": "Lokala säkerhetsnämnden vid Ringhals",
+    "names": [],
     "orgnr": "2021006750",
     "replaced_by": []
   },
@@ -5991,6 +7993,7 @@
     "dissolved": "2022-12-31T00:00:00Z",
     "kind": "myndighet",
     "label": "Lokala säkerhetsnämnden vid Studsvik",
+    "names": [],
     "orgnr": "2021006768",
     "replaced_by": []
   },
@@ -6001,6 +8004,7 @@
     "kind": "myndighet",
     "label": "Myndigheten för arbetsmiljökunskap",
     "label_en": "Swedish Agency for Work Environment Expertise",
+    "names": [],
     "orgnr": "2021006875",
     "replaced_by": []
   },
@@ -6009,6 +8013,7 @@
     "kind": "myndighet",
     "label": "Patentombudsnämnden",
     "label_en": "Patent Attorneys Board",
+    "names": [],
     "orgnr": "2021006370",
     "replaced_by": []
   },
@@ -6016,6 +8021,7 @@
     "department": "Försvarsdepartementet",
     "kind": "myndighet",
     "label": "Riksvärderingsnämnden",
+    "names": [],
     "orgnr": "2021006784",
     "replaced_by": [],
     "riksarkivet": "agent/euEFr0N4rX61p03GjpvwY3"
@@ -6025,6 +8031,7 @@
     "kind": "myndighet",
     "label": "Statens tjänstepensions- och grupplivnämnd",
     "label_en": "State Occupational Pensions and Group Life Board",
+    "names": [],
     "orgnr": "2021005851",
     "replaced_by": []
   },
@@ -6033,6 +8040,7 @@
     "kind": "myndighet",
     "label": "Styrelsen för samefonden",
     "label_en": "The Sami Foundation Board",
+    "names": [],
     "orgnr": "2021006800",
     "replaced_by": []
   },
@@ -6041,6 +8049,7 @@
     "kind": "myndighet",
     "label": "Svenska Fao-kommittén",
     "label_en": "The Swedish FAO Committee",
+    "names": [],
     "orgnr": "2021006818",
     "replaced_by": []
   },
@@ -6049,6 +8058,7 @@
     "kind": "myndighet",
     "label": "Utrikesförvaltningens antagningsnämnd",
     "label_en": "Foreign Service Admissions Board",
+    "names": [],
     "orgnr": "2021006826",
     "replaced_by": []
   },
@@ -6057,6 +8067,9 @@
     "kind": "myndighet",
     "label": "Överklagandenämnden för etikprövning",
     "label_en": "The Ethics Review Appeals Board",
+    "names": [
+      "ÖNEP"
+    ],
     "orgnr": "2021005463",
     "replaced_by": []
   },
@@ -6064,6 +8077,7 @@
     "department": "Justitiedepartementet",
     "kind": "myndighet",
     "label": "Överklagandenämnden för nämndemannauppdrag",
+    "names": [],
     "orgnr": "2021006024",
     "replaced_by": []
   },
@@ -6071,6 +8085,7 @@
     "department": "Socialdepartementet",
     "kind": "myndighet",
     "label": "Arvfondsdelegationen",
+    "names": [],
     "orgnr": "2021005950",
     "replaced_by": []
   },
@@ -6080,6 +8095,9 @@
     "kind": "myndighet",
     "label": "Delegationen för folkrättslig granskning av vapenprojekt",
     "label_en": "Delegation for the International Legal Review of Weapons Projects",
+    "names": [
+      "vapenprojektdelegationen"
+    ],
     "orgnr": "2021006842",
     "replaced_by": []
   },
@@ -6087,6 +8105,7 @@
     "department": "Försvarsdepartementet",
     "kind": "myndighet",
     "label": "Granskningsnämnden för försvarsuppfinningar",
+    "names": [],
     "orgnr": "2021006859",
     "replaced_by": []
   },
@@ -6095,6 +8114,7 @@
     "kind": "myndighet",
     "label": "Harpsundsnämnden",
     "label_en": "Harpsund Committee",
+    "names": [],
     "orgnr": "2021004250",
     "replaced_by": []
   },
@@ -6104,15 +8124,25 @@
     "kind": "myndighet",
     "label": "Banverket",
     "label_en": "Swedish National Rail Administration",
+    "names": [
+      "BASUN",
+      "Banverket Projektering",
+      "GIANT",
+      "TFÖR"
+    ],
     "replaced_by": [
-      "Q1677108",
-      "Q10535401"
+      "Q10535401",
+      "Q1677108"
     ]
   },
   "Q8100253": {
     "kind": "region",
     "label": "Region Västernorrland",
     "label_en": "Region Västernorrland",
+    "names": [
+      "Landstinget Västernorrland",
+      "Västernorrlands läns landsting"
+    ],
     "orgnr": "2321000206",
     "replaced_by": []
   },
@@ -6121,6 +8151,9 @@
     "inception": "1637-02-14T00:00:00Z",
     "kind": "myndighet",
     "label": "Bergsstaten",
+    "names": [
+      "Bergstaten"
+    ],
     "replaced_by": []
   },
   "Q836916": {
@@ -6129,6 +8162,12 @@
     "kind": "myndighet",
     "label": "Skatteverket",
     "label_en": "Swedish Tax Agency",
+    "names": [
+      "Riksskatteverket",
+      "SKV",
+      "Skattekontor",
+      "Skattemyndigheten"
+    ],
     "orgnr": "2021005448",
     "replaced_by": []
   },
@@ -6138,6 +8177,10 @@
     "kind": "myndighet",
     "label": "Nationalmuseum",
     "label_en": "Nationalmuseum",
+    "names": [
+      "Nationalmuseet i Stockholm",
+      "Nationalmuseum i Stockholm"
+    ],
     "orgnr": "2021001108",
     "replaced_by": []
   },
@@ -6147,6 +8190,7 @@
     "kind": "myndighet",
     "label": "Statens konstråd",
     "label_en": "National Public Art Council",
+    "names": [],
     "orgnr": "2021001033",
     "replaced_by": []
   },
@@ -6155,6 +8199,13 @@
     "kind": "myndighet",
     "label": "Lantmäteriet",
     "label_en": "Lantmäteriet",
+    "names": [
+      "LM",
+      "Lantmäterikontoret",
+      "Lantmäteristyrelsen",
+      "Lantmäteriverket",
+      "Statens lantmäteriverk"
+    ],
     "orgnr": "2021004888",
     "replaced_by": []
   },
@@ -6164,6 +8215,10 @@
     "kommunkod": "2326",
     "label": "Bergs kommun",
     "label_en": "Berg Municipality",
+    "names": [
+      "Berg",
+      "Berg kommun"
+    ],
     "orgnr": "2120002502",
     "replaced_by": []
   },
@@ -6173,6 +8228,17 @@
     "kind": "myndighet",
     "label": "Kungliga Tekniska högskolan",
     "label_en": "Royal Institute of Technology",
+    "names": [
+      "KTH",
+      "Kungl. tekniska högskolan",
+      "Kungliga Tekniska Högskolan i Stockholm",
+      "Kungliska tekniska högskolan",
+      "Teknis",
+      "Tekniska högskolan",
+      "Tekniska högskolan i Stockholm",
+      "Teknologiska Institutet",
+      "Teknologiska institutet i Stockholm"
+    ],
     "orgnr": "2021003054",
     "replaced_by": []
   },
@@ -6182,6 +8248,9 @@
     "kind": "myndighet",
     "label": "Bolagsverket",
     "label_en": "Swedish Companies Registration Office",
+    "names": [
+      "BV"
+    ],
     "orgnr": "2021005489",
     "replaced_by": []
   },
@@ -6191,9 +8260,12 @@
     "kommunkod": "1490",
     "label": "Borås kommun",
     "label_en": "Borås Municipality",
+    "names": [
+      "Borås",
+      "Borås Stad"
+    ],
     "orgnr": "2120001561",
     "replaced_by": [
-      "Q503102",
       "Q503102"
     ]
   },
@@ -6203,6 +8275,7 @@
     "kind": "myndighet",
     "label": "Boverket",
     "label_en": "National Board of Housing, Building and Planning",
+    "names": [],
     "orgnr": "2021003989",
     "replaced_by": []
   },
@@ -6212,6 +8285,9 @@
     "kind": "myndighet",
     "label": "Statens fastighetsverk",
     "label_en": "National Property Board of Sweden",
+    "names": [
+      "Fastighetsverket"
+    ],
     "orgnr": "2021004474",
     "replaced_by": []
   },
@@ -6221,6 +8297,7 @@
     "kind": "myndighet",
     "label": "Vägverket",
     "label_en": "Swedish Road Administration",
+    "names": [],
     "replaced_by": [
       "Q1677108"
     ]
@@ -6231,6 +8308,10 @@
     "kommunkod": "0182",
     "label": "Nacka kommun",
     "label_en": "Nacka Municipality",
+    "names": [
+      "Nacka",
+      "Nackas kommun"
+    ],
     "orgnr": "2120000167",
     "replaced_by": []
   },
@@ -6240,6 +8321,10 @@
     "kommunkod": "2481",
     "label": "Lycksele kommun",
     "label_en": "Lycksele Municipality",
+    "names": [
+      "Lycksele",
+      "Lyckseles kommun"
+    ],
     "orgnr": "2120002635",
     "replaced_by": []
   },
@@ -6249,6 +8334,11 @@
     "kind": "myndighet",
     "label": "Kungliga biblioteket",
     "label_en": "National Library of Sweden",
+    "names": [
+      "KB",
+      "Kungl. Biblioteket",
+      "Sveriges nationalbibliotek"
+    ],
     "orgnr": "2021001710",
     "replaced_by": []
   },
@@ -6258,6 +8348,10 @@
     "kommunkod": "0183",
     "label": "Sundbybergs kommun",
     "label_en": "Sundbyberg Municipality",
+    "names": [
+      "Sundbyberg",
+      "Sundbyberg kommun"
+    ],
     "orgnr": "2120000175",
     "replaced_by": []
   },
@@ -6267,6 +8361,11 @@
     "kind": "myndighet",
     "label": "Malmö universitet",
     "label_en": "Malmö University",
+    "names": [
+      "Mah",
+      "Malmö högskola",
+      "Mau"
+    ],
     "orgnr": "2021004920",
     "replaced_by": []
   }

@@ -130,6 +130,11 @@ def main():
     scb = fetch("scb_bulk", lambda: scb_bulk.fetch(cache, wanted=frozenset(wanted)), registers)
 
     orgs, labels = {}, {}
+    skipped = Counter()
+
+    def skip(register, key, error):
+        skipped[register] += 1
+        print(f"{register} {key}: skipped, {type(error).__name__}: {error}", file=sys.stderr)
 
     def rec(number, suffix=""):
         key = org_id(number) + suffix
@@ -152,16 +157,19 @@ def main():
             r["same_as"] = sorted(set(r.get("same_as", [])) | extra)
 
     for number, row in scb.items():
-        r = rec(number)
-        r["registered_label"] = row["name"]
-        label(r, "sv", title(row["name"]), "scb_bulk")
-        r["status"] = "active" if row["jestat"] in ("1", "2") and row["ftgstat"] != "9" else "deregistered"
-        r["legal_type"] = {"code": row["legal_form"], "label": scb_bulk.LEGAL_FORMS.get(row["legal_form"], "")}
-        if row["legal_form"] in LEGAL_TYPE_TO_TYPE:
-            r["organisation_type"] = LEGAL_TYPE_TO_TYPE[row["legal_form"]]
-        if row["registered"]:
-            r["established"] = row["registered"]
-        r["source"].append("scb_bulk")
+        try:
+            r = rec(number)
+            r["registered_label"] = row["name"]
+            label(r, "sv", title(row["name"]), "scb_bulk")
+            r["status"] = "active" if row["jestat"] in ("1", "2") and row["ftgstat"] != "9" else "deregistered"
+            r["legal_type"] = {"code": row["legal_form"], "label": scb_bulk.LEGAL_FORMS.get(row["legal_form"], "")}
+            if row["legal_form"] in LEGAL_TYPE_TO_TYPE:
+                r["organisation_type"] = LEGAL_TYPE_TO_TYPE[row["legal_form"]]
+            if row["registered"]:
+                r["established"] = row["registered"]
+            r["source"].append("scb_bulk")
+        except Exception as error:  # noqa: BLE001 - one bad row must not cost the register
+            skip("scb_bulk", number, error)
 
     # Bodies sharing one number (the courts, all under Domstolsverket's) are each their own
     # organisation with a suffixed id and the legal unit as parent. The legal unit is the row
@@ -180,153 +188,177 @@ def main():
     legal_name = {}  # the legal unit's name per shared number, as Myndighetsregistret lists it first
 
     for number, row in state.items():
-        bodies = [row] + row.get("unit", [])
-        registered = scb.get(number, {}).get("name", "").casefold()
-        legal = next((b for b in bodies if b["name"].casefold() == registered), bodies[0])
-        legal_name[number] = legal["name"].casefold()
-        for body in bodies:
-            r = rec(number, "" if body is legal else unit_id(number, body))
-            label(r, "sv", title(body["name"]), "myndighetsregistret")
-            r["state_body_group"] = body["group"]
-            if body is not legal:
-                r["organisation_type"] = "NationalAuthority"
-                r["status"] = orgs[org_id(number)]["status"] if org_id(number) in orgs else "unknown"
-            if body["sfs"]:
-                r["sfs"] = body["sfs"]
-            if body["web"]:
-                r.setdefault("homepage", body["web"] if body["web"].startswith("http") else "https://" + body["web"])
-            if body["email"]:
-                r.setdefault("email", body["email"])
-            r["source"].append("myndighetsregistret")
+        try:
+            bodies = [row] + row.get("unit", [])
+            registered = scb.get(number, {}).get("name", "").casefold()
+            legal = next((b for b in bodies if b["name"].casefold() == registered), bodies[0])
+            legal_name[number] = legal["name"].casefold()
+            for body in bodies:
+                r = rec(number, "" if body is legal else unit_id(number, body))
+                label(r, "sv", title(body["name"]), "myndighetsregistret")
+                r["state_body_group"] = body["group"]
+                if body is not legal:
+                    r["organisation_type"] = "NationalAuthority"
+                    r["status"] = orgs[org_id(number)]["status"] if org_id(number) in orgs else "unknown"
+                if body["sfs"]:
+                    r["sfs"] = body["sfs"]
+                if body["web"]:
+                    r.setdefault("homepage", body["web"] if body["web"].startswith("http") else "https://" + body["web"])
+                if body["email"]:
+                    r.setdefault("email", body["email"])
+                r["source"].append("myndighetsregistret")
+        except Exception as error:  # noqa: BLE001 - one bad row must not cost the register
+            skip("myndighetsregistret", number, error)
 
     # Statskontoret's history sheet: every name a number has carried since 2007; earlier
     # names become aliases of the body that carries the number today.
     for number, entry in history.items():
-        names = list(entry["name"].values())
-        r = rec(number)
-        if number not in listing:  # a body wound up since 2007: its last name and its earlier ones
-            label(r, "sv", names[-1], "statskontoret")
-            if "statskontoret" not in r["source"]:
-                r["source"].append("statskontoret")
-        alias(r, *(n for n in names[:-1] if n != names[-1]))
+        try:
+            names = list(entry["name"].values())
+            r = rec(number)
+            if number not in listing:  # a body wound up since 2007: its last name and its earlier ones
+                label(r, "sv", names[-1], "statskontoret")
+                if "statskontoret" not in r["source"]:
+                    r["source"].append("statskontoret")
+            alias(r, *(n for n in names[:-1] if n != names[-1]))
+        except Exception as error:  # noqa: BLE001 - one bad row must not cost the register
+            skip("statskontoret", number, error)
 
     # Statskontoret's yearly list: abbreviation or former name, instruction and department
     # for every current state body that is its own legal unit.
     for number, row in listing.items():
-        bodies = [row] + row.get("unit", [])
-        known = {scb.get(number, {}).get("name", "").casefold(), legal_name.get(number, "")} - {""}
-        legal = next((b for b in bodies if b["name"].casefold() in known), bodies[0]) if len(bodies) > 1 else row
-        for body in bodies:
-            r = rec(number, "" if body is legal else unit_id(number, body))
-            label(r, "sv", body["name"], "statskontoret")
-            alias(r, *body["alias"])
-            if body is not legal:
-                r.setdefault("organisation_type", "NationalAuthority")
-                r.setdefault("state_body_group", state.get(number, {}).get("group", ""))
-                if r["status"] == "unknown" and org_id(number) in orgs:
-                    r["status"] = orgs[org_id(number)]["status"]
-            if body["sfs"]:
-                if body is legal:
-                    r.setdefault("sfs", body["sfs"])
-                else:
-                    r["sfs"] = body["sfs"]  # Myndighetsregistret gives every court its legal unit's instruction
-            if body["department"]:
-                r.setdefault("department", body["department"])
-            if "statskontoret" not in r["source"]:
-                r["source"].append("statskontoret")
+        try:
+            bodies = [row] + row.get("unit", [])
+            known = {scb.get(number, {}).get("name", "").casefold(), legal_name.get(number, "")} - {""}
+            legal = next((b for b in bodies if b["name"].casefold() in known), bodies[0]) if len(bodies) > 1 else row
+            for body in bodies:
+                r = rec(number, "" if body is legal else unit_id(number, body))
+                label(r, "sv", body["name"], "statskontoret")
+                alias(r, *body["alias"])
+                if body is not legal:
+                    r.setdefault("organisation_type", "NationalAuthority")
+                    r.setdefault("state_body_group", state.get(number, {}).get("group", ""))
+                    if r["status"] == "unknown" and org_id(number) in orgs:
+                        r["status"] = orgs[org_id(number)]["status"]
+                if body["sfs"]:
+                    if body is legal:
+                        r.setdefault("sfs", body["sfs"])
+                    else:
+                        r["sfs"] = body["sfs"]  # Myndighetsregistret gives every court its legal unit's instruction
+                if body["department"]:
+                    r.setdefault("department", body["department"])
+                if "statskontoret" not in r["source"]:
+                    r["source"].append("statskontoret")
+        except Exception as error:  # noqa: BLE001 - one bad row must not cost the register
+            skip("statskontoret", number, error)
 
     links_portal, links_europa, links_wd = {}, {}, {}
     for uri, row in portal.get("registry", {}).items():
-        number = orgnr(uri) or orgnr(row.get("identifier"))
-        if not number:
-            links_portal[uri] = None
-            continue
-        r = rec(number, suffix_of(uri))
-        for lang, value in row["names"].items():
-            label(r, lang, value, "dataportal")
-        if row.get("type"):
-            r.setdefault("organisation_type", row["type"])
-        if row.get("homepage"):
-            r.setdefault("homepage", row["homepage"])
-        if row.get("email"):
-            r.setdefault("email", row["email"])
-        r["identifier"]["dataportal"] = canonical(number, suffix_of(uri))
-        same_as(r, uri, *row.get("same_as", []))
-        r["source"].append("dataportal")
-        links_portal[uri] = r["id"]
-    for uri, row in portal.get("publishers", {}).items():
-        number = orgnr(uri) or orgnr(row.get("identifier"))
-        links_portal.setdefault(uri, (org_id(number) + suffix_of(uri)) if number else None)
-        if number:
+        try:
+            number = orgnr(uri) or orgnr(row.get("identifier"))
+            if not number:
+                links_portal[uri] = None
+                continue
             r = rec(number, suffix_of(uri))
-            r["identifier"].setdefault("dataportal", canonical(number, suffix_of(uri)))
-            same_as(r, uri)
-            if "dataportal" not in r["source"]:
-                r["source"].append("dataportal")
+            for lang, value in row["names"].items():
+                label(r, lang, value, "dataportal")
+            if row.get("type"):
+                r.setdefault("organisation_type", row["type"])
+            if row.get("homepage"):
+                r.setdefault("homepage", row["homepage"])
+            if row.get("email"):
+                r.setdefault("email", row["email"])
+            r["identifier"]["dataportal"] = canonical(number, suffix_of(uri))
+            same_as(r, uri, *row.get("same_as", []))
+            r["source"].append("dataportal")
+            links_portal[uri] = r["id"]
+        except Exception as error:  # noqa: BLE001 - one bad row must not cost the register
+            skip("dataportal", uri, error)
+    for uri, row in portal.get("publishers", {}).items():
+        try:
+            number = orgnr(uri) or orgnr(row.get("identifier"))
+            links_portal.setdefault(uri, (org_id(number) + suffix_of(uri)) if number else None)
+            if number:
+                r = rec(number, suffix_of(uri))
+                r["identifier"].setdefault("dataportal", canonical(number, suffix_of(uri)))
+                same_as(r, uri)
+                if "dataportal" not in r["source"]:
+                    r["source"].append("dataportal")
+        except Exception as error:  # noqa: BLE001 - one bad row must not cost the register
+            skip("dataportal", uri, error)
 
     for uri, row in europa.items():
-        number = orgnr(uri) or orgnr(row.get("identifier"))
-        links_europa[uri] = (org_id(number) + suffix_of(uri)) if number else None
-        if not number:
-            continue
-        r = rec(number, suffix_of(uri))
-        for lang, value in row["names"].items():
-            label(r, lang, value, "data_europa")
-        if row.get("type"):
-            r.setdefault("organisation_type", row["type"].rsplit("/", 1)[-1])
-        if row.get("homepage"):
-            r.setdefault("homepage", row["homepage"])
-        r["identifier"].setdefault("dataportal", canonical(number, suffix_of(uri)))
-        same_as(r, uri, *row.get("same_as", []))
-        r["source"].append("data_europa")
+        try:
+            number = orgnr(uri) or orgnr(row.get("identifier"))
+            links_europa[uri] = (org_id(number) + suffix_of(uri)) if number else None
+            if not number:
+                continue
+            r = rec(number, suffix_of(uri))
+            for lang, value in row["names"].items():
+                label(r, lang, value, "data_europa")
+            if row.get("type"):
+                r.setdefault("organisation_type", row["type"].rsplit("/", 1)[-1])
+            if row.get("homepage"):
+                r.setdefault("homepage", row["homepage"])
+            r["identifier"].setdefault("dataportal", canonical(number, suffix_of(uri)))
+            same_as(r, uri, *row.get("same_as", []))
+            r["source"].append("data_europa")
+        except Exception as error:  # noqa: BLE001 - one bad row must not cost the register
+            skip("data_europa", uri, error)
 
     qid_to_id = {qid: org_id(row["orgnr"]) for qid, row in wd.items() if row.get("orgnr")}
     for qid, row in wd.items():
-        links_wd[qid] = qid_to_id.get(qid)
-        if not row.get("orgnr"):
-            continue
-        r = rec(row["orgnr"])
-        label(r, "sv", row["label"], "wikidata")
-        if row.get("label_en"):
-            label(r, "en", row["label_en"], "wikidata")
-        r["identifier"]["wikidata"] = qid
-        alias(r, *row.get("names", []))  # former official names and alternative names, e.g. Stockholms läns landsting
-        if row.get("riksarkivet"):
-            r["identifier"]["riksarkivet"] = row["riksarkivet"]
-        if row.get("kommunkod"):
-            r["code"] = {"kommun": row["kommunkod"], "lan": row["kommunkod"][:2]}
-        if row.get("department"):
-            r.setdefault("department", row["department"])
-        if row.get("inception"):
-            r.setdefault("established", row["inception"][:10])
-        if row.get("dissolved"):
-            r["dissolved"] = row["dissolved"][:10]
-            if r["status"] == "unknown":
-                r["status"] = "deregistered"
-        # "replaced by" on a body that still exists records a split-off, not a successor.
-        succ = [qid_to_id[q] for q in row["replaced_by"] if q in qid_to_id] if row.get("dissolved") or r["status"] == "deregistered" else []
-        if succ:
-            r["succeeded_by"] = sorted(set(r.get("succeeded_by", [])) | set(succ))
-        r["source"].append("wikidata")
+        try:
+            links_wd[qid] = qid_to_id.get(qid)
+            if not row.get("orgnr"):
+                continue
+            r = rec(row["orgnr"])
+            label(r, "sv", row["label"], "wikidata")
+            if row.get("label_en"):
+                label(r, "en", row["label_en"], "wikidata")
+            r["identifier"]["wikidata"] = qid
+            alias(r, *row.get("names", []))  # former official names and alternative names, e.g. Stockholms läns landsting
+            if row.get("riksarkivet"):
+                r["identifier"]["riksarkivet"] = row["riksarkivet"]
+            if row.get("kommunkod"):
+                r["code"] = {"kommun": row["kommunkod"], "lan": row["kommunkod"][:2]}
+            if row.get("department"):
+                r.setdefault("department", row["department"])
+            if row.get("inception"):
+                r.setdefault("established", row["inception"][:10])
+            if row.get("dissolved"):
+                r["dissolved"] = row["dissolved"][:10]
+                if r["status"] == "unknown":
+                    r["status"] = "deregistered"
+            # "replaced by" on a body that still exists records a split-off, not a successor.
+            succ = [qid_to_id[q] for q in row["replaced_by"] if q in qid_to_id] if row.get("dissolved") or r["status"] == "deregistered" else []
+            if succ:
+                r["succeeded_by"] = sorted(set(r.get("succeeded_by", [])) | set(succ))
+            r["source"].append("wikidata")
+        except Exception as error:  # noqa: BLE001 - one bad row must not cost the register
+            skip("wikidata", qid, error)
 
     for key, patch in edits["organisation"].items():
-        r = orgs.setdefault(key, {"id": key, "label": {}, "status": "unknown", "identifier": {}, "source": []})
-        for field, value in patch.items():
-            if field == "label":
-                for lang, v in value.items():
-                    label(r, lang, v, "edits")
-            elif field == "identifier":
-                r["identifier"].update(value)
-            elif field == "same_as":
-                same_as(r, *value)
-                for uri in value:
-                    links_europa[uri] = key
-                    links_portal.setdefault(uri, key)
-            elif field == "alias":
-                alias(r, *value)
-            else:
-                r[field] = value
-        r["source"].append("edits")
+        try:
+            r = orgs.setdefault(key, {"id": key, "label": {}, "status": "unknown", "identifier": {}, "source": []})
+            for field, value in patch.items():
+                if field == "label":
+                    for lang, v in value.items():
+                        label(r, lang, v, "edits")
+                elif field == "identifier":
+                    r["identifier"].update(value)
+                elif field == "same_as":
+                    same_as(r, *value)
+                    for uri in value:
+                        links_europa[uri] = key
+                        links_portal.setdefault(uri, key)
+                elif field == "alias":
+                    alias(r, *value)
+                else:
+                    r[field] = value
+            r["source"].append("edits")
+        except Exception as error:  # noqa: BLE001 - one bad row must not cost the register
+            skip("edits", key, error)
 
     for r in orgs.values():
         r["source"] = sorted(set(r["source"]))
@@ -345,7 +377,11 @@ def main():
     # "generated" is the date of the last content change, so an unchanged registry stays byte-identical.
     generated = previous_output.get("generated", report["date"]) if orgs == previous else report["date"]
     dump(OUTPUT, {"generated": generated, "count": len(orgs), "organisation": orgs})
-    export.export(OUTPUT, ROOT / "data_sources.json")
+    try:
+        export.export(OUTPUT, ROOT / "data_sources.json")
+    except Exception as error:  # noqa: BLE001 - dist/ is derived; the product is already written
+        print(f"export: {error}", file=sys.stderr)
+        report["export"] = f"failed: {str(error)[:200]}"
     dump(ROOT / "links" / "dataportal.json", dict(sorted(links_portal.items())))
     dump(ROOT / "links" / "data-europa.json", dict(sorted(links_europa.items())))
     dump(ROOT / "links" / "wikidata.json", dict(sorted(links_wd.items())))
@@ -353,16 +389,18 @@ def main():
     added = sorted(set(orgs) - set(previous))
     removed = sorted(set(previous) - set(orgs))
     changed = sorted(k for k in set(orgs) & set(previous) if orgs[k] != previous[k])
+    for register, n in skipped.items():
+        registers.setdefault(register, {})["skipped"] = n
     report.update({"count": len(orgs), "added": added, "removed": removed, "changed": len(changed),
                    "legal_type": dict(Counter(r.get("legal_type", {}).get("code", "none") for r in orgs.values()))})
     # A stale register is normal operation (statskontoret.se never answers the runner); only a
     # content change or a register with no snapshot at all is worth a report commit.
-    trouble = any(v["status"] == "failed" for v in registers.values())
+    trouble = any(v.get("status") == "failed" or v.get("skipped") for v in registers.values()) or "export" in report
     if added or removed or changed or trouble:
         dump(ROOT / "reports" / f"{report['date']}.json", report)
     print(f"{len(orgs)} organisations: +{len(added)} -{len(removed)} ~{len(changed)}; "
           + ", ".join(f"{k} {v['status']}" for k, v in registers.items()), file=sys.stderr)
-    sys.exit(2 if all(v["status"] == "failed" for v in registers.values()) else 0)
+    sys.exit(2 if all(v.get("status") == "failed" for v in registers.values() if "status" in v) else 0)
 
 
 if __name__ == "__main__":

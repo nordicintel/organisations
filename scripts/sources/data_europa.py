@@ -2,7 +2,7 @@
 import json
 from pathlib import Path
 
-from .common import cached, sparql
+from .common import cached, skip, sparql
 
 ENDPOINT = "https://data.europa.eu/sparql"
 CATALOGUE = "http://data.europa.eu/88u/catalogue/oppnadata"
@@ -29,15 +29,18 @@ def fetch(cache: Path):
     for role in ("publisher", "creator"):
         path = cached(cache, f"data_europa_{role}s.json", lambda role=role: json.dumps(sparql(ENDPOINT, _query(role))).encode())
         for r in json.loads(path.read_text(encoding="utf-8")):
-            uri = r["uri"]["value"]
-            rec = out.setdefault(uri, {"roles": [], "names": {}, "same_as": []})
-            rec["roles"].append(role)
-            for part in (r.get("names", {}).get("value") or "").split("|"):
-                if "@" in part:
-                    name, _, lang = part.rpartition("@")
-                    rec["names"].setdefault(lang or "und", name)
-            for k in ("identifier", "type", "homepage"):
-                if k in r:
-                    rec[k] = r[k]["value"]
-            rec["same_as"] = sorted(set(rec["same_as"]) | {s for s in (r.get("same_as", {}).get("value") or "").split("|") if s})
+            try:
+                uri = r["uri"]["value"]
+                rec = out.setdefault(uri, {"roles": [], "names": {}, "same_as": []})
+                rec["roles"].append(role)
+                for part in (r.get("names", {}).get("value") or "").split("|"):
+                    if "@" in part:
+                        name, _, lang = part.rpartition("@")
+                        rec["names"].setdefault(lang or "und", name)
+                for k in ("identifier", "type", "homepage"):
+                    if k in r:
+                        rec[k] = r[k]["value"]
+                rec["same_as"] = sorted(set(rec["same_as"]) | {s for s in (r.get("same_as", {}).get("value") or "").split("|") if s})
+            except Exception as error:  # noqa: BLE001
+                skip("data_europa", r, error)
     return out

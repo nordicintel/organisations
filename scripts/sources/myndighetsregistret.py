@@ -9,7 +9,7 @@ import json
 import urllib.parse
 from pathlib import Path
 
-from .common import cached, http, orgnr
+from .common import cached, http, orgnr, skip
 
 BASE = "https://myndighetsregistret.scb.se"
 GROUPS = {

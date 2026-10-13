@@ -114,9 +114,14 @@ python scripts/export.py organisations.json data_sources.json  # rewrite dist/ a
 python scripts/validate.py  # schemas and references across all files; run before committing
 ```
 
-A register that cannot be fetched is replaced by its snapshot and reported as
-`stale`; only when every register fails does the build exit non-zero. Builds are
-deterministic, so a diff means a register or an edit changed.
+Failures are contained at three levels. A request that gets a rate limit, a gateway
+error or a network failure is retried a few times with a growing pause. A row a
+register cannot read, or that the build cannot apply, is skipped and logged, counted
+as `skipped` under that register in the report, and the other rows go through. A
+register that still cannot be fetched is replaced by its snapshot and reported as
+`stale`; only when every register fails does the build exit non-zero. The `dist/`
+export failing never fails the build; the report says so. Builds are deterministic,
+so a diff means a register or an edit changed.
 
 Statskontoret is not fetched at all: statskontoret.se does not answer GitHub
 runners or cloud sessions. Its yearly list lives in the repository as
