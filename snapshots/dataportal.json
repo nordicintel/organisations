@@ -1,1973 +1,1605 @@
 {
   "publishers": {
     "http://arsenalen.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/2220000315": {
-      "datasets": "28",
       "identifier": "2220000315",
       "name": "Sveriges Kommuner och Regioner (SKR)",
       "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
     },
     "http://dataportal.se/organisation/5565007621": {
-      "datasets": "2",
       "identifier": "5565007621",
       "name": "Visit Sweden",
       "type": "http://purl.org/adms/publishertype/Company"
     },
     "http://dataportal.se/organisation/SE2021000555": {
-      "datasets": "9",
       "identifier": "2021000555",
       "name": "Socialstyrelsen",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021000654": {
-      "datasets": "37",
       "identifier": "2021000654",
       "name": "Sjöfartsverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021000696": {
-      "datasets": "198",
       "identifier": "2021000696",
       "name": "Sveriges meteorologiska och hydrologiska institut",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021000704": {
-      "datasets": "1",
       "identifier": "2021000704",
       "name": "Statens väg- och transportforskningsinstitut",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021000712": {
-      "datasets": "24",
       "identifier": "2021000712",
       "name": "Statens geotekniska institut",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021000795": {
-      "datasets": "3",
       "identifier": "2021000795",
       "name": "Luftfartsverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021000837": {
-      "datasets": "4339",
       "identifier": "2021000837",
       "name": "Statistikmyndigheten SCB - Statistiska centralbyrån",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021001033": {
-      "datasets": "1",
       "identifier": "2021001033",
       "name": "Statens konstråd",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021001074": {
-      "datasets": "36",
       "identifier": "2021001074",
       "name": "Riksarkivet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021001082": {
-      "datasets": "90",
       "identifier": "2021001082",
       "name": "Institutet för språk och folkminnen",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021001090": {
-      "datasets": "73",
       "identifier": "2021001090",
       "name": "Swedish National Heritage Board",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021001124": {
-      "datasets": "33",
       "identifier": "2021001124",
       "name": "Naturhistoriska riksmuseet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021001819": {
-      "datasets": "506",
       "identifier": "2021001819",
       "name": "Centrala studiestödsnämnden",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021001850": {
-      "datasets": "6",
       "identifier": "2021001850",
       "name": "Livsmedelsverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021001868": {
-      "datasets": "38",
       "identifier": "2021001868",
       "name": "Statens veterinärmedicinska anstalt",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021001975": {
-      "datasets": "136",
       "identifier": "2021001975",
       "name": "Naturvårdsverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002072": {
-      "datasets": "16",
       "identifier": "2021002072",
       "name": "Patent- och registreringsverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002114": {
-      "datasets": "72",
       "identifier": "2021002114",
       "name": "Arbetsförmedlingen",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002163": {
-      "datasets": "15",
       "identifier": "2021002163",
       "name": "Migrationsverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002320": {
-      "datasets": "8",
       "identifier": "2021002320",
       "name": "Länsstyrelsen i Blekinge Län",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002353": {
-      "datasets": "2",
       "identifier": "2021002353",
       "name": "Länsstyrelsen i Hallands Län",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002361-LST": {
-      "datasets": "183",
       "identifier": "2021002361-LST",
       "name": "Länsstyrelserna gemensamt",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002528": {
-      "datasets": "168",
       "identifier": "2021002528",
       "name": "Sveriges geologiska undersökning",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002627": {
-      "datasets": "10",
       "identifier": "2021002627",
       "name": "Riksdagsförvaltningen",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002684": {
-      "datasets": "2",
       "identifier": "2021002684",
       "name": "Sveriges riksbank",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002742": {
-      "datasets": "70",
       "identifier": "2021002742",
       "name": "Domstolsverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002817": {
-      "datasets": "727",
       "identifier": "2021002817",
       "name": "Sveriges lantbruksuniversitet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002841": {
-      "datasets": "48",
       "identifier": "2021002841",
       "name": "Luleå Tekniska universitet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002874": {
-      "datasets": "186",
       "identifier": "2021002874",
       "name": "Umeå universitet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002890": {
-      "datasets": "9",
       "identifier": "2021002890",
       "name": "Högskolan i Gävle",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002916": {
-      "datasets": "2",
       "identifier": "2021002916",
       "name": "Mälardalens högskola",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002924": {
-      "datasets": "12",
       "identifier": "2021002924",
       "name": "Örebro universitet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002932": {
-      "datasets": "1029",
       "identifier": "2021002932",
       "name": "Uppsala universitet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021002973": {
-      "datasets": "163",
       "identifier": "2021002973",
       "name": "Karolinska Institutet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021003054": {
-      "datasets": "89",
       "identifier": "2021003054",
       "name": "Kungliga Tekniska högskolan",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021003062": {
-      "datasets": "451",
       "identifier": "2021003062",
       "name": "Stockholms universitet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021003096": {
-      "datasets": "59",
       "identifier": "2021003096",
       "name": "Linköpings universitet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021003120": {
-      "datasets": "8",
       "identifier": "2021003120",
       "name": "Karlstads universitet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021003138": {
-      "datasets": "8",
       "identifier": "2021003138",
       "name": "Högskolan i Borås",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021003153": {
-      "datasets": "2248",
       "identifier": "2021003153",
       "name": "Göteborgs universitet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021003195": {
-      "datasets": "8",
       "identifier": "2021003195",
       "name": "Högskolan i Kristianstad",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021003203": {
-      "datasets": "4",
       "identifier": "2021003203",
       "name": "Högskolan i Halmstad",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021003211": {
-      "datasets": "199",
       "identifier": "2021003211",
       "name": "Lunds universitet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021003567": {
-      "datasets": "9",
       "identifier": "2021003567",
       "name": "Institutet för rymdfysik",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021003732": {
-      "datasets": "5",
       "identifier": "2021003732",
       "name": "Livrustkammaren och Skoklosters slott med stiftelsen Hallwylska museet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021003815": {
-      "datasets": "222",
       "identifier": "2021003815",
       "name": "Styrelsen för ackreditering och teknisk kontroll",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021003989": {
-      "datasets": "22",
       "identifier": "2021003989",
       "name": "Boverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004052": {
-      "datasets": "2",
       "identifier": "2021004052",
       "name": "Högskolan Väst",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004060": {
-      "datasets": "148",
       "identifier": "2021004060",
       "name": "Polarforskningssekretariatet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004078": {
-      "datasets": "19",
       "identifier": "2021004078",
       "name": "Läkemedelsverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004151": {
-      "datasets": "11",
       "identifier": "2021004151",
       "name": "Statens jordbruksverk",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004185": {
-      "datasets": "11",
       "identifier": "2021004185",
       "name": "Skolverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004284": {
-      "datasets": "3",
       "identifier": "2021004284",
       "name": "Svenska kraftnät",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004359": {
-      "datasets": "9",
       "identifier": "2021004359",
       "name": "Post- och telestyrelsen",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004524": {
-      "datasets": "25",
       "identifier": "2021004524",
       "name": "Mittuniversitetet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004573": {
-      "datasets": "3",
       "identifier": "2021004573",
       "name": "Sametinget",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004615": {
-      "datasets": "1",
       "identifier": "2021004615",
       "name": "Försvarsmakten",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004730": {
-      "datasets": "3",
       "identifier": "2021004730",
       "name": "Försvarshögskolan",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004888": {
-      "datasets": "105",
       "identifier": "2021004888",
       "name": "Lantmäteriet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004896": {
-      "datasets": "19",
       "identifier": "2021004896",
       "name": "Södertörns högskola",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004920": {
-      "datasets": "7",
       "identifier": "2021004920",
       "name": "Malmö universitet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021004953": {
-      "datasets": "89",
       "identifier": "2021004953",
       "name": "Statens historiska museer",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021005000": {
-      "datasets": "335",
       "identifier": "2021005000",
       "name": "Statens energimyndighet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021005216": {
-      "datasets": "10",
       "identifier": "2021005216",
       "name": "Verket för innovationssystem",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021005232": {
-      "datasets": "6",
       "identifier": "2021005232",
       "name": "Formas",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021005414": {
-      "datasets": "30",
       "identifier": "2021005414",
       "name": "Inspektionen för arbetslöshetsförsäkringen (IAF)",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021005448": {
-      "datasets": "222",
       "identifier": "2021005448",
       "name": "Skatteverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021005489": {
-      "datasets": "14",
       "identifier": "2021005489",
       "name": "Bolagsverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021005521": {
-      "datasets": "51",
       "identifier": "2021005521",
       "name": "Försäkringskassan",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021005612": {
-      "datasets": "30",
       "identifier": "2021005612",
       "name": "Skogsstyrelsen",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021005646": {
-      "datasets": "20",
       "identifier": "2021005646",
       "name": "Kronofogdemyndigheten",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021005695": {
-      "datasets": "34",
       "identifier": "2021005695",
       "name": "Energimarknadsinspektionen",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021005737": {
-      "datasets": "7",
       "identifier": "2021005737",
       "name": "Strålsäkerhetsmyndigheten",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006099": {
-      "datasets": "24",
       "identifier": "2021006099",
       "name": "Transportstyrelsen",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006149": {
-      "datasets": "6",
       "identifier": "2021006149",
       "name": "Tillväxtverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006230": {
-      "datasets": "2",
       "identifier": "2021006230",
       "name": "Myndigheten för yrkeshögskolan",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006255": {
-      "datasets": "303",
       "identifier": "2021006255",
       "name": "Pensionsmyndigheten",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006271": {
-      "datasets": "59",
       "identifier": "2021006271",
       "name": "Linnéuniversitetet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006297": {
-      "datasets": "390",
       "identifier": "2021006297",
       "name": "Trafikverket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006305": {
-      "datasets": "4",
       "identifier": "2021006305",
       "name": "Trafikanalys",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006420": {
-      "datasets": "132",
       "identifier": "2021006420",
       "name": "Havs- och Vattenmyndigheten",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006487": {
-      "datasets": "2",
       "identifier": "2021006487",
       "name": "Universitets- och högskolerådet",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006537": {
-      "datasets": "3",
       "identifier": "2021006537",
       "name": "Inspektionen för vård och omsorg",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006545": {
-      "datasets": "29",
       "identifier": "2021006545",
       "name": "Folkhälsomyndigheten",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006552": {
-      "datasets": "4",
       "identifier": "2021006552",
       "name": "E-hälsomyndigheten",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006560": {
-      "datasets": "1",
       "identifier": "2021006560",
       "name": "Stockholms konstnärliga högskola",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006610": {
-      "datasets": "11",
       "identifier": "2021006610",
       "name": "Upphandlingsmyndigheten",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2021006883": {
-      "datasets": "10",
       "identifier": "2021006883",
       "name": "Myndigheten för digital förvaltning",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000019": {
-      "datasets": "9",
       "identifier": "2120000019",
       "name": "Upplands Väsby kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000035": {
-      "datasets": "2",
       "identifier": "2120000035",
       "name": "Värmdö kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000068": {
-      "datasets": "110",
       "identifier": "2120000068",
       "name": "Huddinge kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000084": {
-      "datasets": "7",
       "identifier": "2120000084",
       "name": "Haninge kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000142": {
-      "datasets": "291",
       "identifier": "2120000142",
       "name": "Stockholms stad",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000159": {
-      "datasets": "114",
       "identifier": "2120000159",
       "name": "Södertälje kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000241": {
-      "datasets": "8",
       "identifier": "2120000241",
       "name": "Håbo kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000258": {
-      "datasets": "1",
       "identifier": "2120000258",
       "name": "Älvkarleby kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000266": {
-      "datasets": "1",
       "identifier": "2120000266",
       "name": "Tierps kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000308": {
-      "datasets": "3",
       "identifier": "2120000308",
       "name": "Vingåkers kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000324": {
-      "datasets": "5",
       "identifier": "2120000324",
       "name": "Oxelösunds kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000340": {
-      "datasets": "1",
       "identifier": "2120000340",
       "name": "Katrineholms kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000357": {
-      "datasets": "8",
       "identifier": "2120000357",
       "name": "Eskilstuna kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000449": {
-      "datasets": "10",
       "identifier": "2120000449",
       "name": "Linköpings kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000514": {
-      "datasets": "5",
       "identifier": "2120000514",
       "name": "Gislaveds kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000563": {
-      "datasets": "1",
       "identifier": "2120000563",
       "name": "Sävsjö kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000811": {
-      "datasets": "1",
       "identifier": "2120000811",
       "name": "Olofströms kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000829": {
-      "datasets": "3",
       "identifier": "2120000829",
       "name": "Karlskrona kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000845": {
-      "datasets": "1",
       "identifier": "2120000845",
       "name": "Karlshamns kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000852": {
-      "datasets": "1",
       "identifier": "2120000852",
       "name": "Sölvesborgs kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000886": {
-      "datasets": "39",
       "identifier": "2120000886",
       "name": "Tomelilla kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120000969": {
-      "datasets": "4",
       "identifier": "2120000969",
       "name": "Simrishamns kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001066": {
-      "datasets": "28",
       "identifier": "2120001066",
       "name": "Lomma kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001074": {
-      "datasets": "2",
       "identifier": "2120001074",
       "name": "Svedala kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001132": {
-      "datasets": "1",
       "identifier": "2120001132",
       "name": "Lunds kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001140": {
-      "datasets": "1",
       "identifier": "2120001140",
       "name": "Landskrona stad",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001157": {
-      "datasets": "29",
       "identifier": "2120001157",
       "name": "Helsingborgs stad",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001173": {
-      "datasets": "5",
       "identifier": "2120001173",
       "name": "Eslövs kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001181": {
-      "datasets": "2",
       "identifier": "2120001181",
       "name": "Ystads kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001249": {
-      "datasets": "12",
       "identifier": "2120001249",
       "name": "Varbergs kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001256": {
-      "datasets": "15",
       "identifier": "2120001256",
       "name": "Kungsbacka kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001264": {
-      "datasets": "19",
       "identifier": "2120001264",
       "name": "Härryda kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001298": {
-      "datasets": "5",
       "identifier": "2120001298",
       "name": "Stenungsunds kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001306": {
-      "datasets": "9",
       "identifier": "2120001306",
       "name": "Tjörns kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001355": {
-      "datasets": "43",
       "identifier": "2120001355",
       "name": "Göteborgs stad",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001363": {
-      "datasets": "5",
       "identifier": "2120001363",
       "name": "Mölndals stad",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001371": {
-      "datasets": "15",
       "identifier": "2120001371",
       "name": "Kungälvs kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001439": {
-      "datasets": "8",
       "identifier": "2120001439",
       "name": "Ale kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001496": {
-      "datasets": "1",
       "identifier": "2120001496",
       "name": "Lilla Edets kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001546": {
-      "datasets": "16",
       "identifier": "2120001546",
       "name": "Trollhättans stad",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001553": {
-      "datasets": "1",
       "identifier": "2120001553",
       "name": "Alingsås kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001561": {
-      "datasets": "15",
       "identifier": "2120001561",
       "name": "Borås stad",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001579": {
-      "datasets": "3",
       "identifier": "2120001579",
       "name": "Ulricehamns kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001595": {
-      "datasets": "2",
       "identifier": "2120001595",
       "name": "Grästorps kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001629": {
-      "datasets": "1",
       "identifier": "2120001629",
       "name": "Karlsborgs kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001637": {
-      "datasets": "5",
       "identifier": "2120001637",
       "name": "Gullspångs kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001652": {
-      "datasets": "3",
       "identifier": "2120001652",
       "name": "Götene kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001660": {
-      "datasets": "1",
       "identifier": "2120001660",
       "name": "Tibro kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001678": {
-      "datasets": "4",
       "identifier": "2120001678",
       "name": "Töreboda kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001686": {
-      "datasets": "5",
       "identifier": "2120001686",
       "name": "Mariestads kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001694": {
-      "datasets": "2",
       "identifier": "2120001694",
       "name": "Lidköpings kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001702": {
-      "datasets": "6",
       "identifier": "2120001702",
       "name": "Skara kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001710": {
-      "datasets": "14",
       "identifier": "2120001710",
       "name": "Skövde kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001728": {
-      "datasets": "1",
       "identifier": "2120001728",
       "name": "Hjo kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001736": {
-      "datasets": "4",
       "identifier": "2120001736",
       "name": "Tidaholms kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001744": {
-      "datasets": "2",
       "identifier": "2120001744",
       "name": "Falköpings kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120001850": {
-      "datasets": "14",
       "identifier": "2120001850",
       "name": "Karlstads Kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120002049": {
-      "datasets": "5",
       "identifier": "2120002049",
       "name": "Heby kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120002221": {
-      "datasets": "5",
       "identifier": "2120002221",
       "name": "Falu kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120002338": {
-      "datasets": "66",
       "identifier": "2120002338",
       "name": "Gävle kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120002346": {
-      "datasets": "15",
       "identifier": "2120002346",
       "name": "Sandvikens kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120002387": {
-      "datasets": "1",
       "identifier": "2120002387",
       "name": "Ånge kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120002411": {
-      "datasets": "3",
       "identifier": "2120002411",
       "name": "Sundsvalls kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120002882": {
-      "datasets": "4",
       "identifier": "2120002882",
       "name": "Botkyrka kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120002916": {
-      "datasets": "5",
       "identifier": "2120002916",
       "name": "Essunga kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2120002924": {
-      "datasets": "3",
       "identifier": "2120002924",
       "name": "Vara kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "http://dataportal.se/organisation/SE2220000315": {
-      "datasets": "5849",
       "name": "Rådet för främjande av kommunala analyser - Kolada",
       "type": "http://purl.org/adms/publishertype/NonGovernmentalOrganisation"
     },
     "http://dataportal.se/organisation/SE2321000016": {
-      "datasets": "2",
       "identifier": "2321000016",
       "name": "Region Stockholm",
       "type": "http://purl.org/adms/publishertype/RegionalAuthority"
     },
     "http://dataportal.se/organisation/SE2321000024": {
-      "datasets": "2",
       "identifier": "2321000024",
       "name": "Region Uppsala",
       "type": "http://purl.org/adms/publishertype/RegionalAuthority"
     },
     "http://dataportal.se/organisation/SE2321000081": {
-      "datasets": "9",
       "identifier": "2321000081",
       "name": "Region Blekinge",
       "type": "http://purl.org/adms/publishertype/RegionalAuthority"
     },
     "http://dataportal.se/organisation/SE2321000131": {
-      "datasets": "26",
       "identifier": "2321000131",
       "name": "Västra Götalandsregionen",
       "type": "http://purl.org/adms/publishertype/RegionalAuthority"
     },
     "http://dataportal.se/organisation/SE2321000222": {
-      "datasets": "1",
       "identifier": "2321000222",
       "name": "Västerbottens läns landsting",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2321000230": {
-      "datasets": "1",
       "identifier": "2321000230",
       "name": "Region Norrbotten",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://dataportal.se/organisation/SE2321000255": {
-      "datasets": "27",
       "identifier": "2321000255",
       "name": "Region Skåne",
       "type": "http://purl.org/adms/publishertype/RegionalAuthority"
     },
     "http://dataportal.se/organisation/SE2620001129": {
-      "datasets": "1",
       "name": "Royal Swedish Academy of Sciences",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE5560334285": {
-      "datasets": "19",
       "name": "Sveriges Television AB",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE5561162446": {
-      "datasets": "1",
       "name": "IVL Swedish Environmental Research Institute",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE5561213066": {
-      "datasets": "45",
       "name": "IMU-Testologen AB",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE5561848564": {
-      "datasets": "1",
       "name": "Scania CV AB",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE5563108942": {
-      "datasets": "3",
       "name": "Arkeologikonsult",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE5564193232": {
-      "datasets": "16",
       "name": "Radio Sweden",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE5564646874": {
-      "datasets": "9",
       "name": "RISE",
       "type": "http://purl.org/adms/publishertype/Company"
     },
     "http://dataportal.se/organisation/SE5564795598": {
-      "datasets": "131",
       "name": "Chalmers tekniska högskola",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE5569478968": {
-      "datasets": "1",
       "name": "Enskilda Högskolan Stockholm",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE5592038961": {
-      "datasets": "1",
       "name": "Demoskop",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE8020005461": {
-      "datasets": "2",
       "name": "Centralförbundet för alkohol- och narkotikaupplysning",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE8020061365": {
-      "datasets": "1",
       "name": "Riksteatern",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE8020062074": {
-      "datasets": "3",
       "name": "Handelshögskolan i Stockholm",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE8020120948": {
-      "datasets": "2",
       "name": "Stiftelsen Stockholms läns Äldrecentrum",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE8020133198": {
-      "datasets": "5",
       "name": "Institutet för framtidsstudier",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE8024195029": {
-      "datasets": "11",
       "name": "Arbetslivsinstitutet",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE8024256052": {
-      "datasets": "1",
       "name": "FoU Spenshult",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE8176053182": {
-      "datasets": "1",
       "name": "Societas Archaeologica Upsaliensis",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE8260017333": {
-      "datasets": "8",
       "name": "Jönköping University",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE8350006113": {
-      "datasets": "2",
       "name": "Blekinge museum",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE8985005183": {
-      "datasets": "1",
       "name": "Swedish Mountain and Sami Museum",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE950037687": {
-      "datasets": "1",
       "name": "Norsk institutt for naturforskning - NINA",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://dataportal.se/organisation/SE985767769": {
-      "datasets": "2",
       "name": "The Norwegian Institute for Cultural Heritage Research - NIKU",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://enkoping.se/underwebbar/enkopings-museum.html": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://goteborgsstadsmuseum.se/": {
-      "datasets": "12",
       "name": "Museum of Gothenburg",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://halsinglandsmuseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://malmo.se/Kultur--fritid/Kultur--noje/Museer--utstallningar/Malmo-Museer.html": {
-      "datasets": "5",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://stockholmslansmuseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://vastergotlandsmuseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.aeroseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.ajtte.com/": {
-      "datasets": "12",
       "name": "Ájtte Swedish Mountain and Sami Museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.arkdes.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.armemuseum.se/": {
-      "datasets": "1",
       "name": "Army Museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.blekingemuseum.se/": {
-      "datasets": "1",
       "name": "Blekinge museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.bohuslansmuseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.dramawebben.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.etnografiska.se/": {
-      "datasets": "15",
       "name": "The Museum of Ethnography",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.falkoping.se/museet": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.fastningsmuseet.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.flygvapenmuseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.gnm.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.gotlandsforsvarsmuseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.grennamuseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.hemslojden.org/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.hemsofastning.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.jkpglm.se/": {
-      "datasets": "1",
       "name": "Jönköping county museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.kulturparkensmaland.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.litografiskamuseet.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.medelhavsmuseet.se/": {
-      "datasets": "12",
       "name": "The Museum of Mediterranean and Near Eastern Antiquities",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.olm.se/": {
-      "datasets": "1",
       "name": "Örebro läns museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.ostergotlandsmuseum.se/": {
-      "datasets": "1",
       "name": "Östergötlands museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.postmuseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.riksidrottsmuseum.se": {
-      "datasets": "1",
       "name": "Swedish Sports Museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.rkcmalmo.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.sambah.org/": {
-      "datasets": "3",
       "name": "​SAMBAH – Static Acoustic Monitoring of the Baltic Sea Harbour Porpoise",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "http://www.shfa.se/": {
-      "datasets": "1",
       "name": "Svenskt HällristningsForskningsArkiv",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.simrishamn.se/museum": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.skansen.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.smha.se/": {
-      "datasets": "1",
       "name": "Swedish Military Heritage",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.smha.se/vara-museer/forsvarsmuseum/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.soundsofchanges.eu/": {
-      "datasets": "1",
       "name": "Sounds of Changes",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.sundsvall.se/museum": {
-      "datasets": "2",
       "name": "Sundsvalls museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.tekniskamuseet.se/": {
-      "datasets": "1",
       "name": "National Museum of Science and Technology",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.unstraight.org/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.upplandsmuseet.se/": {
-      "datasets": "1",
       "name": "The Uppland County Museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.vaggeryd.se/uppleva-och-gora/kultur/miliseum.html": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.vanersborgsmuseum.se/": {
-      "datasets": "1",
       "name": "Vanersborg museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.varldskulturmuseerna.se/ostasiatiskamuseet/": {
-      "datasets": "8",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.varldskulturmuseet.se/": {
-      "datasets": "9",
       "name": "The Museum of World Culture",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.vastarvet.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "http://www.vaxholmsfastning.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://admin.dataportal.se/store/127/resource/437d3c86e3261ed5da3473cd0620acf4": {
-      "datasets": "3",
       "name": "SBU. Statens beredning för medicinsk och social utvärdering",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://admin.dataportal.se/store/127/resource/b039c590b8f8dae0d623fcd8c70f8be4": {
-      "datasets": "1",
       "name": "NHS Evidence",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://admin.dataportal.se/store/254/resource/7d89e5afd68a0ce5b25d3329c869e619": {
-      "datasets": "23",
       "name": "Kungliga biblioteket",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://admin.dataportal.se/store/43/resource/7a00bd3796ed09a600646432cb321722": {
-      "datasets": "123",
       "name": "Umeå kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "https://admin.dataportal.se/store/43/resource/a1e87c9dd15ad3940293a45bc00a7574": {
-      "datasets": "6",
       "name": "Vatten- och avfallskompetens i norr AB",
       "type": "http://purl.org/adms/publishertype/Company"
     },
     "https://admin.dataportal.se/store/43/resource/fd2584866d01e4eaee64e3ffcfe40e02": {
-      "datasets": "205",
       "name": "Umeå Energi",
       "type": "http://purl.org/adms/publishertype/Company"
     },
     "https://admin.dataportal.se/store/847/resource/af9d95eb1ca52e530818b3f203c831b4": {
-      "datasets": "1",
       "name": "Kommun Kartan",
       "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
     },
     "https://apotekarsocieteten.museum/": {
-      "datasets": "1",
       "name": "The Swedish Pharmaceutical Society",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://catalog.burlov.se/store/1/resource/1": {
-      "datasets": "1",
       "name": "Burlövs kommun"
     },
     "https://catalog.goteborg.se/store/6/resource/48808": {
-      "datasets": "1",
       "name": "Göteborgs Stad Stadsmiljöförvaltningen",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "https://catalog.goteborg.se/store/6/resource/48809": {
-      "datasets": "1",
       "name": "Göteborgs Stad Stadsledningskontoret",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "https://catalog.goteborg.se/store/6/resource/86162": {
-      "datasets": "1",
       "name": "Göteborg & Co",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "https://catalog.goteborg.se/store/6/resource/89648": {
-      "datasets": "2",
       "name": "Göteborgs stad Kretslopp och vatten",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "https://catalog.goteborg.se/store/6/resource/91154": {
-      "datasets": "1",
       "name": "Göteborg Stad Kulturförvaltningen"
     },
     "https://catalog.lerum.se/store/1/resource/1": {
-      "datasets": "1",
       "name": "Lerums kommun"
     },
     "https://catalog.molndal.se/store/1/resource/160": {
-      "datasets": "1",
       "name": "Samordning för hållbarhet, Ekonomi och hållbarhetsstyrning"
     },
     "https://catalog.molndal.se/store/1/resource/46": {
-      "datasets": "1",
       "name": "System och stöd, Ekonomi och hållbarhetsstyrning, stadsledningsförvaltningen, Mölndals stad"
     },
     "https://catalog.sodertalje.se/store/12/resource/236": {
-      "datasets": "1",
       "name": "Kommunstyrelsens kontor",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "https://catalog.trelleborg.se/store/2/resource/1": {
-      "datasets": "3",
       "name": "Trelleborgs Kommun"
     },
     "https://civictech.se": {
-      "datasets": "4",
       "name": "Civic Tech Sweden",
       "type": "http://purl.org/adms/publishertype/NonGovernmentalOrganisation"
     },
     "https://data.nobelprize.org/store/7/resource/1": {
-      "datasets": "1",
       "name": "Nobel Prize Outreach"
     },
     "https://data.svk.se/organization/5d88617e-213c-4f70-9ea5-e47a96abd424": {
-      "datasets": "1",
       "name": "Ontologies"
     },
     "https://datakatalog.helsingborg.se/store/3/resource/442": {
-      "datasets": "1",
       "name": "Miljöförvaltningen"
     },
     "https://datakatalog.helsingborg.se/store/3/resource/489": {
-      "datasets": "1",
       "name": "Stadsmiljö - Trafik"
     },
     "https://dataportal.se/organisation/SE2021004284": {
-      "datasets": "9",
       "identifier": "202100-4284",
       "name": "Svenska kraftnät",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://elprisersverige.nu/dcat-ap-se.rdf#utgivare": {
-      "datasets": "10",
       "identifier": "559071-9547",
       "name": "RVSMR AB",
       "type": "http://purl.org/adms/publishertype/Company"
     },
-    "https://extgeodataportal.orebro.se/organization/4bcf9f31-2c3a-4770-9950-858258a37d5c": {
-      "datasets": "1"
-    },
+    "https://extgeodataportal.orebro.se/organization/4bcf9f31-2c3a-4770-9950-858258a37d5c": {},
     "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1669": {
-      "datasets": "1668",
       "name": "Folkhälsomyndigheten"
     },
     "https://free.entryscape.com/store/177/resource/1": {
-      "datasets": "1",
       "name": "Luftdata.se"
     },
     "https://free.entryscape.com/store/223/resource/1": {
-      "datasets": "2",
       "name": "Rymdstyrelsen"
     },
     "https://free.entryscape.com/store/302/resource/1": {
-      "datasets": "1",
       "name": "Handlingar.se",
       "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
     },
     "https://free.entryscape.com/store/302/resource/11": {
-      "datasets": "4",
       "name": "Open Knowledge Sverige",
       "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
     },
     "https://free.entryscape.com/store/576/resource/1": {
-      "datasets": "1",
       "name": "Beneficial Apps AS",
       "type": "http://purl.org/adms/publishertype/Company"
     },
     "https://free.entryscape.com/store/640/resource/1": {
-      "datasets": "1",
       "name": "Sambruk ideell förening"
     },
     "https://free.entryscape.com/store/640/resource/27": {
-      "datasets": "2",
       "name": "Digidel",
       "type": "http://purl.org/adms/publishertype/NonGovernmentalOrganisation"
     },
     "https://free.entryscape.com/store/679/resource/1": {
-      "datasets": "1",
       "name": "Skjutsgruppen ideell förening"
     },
     "https://free.entryscape.com/store/688/resource/1": {
-      "datasets": "1",
       "name": "Pensionärernas Riksorganisation",
       "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
     },
     "https://free.entryscape.com/store/727/resource/1": {
-      "datasets": "2",
       "name": "Svenska rådet för hjärt-lungräddning HLR-rådet"
     },
     "https://free.entryscape.com/store/730/resource/1": {
-      "datasets": "2",
       "name": "Klimatbyrån"
     },
     "https://haninge.entryscape.net/store/7/resource/88": {
-      "datasets": "1",
       "name": "GIS"
     },
     "https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/": {
-      "datasets": "8",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://kalmarlansmuseum.se/": {
-      "datasets": "1",
       "name": "Kalmar county museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://katalog.datahotell.se/store/99/resource/1": {
-      "datasets": "3",
       "name": "Statens museer för världskultur"
     },
     "https://katalog.datahotell.se/store/99/resource/8": {
-      "datasets": "2",
       "name": "Malmö museer"
     },
     "https://koping.se/kultur-fritid--turism/kultur/kopings-museum.html": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://lansmuseetgavleborg.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://malmo.se/": {
-      "datasets": "175",
       "name": "Malmö stad",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "https://metadata.havochvatten.se/store/1/resource/166": {
-      "datasets": "6",
       "name": "Sveriges Lantbruksuniversitet (SLU)",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://metadata.lidingo.se/store/2/resource/2": {
-      "datasets": "67",
       "name": "Lidingö stad",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "https://norrbottensmuseum.se/": {
-      "datasets": "2",
       "name": "Norrbottens museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://offwegooo.com/#org": {
-      "datasets": "3",
       "name": "Off We Gooo"
     },
     "https://opendata.vasteras.se/store/1/resource/1": {
-      "datasets": "3",
       "name": "Västerås stad"
     },
     "https://researchdata.se/catalogue?principal=commission-of-the-european-communities": {
-      "datasets": "5",
       "name": "Commission of the European Communities",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=department-of-language-and-linguistics-university-of-troms": {
-      "datasets": "1",
       "name": "Universitetet i Tromsö",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=eos-gallup-europe": {
-      "datasets": "1",
       "name": "EOS Gallup Europe",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=finnish-swedish-winter-navigation-research-board": {
-      "datasets": "1",
       "name": "Finnish-Swedish Winter Navigation Research Board",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=forskningsgruppen-for-samhalls--och-informationsstudier": {
-      "datasets": "1",
       "name": "Forskningsgruppen för samhälls- och informationsstudier",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=information-not-available": {
-      "datasets": "6",
       "name": "Uppgift ej tillgänglig, kontakta SND för mer information",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=institute-for-korean-election-studies": {
-      "datasets": "2",
       "name": "Institute for Korean Election Studies",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=jung-ang-daily-news": {
-      "datasets": "1",
       "name": "Jung-Ang Daily News",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=kn-202301-utredningen-om-havsbaserad-vindkraft": {
-      "datasets": "1",
       "name": "KN 2023:01, Utredningen om havsbaserad vindkraft",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=korea-research-gallup-polls-ltd": {
-      "datasets": "1",
       "name": "Korea Research Gallup Polls Ltd.",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=m-202203-starkta-incitament-for-utbyggd-vindkraft": {
-      "datasets": "1",
       "name": "M 2022:03, Stärkta incitament för utbyggd vindkraft",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=nordic-institute-for-studies-in-urban-and-regional-planning": {
-      "datasets": "1",
       "name": "Nordiska institutet för samhällsplanering",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=religionssociologiska-institutet": {
-      "datasets": "2",
       "name": "Religionssociologiska institutet",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=share-eric": {
-      "datasets": "7",
       "name": "SHARE ERIC",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=stiftelsen-for-opinionsanalyser": {
-      "datasets": "7",
       "name": "Stiftelsen för opinionsanalyser",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=svenska-gallupinstitutet-ab": {
-      "datasets": "1",
       "name": "Svenska Gallupinstitutet AB",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=swedish-institute-of-public-opinion-research": {
-      "datasets": "20",
       "name": "SIFO - Svenska institutet för opinionsundersökningar",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=swedish-telecom": {
-      "datasets": "1",
       "name": "Televerket",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://researchdata.se/catalogue?principal=swedish-working-life-fund": {
-      "datasets": "27",
       "name": "Swedish Working Life Fund",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://resources.stockholm.se/metadata#foaf/Stadsledningskontoret/": {
-      "datasets": "1",
       "name": "Stadsledningskontoret"
     },
     "https://resources.stockholm.se/metadata#foaf/Stockholm+Vatten+och+Avfall/": {
-      "datasets": "8",
       "name": "Stockholm Vatten och Avfall"
     },
     "https://resources.stockholm.se/metadata#foaf/Stockholms+stad+-+Milj%C3%B6f%C3%B6rvaltningen/": {
-      "datasets": "11",
       "name": "Stockholms stad - Miljöförvaltningen"
     },
     "https://ror.org/00ancw882": {
-      "datasets": "1",
       "name": "Svensk nationell datatjänst",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://ror.org/00ws30h19": {
-      "datasets": "2",
       "name": "Tokyo Metropolitan University",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://ror.org/014w0fd65": {
-      "datasets": "1",
       "name": "European Centre for Medium-Range Weather Forecasts (ECMWF)",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://ror.org/01d0fc168": {
-      "datasets": "245",
       "name": "Integrated Carbon Observation System",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://ror.org/01yhex183": {
-      "datasets": "5",
       "name": "Gothenburg Natural History Museum",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://ror.org/020m6x732": {
-      "datasets": "2",
       "name": "Danish Meteorological Institute",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://ror.org/0234bnr88": {
-      "datasets": "79",
       "name": "Station Linné",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://ror.org/024j9sx72": {
-      "datasets": "1",
       "name": "Galway-Mayo Institute of Technology",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://ror.org/030deh410": {
-      "datasets": "1",
       "name": "IHE Delft Institute for Water Education",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://ror.org/033003e23": {
-      "datasets": "1",
       "name": "University of Tampere",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://ror.org/04gjptv97": {
-      "datasets": "52",
       "name": "AIDA Data Hub",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://ror.org/04q6d4d25": {
-      "datasets": "1",
       "name": "Svenska Institutet i Rom",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://ror.org/051mrsz47": {
-      "datasets": "10",
       "name": "Högskolan i Skövde",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://ror.org/05xg72x27": {
-      "datasets": "5",
       "name": "The Norwegian University of Science and Technology (NTNU)",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://stuns.entryscape.net/store/1/resource/1": {
-      "datasets": "32",
       "name": "STUNS Energi",
       "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
     },
     "https://stuns.entryscape.net/store/1/resource/399": {
-      "datasets": "1",
       "name": "Uppsala Parkering",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "https://stuns.entryscape.net/store/1/resource/9": {
-      "datasets": "1",
       "name": "Region Uppsala",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "https://teknikland.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://teleseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://vardbetyg.se/data/dcat.rdf#agent": {
-      "datasets": "1",
       "name": "Vårdbetyg",
       "type": "http://purl.org/adms/publishertype/PrivateIndividual(s)"
     },
     "https://varmlandsmuseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://vgregion.entryscape.net/store/7/resource/62": {
-      "datasets": "2",
       "name": "Turistrådet Västsverige",
       "type": "http://purl.org/adms/publishertype/RegionalAuthority"
     },
     "https://webperf.se": {
-      "datasets": "1",
       "name": "Webperf.se",
       "type": "http://purl.org/adms/publishertype/NonGovernmentalOrganisation"
     },
     "https://www.avropa.se/datasets/dcat#agent1": {
-      "datasets": "1",
       "name": "Kammarkollegiet - Statens inköpscentral - Avropa.se",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.barnsakert.se/#organisation": {
-      "datasets": "1",
       "name": "Barnsakert.se (Colombos AB)",
       "type": "http://purl.org/adms/publishertype/Company"
     },
     "https://www.dalarnasmuseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.engelholm.se": {
-      "datasets": "3",
       "name": "Ängelholms kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "https://www.gamlalinkoping.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.gbif.se": {
-      "datasets": "24",
       "name": "GBIF Sweden",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://www.health.go.ug/programs/aids-control-program/": {
-      "datasets": "1",
       "name": "Uganda Ministry of Health, AIDS Control Program",
       "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
     },
     "https://www.jamtli.com/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.jarnvagsmuseet.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.katrineholm.se/": {
-      "datasets": "1",
       "name": "Katrineholms kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "https://www.kulturen.com/": {
-      "datasets": "3",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.kulturen.com/samlingar/sok-i-samlingarna/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.linkoping.se/uppleva-och-gora/Arkiv/bild-linkoping/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.marinmuseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.nordiskamuseet.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.orebro.se": {
-      "datasets": "48",
       "name": "Örebro kommun",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
     "https://www.qgisserverorebrokommunprojket.se": {
-      "datasets": "3",
       "name": "QGIS-server Örebro kommun - Projket",
       "type": "http://purl.org/adms/publishertype/Company"
     },
     "https://www.sjohistoriska.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.smtm.se/museer-och-samlingar/arlanda-flygsamlingar": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.smtm.se/museer-och-samlingar/vaghistoriska-samlingen": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.snusochtandsticksmuseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.sormlandsmuseum.se/": {
-      "datasets": "2",
       "name": "Sörmlands museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.statskontoret.se/datasets/dcat#agent1": {
-      "datasets": "4",
       "name": "Statskontoret",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.trafiklab.se/sites/default/files/dcat/oxyfi_publisher.rdf": {
-      "datasets": "1",
       "name": "Oxyfi",
       "type": "http://purl.org/adms/publishertype/Company"
     },
     "https://www.trafiklab.se/sites/default/files/dcat/samtrafiken_publisher.rdf": {
-      "datasets": "3",
       "name": "Samtrafiken",
       "type": "http://purl.org/adms/publishertype/Company"
     },
     "https://www.trafiklab.se/sites/default/files/dcat/sl_publisher.rdf": {
-      "datasets": "9",
       "name": "SL",
       "type": "http://purl.org/adms/publishertype/Company"
     },
     "https://www.trelleborg.se/uppleva-gora/kultur/trelleborgs-museum/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.vanermuseet.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.vasamuseet.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "https://www.vastmanlandslansmuseum.se/": {
-      "datasets": "1",
       "name": "",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
     },
     "urn:uuid:744d45fb-cb32-5ed5-14f3-104221f41d67": {
-      "datasets": "1",
       "name": "Postnummerservice Norden AB"
     },
     "urn:uuid:c9d77b91-0c61-e08e-2533-b7767b06687f": {
-      "datasets": "1",
       "name": "Naturvardsverket"
     },
     "urn:uuid:e9b4a9f5-d3fb-a480-8907-8b72a12c4796": {
-      "datasets": "15",
       "name": "Myndigheten för civilt försvar"
     }
   },

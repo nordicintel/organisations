@@ -40,5 +40,4 @@ def fetch(cache: Path):
                 if k in r:
                     rec[k] = r[k]["value"]
             rec["same_as"] = sorted(set(rec["same_as"]) | {s for s in (r.get("same_as", {}).get("value") or "").split("|") if s})
-            rec[f"{role}_datasets"] = int(r["datasets"]["value"])
     return out

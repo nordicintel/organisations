@@ -70,7 +70,7 @@ def fetch_publishers(cache: Path):
     path = cached(cache, "dataportal_publishers.json",
                   lambda: json.dumps(sparql(SPARQL, PUBLISHERS_Q)).encode())
     rows = json.loads(path.read_text(encoding="utf-8"))
-    return {r["uri"]["value"]: {k: r[k]["value"] for k in ("name", "identifier", "type", "datasets") if k in r}
+    return {r["uri"]["value"]: {k: r[k]["value"] for k in ("name", "identifier", "type") if k in r}
             for r in rows}
 
 
