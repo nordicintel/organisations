@@ -70,6 +70,15 @@ def main():
         if value:
             names.setdefault(r["id"], {}).setdefault(lang, []).append((PRIORITY[source], value))
 
+    def canonical(number, suffix=""):
+        return f"http://dataportal.se/organisation/SE{number}{suffix}"
+
+    def add_same_as(r, *uris):
+        own = {canonical(r["identifiers"]["orgnr"], r["id"][12:]) if "orgnr" in r["identifiers"] else None}
+        extra = {u for u in uris if u and u not in own}
+        if extra:
+            r["same_as"] = sorted(set(r.get("same_as", [])) | extra)
+
     def suffix_of(uri):
         m = re.search(r"organisation/(?:SE)?\d{10}(-[A-Z0-9]+)", uri or "")
         return m.group(1) if m else ""
@@ -113,11 +122,8 @@ def main():
             r.setdefault("homepage", row["homepage"])
         if row.get("email"):
             r.setdefault("email", row["email"])
-        r["identifiers"].setdefault("dataportal", [])
-        if uri not in r["identifiers"]["dataportal"]:
-            r["identifiers"]["dataportal"].append(uri)
-        if row.get("same_as"):
-            r["identifiers"]["same_as"] = sorted(set(r["identifiers"].get("same_as", [])) | set(row["same_as"]))
+        r["identifiers"]["dataportal"] = canonical(number, suffix_of(uri))
+        add_same_as(r, uri, *row.get("same_as", []))
         r["sources"].append("dataportal")
         links_portal[uri] = r["id"]
     for uri, row in portal["publishers"].items():
@@ -125,9 +131,8 @@ def main():
         links_portal.setdefault(uri, (org_id(number) + suffix_of(uri)) if number else None)
         if number:
             r = rec(number, suffix_of(uri))
-            r["identifiers"].setdefault("dataportal", [])
-            if uri not in r["identifiers"]["dataportal"]:
-                r["identifiers"]["dataportal"].append(uri)
+            r["identifiers"].setdefault("dataportal", canonical(number, suffix_of(uri)))
+            add_same_as(r, uri)
             if "dataportal" not in r["sources"]:
                 r["sources"].append("dataportal")
 
@@ -143,11 +148,8 @@ def main():
             r["publisher_type"] = row["type"].rsplit("/", 1)[-1]
         if row.get("homepage"):
             r.setdefault("homepage", row["homepage"])
-        r["identifiers"].setdefault("data_europa", [])
-        if uri not in r["identifiers"]["data_europa"]:
-            r["identifiers"]["data_europa"].append(uri)
-        if row.get("same_as"):
-            r["identifiers"]["same_as"] = sorted(set(r["identifiers"].get("same_as", [])) | set(row["same_as"]))
+        r["identifiers"].setdefault("dataportal", canonical(number, suffix_of(uri)))
+        add_same_as(r, uri, *row.get("same_as", []))
         r["sources"].append("data_europa")
 
     qid_to_id = {qid: org_id(row["orgnr"]) for qid, row in wd.items() if row.get("orgnr")}
@@ -157,6 +159,8 @@ def main():
             continue
         r = rec(row["orgnr"])
         name(r, "sv", row["label"], "wikidata")
+        if row.get("label_en"):
+            name(r, "en", row["label_en"], "wikidata")
         r["identifiers"]["wikidata"] = qid
         if row.get("riksarkivet"):
             r["identifiers"]["riksarkivet"] = row["riksarkivet"]
@@ -183,15 +187,12 @@ def main():
                 for lang, v in value.items():
                     name(r, lang, v, "manual")
             elif field == "identifiers":
-                for system, ids in value.items():
-                    if isinstance(ids, list):
-                        r["identifiers"][system] = sorted(set(r["identifiers"].get(system, [])) | set(ids))
-                        for uri in ids:
-                            {"dataportal": links_portal, "data_europa": links_europa}.get(system, {}).setdefault(uri, key)
-                            if system in ("dataportal", "data_europa"):
-                                {"dataportal": links_portal, "data_europa": links_europa}[system][uri] = key
-                    else:
-                        r["identifiers"][system] = ids
+                r["identifiers"].update(value)
+            elif field == "same_as":
+                add_same_as(r, *value)
+                for uri in value:
+                    links_europa[uri] = key
+                    links_portal.setdefault(uri, key)
             elif isinstance(value, dict):
                 r.setdefault(field, {}).update(value)
             else:

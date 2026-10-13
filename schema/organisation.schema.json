@@ -129,7 +129,7 @@
     },
     "identifiers": {
       "type": "object",
-      "description": "External identities of the same organisation.",
+      "description": "One canonical identifier per external system.",
       "additionalProperties": false,
       "properties": {
         "orgnr": {
@@ -137,18 +137,9 @@
           "pattern": "^\\d{10}$"
         },
         "dataportal": {
-          "type": "array",
-          "items": {
-            "type": "string",
-            "format": "uri"
-          }
-        },
-        "data_europa": {
-          "type": "array",
-          "items": {
-            "type": "string",
-            "format": "uri"
-          }
+          "type": "string",
+          "format": "uri",
+          "description": "Canonical agent URI, http://dataportal.se/organisation/SE<orgnr>[-suffix]; data.europa.eu reuses it."
         },
         "wikidata": {
           "type": "string",
@@ -159,14 +150,6 @@
         },
         "riksarkivet": {
           "type": "string"
-        },
-        "same_as": {
-          "type": "array",
-          "items": {
-            "type": "string",
-            "format": "uri"
-          },
-          "description": "Source-catalogue agent URIs recorded as owl:sameAs by the portals."
         }
       }
     },
@@ -188,6 +171,14 @@
     "note": {
       "type": "string",
       "description": "Free-text remark maintained by hand."
+    },
+    "same_as": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      },
+      "description": "Other URIs the portals use for this organisation: spelling variants of the canonical URI, source-catalogue agent URIs, and the portals' own owl:sameAs targets."
     }
   }
 }

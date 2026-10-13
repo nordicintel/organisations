@@ -21,6 +21,11 @@ registers. No API keys, standard library only.
 - dataportal.se's agreed suffix form is its own id, e.g. `SE2021002361-LST` for
   the county administrative boards jointly, with `part_of` to the base number.
 - `wikidata:Q…` for bodies without a Swedish number (Eurostat, OECD, IMF, ECB…).
+- `identifiers` holds one canonical value per external system. Every other URI
+  the portals use for the same organisation, spelling variants included, goes
+  in `same_as`.
+- Names: `sv` is the official name, `en` the official English name where one
+  is published (Wikidata or the portals), 589 of 877 today.
 
 Legal form (`legal_form.code`, Skatteverket's two-digit code reported by SCB)
 is the authority for what an organisation is; `publisher_type` is the ADMS

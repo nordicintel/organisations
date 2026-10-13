@@ -15,11 +15,9 @@
     "note": "Joint publisher id used on dataportal.se for all 21 county administrative boards; the base number is Länsstyrelsen i Västra Götalands län."
   },
   "SE2021006545": {
-    "identifiers": {
-      "data_europa": [
-        "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1669"
-      ]
-    },
+    "same_as": [
+      "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1669"
+    ],
     "note": "Folkhälsomyndigheten publishes Folkhälsodata under its own organisation URI rather than the SE-number form."
   },
   "SE8460010161": {
