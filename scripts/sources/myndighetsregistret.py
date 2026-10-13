@@ -20,7 +20,7 @@ GROUPS = {
 def _download(label):
     q = urllib.parse.urlencode({"format": "false", "myndgrupp": label})
     path = json.loads(http(f"{BASE}/Myndighet/PrepareDownload?{q}"))
-    return http(BASE + path)
+    return http(BASE + urllib.parse.quote(path, safe="/?=&"))
 
 
 def fetch(cache: Path):
