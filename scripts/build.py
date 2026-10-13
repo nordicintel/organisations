@@ -420,7 +420,7 @@ def main():
     dump(OUTPUT, {"generated": generated, "count": len(orgs), "organisation": orgs})
     try:
         export.export(OUTPUT, ROOT / "data_sources.json")
-    except Exception as error:  # noqa: BLE001 - dist/ is derived; the product is already written
+    except Exception as error:  # noqa: BLE001 - exports/ is derived; the product is already written
         print(f"export: {error}", file=sys.stderr)
         report["export"] = f"failed: {str(error)[:200]}"
     dump(ROOT / "links" / "dataportal.json", dict(sorted(links_portal.items())))

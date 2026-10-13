@@ -106,14 +106,14 @@ The only hand file for organisations. Merged last, so it wins over every registe
 | `links/data-europa.json` | data.europa.eu publisher, creator and rights-holder URI → organisation id, `null` when no number can be read from it; Geodataportalen's contacts appear as `mailto:` keys, resolved through the mailbox domain when exactly one organisation uses it for its mail or web address |
 | `links/wikidata.json` | Wikidata item → organisation id |
 | `snapshots/<register>.json` | the reduced result of the last successful fetch of each register. Committed so a build still runs when a register is down |
-| `dist/<product>.json`, `dist/<product>.csv` | the two product files in every published format: a copy of the JSON and a CSV with one row per record, same name, only the extension differs. Nested fields are dotted columns (`label.sv`), lists are `\|`-joined, and a list of objects gives one column per field with the items aligned by position. Derived from the JSON, so it changes exactly when the product does |
+| `exports/<product>.json`, `exports/<product>.csv` | the two product files in every published format: a copy of the JSON and a CSV with one row per record, same name, only the extension differs. Nested fields are dotted columns (`label.sv`), lists are `\|`-joined, and a list of objects gives one column per field with the items aligned by position. Derived from the JSON, so it changes exactly when the product does |
 | `reports/<date>.json` | written by a build that changed an organisation or found a register with no snapshot: per register `fetched`, `stale` or `failed`, counts, added and removed ids. `generated` in `organisations.json` is the date of the last content change |
 
 ## Build and check
 
 ```sh
-python scripts/build.py     # fetch registers, rewrite organisations.json, dist/, links/, snapshots/, reports/
-python scripts/export.py organisations.json data_sources.json  # rewrite dist/ alone
+python scripts/build.py     # fetch registers, rewrite organisations.json, exports/, links/, snapshots/, reports/
+python scripts/export.py organisations.json data_sources.json  # rewrite exports/ alone
 python scripts/validate.py  # schemas and references across all files; run before committing
 ```
 
@@ -122,7 +122,7 @@ error or a network failure is retried a few times with a growing pause. A row a
 register cannot read, or that the build cannot apply, is skipped and logged, counted
 as `skipped` under that register in the report, and the other rows go through. A
 register that still cannot be fetched is replaced by its snapshot and reported as
-`stale`; only when every register fails does the build exit non-zero. The `dist/`
+`stale`; only when every register fails does the build exit non-zero. The `exports/`
 export failing never fails the build; the report says so. Builds are deterministic,
 so a diff means a register or an edit changed.
 
