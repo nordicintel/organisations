@@ -1,0 +1,42 @@
+{
+  "added": [],
+  "changed": 6,
+  "count": 877,
+  "date": "2026-10-13",
+  "legal_type": {
+    "49": 18,
+    "51": 2,
+    "61": 11,
+    "72": 16,
+    "81": 256,
+    "82": 290,
+    "83": 178,
+    "84": 20,
+    "87": 48,
+    "88": 1,
+    "none": 37
+  },
+  "register": {
+    "data_europa": {
+      "rows": 460,
+      "status": "fetched"
+    },
+    "dataportal": {
+      "rows": 2,
+      "status": "fetched"
+    },
+    "myndighetsregistret": {
+      "rows": 261,
+      "status": "fetched"
+    },
+    "scb_bulk": {
+      "rows": 840,
+      "status": "fetched"
+    },
+    "wikidata": {
+      "rows": 718,
+      "status": "fetched"
+    }
+  },
+  "removed": []
+}

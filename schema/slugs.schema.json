@@ -1,8 +1,0 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Slugs",
-  "description": "Our own short codes for organisations. Keys are slugs, values organisation ids. Slugs are mutable; ids are not.",
-  "type": "object",
-  "propertyNames": {"pattern": "^[a-z][a-z0-9_]*$"},
-  "additionalProperties": {"type": "string"}
-}

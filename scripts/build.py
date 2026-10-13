@@ -1,12 +1,17 @@
-"""Build data/organisations.json and links/*.json from the free registers.
+"""Build organisations.json, links/ and a report from the registers and edits/.
 
 Usage: python scripts/build.py [--cache DIR]
-Downloads are cached in DIR (default .cache) and reused when present.
+
+Each register is fetched into the cache and reduced to a small snapshot in
+snapshots/<register>.json, which is committed. When a register cannot be
+fetched, the committed snapshot is used instead and the report says so. One
+register failing never stops the build.
 """
 import argparse
 import json
 import re
 import sys
+import traceback
 from collections import Counter
 from datetime import date
 from pathlib import Path
@@ -16,11 +21,16 @@ from sources import data_europa, dataportal, myndighetsregistret, scb_bulk, wiki
 from sources.common import org_id, orgnr  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
-FORM_TO_TYPE = {"81": "NationalAuthority", "82": "LocalAuthority", "83": "LocalAuthority", "84": "RegionalAuthority",
-                "85": "NationalAuthority", "87": "NonProfitOrganisation", "88": "Company", "89": "NationalAuthority",
-                "49": "Company", "41": "Company", "42": "Company", "31": "Company", "51": "NonProfitOrganisation",
-                "61": "NonProfitOrganisation", "63": "NonProfitOrganisation", "71": "NonProfitOrganisation",
-                "72": "NonProfitOrganisation", "93": "Company", "95": "NonProfitOrganisation"}
+SNAPSHOTS = ROOT / "snapshots"
+OUTPUT = ROOT / "organisations.json"
+LEGAL_TYPE_TO_TYPE = {
+    "81": "NationalAuthority", "82": "LocalAuthority", "83": "LocalAuthority", "84": "RegionalAuthority",
+    "85": "NationalAuthority", "87": "NonProfitOrganisation", "88": "Company", "89": "NationalAuthority",
+    "31": "Company", "41": "Company", "42": "Company", "49": "Company", "51": "NonProfitOrganisation",
+    "61": "NonProfitOrganisation", "63": "NonProfitOrganisation", "71": "NonProfitOrganisation",
+    "72": "NonProfitOrganisation", "93": "Company", "95": "NonProfitOrganisation",
+}
+LABEL_PRIORITY = {"edits": 0, "dataportal": 1, "myndighetsregistret": 2, "wikidata": 3, "data_europa": 4, "scb_bulk": 5}
 
 
 def dump(path, value):
@@ -28,129 +38,147 @@ def dump(path, value):
     path.write_text(json.dumps(value, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
 
 
+def load(path, default):
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else default
+
+
+def fetch(name, producer, report):
+    """Run one register's fetch; fall back to its committed snapshot on any error."""
+    path = SNAPSHOTS / f"{name}.json"
+    try:
+        data = producer()
+        dump(path, data)
+        report[name] = {"status": "fetched", "rows": len(data)}
+        return data
+    except Exception as error:  # noqa: BLE001 - any failure must not stop the build
+        print(f"{name}: {error}", file=sys.stderr)
+        traceback.print_exc()
+        data = load(path, {})
+        report[name] = {"status": "stale" if data else "failed", "rows": len(data), "error": str(error)[:200]}
+        return data
+
+
+def canonical(number, suffix=""):
+    return f"http://dataportal.se/organisation/SE{number}{suffix}"
+
+
+def suffix_of(uri):
+    m = re.search(r"organisation/(?:SE)?\d{10}(-[A-Z0-9]+)", uri or "")
+    return m.group(1) if m else ""
+
+
+def title(value):
+    return value.title() if value.isupper() else value
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--cache", default=str(ROOT / ".cache"))
-    args = ap.parse_args()
-    cache = Path(args.cache)
+    cache = Path(ap.parse_args().cache)
 
-    slugs = json.loads((ROOT / "slugs.json").read_text(encoding="utf-8"))
-    aliases = json.loads((ROOT / "aliases.json").read_text(encoding="utf-8"))
-    manual = json.loads((ROOT / "manual.json").read_text(encoding="utf-8"))
+    edits = load(ROOT / "edits" / "organisations.json", {"organisation": {}, "ignore": []})
+    previous = load(OUTPUT, {}).get("organisation", {})
+    report = {"date": date.today().isoformat(), "register": {}}
+    registers = report["register"]
 
-    portal = dataportal.fetch(cache)
-    europa = data_europa.fetch(cache)
-    wd = wikidata.fetch(cache)
-    state = myndighetsregistret.fetch(cache)
+    portal = fetch("dataportal", lambda: dataportal.fetch(cache), registers)
+    europa = fetch("data_europa", lambda: data_europa.fetch(cache), registers)
+    wd = fetch("wikidata", lambda: wikidata.fetch(cache), registers)
+    state = fetch("myndighetsregistret", lambda: myndighetsregistret.fetch(cache), registers)
 
-    # every organisationsnummer any other source or our own files mention
-    wanted = set()
-    for uri, rec in list(portal["registry"].items()) + list(portal["publishers"].items()):
-        for v in (uri, rec.get("identifier")):
-            if (n := orgnr(v)):
+    wanted = set(state)
+    for uri, row in list(portal.get("registry", {}).items()) + list(portal.get("publishers", {}).items()) + list(europa.items()):
+        for value in (uri, row.get("identifier")):
+            if (n := orgnr(value)):
                 wanted.add(n)
-    for uri, rec in europa.items():
-        for v in (uri, rec.get("identifier")):
-            if (n := orgnr(v)):
-                wanted.add(n)
-    wanted |= {r["orgnr"] for r in wd.values() if r.get("orgnr")}
-    wanted |= set(state)
-    wanted |= {orgnr(v) for v in list(slugs.values()) + list(aliases.values()) + list(manual) if orgnr(v)}
-    scb = scb_bulk.fetch(cache, wanted=frozenset(wanted))
+    wanted |= {row["orgnr"] for row in wd.values() if row.get("orgnr")}
+    wanted |= {orgnr(key) for key in edits["organisation"] if orgnr(key)}
+    scb = fetch("scb_bulk", lambda: scb_bulk.fetch(cache, wanted=frozenset(wanted)), registers)
 
-    orgs = {}
-    names = {}  # id -> {lang: [(priority, name)]}
-    PRIORITY = {"manual": 0, "dataportal": 1, "myndighetsregistret": 2, "wikidata": 3, "data_europa": 4, "scb_bulk": 5}
+    orgs, labels = {}, {}
 
     def rec(number, suffix=""):
         key = org_id(number) + suffix
-        return orgs.setdefault(key, {"id": key, "names": {}, "status": "unknown", "identifiers": {"orgnr": number}, "sources": []})
+        return orgs.setdefault(key, {"id": key, "label": {}, "status": "unknown", "identifier": {"orgnr": number}, "source": []})
 
-    def name(r, lang, value, source):
+    def label(r, lang, value, source):
         if value:
-            names.setdefault(r["id"], {}).setdefault(lang, []).append((PRIORITY[source], value))
+            labels.setdefault(r["id"], {}).setdefault(lang, []).append((LABEL_PRIORITY[source], value))
 
-    def canonical(number, suffix=""):
-        return f"http://dataportal.se/organisation/SE{number}{suffix}"
-
-    def add_same_as(r, *uris):
-        own = {canonical(r["identifiers"]["orgnr"], r["id"][12:]) if "orgnr" in r["identifiers"] else None}
-        extra = {u for u in uris if u and u not in own}
+    def same_as(r, *uris):
+        own = canonical(r["identifier"]["orgnr"], r["id"][12:]) if "orgnr" in r["identifier"] else None
+        extra = {u for u in uris if u and u != own}
         if extra:
             r["same_as"] = sorted(set(r.get("same_as", [])) | extra)
 
-    def suffix_of(uri):
-        m = re.search(r"organisation/(?:SE)?\d{10}(-[A-Z0-9]+)", uri or "")
-        return m.group(1) if m else ""
-
     for number, row in scb.items():
         r = rec(number)
-        r["registered_name"] = row["name"]
-        name(r, "sv", row["name"].title() if row["name"].isupper() else row["name"], "scb_bulk")
+        r["registered_label"] = row["name"]
+        label(r, "sv", title(row["name"]), "scb_bulk")
         r["status"] = "active" if row["jestat"] in ("1", "2") and row["ftgstat"] != "9" else "deregistered"
-        r["legal_form"] = {"code": row["legal_form"], "label": scb_bulk.LEGAL_FORMS.get(row["legal_form"], "")}
-        if row["legal_form"] in FORM_TO_TYPE:
-            r["publisher_type"] = FORM_TO_TYPE[row["legal_form"]]
+        r["legal_type"] = {"code": row["legal_form"], "label": scb_bulk.LEGAL_FORMS.get(row["legal_form"], "")}
+        if row["legal_form"] in LEGAL_TYPE_TO_TYPE:
+            r["type"] = LEGAL_TYPE_TO_TYPE[row["legal_form"]]
         if row["registered"]:
             r["established"] = row["registered"]
-        r["sources"].append("scb_bulk")
+        r["source"].append("scb_bulk")
 
     for number, row in state.items():
         r = rec(number)
-        name(r, "sv", row["name"].title() if row["name"].isupper() else row["name"], "myndighetsregistret")
+        label(r, "sv", title(row["name"]), "myndighetsregistret")
         r["state_body_group"] = row["group"]
         if row["sfs"]:
             r["sfs"] = row["sfs"]
-        if row["web"] and "homepage" not in r:
-            r["homepage"] = row["web"] if row["web"].startswith("http") else "https://" + row["web"]
+        if row["web"]:
+            r.setdefault("homepage", row["web"] if row["web"].startswith("http") else "https://" + row["web"])
         if row["email"]:
             r.setdefault("email", row["email"])
-        r["sources"].append("myndighetsregistret")
+        r["source"].append("myndighetsregistret")
 
     links_portal, links_europa, links_wd = {}, {}, {}
-    for uri, row in portal["registry"].items():
+    for uri, row in portal.get("registry", {}).items():
         number = orgnr(uri) or orgnr(row.get("identifier"))
         if not number:
             links_portal[uri] = None
             continue
         r = rec(number, suffix_of(uri))
         for lang, value in row["names"].items():
-            name(r, lang, value, "dataportal")
-        if row.get("type") and "publisher_type" not in r:
-            r["publisher_type"] = row["type"]
+            label(r, lang, value, "dataportal")
+        if row.get("type"):
+            r.setdefault("type", row["type"])
         if row.get("homepage"):
             r.setdefault("homepage", row["homepage"])
         if row.get("email"):
             r.setdefault("email", row["email"])
-        r["identifiers"]["dataportal"] = canonical(number, suffix_of(uri))
-        add_same_as(r, uri, *row.get("same_as", []))
-        r["sources"].append("dataportal")
+        r["identifier"]["dataportal"] = canonical(number, suffix_of(uri))
+        same_as(r, uri, *row.get("same_as", []))
+        r["source"].append("dataportal")
         links_portal[uri] = r["id"]
-    for uri, row in portal["publishers"].items():
+    for uri, row in portal.get("publishers", {}).items():
         number = orgnr(uri) or orgnr(row.get("identifier"))
         links_portal.setdefault(uri, (org_id(number) + suffix_of(uri)) if number else None)
         if number:
             r = rec(number, suffix_of(uri))
-            r["identifiers"].setdefault("dataportal", canonical(number, suffix_of(uri)))
-            add_same_as(r, uri)
-            if "dataportal" not in r["sources"]:
-                r["sources"].append("dataportal")
+            r["identifier"].setdefault("dataportal", canonical(number, suffix_of(uri)))
+            same_as(r, uri)
+            if "dataportal" not in r["source"]:
+                r["source"].append("dataportal")
 
     for uri, row in europa.items():
         number = orgnr(uri) or orgnr(row.get("identifier"))
-        links_europa[uri] = org_id(number) if number else None
+        links_europa[uri] = (org_id(number) + suffix_of(uri)) if number else None
         if not number:
             continue
         r = rec(number, suffix_of(uri))
         for lang, value in row["names"].items():
-            name(r, lang, value, "dataportal")
-        if row.get("type") and "publisher_type" not in r:
-            r["publisher_type"] = row["type"].rsplit("/", 1)[-1]
+            label(r, lang, value, "data_europa")
+        if row.get("type"):
+            r.setdefault("type", row["type"].rsplit("/", 1)[-1])
         if row.get("homepage"):
             r.setdefault("homepage", row["homepage"])
-        r["identifiers"].setdefault("dataportal", canonical(number, suffix_of(uri)))
-        add_same_as(r, uri, *row.get("same_as", []))
-        r["sources"].append("data_europa")
+        r["identifier"].setdefault("dataportal", canonical(number, suffix_of(uri)))
+        same_as(r, uri, *row.get("same_as", []))
+        r["source"].append("data_europa")
 
     qid_to_id = {qid: org_id(row["orgnr"]) for qid, row in wd.items() if row.get("orgnr")}
     for qid, row in wd.items():
@@ -158,15 +186,14 @@ def main():
         if not row.get("orgnr"):
             continue
         r = rec(row["orgnr"])
-        name(r, "sv", row["label"], "wikidata")
+        label(r, "sv", row["label"], "wikidata")
         if row.get("label_en"):
-            name(r, "en", row["label_en"], "wikidata")
-        r["identifiers"]["wikidata"] = qid
+            label(r, "en", row["label_en"], "wikidata")
+        r["identifier"]["wikidata"] = qid
         if row.get("riksarkivet"):
-            r["identifiers"]["riksarkivet"] = row["riksarkivet"]
+            r["identifier"]["riksarkivet"] = row["riksarkivet"]
         if row.get("kommunkod"):
-            r.setdefault("codes", {})["kommun"] = row["kommunkod"]
-            r["codes"]["lan"] = row["kommunkod"][:2]
+            r["code"] = {"kommun": row["kommunkod"], "lan": row["kommunkod"][:2]}
         if row.get("department"):
             r["department"] = row["department"]
         if row.get("inception"):
@@ -178,47 +205,53 @@ def main():
         succ = [qid_to_id[q] for q in row["replaced_by"] if q in qid_to_id]
         if succ:
             r["succeeded_by"] = sorted(set(r.get("succeeded_by", [])) | set(succ))
-        r["sources"].append("wikidata")
+        r["source"].append("wikidata")
 
-    for key, patch in manual.items():
-        r = orgs.setdefault(key, {"id": key, "names": {}, "status": "unknown", "identifiers": {}, "sources": []})
+    for key, patch in edits["organisation"].items():
+        r = orgs.setdefault(key, {"id": key, "label": {}, "status": "unknown", "identifier": {}, "source": []})
         for field, value in patch.items():
-            if field == "names":
+            if field == "label":
                 for lang, v in value.items():
-                    name(r, lang, v, "manual")
-            elif field == "identifiers":
-                r["identifiers"].update(value)
+                    label(r, lang, v, "edits")
+            elif field == "identifier":
+                r["identifier"].update(value)
             elif field == "same_as":
-                add_same_as(r, *value)
+                same_as(r, *value)
                 for uri in value:
                     links_europa[uri] = key
                     links_portal.setdefault(uri, key)
-            elif isinstance(value, dict):
-                r.setdefault(field, {}).update(value)
+            elif field == "alias":
+                r["alias"] = sorted(set(value), key=str.casefold)
             else:
                 r[field] = value
-        r["sources"].append("manual")
+        r["source"].append("edits")
 
     for r in orgs.values():
-        r["sources"] = sorted(set(r["sources"]))
-        for lang, candidates in names.get(r["id"], {}).items():
-            r["names"].setdefault(lang, min(candidates)[1])
-        if not r["names"]:
-            r["names"]["sv"] = r.get("registered_name") or r["id"]
-        if r["id"].count("-") and "part_of" not in r:
+        r["source"] = sorted(set(r["source"]))
+        for lang, candidates in labels.get(r["id"], {}).items():
+            r["label"].setdefault(lang, min(candidates)[1])
+        if not r["label"]:
+            r["label"]["sv"] = r.get("registered_label") or r["id"]
+        if "-" in r["id"] and "part_of" not in r:
             r["part_of"] = r["id"].split("-")[0]
 
-    missing = {k: v for k, v in {**slugs, **{k: v for k, v in aliases.items() if v}}.items() if v not in orgs}
-    if missing:
-        print(f"WARNING {len(missing)} slug/alias targets are not in the registry, e.g. {list(missing.items())[:5]}", file=sys.stderr)
-
-    dump(ROOT / "organisations.json", {"generated": date.today().isoformat(), "count": len(orgs),
-                                                 "organisations": dict(sorted(orgs.items()))})
+    orgs = dict(sorted(orgs.items()))
+    dump(OUTPUT, {"generated": report["date"], "count": len(orgs), "organisation": orgs})
     dump(ROOT / "links" / "dataportal.json", dict(sorted(links_portal.items())))
     dump(ROOT / "links" / "data-europa.json", dict(sorted(links_europa.items())))
     dump(ROOT / "links" / "wikidata.json", dict(sorted(links_wd.items())))
-    counts = Counter(r.get("legal_form", {}).get("code", "none") for r in orgs.values())
-    print(f"{len(orgs)} organisations; legal forms: {dict(counts.most_common(12))}", file=sys.stderr)
+
+    added = sorted(set(orgs) - set(previous))
+    removed = sorted(set(previous) - set(orgs))
+    changed = sorted(k for k in set(orgs) & set(previous) if orgs[k] != previous[k])
+    report.update({"count": len(orgs), "added": added, "removed": removed, "changed": len(changed),
+                   "legal_type": dict(Counter(r.get("legal_type", {}).get("code", "none") for r in orgs.values()))})
+    trouble = any(v["status"] != "fetched" for v in registers.values())
+    if added or removed or changed or trouble:
+        dump(ROOT / "reports" / f"{report['date']}.json", report)
+    print(f"{len(orgs)} organisations: +{len(added)} -{len(removed)} ~{len(changed)}; "
+          + ", ".join(f"{k} {v['status']}" for k, v in registers.items()), file=sys.stderr)
+    sys.exit(2 if all(v["status"] == "failed" for v in registers.values()) else 0)
 
 
 if __name__ == "__main__":

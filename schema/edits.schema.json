@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Edits",
+  "description": "edits/organisations.json: hand-maintained facts merged last into organisations.json.",
+  "type": "object",
+  "required": ["organisation", "ignore"],
+  "additionalProperties": false,
+  "properties": {
+    "organisation": {
+      "type": "object",
+      "description": "Organisation id → fields to set. Any organisation.schema.json field except id, source and registered_label; label and identifier merge per key, alias and same_as are unions, everything else overrides. An id the registers lack is created; for a Swedish number an empty object is enough.",
+      "additionalProperties": {"type": "object"}
+    },
+    "ignore": {"type": "array", "items": {"type": "string"}, "description": "Strings seen in source metadata that are not organisations and not data sources."}
+  }
+}

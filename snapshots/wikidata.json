@@ -1,0 +1,6273 @@
+{
+  "Q101113144": {
+    "department": "Utbildningsdepartementet",
+    "kind": "myndighet",
+    "label": "Nämnden för prövning av oredlighet i forskning",
+    "label_en": "The Swedish National Board for Assessment of Research Misconduct",
+    "orgnr": "2021006933",
+    "replaced_by": []
+  },
+  "Q10405389": {
+    "department": "Socialdepartementet",
+    "kind": "myndighet",
+    "label": "Alkoholsortimentsnämnden",
+    "label_en": "Alcoholic Beverages Product Range Board",
+    "orgnr": "2021005943",
+    "replaced_by": []
+  },
+  "Q10413037": {
+    "department": "Näringsdepartementet",
+    "kind": "myndighet",
+    "label": "Ansvarsnämnden för djurens hälso- och sjukvård",
+    "orgnr": "2021006834",
+    "replaced_by": []
+  },
+  "Q10416948": {
+    "department": "Finansdepartementet",
+    "inception": "1965-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Arbetsgivarverket",
+    "label_en": "Swedish Agency for Government Employers",
+    "orgnr": "2021003476",
+    "replaced_by": []
+  },
+  "Q10416959": {
+    "dissolved": "2007-06-30T00:00:00Z",
+    "inception": "1995-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Arbetslivsinstitutet",
+    "label_en": "National Institute for Working Life",
+    "replaced_by": []
+  },
+  "Q10416973": {
+    "dissolved": "2008-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Arbetsmarknadsverket",
+    "replaced_by": [
+      "Q3440237"
+    ]
+  },
+  "Q10416979": {
+    "department": "Arbetsmarknadsdepartementet",
+    "inception": "2001-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Arbetsmiljöverket",
+    "label_en": "Swedish Work Environment Authority",
+    "orgnr": "2021002148",
+    "replaced_by": []
+  },
+  "Q10423644": {
+    "dissolved": "2008-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Avvecklingsmyndigheten för Integrationsverket",
+    "replaced_by": []
+  },
+  "Q10426065": {
+    "dissolved": "1991-01-01T00:00:00Z",
+    "inception": "1907-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Bankinspektionen",
+    "label_en": "Bankinspektionen",
+    "replaced_by": []
+  },
+  "Q10432198": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Bokföringsnämnden",
+    "label_en": "Swedish Accounting Standards Board",
+    "orgnr": "2021003278",
+    "replaced_by": []
+  },
+  "Q10436166": {
+    "department": "Justitiedepartementet",
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Brottsförebyggande rådet",
+    "label_en": "Swedish National Council for Crime Prevention",
+    "orgnr": "2021000068",
+    "replaced_by": []
+  },
+  "Q10438165": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1863-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2409",
+    "label": "Bygdeå kommun",
+    "label_en": "Bygdeå municipality",
+    "replaced_by": [
+      "Q507670"
+    ]
+  },
+  "Q10444871": {
+    "department": "Näringsdepartementet",
+    "kind": "myndighet",
+    "label": "Centrala djurförsöksetiska nämnden",
+    "label_en": "Swedish National board on research animal ethics",
+    "orgnr": "2021006909",
+    "replaced_by": []
+  },
+  "Q10444876": {
+    "dissolved": "1939-01-01T00:00:00Z",
+    "inception": "1907-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Centralanstalten för försöksväsendet på jordbruksområdet",
+    "replaced_by": []
+  },
+  "Q10474991": {
+    "dissolved": "2007-07-01T00:00:00Z",
+    "inception": "2004-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Djurskyddsmyndigheten",
+    "label_en": "Swedish Animal Welfare Agency",
+    "replaced_by": []
+  },
+  "Q10475766": {
+    "department": "Justitiedepartementet",
+    "kind": "myndighet",
+    "label": "Domarnämnden",
+    "label_en": "Judges Proposals Board",
+    "orgnr": "2021006081",
+    "replaced_by": []
+  },
+  "Q10478742": {
+    "dissolved": "2018-09-01T00:00:00Z",
+    "inception": "2011-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "E-legitimationsnämnden",
+    "replaced_by": []
+  },
+  "Q10482004": {
+    "department": "Infrastrukturdepartementet",
+    "inception": "1993-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Elsäkerhetsverket",
+    "label_en": "National Electrical Safety Board",
+    "orgnr": "2021004466",
+    "replaced_by": []
+  },
+  "Q10484099": {
+    "department": "Infrastrukturdepartementet",
+    "kind": "myndighet",
+    "label": "Energimyndigheten",
+    "label_en": "Swedish Energy Agency",
+    "orgnr": "2021005000",
+    "replaced_by": []
+  },
+  "Q10484100": {
+    "department": "Infrastrukturdepartementet",
+    "kind": "myndighet",
+    "label": "Energimarknadsinspektionen",
+    "label_en": "Swedish Energy Markets Inspectorate",
+    "orgnr": "2021005695",
+    "replaced_by": []
+  },
+  "Q104870569": {
+    "dissolved": "2001-07-01T00:00:00Z",
+    "inception": "1995-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Alkoholinspektionen",
+    "label_en": "The National Alcohol Board",
+    "replaced_by": [
+      "Q1252909"
+    ]
+  },
+  "Q10494944": {
+    "department": "Justitiedepartementet",
+    "kind": "myndighet",
+    "label": "Fideikommissnämnden",
+    "label_en": "Fideikommissnämnden",
+    "orgnr": "2021000043",
+    "replaced_by": []
+  },
+  "Q10495784": {
+    "department": "Landsbygds- och infrastrukturdepartementet",
+    "dissolved": "2011-06-30T00:00:00Z",
+    "inception": "1991-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Fiskeriverket",
+    "label_en": "National Board of Fisheries",
+    "replaced_by": []
+  },
+  "Q10497097": {
+    "dissolved": "2004-12-31T00:00:00Z",
+    "inception": "2000-05-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Flygplatsnämnden",
+    "label_en": "Swedish airport board",
+    "replaced_by": []
+  },
+  "Q10497113": {
+    "dissolved": "2000-12-31T00:00:00Z",
+    "inception": "1940-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Flygtekniska försöksanstalten",
+    "label_en": "National Aeronautical Research Institute",
+    "replaced_by": []
+  },
+  "Q10497349": {
+    "department": "Utrikesdepartementet",
+    "inception": "2002-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Folke Bernadotteakademin",
+    "label_en": "Folke Bernadotte Academy",
+    "orgnr": "2021005380",
+    "replaced_by": []
+  },
+  "Q10497831": {
+    "department": "Miljödepartementet",
+    "inception": "2001-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Forskningsrådet för miljö, areella näringar och samhällsbyggande",
+    "label_en": "Formas",
+    "orgnr": "2021005232",
+    "replaced_by": []
+  },
+  "Q10498054": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1863-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2301",
+    "label": "Fors kommun",
+    "replaced_by": [
+      "Q515342"
+    ]
+  },
+  "Q10498137": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Forskarskattenämnden",
+    "label_en": "The Taxation of Research Workers Board",
+    "orgnr": "2021005893",
+    "replaced_by": []
+  },
+  "Q10501537": {
+    "dissolved": "2000-12-31T00:00:00Z",
+    "inception": "1945-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Försvarets forskningsanstalt",
+    "label_en": "Swedish National Defence Research Institute",
+    "replaced_by": []
+  },
+  "Q10501643": {
+    "dissolved": "1991-01-01T00:00:00Z",
+    "inception": "1903-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Försäkringsinspektionen",
+    "replaced_by": []
+  },
+  "Q10503899": {
+    "department": "Justitiedepartementet",
+    "kind": "myndighet",
+    "label": "Gentekniknämnden",
+    "label_en": "Swedish Gene Technology Advisory Board",
+    "orgnr": "2021004813",
+    "replaced_by": []
+  },
+  "Q10505446": {
+    "dissolved": "2009-03-31T00:00:00Z",
+    "inception": "1991-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Glesbygdsverket",
+    "label_en": "National Rural Development Agency",
+    "replaced_by": []
+  },
+  "Q10507694": {
+    "dissolved": "1970-12-31T00:00:00Z",
+    "inception": "1863-01-01T00:00:00Z",
+    "kind": "region",
+    "label": "Gotlands läns landsting",
+    "replaced_by": []
+  },
+  "Q10511124": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1863-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1711",
+    "label": "Gustav Adolfs kommun",
+    "label_en": "Gustav Adolf Muncipiality",
+    "replaced_by": [
+      "Q511407"
+    ]
+  },
+  "Q10518645": {
+    "department": "Miljödepartementet",
+    "inception": "2011-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Havs- och vattenmyndigheten",
+    "label_en": "Swedish Agency for Marine and Water Management",
+    "orgnr": "2021006420",
+    "replaced_by": []
+  },
+  "Q10527033": {
+    "dissolved": "2000-01-01T00:00:00Z",
+    "inception": "1977-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Humanistisk-samhällsvetenskapliga forskningsrådet",
+    "label_en": "Council for Research in the Humanities and Social Sciences",
+    "replaced_by": []
+  },
+  "Q10531505": {
+    "department": "Socialdepartementet",
+    "inception": "1980-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Hälso- och sjukvårdens ansvarsnämnd",
+    "label_en": "Medical Responsibility Board",
+    "orgnr": "2021003765",
+    "replaced_by": []
+  },
+  "Q10536052": {
+    "department": "Arbetsmarknadsdepartementet",
+    "kind": "myndighet",
+    "label": "Inspektionen för arbetslöshetsförsäkringen",
+    "label_en": "The Swedish Unemployment Insurance Inspectorate",
+    "orgnr": "2021005414",
+    "replaced_by": []
+  },
+  "Q10536053": {
+    "department": "Socialdepartementet",
+    "inception": "2013-06-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Inspektionen för vård och omsorg",
+    "label_en": "Health and Social Care Inspectorate",
+    "orgnr": "2021006537",
+    "replaced_by": []
+  },
+  "Q10536054": {
+    "department": "Socialdepartementet",
+    "kind": "myndighet",
+    "label": "Inspektionen för socialförsäkringen",
+    "label_en": "Swedish Social Insurance Inspectorate",
+    "orgnr": "2021006248",
+    "replaced_by": []
+  },
+  "Q10536076": {
+    "department": "Arbetsmarknadsdepartementet",
+    "kind": "myndighet",
+    "label": "Institutet för arbetsmarknads- och utbildningspolitisk utvärdering",
+    "label_en": "Institute for Evaluation of Labour Market and Education Policy",
+    "orgnr": "2021004946",
+    "replaced_by": []
+  },
+  "Q10536082": {
+    "dissolved": "2007-10-01T00:00:00Z",
+    "inception": "1980-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Institutet för psykosocial medicin",
+    "label_en": "National Institute for Psychosocial Medicine",
+    "replaced_by": []
+  },
+  "Q10536085": {
+    "dissolved": "2009-03-31T00:00:00Z",
+    "inception": "2001-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Institutet för tillväxtpolitiska studier",
+    "label_en": "Swedish Institute for Growth Policy Studies",
+    "replaced_by": []
+  },
+  "Q10536086": {
+    "dissolved": "2012-12-31T00:00:00Z",
+    "inception": "2006-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Institutet för utvärdering av internationellt utvecklingssamarbete",
+    "label_en": "The Swedish Agency for Development Evaluation",
+    "replaced_by": []
+  },
+  "Q10536128": {
+    "dissolved": "2008-01-01T00:00:00Z",
+    "inception": "1996-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Insättningsgarantinämnden",
+    "label_en": "Deposit Guarantee Board",
+    "replaced_by": []
+  },
+  "Q10536287": {
+    "dissolved": "2012-12-31T00:00:00Z",
+    "inception": "2002-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Internationella programkontoret för utbildningsområdet",
+    "label_en": "International Programme Office for Education and Training",
+    "replaced_by": []
+  },
+  "Q10541685": {
+    "dissolved": "2008-12-31T00:00:00Z",
+    "inception": "1980-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Jämställdhetsnämnden",
+    "label_en": "The Equal Opportunities Commission",
+    "replaced_by": []
+  },
+  "Q10541927": {
+    "dissolved": "2008-12-31T00:00:00Z",
+    "inception": "2004-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Järnvägsstyrelsen",
+    "label_en": "The Swedish Rail Agency",
+    "replaced_by": []
+  },
+  "Q10544771": {
+    "department": "Miljödepartementet",
+    "kind": "myndighet",
+    "label": "Kemikalieinspektionen",
+    "label_en": "Swedish Chemicals Agency",
+    "orgnr": "2021003880",
+    "replaced_by": []
+  },
+  "Q10547348": {
+    "department": "Utrikesdepartementet",
+    "inception": "1651-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Kommerskollegium",
+    "label_en": "National Board of Trade",
+    "orgnr": "2021002007",
+    "replaced_by": []
+  },
+  "Q10547498": {
+    "dissolved": "2012-12-31T00:00:00Z",
+    "inception": "2009-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Kompetensrådet för utveckling i staten",
+    "label_en": "Kompetensrådet för utveckling i staten",
+    "replaced_by": [],
+    "riksarkivet": "agent/zs2PowaY5QB7n4KWBVkC55"
+  },
+  "Q10547725": {
+    "department": "kulturdepartementet",
+    "kind": "myndighet",
+    "label": "Konstnärsnämnden",
+    "label_en": "Swedish Arts Grants Committee",
+    "orgnr": "2021003252",
+    "replaced_by": []
+  },
+  "Q10548698": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Krigsförsäkringsnämnden",
+    "orgnr": "2021005810",
+    "replaced_by": []
+  },
+  "Q10549070": {
+    "dissolved": "2009-01-01T00:00:00Z",
+    "inception": "2002-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Krisberedskapsmyndigheten",
+    "label_en": "Swedish Emergency Management Agency",
+    "replaced_by": [
+      "Q3430725"
+    ]
+  },
+  "Q10551086": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1863-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1140",
+    "label": "Kvidinge kommun",
+    "label_en": "Kvidinge municipality",
+    "replaced_by": [
+      "Q201813"
+    ]
+  },
+  "Q10551862": {
+    "department": "Miljödepartementet",
+    "kind": "myndighet",
+    "label": "Kärnavfallsfonden",
+    "label_en": "Nuclear Waste Fund",
+    "orgnr": "2021004904",
+    "replaced_by": []
+  },
+  "Q10568223": {
+    "dissolved": "2018-01-01T00:00:00Z",
+    "inception": "1978-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet",
+    "label_en": "Royal Armoury and Skokloster Castle with Foundation of Hallwyl Museum",
+    "replaced_by": []
+  },
+  "Q10568238": {
+    "dissolved": "2008-12-31T00:00:00Z",
+    "inception": "1999-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Livsmedelsekonomiska institutet",
+    "replaced_by": []
+  },
+  "Q10569896": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Spelinspektionen",
+    "label_en": "Spelinspektionen",
+    "orgnr": "2021003310",
+    "replaced_by": []
+  },
+  "Q10571982": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Östergötlands län",
+    "label_en": "Östergötland County Administrative Board",
+    "orgnr": "2021002270",
+    "replaced_by": []
+  },
+  "Q10579209": {
+    "dissolved": "2000-01-01T00:00:00Z",
+    "inception": "1945-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Medicinska forskningsrådet",
+    "label_en": "Swedish Medical Research Council",
+    "replaced_by": []
+  },
+  "Q10579266": {
+    "department": "Arbetsmarknadsdepartementet",
+    "inception": "2000-06-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Medlingsinstitutet",
+    "label_en": "National Mediation Office",
+    "orgnr": "2021005174",
+    "replaced_by": []
+  },
+  "Q10591748": {
+    "department": "Socialdepartementet",
+    "inception": "1991-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för familjerätt och föräldraskapsstöd",
+    "label_en": "Swedish Intercountry Adoptions Authority",
+    "orgnr": "2021004169",
+    "replaced_by": []
+  },
+  "Q10591749": {
+    "department": "kulturdepartementet",
+    "kind": "myndighet",
+    "label": "Myndigheten för kulturanalys",
+    "label_en": "Swedish Agency for Cultural Policy Analysis",
+    "orgnr": "2021006404",
+    "replaced_by": []
+  },
+  "Q10591750": {
+    "dissolved": "2009-07-01T00:00:00Z",
+    "inception": "2001-10-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för kvalificerad yrkesutbildning",
+    "label_en": "The Swedish Agency for Advanced Vocational Education",
+    "replaced_by": [
+      "Q10591756"
+    ]
+  },
+  "Q10591751": {
+    "dissolved": "2008-09-30T00:00:00Z",
+    "inception": "2003-03-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för skolutveckling",
+    "label_en": "National Agency for Education",
+    "replaced_by": []
+  },
+  "Q10591752": {
+    "department": "kulturdepartementet",
+    "inception": "2010-08-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Mediemyndigheten",
+    "label_en": "Swedish Agency for the Media",
+    "orgnr": "2021006347",
+    "replaced_by": []
+  },
+  "Q10591753": {
+    "department": "Näringsdepartementet",
+    "inception": "2009-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+    "label_en": "Swedish Agency for Growth Policy Analysis",
+    "orgnr": "2021006164",
+    "replaced_by": []
+  },
+  "Q10591754": {
+    "department": "Socialdepartementet",
+    "inception": "2011-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för vård- och omsorgsanalys",
+    "label_en": "Swedish Agency for Health and Care Services Analysis",
+    "orgnr": "2021006412",
+    "replaced_by": []
+  },
+  "Q10591756": {
+    "department": "Utbildningsdepartementet",
+    "inception": "2009-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för yrkeshögskolan",
+    "label_en": "Swedish National Agency for Higher Vocational Education",
+    "orgnr": "2021006230",
+    "replaced_by": []
+  },
+  "Q10595010": {
+    "dissolved": "2000-01-01T00:00:00Z",
+    "inception": "1946-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Naturvetenskapliga forskningsrådet",
+    "replaced_by": []
+  },
+  "Q10603347": {
+    "department": "Justitiedepartementet",
+    "kind": "myndighet",
+    "label": "Notarienämnden",
+    "label_en": "Law Clerks Board",
+    "orgnr": "2021006032",
+    "replaced_by": []
+  },
+  "Q10605067": {
+    "department": "kulturdepartementet",
+    "kind": "myndighet",
+    "label": "Nämnden för hemslöjdsfrågor",
+    "label_en": "The National Swedish Handicraft Council",
+    "orgnr": "2021004144",
+    "replaced_by": []
+  },
+  "Q10605069": {
+    "dissolved": "2007-09-01T00:00:00Z",
+    "inception": "1993-03-15T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Nämnden för offentlig upphandling",
+    "label_en": "National Board for Public Procurement",
+    "replaced_by": []
+  },
+  "Q10605070": {
+    "department": "kulturdepartementet",
+    "dissolved": "2026-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för stöd till trossamfund",
+    "label_en": "Swedish Agency for Support to Faith Communities",
+    "orgnr": "2021005141",
+    "replaced_by": []
+  },
+  "Q10605071": {
+    "department": "Arbetsmarknadsdepartementet",
+    "kind": "myndighet",
+    "label": "Nämnden för styrelserepresentationsfrågor",
+    "label_en": "Council for Employee Representation on Boards of Directors",
+    "orgnr": "2021005786",
+    "replaced_by": []
+  },
+  "Q10605072": {
+    "department": "Arbetsmarknadsdepartementet",
+    "kind": "myndighet",
+    "label": "Nämnden mot diskriminering",
+    "orgnr": "2021006206",
+    "replaced_by": []
+  },
+  "Q106052713": {
+    "department": "Justitiedepartementet",
+    "inception": "2022-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för psykologiskt försvar",
+    "label_en": "Office of Psychological Defense",
+    "orgnr": "2021007014",
+    "replaced_by": []
+  },
+  "Q10609173": {
+    "department": "Infrastrukturdepartementet",
+    "kind": "myndighet",
+    "label": "Oljekrisnämnden",
+    "orgnr": "2021006776",
+    "replaced_by": []
+  },
+  "Q10609551": {
+    "dissolved": "2008-12-31T00:00:00Z",
+    "inception": "1986-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Ombudsmannen mot etnisk diskriminering",
+    "label_en": "The Ombudsman against Ethnic Discrimination",
+    "replaced_by": []
+  },
+  "Q10621662": {
+    "department": "Näringsdepartementet",
+    "inception": "1819-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Patent- och registreringsverket",
+    "label_en": "Swedish Patent and Registration Office",
+    "orgnr": "2021002072",
+    "replaced_by": []
+  },
+  "Q10623228": {
+    "department": "Socialdepartementet",
+    "inception": "2010-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Pensionsmyndigheten",
+    "label_en": "Swedish Pensions Agency",
+    "orgnr": "2021006255",
+    "replaced_by": []
+  },
+  "Q106341986": {
+    "department": "Arbetsmarknadsdepartementet",
+    "inception": "2022-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Institutet för mänskliga rättigheter",
+    "label_en": "The Swedish Institute for Human Rights",
+    "orgnr": "2021007022",
+    "replaced_by": []
+  },
+  "Q10635976": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1984-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Polarforskningssekretariatet",
+    "label_en": "Swedish Polar Research Secretariat",
+    "orgnr": "2021004060",
+    "replaced_by": []
+  },
+  "Q10636140": {
+    "dissolved": "2014-12-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Polismyndigheten Västra Götaland",
+    "label_en": "Västra Götaland Police Authority",
+    "replaced_by": [
+      "Q11995938"
+    ]
+  },
+  "Q10638501": {
+    "dissolved": "2009-12-31T00:00:00Z",
+    "inception": "1998-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Premiepensionsmyndigheten",
+    "label_en": "The Premium Pension Authority",
+    "replaced_by": []
+  },
+  "Q10638606": {
+    "dissolved": "2015-07-01T00:00:00Z",
+    "inception": "1978-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Presstödsnämnden",
+    "label_en": "Press Subsidies Council",
+    "replaced_by": [
+      "Q10591752"
+    ]
+  },
+  "Q10648375": {
+    "dissolved": "2010-07-31T00:00:00Z",
+    "inception": "1994-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Radio- och TV-verket",
+    "label_en": "The Swedish Radio and TV Authority",
+    "replaced_by": []
+  },
+  "Q10650489": {
+    "department": "Sveriges regering",
+    "inception": "1975-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Regeringskansliet",
+    "label_en": "Government Offices of Sweden",
+    "orgnr": "2021003831",
+    "replaced_by": []
+  },
+  "Q10651551": {
+    "department": "Justitiedepartementet",
+    "inception": "1995-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Revisorsinspektionen",
+    "label_en": "Swedish Inspectorate of Auditors",
+    "orgnr": "2021004805",
+    "replaced_by": []
+  },
+  "Q10655295": {
+    "dissolved": "2011-01-01T00:00:00Z",
+    "inception": "1999-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Rikstrafiken",
+    "label_en": "The Swedish National Public Transport Agency",
+    "replaced_by": []
+  },
+  "Q10658525": {
+    "department": "Justitiedepartementet",
+    "inception": "2008-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Rättshjälpsmyndigheten",
+    "label_en": "National Legal Aid Authority",
+    "orgnr": "2021006016",
+    "replaced_by": []
+  },
+  "Q10658527": {
+    "department": "Justitiedepartementet",
+    "kind": "myndighet",
+    "label": "Rättshjälpsnämnden",
+    "label_en": "Legal Aid Board",
+    "orgnr": "2021006008",
+    "replaced_by": []
+  },
+  "Q10658535": {
+    "department": "Justitiedepartementet",
+    "inception": "1991-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Rättsmedicinalverket",
+    "label_en": "National Board of Forensic Medicine",
+    "orgnr": "2021004227",
+    "replaced_by": []
+  },
+  "Q10658655": {
+    "department": "Arbetsmarknadsdepartementet",
+    "kind": "myndighet",
+    "label": "Rådet för Europeiska socialfonden i Sverige",
+    "label_en": "Swedish European Social Fund Council",
+    "orgnr": "2021005224",
+    "replaced_by": []
+  },
+  "Q10660418": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1863-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0128",
+    "label": "Salems landskommun",
+    "label_en": "Salem Municipality (1971-73)",
+    "replaced_by": [
+      "Q516336",
+      "Q516336",
+      "Q113718",
+      "Q113718"
+    ]
+  },
+  "Q10660879": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1981-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Sameskolstyrelsen",
+    "label_en": "Sami Education Board",
+    "orgnr": "2021004631",
+    "replaced_by": []
+  },
+  "Q10667643": {
+    "dissolved": "2009-12-01T00:00:00Z",
+    "inception": "2009-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Signalspaningsnämnden",
+    "label_en": "The Signals Intelligence Board",
+    "replaced_by": [
+      "Q10501617"
+    ]
+  },
+  "Q10669859": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Skatterättsnämnden",
+    "label_en": "Skatterättsnämnden",
+    "orgnr": "2021005901",
+    "replaced_by": []
+  },
+  "Q10670160": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Skiljenämnden i vissa trygghetsfrågor",
+    "label_en": "Arbitration Tribunal for Occupational Injury Compensation",
+    "orgnr": "2021005869",
+    "replaced_by": []
+  },
+  "Q10670309": {
+    "dissolved": "2000-01-01T00:00:00Z",
+    "inception": "1945-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Skogs- och jordbrukets forskningsråd",
+    "label_en": "Skogs- och jordbrukets forskningsråd",
+    "replaced_by": []
+  },
+  "Q10670401": {
+    "department": "Näringsdepartementet",
+    "inception": "1941-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Skogsstyrelsen",
+    "label_en": "Swedish Forest Agency",
+    "orgnr": "2021005612",
+    "replaced_by": []
+  },
+  "Q10670482": {
+    "department": "Utbildningsdepartementet",
+    "kind": "myndighet",
+    "label": "Skolväsendets överklagandenämnd",
+    "label_en": "The Board of Appeal for Education",
+    "orgnr": "2021005729",
+    "replaced_by": []
+  },
+  "Q10672393": {
+    "dissolved": "2014-01-01T00:00:00Z",
+    "inception": "1993-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Smittskyddsinstitutet",
+    "label_en": "Swedish Institute for Communicable Disease Control",
+    "replaced_by": []
+  },
+  "Q10672488": {
+    "dissolved": "2008-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Småhusskadenämnden",
+    "replaced_by": []
+  },
+  "Q10672945": {
+    "dissolved": "2001-01-01T00:00:00Z",
+    "inception": "1990-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Socialvetenskapliga forskningsrådet",
+    "label_en": "Swedish Council for Social Research",
+    "replaced_by": []
+  },
+  "Q10674564": {
+    "dissolved": "2008-06-30T00:00:00Z",
+    "inception": "2001-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Specialpedagogiska institutet",
+    "label_en": "The Swedish Institute for Special Needs Education",
+    "replaced_by": []
+  },
+  "Q10674565": {
+    "department": "Utbildningsdepartementet",
+    "inception": "2008-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Specialpedagogiska skolmyndigheten",
+    "label_en": "The National Agency for Special Needs Education and Schools",
+    "orgnr": "2021005745",
+    "replaced_by": []
+  },
+  "Q10674567": {
+    "dissolved": "2008-07-01T00:00:00Z",
+    "inception": "2000-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Specialskolemyndigheten",
+    "replaced_by": []
+  },
+  "Q10676634": {
+    "dissolved": "2001-10-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Sprängämnesinspektionen",
+    "label_en": "National Inspectorate of Explosives and Flammables",
+    "replaced_by": []
+  },
+  "Q10677662": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Statens ansvarsnämnd",
+    "label_en": "State Accountability Board",
+    "orgnr": "2021005836",
+    "replaced_by": []
+  },
+  "Q10677666": {
+    "department": "Socialdepartementet",
+    "inception": "1987-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens beredning för medicinsk och social utvärdering",
+    "label_en": "Swedish Agency for Health Technology Assessment and Assessment of Social Services",
+    "orgnr": "2021004417",
+    "replaced_by": []
+  },
+  "Q10677667": {
+    "dissolved": "2010-12-31T00:00:00Z",
+    "inception": "1911-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens biografbyrå",
+    "label_en": "The National Board of Film Classification",
+    "orgnr": "2021001041",
+    "replaced_by": [],
+    "riksarkivet": "agent/AVaTA8hDrH646m3GjpvwY3"
+  },
+  "Q10677668": {
+    "dissolved": "2012-10-01T00:00:00Z",
+    "inception": "1992-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens bostadskreditnämnd",
+    "label_en": "The Swedish National Housing Credit Guarantee Board",
+    "replaced_by": []
+  },
+  "Q10677675": {
+    "dissolved": "1991-01-01T00:00:00Z",
+    "inception": "1983-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens energiverk",
+    "replaced_by": []
+  },
+  "Q10677676": {
+    "department": "kulturdepartementet",
+    "dissolved": "2025-12-31T00:00:00Z",
+    "inception": "1976-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens försvarshistoriska museer",
+    "label_en": "National Swedish Museums of Military History",
+    "orgnr": "2021000464",
+    "replaced_by": [
+      "Q10677695"
+    ]
+  },
+  "Q10677678": {
+    "department": "Miljödepartementet",
+    "kind": "myndighet",
+    "label": "Statens geotekniska institut",
+    "label_en": "Swedish Geotechnical Institute",
+    "orgnr": "2021000712",
+    "replaced_by": []
+  },
+  "Q10677682": {
+    "department": "Försvarsdepartementet",
+    "inception": "2009-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens inspektion för försvarsunderrättelseverksamheten",
+    "label_en": "The Swedish Foreign Intelligence Inspectorate",
+    "orgnr": "2021006214",
+    "replaced_by": []
+  },
+  "Q10677684": {
+    "dissolved": "2010-04-01T00:00:00Z",
+    "inception": "1994-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens institut för kommunikationsanalys",
+    "label_en": "Statens institut för kommunikationsanalys",
+    "replaced_by": [
+      "Q1677108",
+      "Q10701016"
+    ]
+  },
+  "Q10677686": {
+    "department": "Socialdepartementet",
+    "kind": "myndighet",
+    "label": "Statens institutionsstyrelse",
+    "label_en": "National Board of Institutional Care",
+    "orgnr": "2021004508",
+    "replaced_by": []
+  },
+  "Q10677691": {
+    "department": "kulturdepartementet",
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens kulturråd",
+    "label_en": "Swedish Arts Council",
+    "orgnr": "2021001280",
+    "replaced_by": []
+  },
+  "Q10677694": {
+    "dissolved": "2009-01-01T00:00:00Z",
+    "inception": "1979-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens ljud- och bildarkiv",
+    "label_en": "Swedish National Archive of Recorded Sound and Moving Images",
+    "replaced_by": []
+  },
+  "Q10677695": {
+    "department": "kulturdepartementet",
+    "inception": "2026-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens museer för maritim, transport- och försvarshistoria",
+    "label_en": "Swedish National Maritime, Transport and Military Museums",
+    "orgnr": "2021001132",
+    "replaced_by": []
+  },
+  "Q10677697": {
+    "department": "kulturdepartementet",
+    "dissolved": "2024-01-01T00:00:00Z",
+    "inception": "2010-12-23T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens medieråd",
+    "label_en": "Swedish Media Council",
+    "orgnr": "2021006396",
+    "replaced_by": []
+  },
+  "Q10677698": {
+    "department": "kulturdepartementet",
+    "kind": "myndighet",
+    "label": "Statens museer för världskultur",
+    "label_en": "The National Museums of World Culture",
+    "orgnr": "2021005075",
+    "replaced_by": []
+  },
+  "Q10677700": {
+    "department": "kulturdepartementet",
+    "inception": "2010-12-16T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens musikverk",
+    "label_en": "National Collections of Music, Theatre and Dance",
+    "orgnr": "2021003666",
+    "replaced_by": []
+  },
+  "Q10677702": {
+    "department": "Arbetsmarknadsdepartementet",
+    "kind": "myndighet",
+    "label": "Statens nämnd för arbetstagares uppfinningar",
+    "label_en": "National Advisory Board on Patent Rights and Compensation Settlements for Inventions at Work",
+    "orgnr": "2021005778",
+    "replaced_by": []
+  },
+  "Q10677716": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Statens servicecenter",
+    "label_en": "National Government Service Centre",
+    "orgnr": "2021006453",
+    "replaced_by": []
+  },
+  "Q10677718": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Statens skaderegleringsnämnd",
+    "label_en": "National Claims Adjustment Board",
+    "orgnr": "2021005828",
+    "replaced_by": []
+  },
+  "Q10677721": {
+    "department": "Utbildningsdepartementet",
+    "kind": "myndighet",
+    "label": "Statens skolinspektion",
+    "label_en": "Swedish School Inspectorate",
+    "orgnr": "2021006065",
+    "replaced_by": []
+  },
+  "Q10677725": {
+    "dissolved": "2008-07-01T00:00:00Z",
+    "inception": "1965-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens strålskyddsinstitut",
+    "label_en": "National Radiation Protection Authority",
+    "replaced_by": []
+  },
+  "Q10677726": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Statens tjänstepensionsverk",
+    "label_en": "National Government Employee Pensions Board",
+    "orgnr": "2021000928",
+    "replaced_by": []
+  },
+  "Q10677730": {
+    "dissolved": "2015-12-31T00:00:00Z",
+    "inception": "1970-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens va-nämnd",
+    "label_en": "Swedish Water Supply and Sewage Tribunal",
+    "replaced_by": []
+  },
+  "Q10677733": {
+    "department": "Näringsdepartementet",
+    "inception": "1911-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens veterinärmedicinska anstalt",
+    "label_en": "National Veterinary Institute",
+    "orgnr": "2021001868",
+    "replaced_by": []
+  },
+  "Q10677737": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Statens överklagandenämnd",
+    "orgnr": "2021004763",
+    "replaced_by": []
+  },
+  "Q10677795": {
+    "department": "Finansdepartementet",
+    "dissolved": "2025-12-31T00:00:00Z",
+    "inception": "1632-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statskontoret",
+    "label_en": "Swedish Agency for Public Management",
+    "orgnr": "2021000852",
+    "replaced_by": []
+  },
+  "Q10682790": {
+    "dissolved": "2008-01-01T00:00:00Z",
+    "inception": "1985-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Styrelsen för psykologiskt försvar",
+    "label_en": "National Board of Psychological Defence",
+    "replaced_by": [
+      "Q3430725"
+    ]
+  },
+  "Q10685405": {
+    "department": "Statsrådsberedningen",
+    "kind": "myndighet",
+    "label": "Svenska institutet för Europapolitiska studier",
+    "label_en": "The Swedish Institute for European Policy Studies",
+    "orgnr": "2021005331",
+    "replaced_by": []
+  },
+  "Q10687953": {
+    "department": "Justitiedepartementet",
+    "inception": "2008-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för säkerhet och integritetsskydd",
+    "label_en": "Swedish Commission on Security and Integrity Protection",
+    "orgnr": "2021005703",
+    "replaced_by": []
+  },
+  "Q10690203": {
+    "department": "kulturdepartementet",
+    "inception": "1980-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för tillgängliga medier",
+    "label_en": "Swedish Agency for Accessible Media",
+    "orgnr": "2021003591",
+    "replaced_by": []
+  },
+  "Q10690573": {
+    "department": "Socialdepartementet",
+    "inception": "2002-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Tandvårds- och läkemedelsförmånsverket",
+    "label_en": "Dental and Pharmaceutical Benefits Agency",
+    "orgnr": "2021005364",
+    "replaced_by": []
+  },
+  "Q10692068": {
+    "dissolved": "2001-01-01T00:00:00Z",
+    "inception": "1990-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Teknikvetenskapliga forskningsrådet",
+    "label_en": "Swedish Research Council for Engineering Sciences",
+    "replaced_by": []
+  },
+  "Q10701016": {
+    "department": "Infrastrukturdepartementet",
+    "inception": "2010-04-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Trafikanalys",
+    "label_en": "Transport Analysis",
+    "orgnr": "2021006305",
+    "replaced_by": []
+  },
+  "Q10701323": {
+    "department": "Infrastrukturdepartementet",
+    "inception": "2009-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Transportstyrelsen",
+    "label_en": "Swedish Transport Agency",
+    "orgnr": "2021006099",
+    "replaced_by": []
+  },
+  "Q10706556": {
+    "dissolved": "2006-01-01T00:00:00Z",
+    "inception": "1995-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Turistdelegationen",
+    "label_en": "Swedish Tourist Authority",
+    "replaced_by": []
+  },
+  "Q10709560": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1994-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för ungdoms- och civilsamhällesfrågor",
+    "label_en": "National Board for Youth Affairs",
+    "orgnr": "2021001173",
+    "replaced_by": []
+  },
+  "Q10709720": {
+    "department": "Utbildningsdepartementet",
+    "inception": "2013-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Universitets- och högskolerådet",
+    "label_en": "Swedish Council for Higher Education",
+    "orgnr": "2021006487",
+    "replaced_by": []
+  },
+  "Q10714170": {
+    "dissolved": "2012-12-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Verket för högskoleservice",
+    "label_en": "Verket för högskoleservice",
+    "replaced_by": [
+      "Q10709720"
+    ]
+  },
+  "Q10714559": {
+    "dissolved": "2008-12-31T00:00:00Z",
+    "inception": "2006-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Verva",
+    "label_en": "Swedish Administrative Development Agency",
+    "replaced_by": [
+      "Q5495902",
+      "Q10547498"
+    ]
+  },
+  "Q107157371": {
+    "dissolved": "2004-12-31T00:00:00Z",
+    "inception": "1961-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Riksförsäkringsverket",
+    "replaced_by": []
+  },
+  "Q10715803": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1863-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1132",
+    "label": "Vinslövs kommun",
+    "label_en": "Vinslöv municipality",
+    "replaced_by": [
+      "Q10715802",
+      "Q508125"
+    ]
+  },
+  "Q10728568": {
+    "dissolved": "1982-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Överexekutor",
+    "replaced_by": []
+  },
+  "Q10728611": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1992-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Överklagandenämnden för högskolan",
+    "label_en": "The Higher Education Appeals Board",
+    "orgnr": "2021004375",
+    "replaced_by": []
+  },
+  "Q10728612": {
+    "department": "Utbildningsdepartementet",
+    "kind": "myndighet",
+    "label": "Överklagandenämnden för studiestöd",
+    "label_en": "The National Board of Appeal for Student Aid",
+    "orgnr": "2021005273",
+    "replaced_by": []
+  },
+  "Q108217407": {
+    "dissolved": "2009-01-01T00:00:00Z",
+    "inception": "1994-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Handikappombudsmannen",
+    "label_en": "Office of the Swedish Disability Ombudsman",
+    "replaced_by": []
+  },
+  "Q109010": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0184",
+    "label": "Solna kommun",
+    "label_en": "Solna Municipality",
+    "orgnr": "2120000183",
+    "replaced_by": []
+  },
+  "Q11069875": {
+    "dissolved": "2015-12-31T00:00:00Z",
+    "inception": "2010-08-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Försvarsexportmyndigheten",
+    "label_en": "The Swedish Defence and Security Export Agency",
+    "replaced_by": []
+  },
+  "Q111206162": {
+    "department": "Finansdepartementet",
+    "inception": "2024-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Utbetalningsmyndigheten",
+    "label_en": "Swedish Payments Agency",
+    "replaced_by": []
+  },
+  "Q1128384": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1080",
+    "label": "Karlskrona kommun",
+    "label_en": "Karlskrona Municipality",
+    "orgnr": "2120000829",
+    "replaced_by": []
+  },
+  "Q11285861": {
+    "kind": "region",
+    "label": "Region Jämtland Härjedalen",
+    "label_en": "Region Jämtland Härjedalen",
+    "orgnr": "2321000214",
+    "replaced_by": []
+  },
+  "Q1130264": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1285",
+    "label": "Eslövs kommun",
+    "label_en": "Eslöv Municipality",
+    "orgnr": "2120001173",
+    "replaced_by": []
+  },
+  "Q113366214": {
+    "dissolved": "2009-01-01T00:00:00Z",
+    "inception": "1962-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Svenskt biografiskt lexikon",
+    "label_en": "Dictionary of Swedish National Biography",
+    "replaced_by": []
+  },
+  "Q113673": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0139",
+    "label": "Upplands-Bro kommun",
+    "label_en": "Upplands-Bro Municipality",
+    "orgnr": "2120000100",
+    "replaced_by": []
+  },
+  "Q113679": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0162",
+    "label": "Danderyds kommun",
+    "label_en": "Danderyd Municipality",
+    "orgnr": "2120000126",
+    "replaced_by": []
+  },
+  "Q113692": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0136",
+    "label": "Haninge kommun",
+    "label_en": "Haninge Municipality",
+    "orgnr": "2120000084",
+    "replaced_by": []
+  },
+  "Q113718": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0127",
+    "label": "Botkyrka kommun",
+    "label_en": "Botkyrka Municipality",
+    "orgnr": "2120002882",
+    "replaced_by": [
+      "Q516080"
+    ]
+  },
+  "Q113730": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0138",
+    "label": "Tyresö kommun",
+    "label_en": "Tyresö Municipality",
+    "orgnr": "2120000092",
+    "replaced_by": []
+  },
+  "Q1144565": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1965-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Umeå universitet",
+    "label_en": "Umeå University",
+    "orgnr": "2021002874",
+    "replaced_by": []
+  },
+  "Q114772420": {
+    "department": "Pensionsmyndigheten",
+    "inception": "2022-06-20T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Fondtorgsnämnden",
+    "label_en": "Swedish Fund Selection Agency",
+    "orgnr": "2021007030",
+    "replaced_by": []
+  },
+  "Q114776779": {
+    "kind": "myndighet",
+    "label": "Polismyndigheten i Älvsborgs län",
+    "replaced_by": [
+      "Q10636140"
+    ]
+  },
+  "Q114776862": {
+    "kind": "myndighet",
+    "label": "Polismyndigheten i Malmöhus län",
+    "replaced_by": [
+      "Q114776912"
+    ]
+  },
+  "Q114776896": {
+    "kind": "myndighet",
+    "label": "Polismyndigheten i Kristianstads län",
+    "replaced_by": [
+      "Q114776912"
+    ]
+  },
+  "Q114776951": {
+    "dissolved": "2014-12-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Polismyndigheten i Uppsala län",
+    "label_en": "Uppsala County Police Authority",
+    "replaced_by": [
+      "Q11995938"
+    ]
+  },
+  "Q115973066": {
+    "dissolved": "1993-07-01T00:00:00Z",
+    "inception": "1984-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Transportforskningsberedningen",
+    "replaced_by": []
+  },
+  "Q116024923": {
+    "department": "Försvarsdepartementet",
+    "inception": "2023-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för totalförsvarsanalys",
+    "label_en": "Swedish Agency for Defence Analysis",
+    "orgnr": "2021007055",
+    "replaced_by": []
+  },
+  "Q1163548": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1989-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Blekinge tekniska högskola",
+    "label_en": "Blekinge Institute of Technology",
+    "orgnr": "2021004011",
+    "replaced_by": []
+  },
+  "Q117091": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2514",
+    "label": "Kalix kommun",
+    "label_en": "Kalix Municipality",
+    "orgnr": "2120002692",
+    "replaced_by": []
+  },
+  "Q1172261": {
+    "department": "Justitiedepartementet",
+    "inception": "1973-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Integritetsskyddsmyndigheten",
+    "label_en": "Swedish Authority for Privacy Protection",
+    "orgnr": "2021000050",
+    "replaced_by": []
+  },
+  "Q117728": {
+    "inception": "1983-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0117",
+    "label": "Österåkers kommun",
+    "label_en": "Österåker Municipality",
+    "orgnr": "2120002890",
+    "replaced_by": []
+  },
+  "Q118279287": {
+    "dissolved": "2014-12-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Polismyndigheten i Gävleborgs län",
+    "label_en": "Gävleborg County Police Authority",
+    "replaced_by": [
+      "Q11995938"
+    ]
+  },
+  "Q118371907": {
+    "dissolved": "2014-12-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Polismyndigheten i Blekinge län",
+    "label_en": "Blekinge County Police Authority",
+    "replaced_by": [
+      "Q11995938"
+    ]
+  },
+  "Q118371912": {
+    "dissolved": "2014-12-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Polismyndigheten i Norrbottens län",
+    "label_en": "Norrbotten County Police Authority",
+    "replaced_by": [
+      "Q11995938"
+    ]
+  },
+  "Q118371921": {
+    "dissolved": "2014-12-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Polismyndigheten i Jönköpings län",
+    "replaced_by": [
+      "Q11995938"
+    ]
+  },
+  "Q118371955": {
+    "dissolved": "2014-12-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Polismyndigheten i Kalmar län",
+    "replaced_by": [
+      "Q11995938"
+    ]
+  },
+  "Q11995938": {
+    "department": "Justitiedepartementet",
+    "inception": "2015-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Polismyndigheten",
+    "label_en": "Swedish Police Authority",
+    "orgnr": "2021000076",
+    "replaced_by": []
+  },
+  "Q121161284": {
+    "dissolved": "2000-12-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Expertgruppen för forskning om regional utveckling",
+    "replaced_by": [
+      "Q10536085"
+    ]
+  },
+  "Q123855": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2039",
+    "label": "Älvdalens kommun",
+    "label_en": "Älvdalen Municipality",
+    "orgnr": "2120002197",
+    "replaced_by": []
+  },
+  "Q123929812": {
+    "dissolved": "2016-06-30T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Ersättningsnämnden",
+    "label_en": "The Compensation Board",
+    "replaced_by": [],
+    "riksarkivet": "agent/2hep13ntgqoC7EXz5jcw07"
+  },
+  "Q125222": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1402",
+    "label": "Partille kommun",
+    "label_en": "Partille Municipality",
+    "orgnr": "2120001272",
+    "replaced_by": []
+  },
+  "Q1252909": {
+    "dissolved": "2014-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens folkhälsoinstitut",
+    "label_en": "Swedish National Institute of Public Health",
+    "replaced_by": []
+  },
+  "Q1274511": {
+    "department": "kulturdepartementet",
+    "inception": "1958-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Moderna Museet",
+    "label_en": "Moderna Museet",
+    "orgnr": "2021005091",
+    "replaced_by": []
+  },
+  "Q1276988": {
+    "dissolved": "2007-12-31T00:00:00Z",
+    "inception": "1956-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Lärarhögskolan i Stockholm",
+    "label_en": "Stockholm Institute of Education",
+    "replaced_by": []
+  },
+  "Q127765050": {
+    "dissolved": "2005-12-31T00:00:00Z",
+    "inception": "1999-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens kvalitets- och kompetensråd",
+    "label_en": "The National Council for Quality and Development",
+    "replaced_by": []
+  },
+  "Q127767382": {
+    "dissolved": "2012-12-31T00:00:00Z",
+    "inception": "1996-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för utländska investeringar i Sverige",
+    "label_en": "Invest Sweden",
+    "orgnr": "2021004862",
+    "replaced_by": []
+  },
+  "Q127788467": {
+    "dissolved": "2008-09-30T00:00:00Z",
+    "inception": "2002-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Nationellt centrum för flexibelt lärande",
+    "label_en": "Swedish Agency for flexible learning",
+    "replaced_by": []
+  },
+  "Q127808720": {
+    "dissolved": "2008-01-01T00:00:00Z",
+    "inception": "2004-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Valideringsdelegationen",
+    "label_en": "National Commission on Validation",
+    "replaced_by": []
+  },
+  "Q127808895": {
+    "dissolved": "2007-01-01T00:00:00Z",
+    "inception": "1976-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Handelsflottans kultur- och fritidsråd",
+    "label_en": "Swedish Government Seamen's Service",
+    "replaced_by": []
+  },
+  "Q127867565": {
+    "dissolved": "2006-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens institut för särskilt utbildningsstöd",
+    "label_en": "National Agency for Special Educational Support",
+    "replaced_by": []
+  },
+  "Q127867566": {
+    "dissolved": "2006-01-01T00:00:00Z",
+    "inception": "1992-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Rådet för forsknings- och utvecklingssamarbete inom EU",
+    "label_en": "The Swedish EU-R&D Council",
+    "replaced_by": []
+  },
+  "Q127867568": {
+    "dissolved": "2006-01-01T00:00:00Z",
+    "inception": "2002-08-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens bostadsnämnd",
+    "label_en": "The National Housing Committee",
+    "replaced_by": []
+  },
+  "Q127911668": {
+    "dissolved": "2003-12-01T00:00:00Z",
+    "inception": "1999-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Steriliseringsersättningsnämnden",
+    "label_en": "Sterilization Compensation Board",
+    "replaced_by": []
+  },
+  "Q127912217": {
+    "dissolved": "2001-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens skola för vuxna i Norrköping",
+    "replaced_by": []
+  },
+  "Q127912440": {
+    "dissolved": "2002-01-01T00:00:00Z",
+    "inception": "1985-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Totalförsvarets chefsnämnd",
+    "label_en": "Total Defence's head-board",
+    "replaced_by": []
+  },
+  "Q127946640": {
+    "dissolved": "2000-07-01T00:00:00Z",
+    "inception": "1972-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Allmänna advokatbyråerna",
+    "replaced_by": []
+  },
+  "Q127946649": {
+    "dissolved": "2001-01-01T00:00:00Z",
+    "inception": "1988-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Byggforskningsrådet",
+    "label_en": "Swedish Council for Building Research",
+    "replaced_by": [
+      "Q10497831"
+    ]
+  },
+  "Q127950218": {
+    "dissolved": "2001-01-01T00:00:00Z",
+    "inception": "1993-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Kommunikationsforskningsberedningen",
+    "replaced_by": []
+  },
+  "Q127950228": {
+    "dissolved": "2001-07-01T00:00:00Z",
+    "inception": "1991-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens institut för handikappfrågor i skolan",
+    "replaced_by": []
+  },
+  "Q1312762": {
+    "department": "Näringsdepartementet",
+    "inception": "1977-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Sveriges lantbruksuniversitet",
+    "label_en": "Swedish University of Agricultural Sciences",
+    "orgnr": "2021002817",
+    "replaced_by": []
+  },
+  "Q132334": {
+    "inception": "1980-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2425",
+    "label": "Dorotea kommun",
+    "label_en": "Dorotea Municipality",
+    "orgnr": "2120002809",
+    "replaced_by": []
+  },
+  "Q1331110": {
+    "department": "Justitiedepartementet",
+    "inception": "1989-10-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Säkerhetspolisen",
+    "label_en": "Swedish Security Service",
+    "orgnr": "2021006594",
+    "replaced_by": [],
+    "riksarkivet": "agent/9ijhDjdEd4YrtyPPvF80U4"
+  },
+  "Q1345439": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2082",
+    "label": "Säters kommun",
+    "label_en": "Säter Municipality",
+    "orgnr": "2120002247",
+    "replaced_by": []
+  },
+  "Q135009949": {
+    "dissolved": "1978-12-31T00:00:00Z",
+    "inception": "1917-10-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Försäkringsrådet",
+    "replaced_by": [],
+    "riksarkivet": "agent/zFmEb4LcweZ23O1eMvyUeB"
+  },
+  "Q135097838": {
+    "dissolved": "1971-01-01T00:00:00Z",
+    "inception": "1949-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens trafiksäkerhetsråd",
+    "replaced_by": []
+  },
+  "Q1354321": {
+    "dissolved": "2007-07-01T00:00:00Z",
+    "inception": "1998-06-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Integrationsverket",
+    "label_en": "Swedish Integration Board",
+    "replaced_by": [
+      "Q4585222"
+    ]
+  },
+  "Q138302437": {
+    "dissolved": "1971-01-01T00:00:00Z",
+    "inception": "1938-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens institut för folkhälsan",
+    "replaced_by": [
+      "Q6971056",
+      "Q6972720",
+      "Q138302567"
+    ]
+  },
+  "Q138302567": {
+    "dissolved": "1972-06-30T00:00:00Z",
+    "inception": "1966-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Arbetsmedicinska institutet",
+    "replaced_by": [
+      "Q10416923"
+    ]
+  },
+  "Q141532117": {
+    "inception": "2027-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Digitaliseringsmyndigheten",
+    "replaced_by": []
+  },
+  "Q1420103": {
+    "department": "kulturdepartementet",
+    "inception": "1819-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Naturhistoriska riksmuseet",
+    "label_en": "Swedish Museum of Natural History",
+    "orgnr": "2021001124",
+    "replaced_by": []
+  },
+  "Q1439258": {
+    "department": "kulturdepartementet",
+    "inception": "2003-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Forum för levande historia",
+    "label_en": "Forum för levande historia",
+    "orgnr": "2021005356",
+    "replaced_by": []
+  },
+  "Q145835": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2182",
+    "label": "Söderhamns kommun",
+    "label_en": "Söderhamn Municipality",
+    "orgnr": "2120002353",
+    "replaced_by": []
+  },
+  "Q1464114": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1977-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Högskolan i Skövde",
+    "label_en": "University of Skövde",
+    "orgnr": "2021003146",
+    "replaced_by": []
+  },
+  "Q1467707": {
+    "dissolved": "1994-01-01T00:00:00Z",
+    "inception": "1636-02-20T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Postverket",
+    "label_en": "Postverket",
+    "replaced_by": [
+      "Q3482100"
+    ]
+  },
+  "Q1472511": {
+    "department": "Finansdepartementet",
+    "inception": "1858-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "SCB",
+    "label_en": "Statistics Sweden",
+    "orgnr": "2021000837",
+    "replaced_by": []
+  },
+  "Q1480245": {
+    "department": "Försvarsdepartementet",
+    "inception": "1942-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Försvarets radioanstalt",
+    "label_en": "National Defence Radio Establishment",
+    "orgnr": "2021000365",
+    "replaced_by": []
+  },
+  "Q149539": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2181",
+    "label": "Sandvikens kommun",
+    "label_en": "Sandviken Municipality",
+    "orgnr": "2120002346",
+    "replaced_by": []
+  },
+  "Q15093355": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0488",
+    "label": "Trosa kommun",
+    "label_en": "Trosa Municipality",
+    "replaced_by": [
+      "Q500267"
+    ]
+  },
+  "Q15149386": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0666",
+    "label": "Anderstorps kommun",
+    "label_en": "Anderstorp Municipality",
+    "replaced_by": [
+      "Q505259"
+    ]
+  },
+  "Q15155416": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0584",
+    "label": "Vadstena kommun",
+    "label_en": "Vadstena Municipality",
+    "replaced_by": [
+      "Q508108"
+    ]
+  },
+  "Q15205707": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0622",
+    "label": "Unnaryds kommun",
+    "label_en": "Unnaryd municipality",
+    "replaced_by": [
+      "Q505259",
+      "Q498477"
+    ]
+  },
+  "Q15209927": {
+    "department": "Näringsdepartementet",
+    "inception": "1992-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Konkurrensverket",
+    "label_en": "Swedish Competition Authority",
+    "orgnr": "2021004342",
+    "replaced_by": []
+  },
+  "Q1522407": {
+    "dissolved": "2013-06-30T00:00:00Z",
+    "inception": "1998-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Högskolan på Gotland",
+    "label_en": "Gotland University College",
+    "replaced_by": []
+  },
+  "Q15278226": {
+    "department": "Utbildningsdepartementet",
+    "inception": "2013-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Universitetskanslersämbetet",
+    "label_en": "Swedish Higher Education Authority",
+    "orgnr": "2021006495",
+    "replaced_by": []
+  },
+  "Q15295883": {
+    "department": "Utbildningsdepartementet",
+    "inception": "2014-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Stockholms konstnärliga högskola",
+    "label_en": "Stockholm University of the Arts",
+    "orgnr": "2021006560",
+    "replaced_by": []
+  },
+  "Q1546159": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1977-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Mälardalens universitet",
+    "label_en": "Mälardalen University",
+    "orgnr": "2021002916",
+    "replaced_by": []
+  },
+  "Q1558323": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1813-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Gymnastik- och idrottshögskolan",
+    "label_en": "Swedish School of Sport and Health Sciences",
+    "orgnr": "2021004334",
+    "replaced_by": [],
+    "riksarkivet": "agent/DFaTA8hDrH646m3GjpvwY3"
+  },
+  "Q15694964": {
+    "department": "Socialdepartementet",
+    "kind": "myndighet",
+    "label": "E-hälsomyndigheten",
+    "label_en": "Swedish eHealth Agency",
+    "orgnr": "2021006552",
+    "replaced_by": []
+  },
+  "Q15709121": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1164",
+    "label": "Vinslövs centralkommun",
+    "label_en": "Vinslöv central municipality",
+    "replaced_by": [
+      "Q508125"
+    ]
+  },
+  "Q15846450": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1288",
+    "label": "Skanör med Falsterbo kommun",
+    "label_en": "Skanör med Falsterbo municipality",
+    "replaced_by": [
+      "Q511338"
+    ]
+  },
+  "Q1622088": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1977-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Högskolan i Borås",
+    "label_en": "University of Borås",
+    "orgnr": "2021003138",
+    "replaced_by": []
+  },
+  "Q16497187": {
+    "dissolved": "1937-01-01T00:00:00Z",
+    "inception": "1807-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Artilleristaben",
+    "label_en": "Artillery Staff",
+    "replaced_by": []
+  },
+  "Q1670860": {
+    "department": "Utrikesdepartementet",
+    "inception": "1995-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Sida",
+    "label_en": "Swedish International Development Cooperation Agency",
+    "orgnr": "2021004789",
+    "replaced_by": []
+  },
+  "Q1677108": {
+    "department": "Landsbygds- och infrastrukturdepartementet",
+    "inception": "2010-04-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Trafikverket",
+    "label_en": "Swedish Transport Administration",
+    "orgnr": "2021006297",
+    "replaced_by": []
+  },
+  "Q16920558": {
+    "dissolved": "2008-12-31T00:00:00Z",
+    "inception": "1986-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Räddningsverket",
+    "label_en": "Swedish Rescue Services Agency",
+    "replaced_by": [
+      "Q3430725"
+    ]
+  },
+  "Q1724971": {
+    "department": "kulturdepartementet",
+    "inception": "1618-10-18T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Riksarkivet",
+    "label_en": "National Archives of Sweden",
+    "orgnr": "2021001074",
+    "replaced_by": []
+  },
+  "Q1747198": {
+    "dissolved": "2009-01-01T00:00:00Z",
+    "inception": "2005-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Luftfartsstyrelsen",
+    "label_en": "Swedish Civil Aviation Authority",
+    "replaced_by": []
+  },
+  "Q17518896": {
+    "department": "Socialdepartementet",
+    "inception": "2014-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Folkhälsomyndigheten",
+    "label_en": "Public Health Agency of Sweden",
+    "orgnr": "2021006545",
+    "replaced_by": []
+  },
+  "Q1751928": {
+    "department": "Utbildningsdepartementet",
+    "inception": "2010-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Linnéuniversitetet",
+    "label_en": "Linnaeus University",
+    "orgnr": "2021006271",
+    "replaced_by": []
+  },
+  "Q1757535": {
+    "department": "Utrikesdepartementet",
+    "inception": "1945-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Svenska institutet",
+    "label_en": "Swedish Institute",
+    "orgnr": "2021004961",
+    "replaced_by": []
+  },
+  "Q177019": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2580",
+    "label": "Luleå kommun",
+    "label_en": "Luleå Municipality",
+    "orgnr": "2120002742",
+    "replaced_by": []
+  },
+  "Q1782920": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1972-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Rymdstyrelsen",
+    "label_en": "Swedish National Space Agency",
+    "orgnr": "2021002585",
+    "replaced_by": []
+  },
+  "Q1782926": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1844-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Konstfack",
+    "label_en": "Konstfack",
+    "orgnr": "2021001199",
+    "replaced_by": []
+  },
+  "Q1788830": {
+    "department": "Finansdepartementet",
+    "inception": "1973-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Konsumentverket",
+    "label_en": "Swedish Consumer Agency",
+    "orgnr": "2021002064",
+    "replaced_by": []
+  },
+  "Q179180": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1383",
+    "label": "Varbergs kommun",
+    "label_en": "Varberg Municipality",
+    "orgnr": "2120001249",
+    "replaced_by": []
+  },
+  "Q1796144": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1771-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Kungliga Musikhögskolan i Stockholm",
+    "label_en": "Royal College of Music in Stockholm",
+    "orgnr": "2021001215",
+    "replaced_by": []
+  },
+  "Q1813336": {
+    "kind": "myndighet",
+    "label": "Teaterhögskolan i Stockholm",
+    "label_en": "Swedish National Academy of Mime and Acting",
+    "replaced_by": [
+      "Q3412538"
+    ]
+  },
+  "Q182007": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0764",
+    "label": "Alvesta kommun",
+    "label_en": "Alvesta Municipality",
+    "orgnr": "2120000639",
+    "replaced_by": []
+  },
+  "Q18290844": {
+    "department": "Utbildningsdepartementet",
+    "kind": "myndighet",
+    "label": "Högskolans avskiljandenämnd",
+    "label_en": "The Higher Education Expulsions Board",
+    "orgnr": "2021006867",
+    "replaced_by": []
+  },
+  "Q18292430": {
+    "department": "Socialdepartementet",
+    "inception": "2014-05-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för delaktighet",
+    "label_en": "The Swedish Agency for Participation",
+    "orgnr": "2021005588",
+    "replaced_by": []
+  },
+  "Q18386866": {
+    "department": "Finansdepartementet",
+    "inception": "2007-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Finanspolitiska rådet",
+    "label_en": "Swedish Fiscal Policy Council",
+    "orgnr": "2021005687",
+    "replaced_by": []
+  },
+  "Q18449197": {
+    "department": "kulturdepartementet",
+    "kind": "myndighet",
+    "label": "Sveriges författarfond",
+    "label_en": "Swedish Authors’ Fund",
+    "orgnr": "2021003583",
+    "replaced_by": []
+  },
+  "Q185246": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1477-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Uppsala universitet",
+    "label_en": "Uppsala University",
+    "orgnr": "2021002932",
+    "replaced_by": []
+  },
+  "Q1858061": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1977-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Karlstads universitet",
+    "label_en": "Karlstad University",
+    "orgnr": "2021003120",
+    "replaced_by": []
+  },
+  "Q186230": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2521",
+    "label": "Pajala kommun",
+    "label_en": "Pajala Municipality",
+    "orgnr": "2120002718",
+    "replaced_by": []
+  },
+  "Q186662": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1231",
+    "label": "Burlövs kommun",
+    "label_en": "Burlöv Municipality",
+    "orgnr": "2120001025",
+    "replaced_by": []
+  },
+  "Q1879124": {
+    "department": "Socialdepartementet",
+    "inception": "1990-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Läkemedelsverket",
+    "label_en": "Swedish Medical Products Agency",
+    "orgnr": "2021004078",
+    "replaced_by": []
+  },
+  "Q1940803": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1993-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Mittuniversitetet",
+    "label_en": "Mid Sweden University",
+    "orgnr": "2021004524",
+    "replaced_by": []
+  },
+  "Q1972721": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1971-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Luleå tekniska universitet",
+    "label_en": "Luleå University of Technology",
+    "orgnr": "2021002841",
+    "replaced_by": []
+  },
+  "Q198678": {
+    "department": "Miljödepartementet",
+    "inception": "2008-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Strålsäkerhetsmyndigheten",
+    "label_en": "Swedish Radiation Safety Authority",
+    "orgnr": "2021005737",
+    "replaced_by": []
+  },
+  "Q19977508": {
+    "kind": "myndighet",
+    "label": "Birgittaskolan, Örebro",
+    "label_en": "Birgitta School, Örebro",
+    "replaced_by": []
+  },
+  "Q2002420": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1977-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Örebro universitet",
+    "label_en": "Örebro University",
+    "orgnr": "2021002924",
+    "replaced_by": []
+  },
+  "Q2005581": {
+    "dissolved": "2009-04-01T00:00:00Z",
+    "inception": "1991-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Nutek",
+    "label_en": "Nutek, Swedish Agency for Economic and Regional Growth",
+    "replaced_by": []
+  },
+  "Q201813": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1277",
+    "label": "Åstorps kommun",
+    "label_en": "Åstorp Municipality",
+    "orgnr": "2120000936",
+    "replaced_by": []
+  },
+  "Q20722784": {
+    "dissolved": "2009-01-01T00:00:00Z",
+    "inception": "1999-05-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Ombudsmannen mot diskriminering på grund av sexuell läggning",
+    "label_en": "Ombudsman against Discrimination on Grounds of Sexual Orientation",
+    "replaced_by": []
+  },
+  "Q209634": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2280",
+    "label": "Härnösands kommun",
+    "label_en": "Härnösand Municipality",
+    "orgnr": "2120002403",
+    "replaced_by": []
+  },
+  "Q214048": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0188",
+    "label": "Norrtälje kommun",
+    "label_en": "Norrtälje Municipality",
+    "orgnr": "2120000217",
+    "replaced_by": []
+  },
+  "Q2153029": {
+    "dissolved": "2017-05-31T00:00:00Z",
+    "inception": "1966-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Riksutställningar",
+    "label_en": "Swedish Travelling Exhibitions",
+    "replaced_by": [
+      "Q631844"
+    ]
+  },
+  "Q216915": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0191",
+    "label": "Sigtuna kommun",
+    "label_en": "Sigtuna Municipality",
+    "orgnr": "2120000225",
+    "replaced_by": []
+  },
+  "Q218506": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1666-12-19T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Lunds universitet",
+    "label_en": "Lund University",
+    "orgnr": "2021003211",
+    "replaced_by": []
+  },
+  "Q219564": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1810-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Karolinska Institutet",
+    "label_en": "Karolinska Institutet",
+    "orgnr": "2021002973",
+    "replaced_by": []
+  },
+  "Q220881": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1863",
+    "label": "Hällefors kommun",
+    "label_en": "Hällefors Municipality",
+    "orgnr": "2120001942",
+    "replaced_by": []
+  },
+  "Q221645": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1878-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Stockholms universitet",
+    "label_en": "Stockholm University",
+    "orgnr": "2021003062",
+    "replaced_by": [],
+    "riksarkivet": "agent/glWTA8hDrH646m3GjpvwY3"
+  },
+  "Q221990": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2283",
+    "label": "Sollefteå kommun",
+    "label_en": "Sollefteå Municipality",
+    "orgnr": "2120002437",
+    "replaced_by": []
+  },
+  "Q22269242": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Uppsala län",
+    "label_en": "Uppsala County Administrative Board",
+    "orgnr": "2021002254",
+    "replaced_by": []
+  },
+  "Q22269305": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Stockholms län",
+    "label_en": "Stockholm County Administrative Board",
+    "orgnr": "2021002247",
+    "replaced_by": []
+  },
+  "Q22276465": {
+    "department": "Finansdepartementet",
+    "inception": "1997-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Skåne län",
+    "label_en": "Skåne County Administrative Board",
+    "orgnr": "2021002346",
+    "replaced_by": []
+  },
+  "Q22294590": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Gävleborgs län",
+    "label_en": "Gävleborg County Administrative Board",
+    "orgnr": "2021002437",
+    "replaced_by": []
+  },
+  "Q2292839": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1991-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Skolverket",
+    "label_en": "National Agency for Education",
+    "orgnr": "2021004185",
+    "replaced_by": []
+  },
+  "Q2320013": {
+    "dissolved": "2014-01-01T00:00:00Z",
+    "inception": "1968-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Operahögskolan i Stockholm",
+    "label_en": "University College of Opera, Stockholm",
+    "replaced_by": []
+  },
+  "Q2324548": {
+    "department": "kulturdepartementet",
+    "kind": "myndighet",
+    "label": "Statens historiska museer",
+    "label_en": "National Historical Museums of Sweden",
+    "orgnr": "2021004953",
+    "replaced_by": []
+  },
+  "Q2333729": {
+    "dissolved": "2008-06-30T00:00:00Z",
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens kärnkraftinspektion",
+    "label_en": "Swedish Nuclear Power Inspectorate",
+    "replaced_by": []
+  },
+  "Q239332": {
+    "inception": "1992-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0461",
+    "label": "Gnesta kommun",
+    "label_en": "Gnesta Municipality",
+    "orgnr": "2120002965",
+    "replaced_by": []
+  },
+  "Q2393363": {
+    "department": "Utbildningsdepartementet",
+    "dissolved": "2014-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Dans- och cirkushögskolan",
+    "label_en": "University of Dance and Circus",
+    "replaced_by": []
+  },
+  "Q240574": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0767",
+    "label": "Markaryds kommun",
+    "label_en": "Markaryd Municipality",
+    "orgnr": "2120000654",
+    "replaced_by": []
+  },
+  "Q2445509": {
+    "department": "Försvarsdepartementet",
+    "inception": "2001-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Totalförsvarets forskningsinstitut",
+    "label_en": "Swedish Defence Research Agency",
+    "orgnr": "2021005182",
+    "replaced_by": []
+  },
+  "Q249378": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0428",
+    "label": "Vingåkers kommun",
+    "label_en": "Vingåker Municipality",
+    "orgnr": "2120000308",
+    "replaced_by": []
+  },
+  "Q2509723": {
+    "department": "kulturdepartementet",
+    "kind": "myndighet",
+    "label": "Sametinget",
+    "label_en": "Sami Parliament of Sweden",
+    "orgnr": "2021004573",
+    "replaced_by": []
+  },
+  "Q25349864": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Kalmar län",
+    "label_en": "Kalmar County Administrative Board",
+    "orgnr": "2021002304",
+    "replaced_by": []
+  },
+  "Q25386980": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Norrbottens län",
+    "label_en": "Norrbotten County Administrative Board",
+    "orgnr": "2021002478",
+    "replaced_by": []
+  },
+  "Q254799": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0765",
+    "label": "Älmhults kommun",
+    "label_en": "Älmhult Municipality",
+    "orgnr": "2120000647",
+    "replaced_by": []
+  },
+  "Q255025": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2560",
+    "label": "Älvsbyns kommun",
+    "label_en": "Älvsbyn Municipality",
+    "orgnr": "2120002734",
+    "replaced_by": []
+  },
+  "Q255206": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1182",
+    "label": "Ängelholms kommun",
+    "label_en": "Ängelholm Municipality",
+    "orgnr": "2120000977",
+    "replaced_by": []
+  },
+  "Q26236697": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Västernorrlands län",
+    "label_en": "Västernorrland County Administrative Board",
+    "orgnr": "2021002445",
+    "replaced_by": []
+  },
+  "Q26236700": {
+    "department": "Finansdepartementet",
+    "inception": "1634-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Västmanlands län",
+    "label_en": "Västmanland County Administrative Board",
+    "orgnr": "2021002411",
+    "replaced_by": []
+  },
+  "Q26236702": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Västra Götalands län",
+    "label_en": "Västra Götaland County Administrative Board",
+    "orgnr": "2021002361",
+    "replaced_by": []
+  },
+  "Q26253184": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Upphandlingsmyndigheten",
+    "label_en": "The National Agency for Public Procurement",
+    "orgnr": "2021006610",
+    "replaced_by": []
+  },
+  "Q2642771": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2026",
+    "label": "Gagnefs kommun",
+    "label_en": "Gagnef Municipality",
+    "orgnr": "2120002155",
+    "replaced_by": []
+  },
+  "Q266401": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1267",
+    "label": "Höörs kommun",
+    "label_en": "Höör Municipality",
+    "orgnr": "2120001116",
+    "replaced_by": []
+  },
+  "Q267030": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0586",
+    "label": "Mjölby kommun",
+    "label_en": "Mjölby Municipality",
+    "orgnr": "2120000480",
+    "replaced_by": []
+  },
+  "Q267462": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1460",
+    "label": "Bengtsfors kommun",
+    "label_en": "Bengtsfors Municipality",
+    "orgnr": "2120001470",
+    "replaced_by": []
+  },
+  "Q271079": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1492",
+    "label": "Åmåls kommun",
+    "label_en": "Åmål Municipality",
+    "orgnr": "2120001587",
+    "replaced_by": []
+  },
+  "Q271107": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2260",
+    "label": "Ånge kommun",
+    "label_en": "Ånge Municipality",
+    "orgnr": "2120002387",
+    "replaced_by": []
+  },
+  "Q271153": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2321",
+    "label": "Åre kommun",
+    "label_en": "Åre Municipality",
+    "orgnr": "2120002494",
+    "replaced_by": []
+  },
+  "Q271274": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2463",
+    "label": "Åsele kommun",
+    "label_en": "Åsele Municipality",
+    "orgnr": "2120002791",
+    "replaced_by": [
+      "Q132334"
+    ]
+  },
+  "Q271340": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0561",
+    "label": "Åtvidabergs kommun",
+    "label_en": "Åtvidaberg Municipality",
+    "orgnr": "2120000415",
+    "replaced_by": []
+  },
+  "Q2777887": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1765",
+    "label": "Årjängs kommun",
+    "label_en": "Årjäng Municipality",
+    "orgnr": "2120001835",
+    "replaced_by": []
+  },
+  "Q27982": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0482",
+    "label": "Flens kommun",
+    "label_en": "Flen Municipality",
+    "orgnr": "2120000332",
+    "replaced_by": []
+  },
+  "Q280562": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0683",
+    "label": "Värnamo kommun",
+    "label_en": "Värnamo Municipality",
+    "orgnr": "2120000555",
+    "replaced_by": []
+  },
+  "Q28532": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1488",
+    "label": "Trollhättans kommun",
+    "label_en": "Trollhättan Municipality",
+    "orgnr": "2120001546",
+    "replaced_by": []
+  },
+  "Q2858096": {
+    "department": "Arbetsmarknadsdepartementet",
+    "inception": "2009-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Diskrimineringsombudsmannen",
+    "label_en": "Discrimination Ombudsman",
+    "orgnr": "2021006073",
+    "replaced_by": []
+  },
+  "Q285894": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1884",
+    "label": "Nora kommun",
+    "label_en": "Nora Municipality",
+    "orgnr": "2120002007",
+    "replaced_by": []
+  },
+  "Q2872821": {
+    "department": "kulturdepartementet",
+    "inception": "2001-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Valmyndigheten",
+    "label_en": "Swedish Election Authority",
+    "orgnr": "2021005281",
+    "replaced_by": []
+  },
+  "Q28746121": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Blekinge län",
+    "label_en": "Blekinge County Administrative Board",
+    "orgnr": "2021002320",
+    "replaced_by": []
+  },
+  "Q28752352": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Dalarnas län",
+    "label_en": "Dalarna County Administrative Board",
+    "orgnr": "2021002429",
+    "replaced_by": []
+  },
+  "Q28792244": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Gotlands län",
+    "label_en": "Gotland County Administrative Board",
+    "orgnr": "2021002312",
+    "replaced_by": []
+  },
+  "Q28792253": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Hallands län",
+    "label_en": "Halland County Administrative Board",
+    "orgnr": "2021002353",
+    "replaced_by": []
+  },
+  "Q28797491": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Jämtlands län",
+    "label_en": "Jämtland County Administrative Board",
+    "orgnr": "2021002452",
+    "replaced_by": []
+  },
+  "Q28797492": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Jönköpings län",
+    "label_en": "Jönköping County Administrative Board",
+    "orgnr": "2021002288",
+    "replaced_by": []
+  },
+  "Q28797497": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Kronobergs län",
+    "label_en": "Kronoberg County Administrative Board",
+    "orgnr": "2021002296",
+    "replaced_by": []
+  },
+  "Q28797500": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Södermanlands län",
+    "label_en": "Södermanland County Administrative Board",
+    "orgnr": "2021002262",
+    "replaced_by": []
+  },
+  "Q28804178": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Värmlands län",
+    "label_en": "Värmland County Administrative Board",
+    "orgnr": "2021002395",
+    "replaced_by": []
+  },
+  "Q28804179": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Västerbottens län",
+    "label_en": "Västerbotten County Administrative Board",
+    "orgnr": "2021002460",
+    "replaced_by": []
+  },
+  "Q28804182": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Örebro län",
+    "label_en": "Örebro County Administrative Board",
+    "orgnr": "2021002403",
+    "replaced_by": []
+  },
+  "Q293928": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1407",
+    "label": "Öckerö kommun",
+    "label_en": "Öckerö Municipality",
+    "orgnr": "2120001280",
+    "replaced_by": []
+  },
+  "Q293970": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0509",
+    "label": "Ödeshögs kommun",
+    "label_en": "Ödeshög Municipality",
+    "orgnr": "2120000373",
+    "replaced_by": []
+  },
+  "Q2976522": {
+    "department": "Miljödepartementet",
+    "inception": "1967-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Naturvårdsverket",
+    "label_en": "Swedish Environmental Protection Agency",
+    "orgnr": "2021001975",
+    "replaced_by": []
+  },
+  "Q297718": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1880",
+    "label": "Örebro kommun",
+    "label_en": "Örebro Municipality",
+    "orgnr": "2120001967",
+    "replaced_by": [
+      "Q515282"
+    ]
+  },
+  "Q297936": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1137",
+    "label": "Örkelljunga kommun",
+    "label_en": "Örkelljunga Municipality",
+    "orgnr": "2120000878",
+    "replaced_by": []
+  },
+  "Q298003": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2284",
+    "label": "Örnsköldsviks kommun",
+    "label_en": "Örnsköldsvik Municipality",
+    "orgnr": "2120002445",
+    "replaced_by": []
+  },
+  "Q2983328": {
+    "department": "Miljödepartementet",
+    "inception": "1873-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Sveriges meteorologiska och hydrologiska institut",
+    "label_en": "Swedish Meteorological and Hydrological Institute",
+    "orgnr": "2021000696",
+    "replaced_by": []
+  },
+  "Q29963": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2184",
+    "label": "Hudiksvalls kommun",
+    "label_en": "Hudiksvall Municipality",
+    "orgnr": "2120002379",
+    "replaced_by": []
+  },
+  "Q301259": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0123",
+    "label": "Järfälla kommun",
+    "label_en": "Järfälla Municipality",
+    "orgnr": "2120000043",
+    "replaced_by": []
+  },
+  "Q30256613": {
+    "department": "Socialdepartementet",
+    "inception": "2001-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Forskningsrådet för hälsa, arbetsliv och välfärd",
+    "label_en": "Swedish Research Council for Health Working Life and Welfare",
+    "orgnr": "2021005240",
+    "replaced_by": []
+  },
+  "Q3038944": {
+    "dissolved": "2011-01-01T00:00:00Z",
+    "inception": "1970-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Dramatiska Institutet",
+    "label_en": "University College of Film, Radio, Television and Theatre",
+    "replaced_by": []
+  },
+  "Q306789": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2380",
+    "label": "Östersunds kommun",
+    "label_en": "Östersund Municipality",
+    "orgnr": "2120002528",
+    "replaced_by": []
+  },
+  "Q30696695": {
+    "dissolved": "1964-01-01T00:00:00Z",
+    "inception": "1944-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Överstyrelsen för yrkesutbildning",
+    "replaced_by": []
+  },
+  "Q307370": {
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1121",
+    "label": "Östra Göinge kommun",
+    "label_en": "Östra Göinge Municipality",
+    "orgnr": "2120000860",
+    "replaced_by": []
+  },
+  "Q307569": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2513",
+    "label": "Överkalix kommun",
+    "label_en": "Överkalix Municipality",
+    "orgnr": "2120002684",
+    "replaced_by": []
+  },
+  "Q307603": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2518",
+    "label": "Övertorneå kommun",
+    "label_en": "Övertorneå Municipality",
+    "orgnr": "2120002700",
+    "replaced_by": []
+  },
+  "Q30902353": {
+    "dissolved": "2001-01-01T00:00:00Z",
+    "inception": "1995-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Rådet för arbetslivsforskning",
+    "label_en": "Swedish Council for Work Life Research",
+    "replaced_by": []
+  },
+  "Q3110979": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1996-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Södertörns högskola",
+    "label_en": "Södertörn University",
+    "orgnr": "2021004896",
+    "replaced_by": []
+  },
+  "Q3120654": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0186",
+    "label": "Lidingö kommun",
+    "label_en": "Lidingö Municipality",
+    "orgnr": "2120000191",
+    "replaced_by": []
+  },
+  "Q31885102": {
+    "department": "Utbildningsdepartementet",
+    "kind": "myndighet",
+    "label": "Skolforskningsinstitutet",
+    "label_en": "Swedish Institute for Educational Research",
+    "orgnr": "2021006602",
+    "replaced_by": []
+  },
+  "Q31886341": {
+    "dissolved": "1997-12-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Länsstyrelsen i Skaraborgs län",
+    "label_en": "Skaraborg County Administrative Board",
+    "replaced_by": []
+  },
+  "Q31887055": {
+    "dissolved": "1993-06-30T00:00:00Z",
+    "inception": "1973-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Nämnden för statens gruvegendom",
+    "replaced_by": []
+  },
+  "Q31888100": {
+    "dissolved": "2001-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens gymnasium för vuxna i Härnösand",
+    "replaced_by": []
+  },
+  "Q31888128": {
+    "dissolved": "1888-05-31T00:00:00Z",
+    "inception": "1856-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Styrelsen för statens järnvägsbyggnader",
+    "replaced_by": [
+      "Q52912"
+    ]
+  },
+  "Q3231208": {
+    "inception": "1863-01-01T00:00:00Z",
+    "kind": "region",
+    "label": "Region Blekinge",
+    "label_en": "Region Blekinge",
+    "orgnr": "2321000081",
+    "replaced_by": []
+  },
+  "Q3231325": {
+    "kind": "region",
+    "label": "Region Dalarna",
+    "label_en": "Region Dalarna",
+    "orgnr": "2321000180",
+    "replaced_by": []
+  },
+  "Q3231382": {
+    "kind": "region",
+    "label": "Region Gävleborg",
+    "label_en": "Region Gävleborg",
+    "orgnr": "2321000198",
+    "replaced_by": []
+  },
+  "Q3231587": {
+    "kind": "region",
+    "label": "Region Jönköpings län",
+    "label_en": "Region Jönköping County",
+    "orgnr": "2321000057",
+    "replaced_by": []
+  },
+  "Q3231675": {
+    "kind": "region",
+    "label": "Region Kalmar län",
+    "label_en": "Region Kalmar County",
+    "orgnr": "2321000073",
+    "replaced_by": []
+  },
+  "Q3231752": {
+    "kind": "region",
+    "label": "Region Uppsala",
+    "label_en": "Region Uppsala",
+    "orgnr": "2321000024",
+    "replaced_by": []
+  },
+  "Q3231840": {
+    "kind": "region",
+    "label": "Region Värmland",
+    "label_en": "Region Värmland",
+    "orgnr": "2321000156",
+    "replaced_by": []
+  },
+  "Q3231915": {
+    "inception": "2015-01-01T00:00:00Z",
+    "kind": "region",
+    "label": "Region Östergötland",
+    "label_en": "Region Östergötland",
+    "orgnr": "2321000040",
+    "replaced_by": []
+  },
+  "Q3232003": {
+    "kind": "region",
+    "label": "Region Kronoberg",
+    "label_en": "Region Kronoberg",
+    "orgnr": "2321000065",
+    "replaced_by": []
+  },
+  "Q3232072": {
+    "inception": "1863-01-01T00:00:00Z",
+    "kind": "region",
+    "label": "Region Sörmland",
+    "label_en": "Region Sörmland",
+    "orgnr": "2321000032",
+    "replaced_by": []
+  },
+  "Q3232214": {
+    "kind": "region",
+    "label": "Region Västmanland",
+    "label_en": "Region Västmanland",
+    "orgnr": "2321000172",
+    "replaced_by": []
+  },
+  "Q3232292": {
+    "kind": "region",
+    "label": "Region Norrbotten",
+    "label_en": "Region Norrbotten",
+    "orgnr": "2321000230",
+    "replaced_by": []
+  },
+  "Q3232501": {
+    "inception": "2011-01-01T00:00:00Z",
+    "kind": "region",
+    "label": "Region Halland",
+    "label_en": "Region Halland",
+    "orgnr": "2321000115",
+    "replaced_by": []
+  },
+  "Q3232565": {
+    "inception": "1999-01-01T00:00:00Z",
+    "kind": "region",
+    "label": "Region Skåne",
+    "label_en": "Region Skåne",
+    "orgnr": "2321000255",
+    "replaced_by": []
+  },
+  "Q3233188": {
+    "kind": "region",
+    "label": "Region Stockholm",
+    "label_en": "Region Stockholm",
+    "orgnr": "2321000016",
+    "replaced_by": []
+  },
+  "Q3233375": {
+    "inception": "1863-01-01T00:00:00Z",
+    "kind": "region",
+    "label": "Region Västerbotten",
+    "label_en": "Region Västerbotten",
+    "orgnr": "2321000222",
+    "replaced_by": []
+  },
+  "Q3233447": {
+    "inception": "1999-01-01T00:00:00Z",
+    "kind": "region",
+    "label": "Västra Götalandsregionen",
+    "label_en": "Region Västra Götaland",
+    "orgnr": "2321000131",
+    "replaced_by": []
+  },
+  "Q3233521": {
+    "inception": "1863-01-01T00:00:00Z",
+    "kind": "region",
+    "label": "Region Örebro län",
+    "label_en": "Region Örebro County",
+    "orgnr": "2321000164",
+    "replaced_by": []
+  },
+  "Q3266836": {
+    "department": "Justitiedepartementet",
+    "inception": "1988-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Kustbevakningen",
+    "label_en": "Swedish Coast Guard",
+    "orgnr": "2021003997",
+    "replaced_by": []
+  },
+  "Q3279424": {
+    "dissolved": "2010-01-01T00:00:00Z",
+    "inception": "1977-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Växjö universitet",
+    "label_en": "Växjö University",
+    "replaced_by": [
+      "Q1751928"
+    ]
+  },
+  "Q3355352": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1735-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Kungliga Konsthögskolan",
+    "label_en": "Royal Institute of Art",
+    "orgnr": "2021002957",
+    "replaced_by": []
+  },
+  "Q3357871": {
+    "department": "Justitiedepartementet",
+    "inception": "1998-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Ekobrottsmyndigheten",
+    "label_en": "Swedish Economic Crime Authority",
+    "orgnr": "2021004979",
+    "replaced_by": []
+  },
+  "Q3359282": {
+    "department": "Justitiedepartementet",
+    "inception": "1978-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens haverikommission",
+    "label_en": "Swedish Accident Investigation Authority",
+    "orgnr": "2021003260",
+    "replaced_by": []
+  },
+  "Q3370919": {
+    "department": "Näringsdepartementet",
+    "inception": "2009-04-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Tillväxtverket",
+    "label_en": "Swedish Agency for Economic and Regional Growth",
+    "orgnr": "2021006149",
+    "replaced_by": []
+  },
+  "Q3371373": {
+    "department": "Försvarsdepartementet",
+    "inception": "1995-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Plikt- och prövningsverket",
+    "label_en": "Swedish Defence Recruitment Agency",
+    "orgnr": "2021004771",
+    "replaced_by": []
+  },
+  "Q3372219": {
+    "department": "Socialdepartementet",
+    "inception": "2005-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Försäkringskassan",
+    "label_en": "Swedish Social Insurance Agency",
+    "orgnr": "2021005521",
+    "replaced_by": []
+  },
+  "Q3375451": {
+    "department": "Finansdepartementet",
+    "inception": "1789-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Riksgälden",
+    "label_en": "Swedish National Debt Office",
+    "orgnr": "2021002635",
+    "replaced_by": []
+  },
+  "Q338752": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1421",
+    "label": "Orusts kommun",
+    "label_en": "Orust Municipality",
+    "orgnr": "2120001314",
+    "replaced_by": []
+  },
+  "Q3406485": {
+    "department": "Justitiedepartementet",
+    "inception": "2005-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Åklagarmyndigheten",
+    "label_en": "Swedish Prosecution Authority",
+    "orgnr": "2021000084",
+    "replaced_by": []
+  },
+  "Q34078": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1907",
+    "label": "Surahammars kommun",
+    "label_en": "Surahammar Municipality",
+    "orgnr": "2120002031",
+    "replaced_by": []
+  },
+  "Q3412538": {
+    "dissolved": "2014-01-01T00:00:00Z",
+    "inception": "2011-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Stockholms dramatiska högskola",
+    "label_en": "Stockholm Academy of Dramatic Arts",
+    "replaced_by": []
+  },
+  "Q3430725": {
+    "department": "Justitiedepartementet",
+    "inception": "2009-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för civilt försvar",
+    "label_en": "Swedish Civil Defence and Resilience Agency",
+    "orgnr": "2021005984",
+    "replaced_by": []
+  },
+  "Q3440237": {
+    "department": "Arbetsmarknadsdepartementet",
+    "inception": "2008-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Arbetsförmedlingen",
+    "label_en": "Swedish Public Employment Service",
+    "orgnr": "2021002114",
+    "replaced_by": []
+  },
+  "Q34550": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1980",
+    "label": "Västerås kommun",
+    "label_en": "Västerås Municipality",
+    "orgnr": "2120002080",
+    "replaced_by": []
+  },
+  "Q3563936": {
+    "department": "Infrastrukturdepartementet",
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens väg- och transportforskningsinstitut",
+    "label_en": "Swedish National Road and Transport Research Institute",
+    "orgnr": "2021000704",
+    "replaced_by": []
+  },
+  "Q371522": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1954-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Göteborgs universitet",
+    "label_en": "University of Gothenburg",
+    "orgnr": "2021003153",
+    "replaced_by": []
+  },
+  "Q37399": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1981",
+    "label": "Sala kommun",
+    "label_en": "Sala Municipality",
+    "orgnr": "2120002098",
+    "replaced_by": []
+  },
+  "Q37404": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1962",
+    "label": "Norbergs kommun",
+    "label_en": "Norberg Municipality",
+    "orgnr": "2120002072",
+    "replaced_by": []
+  },
+  "Q37462": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1904",
+    "label": "Skinnskattebergs kommun",
+    "label_en": "Skinnskatteberg Municipality",
+    "orgnr": "2120002023",
+    "replaced_by": []
+  },
+  "Q374794": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0980",
+    "label": "Region Gotland",
+    "label_en": "Region Gotland",
+    "orgnr": "2120000803",
+    "replaced_by": []
+  },
+  "Q376003": {
+    "inception": "1983-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2403",
+    "label": "Bjurholms kommun",
+    "label_en": "Bjurholm Municipality",
+    "orgnr": "2120002833",
+    "replaced_by": []
+  },
+  "Q382808": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1491",
+    "label": "Ulricehamns kommun",
+    "label_en": "Ulricehamn Municipality",
+    "orgnr": "2120001579",
+    "replaced_by": []
+  },
+  "Q384242": {
+    "department": "Utrikesdepartementet",
+    "inception": "1962-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Nordiska Afrikainstitutet",
+    "label_en": "Nordic Africa Institute",
+    "orgnr": "2021002726",
+    "replaced_by": []
+  },
+  "Q389040": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1430",
+    "label": "Munkedals kommun",
+    "label_en": "Munkedal Municipality",
+    "orgnr": "2120001330",
+    "replaced_by": []
+  },
+  "Q4184946": {
+    "department": "Justitiedepartementet",
+    "kind": "myndighet",
+    "label": "Lagrådet",
+    "label_en": "Council on Legislation",
+    "orgnr": "2021005315",
+    "replaced_by": []
+  },
+  "Q42009": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1983",
+    "label": "Köpings kommun",
+    "label_en": "Köping Municipality",
+    "orgnr": "2120002114",
+    "replaced_by": []
+  },
+  "Q427422": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1493",
+    "label": "Mariestads kommun",
+    "label_en": "Mariestad Municipality",
+    "orgnr": "2120001686",
+    "replaced_by": []
+  },
+  "Q427991": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1262",
+    "label": "Lomma kommun",
+    "label_en": "Lomma Municipality",
+    "orgnr": "2120001066",
+    "replaced_by": []
+  },
+  "Q428749": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1497",
+    "label": "Hjo kommun",
+    "label_en": "Hjo Municipality",
+    "orgnr": "2120001728",
+    "replaced_by": []
+  },
+  "Q430780": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2482",
+    "label": "Skellefteå kommun",
+    "label_en": "Skellefteå Municipality",
+    "orgnr": "2120002643",
+    "replaced_by": []
+  },
+  "Q431271": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1984",
+    "label": "Arboga kommun",
+    "label_en": "Arboga Municipality",
+    "orgnr": "2120002122",
+    "replaced_by": []
+  },
+  "Q4355099": {
+    "dissolved": "1974-12-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Kunglig Majestäts kansli",
+    "label_en": "The Royal Office in Sweden",
+    "replaced_by": [
+      "Q10650489"
+    ]
+  },
+  "Q4355568": {
+    "department": "Näringsdepartementet",
+    "inception": "2001-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Verket för innovationssystem",
+    "label_en": "Swedish Governmental Agency for Innovation Systems",
+    "orgnr": "2021005216",
+    "replaced_by": []
+  },
+  "Q4356728": {
+    "department": "Sveriges regering",
+    "dissolved": "2026-01-01T00:00:00Z",
+    "inception": "1962-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens centrum för arkitektur och design",
+    "label_en": "Swedish Centre for Architecture and Design",
+    "orgnr": "2021003427",
+    "replaced_by": []
+  },
+  "Q4356777": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1957-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Institutet för rymdfysik",
+    "label_en": "Swedish Institute of Space Physics",
+    "orgnr": "2021003567",
+    "replaced_by": []
+  },
+  "Q4411912": {
+    "department": "Utrikesdepartementet",
+    "inception": "1996-02-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Inspektionen för strategiska produkter",
+    "label_en": "Swedish Agency for Non-Proliferation and Export Controls",
+    "orgnr": "2021004912",
+    "replaced_by": []
+  },
+  "Q4577772": {
+    "department": "Finansdepartementet",
+    "inception": "2006-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Kronofogdemyndigheten",
+    "label_en": "Swedish Enforcement Authority",
+    "orgnr": "2021005646",
+    "replaced_by": []
+  },
+  "Q4579704": {
+    "department": "Finansdepartementet",
+    "inception": "1636-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Tullverket",
+    "label_en": "Swedish Customs",
+    "orgnr": "2021000969",
+    "replaced_by": []
+  },
+  "Q4585222": {
+    "department": "Justitiedepartementet",
+    "inception": "1969-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Migrationsverket",
+    "label_en": "Swedish Migration Agency",
+    "orgnr": "2021002163",
+    "replaced_by": []
+  },
+  "Q47011663": {
+    "department": "Arbetsmarknadsdepartementet",
+    "dissolved": "2022-12-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Delegationen mot segregation",
+    "label_en": "The Delegation Against Segregation",
+    "orgnr": "2021006701",
+    "replaced_by": []
+  },
+  "Q47018": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1982",
+    "label": "Fagersta kommun",
+    "label_en": "Fagersta Municipality",
+    "orgnr": "2120002106",
+    "replaced_by": []
+  },
+  "Q47019": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1961",
+    "label": "Hallstahammars kommun",
+    "label_en": "Hallstahammar Municipality",
+    "orgnr": "2120002064",
+    "replaced_by": []
+  },
+  "Q4703325": {
+    "dissolved": "1963-06-01T00:00:00Z",
+    "inception": "1948-11-26T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Matematikmaskinnämnden",
+    "label_en": "Swedish Board for Computing Machinery",
+    "replaced_by": [
+      "Q10677795"
+    ]
+  },
+  "Q47169": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1960",
+    "label": "Kungsörs kommun",
+    "label_en": "Kungsör Municipality",
+    "orgnr": "2120002056",
+    "replaced_by": []
+  },
+  "Q4726530": {
+    "dissolved": "2006-03-31T00:00:00Z",
+    "inception": "1991-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Utlänningsnämnden",
+    "label_en": "Aliens Appeals Board of Sweden",
+    "replaced_by": []
+  },
+  "Q474816": {
+    "department": "Näringsdepartementet",
+    "inception": "1858-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Sveriges geologiska undersökning",
+    "label_en": "Geological Survey of Sweden",
+    "orgnr": "2021002528",
+    "replaced_by": []
+  },
+  "Q487502": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1381",
+    "label": "Laholms kommun",
+    "label_en": "Laholm Municipality",
+    "orgnr": "2120001223",
+    "replaced_by": []
+  },
+  "Q487648": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1283",
+    "label": "Helsingborgs kommun",
+    "label_en": "Helsingborg Municipality",
+    "orgnr": "2120001157",
+    "replaced_by": []
+  },
+  "Q49094565": {
+    "dissolved": "2003-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Riksrevisionsverket",
+    "replaced_by": []
+  },
+  "Q49100988": {
+    "dissolved": "2002-07-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Bostadsdelegationen",
+    "replaced_by": []
+  },
+  "Q492575": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0126",
+    "label": "Huddinge kommun",
+    "label_en": "Huddinge Municipality",
+    "orgnr": "2120000068",
+    "replaced_by": []
+  },
+  "Q492614": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0125",
+    "label": "Ekerö kommun",
+    "label_en": "Ekerö Municipality",
+    "orgnr": "2120000050",
+    "replaced_by": []
+  },
+  "Q493066": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0160",
+    "label": "Täby kommun",
+    "label_en": "Täby Municipality",
+    "orgnr": "2120000118",
+    "replaced_by": []
+  },
+  "Q4931380": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Fastighetsmäklarinspektionen",
+    "label_en": "Swedish Estate Agents Inspectorate",
+    "orgnr": "2021004870",
+    "replaced_by": []
+  },
+  "Q493815": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2523",
+    "label": "Gällivare kommun",
+    "label_en": "Gällivare Municipality",
+    "orgnr": "2120002726",
+    "replaced_by": []
+  },
+  "Q493841": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0120",
+    "label": "Värmdö kommun",
+    "label_en": "Värmdö Municipality",
+    "orgnr": "2120000035",
+    "replaced_by": []
+  },
+  "Q493855": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2506",
+    "label": "Arjeplogs kommun",
+    "label_en": "Arjeplog Municipality",
+    "orgnr": "2120002668",
+    "replaced_by": []
+  },
+  "Q498447": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1730",
+    "label": "Eda kommun",
+    "label_en": "Eda Municipality",
+    "orgnr": "2120001769",
+    "replaced_by": []
+  },
+  "Q498453": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1780",
+    "label": "Karlstads kommun",
+    "label_en": "Karlstad Municipality",
+    "orgnr": "2120001850",
+    "replaced_by": []
+  },
+  "Q498470": {
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1440",
+    "label": "Ale kommun",
+    "label_en": "Ale Municipality",
+    "orgnr": "2120001439",
+    "replaced_by": []
+  },
+  "Q498477": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1315",
+    "label": "Hylte kommun",
+    "label_en": "Hylte Municipality",
+    "orgnr": "2120001207",
+    "replaced_by": []
+  },
+  "Q498857": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1180",
+    "label": "Kristianstads kommun",
+    "label_en": "Kristianstad Municipality",
+    "orgnr": "2120000951",
+    "replaced_by": []
+  },
+  "Q499359": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1761",
+    "label": "Hammarö kommun",
+    "label_en": "Hammarö Municipality",
+    "orgnr": "2120001793",
+    "replaced_by": []
+  },
+  "Q499380": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1384",
+    "label": "Kungsbacka kommun",
+    "label_en": "Kungsbacka Municipality",
+    "orgnr": "2120001256",
+    "replaced_by": []
+  },
+  "Q499385": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1763",
+    "label": "Forshaga kommun",
+    "label_en": "Forshaga Municipality",
+    "orgnr": "2120001819",
+    "replaced_by": []
+  },
+  "Q499393": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1715",
+    "label": "Kils kommun",
+    "label_en": "Kil Municipality",
+    "orgnr": "2120001751",
+    "replaced_by": []
+  },
+  "Q499404": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2505",
+    "label": "Arvidsjaurs kommun",
+    "label_en": "Arvidsjaur Municipality",
+    "orgnr": "2120002650",
+    "replaced_by": []
+  },
+  "Q4994097": {
+    "dissolved": "1967-01-01T00:00:00Z",
+    "inception": "1634-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "överståthållarämbetet",
+    "label_en": "Over-Governors office",
+    "replaced_by": [
+      "Q104231"
+    ]
+  },
+  "Q499410": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0580",
+    "label": "Linköpings kommun",
+    "label_en": "Linköping Municipality",
+    "orgnr": "2120000449",
+    "replaced_by": []
+  },
+  "Q499415": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2421",
+    "label": "Storumans kommun",
+    "label_en": "Storuman Municipality",
+    "orgnr": "2120002577",
+    "replaced_by": []
+  },
+  "Q499421": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1495",
+    "label": "Skara kommun",
+    "label_en": "Skara Municipality",
+    "orgnr": "2120001702",
+    "replaced_by": []
+  },
+  "Q499425": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0114",
+    "label": "Upplands Väsby kommun",
+    "label_en": "Upplands Väsby Municipality",
+    "orgnr": "2120000019",
+    "replaced_by": []
+  },
+  "Q499435": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1446",
+    "label": "Karlsborgs kommun",
+    "label_en": "Karlsborg Municipality",
+    "orgnr": "2120001629",
+    "replaced_by": []
+  },
+  "Q499441": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1439",
+    "label": "Färgelanda kommun",
+    "label_en": "Färgelanda Municipality",
+    "orgnr": "2120001421",
+    "replaced_by": []
+  },
+  "Q499460": {
+    "inception": "1999-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0140",
+    "label": "Nykvarns kommun",
+    "label_en": "Nykvarn Municipality",
+    "orgnr": "2120002999",
+    "replaced_by": []
+  },
+  "Q499464": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1278",
+    "label": "Båstads kommun",
+    "label_en": "Båstad Municipality",
+    "orgnr": "2120000944",
+    "replaced_by": []
+  },
+  "Q499474": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2584",
+    "label": "Kiruna kommun",
+    "label_en": "Kiruna Municipality",
+    "orgnr": "2120002783",
+    "replaced_by": []
+  },
+  "Q500071": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2084",
+    "label": "Avesta kommun",
+    "label_en": "Avesta Municipality",
+    "orgnr": "2120002262",
+    "replaced_by": []
+  },
+  "Q500090": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0187",
+    "label": "Vaxholms kommun",
+    "label_en": "Vaxholm Municipality",
+    "orgnr": "2120002908",
+    "replaced_by": [
+      "Q117728"
+    ]
+  },
+  "Q500125": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1401",
+    "label": "Härryda kommun",
+    "label_en": "Härryda Municipality",
+    "orgnr": "2120001264",
+    "replaced_by": []
+  },
+  "Q500153": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1463",
+    "label": "Marks kommun",
+    "label_en": "Mark Municipality",
+    "orgnr": "2120001504",
+    "replaced_by": []
+  },
+  "Q500210": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2460",
+    "label": "Vännäs kommun",
+    "label_en": "Vännäs Municipality",
+    "orgnr": "2120002841",
+    "replaced_by": [
+      "Q376003"
+    ]
+  },
+  "Q500217": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0780",
+    "label": "Växjö kommun",
+    "label_en": "Växjö Municipality",
+    "orgnr": "2120000662",
+    "replaced_by": []
+  },
+  "Q500267": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0480",
+    "label": "Nyköpings kommun",
+    "label_en": "Nyköping Municipality",
+    "orgnr": "2120002940",
+    "replaced_by": [
+      "Q505064",
+      "Q239332"
+    ]
+  },
+  "Q501205": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1766",
+    "label": "Sunne kommun",
+    "label_en": "Sunne Municipality",
+    "orgnr": "2120001843",
+    "replaced_by": []
+  },
+  "Q501420": {
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1427",
+    "label": "Sotenäs kommun",
+    "label_en": "Sotenäs Municipality",
+    "orgnr": "2120001322",
+    "replaced_by": []
+  },
+  "Q501424": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1486",
+    "label": "Strömstads kommun",
+    "label_en": "Strömstad Municipality",
+    "orgnr": "2120001405",
+    "replaced_by": []
+  },
+  "Q501428": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1470",
+    "label": "Vara kommun",
+    "label_en": "Vara Municipality",
+    "orgnr": "2120002924",
+    "replaced_by": [
+      "Q503127",
+      "Q503127"
+    ]
+  },
+  "Q501432": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1472",
+    "label": "Tibro kommun",
+    "label_en": "Tibro Municipality",
+    "orgnr": "2120001660",
+    "replaced_by": []
+  },
+  "Q501438": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1461",
+    "label": "Melleruds kommun",
+    "label_en": "Mellerud Municipality",
+    "orgnr": "2120001488",
+    "replaced_by": []
+  },
+  "Q501442": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1485",
+    "label": "Uddevalla kommun",
+    "label_en": "Uddevalla Municipality",
+    "orgnr": "2120001397",
+    "replaced_by": []
+  },
+  "Q501448": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1419",
+    "label": "Tjörns kommun",
+    "label_en": "Tjörn Municipality",
+    "orgnr": "2120001306",
+    "replaced_by": []
+  },
+  "Q501452": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1496",
+    "label": "Skövde kommun",
+    "label_en": "Skövde Municipality",
+    "orgnr": "2120001710",
+    "replaced_by": []
+  },
+  "Q501459": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1498",
+    "label": "Tidaholms kommun",
+    "label_en": "Tidaholm Municipality",
+    "orgnr": "2120001736",
+    "replaced_by": []
+  },
+  "Q501463": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2422",
+    "label": "Sorsele kommun",
+    "label_en": "Sorsele Municipality",
+    "orgnr": "2120002585",
+    "replaced_by": []
+  },
+  "Q501470": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1473",
+    "label": "Töreboda kommun",
+    "label_en": "Töreboda Municipality",
+    "orgnr": "2120001678",
+    "replaced_by": []
+  },
+  "Q501479": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1452",
+    "label": "Tranemo kommun",
+    "label_en": "Tranemo Municipality",
+    "orgnr": "2120001462",
+    "replaced_by": []
+  },
+  "Q501487": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1465",
+    "label": "Svenljunga kommun",
+    "label_en": "Svenljunga Municipality",
+    "orgnr": "2120001512",
+    "replaced_by": []
+  },
+  "Q501494": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1762",
+    "label": "Munkfors kommun",
+    "label_en": "Munkfors Municipality",
+    "orgnr": "2120001801",
+    "replaced_by": []
+  },
+  "Q501526": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0115",
+    "label": "Vallentuna kommun",
+    "label_en": "Vallentuna Municipality",
+    "orgnr": "2120000027",
+    "replaced_by": []
+  },
+  "Q501532": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0486",
+    "label": "Strängnäs kommun",
+    "label_en": "Strängnäs Municipality",
+    "orgnr": "2120000365",
+    "replaced_by": []
+  },
+  "Q501540": {
+    "inception": "1983-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2418",
+    "label": "Malå kommun",
+    "label_en": "Malå Municipality",
+    "orgnr": "2120002866",
+    "replaced_by": []
+  },
+  "Q501545": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2080",
+    "label": "Falu kommun",
+    "label_en": "Falun Municipality",
+    "orgnr": "2120002221",
+    "replaced_by": []
+  },
+  "Q501551": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2021",
+    "label": "Vansbro kommun",
+    "label_en": "Vansbro Municipality",
+    "orgnr": "2120002130",
+    "replaced_by": []
+  },
+  "Q502298": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1282",
+    "label": "Landskrona kommun",
+    "label_en": "Landskrona Municipality",
+    "orgnr": "2120001140",
+    "replaced_by": []
+  },
+  "Q502824": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1977-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Högskolan Kristianstad",
+    "label_en": "Kristianstad University",
+    "orgnr": "2021003195",
+    "replaced_by": []
+  },
+  "Q502842": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1983-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Högskolan i Halmstad",
+    "label_en": "Halmstad University College",
+    "orgnr": "2021003203",
+    "replaced_by": []
+  },
+  "Q503102": {
+    "inception": "1995-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1443",
+    "label": "Bollebygds kommun",
+    "label_en": "Bollebygd Municipality",
+    "orgnr": "2120002973",
+    "replaced_by": []
+  },
+  "Q503111": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1466",
+    "label": "Herrljunga kommun",
+    "label_en": "Herrljunga Municipality",
+    "orgnr": "2120001520",
+    "replaced_by": []
+  },
+  "Q503122": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1764",
+    "label": "Grums kommun",
+    "label_en": "Grums Municipality",
+    "orgnr": "2120001827",
+    "replaced_by": []
+  },
+  "Q503127": {
+    "inception": "1983-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1445",
+    "label": "Essunga kommun",
+    "label_en": "Essunga Municipality",
+    "orgnr": "2120002916",
+    "replaced_by": []
+  },
+  "Q503132": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1438",
+    "label": "Dals-Eds kommun",
+    "label_en": "Dals-Ed Municipality",
+    "orgnr": "2120001413",
+    "replaced_by": []
+  },
+  "Q503144": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0484",
+    "label": "Eskilstuna kommun",
+    "label_en": "Eskilstuna Municipality",
+    "orgnr": "2120000357",
+    "replaced_by": []
+  },
+  "Q503148": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1444",
+    "label": "Grästorps kommun",
+    "label_en": "Grästorp Municipality",
+    "orgnr": "2120001595",
+    "replaced_by": []
+  },
+  "Q503162": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1489",
+    "label": "Alingsås kommun",
+    "label_en": "Alingsås Municipality",
+    "orgnr": "2120001553",
+    "replaced_by": []
+  },
+  "Q503167": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0604",
+    "label": "Aneby kommun",
+    "label_en": "Aneby Municipality",
+    "orgnr": "2120000498",
+    "replaced_by": []
+  },
+  "Q503173": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1484",
+    "label": "Lysekils kommun",
+    "label_en": "Lysekil Municipality",
+    "orgnr": "2120001389",
+    "replaced_by": []
+  },
+  "Q503180": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0562",
+    "label": "Finspångs kommun",
+    "label_en": "Finspång Municipality",
+    "orgnr": "2120000423",
+    "replaced_by": []
+  },
+  "Q503184": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2085",
+    "label": "Ludvika kommun",
+    "label_en": "Ludvika Municipality",
+    "orgnr": "2120002270",
+    "replaced_by": []
+  },
+  "Q503188": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1441",
+    "label": "Lerums kommun",
+    "label_en": "Lerum Municipality",
+    "orgnr": "2120001447",
+    "replaced_by": []
+  },
+  "Q503193": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1447",
+    "label": "Gullspångs kommun",
+    "label_en": "Gullspång Municipality",
+    "orgnr": "2120001637",
+    "replaced_by": []
+  },
+  "Q503198": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0643",
+    "label": "Habo kommun",
+    "label_en": "Habo Municipality",
+    "orgnr": "2120001611",
+    "replaced_by": []
+  },
+  "Q503204": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1782",
+    "label": "Filipstads kommun",
+    "label_en": "Filipstad Municipality",
+    "orgnr": "2120001876",
+    "replaced_by": []
+  },
+  "Q503209": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2081",
+    "label": "Borlänge kommun",
+    "label_en": "Borlänge Municipality",
+    "orgnr": "2120002239",
+    "replaced_by": []
+  },
+  "Q503214": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1499",
+    "label": "Falköpings kommun",
+    "label_en": "Falköping Municipality",
+    "orgnr": "2120001744",
+    "replaced_by": []
+  },
+  "Q503361": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1280",
+    "label": "Malmö kommun",
+    "label_en": "Malmö Municipality",
+    "orgnr": "2120001124",
+    "replaced_by": []
+  },
+  "Q503746": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0163",
+    "label": "Sollentuna kommun",
+    "label_en": "Sollentuna Municipality",
+    "orgnr": "2120000134",
+    "replaced_by": []
+  },
+  "Q504219": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1287",
+    "label": "Trelleborgs kommun",
+    "label_en": "Trelleborg Municipality",
+    "orgnr": "2120001199",
+    "replaced_by": []
+  },
+  "Q504227": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1214",
+    "label": "Svalövs kommun",
+    "label_en": "Svalöv Municipality",
+    "orgnr": "2120000993",
+    "replaced_by": []
+  },
+  "Q504235": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0781",
+    "label": "Ljungby kommun",
+    "label_en": "Ljungby Municipality",
+    "orgnr": "2120000670",
+    "replaced_by": []
+  },
+  "Q504239": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2062",
+    "label": "Mora kommun",
+    "label_en": "Mora Municipality",
+    "orgnr": "2120002213",
+    "replaced_by": []
+  },
+  "Q504244": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2031",
+    "label": "Rättviks kommun",
+    "label_en": "Rättvik Municipality",
+    "orgnr": "2120002171",
+    "replaced_by": []
+  },
+  "Q504249": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1275",
+    "label": "Perstorps kommun",
+    "label_en": "Perstorp Municipality",
+    "orgnr": "2120000910",
+    "replaced_by": []
+  },
+  "Q504257": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1060",
+    "label": "Olofströms kommun",
+    "label_en": "Olofström Municipality",
+    "orgnr": "2120000811",
+    "replaced_by": []
+  },
+  "Q504261": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2305",
+    "label": "Bräcke kommun",
+    "label_en": "Bräcke Municipality",
+    "orgnr": "2120002460",
+    "replaced_by": []
+  },
+  "Q504266": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2023",
+    "label": "Malung-Sälens kommun",
+    "label_en": "Malung-Sälen Municipality",
+    "orgnr": "2120002148",
+    "replaced_by": []
+  },
+  "Q504465": {
+    "inception": "2003-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0330",
+    "label": "Knivsta kommun",
+    "label_en": "Knivsta Municipality",
+    "orgnr": "2120003013",
+    "replaced_by": []
+  },
+  "Q504505": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2404",
+    "label": "Vindelns kommun",
+    "label_en": "Vindeln Municipality",
+    "orgnr": "2120002544",
+    "replaced_by": []
+  },
+  "Q504594": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1163",
+    "label": "Osby kommun",
+    "label_en": "Osby Municipality",
+    "orgnr": "2120000902",
+    "replaced_by": []
+  },
+  "Q504601": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1265",
+    "label": "Sjöbo kommun",
+    "label_en": "Sjöbo Municipality",
+    "orgnr": "2120001090",
+    "replaced_by": []
+  },
+  "Q504609": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1230",
+    "label": "Staffanstorps kommun",
+    "label_en": "Staffanstorp Municipality",
+    "orgnr": "2120001017",
+    "replaced_by": []
+  },
+  "Q504614": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1166",
+    "label": "Klippans kommun",
+    "label_en": "Klippan Municipality",
+    "orgnr": "2120000928",
+    "replaced_by": []
+  },
+  "Q504619": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1266",
+    "label": "Hörby kommun",
+    "label_en": "Hörby Municipality",
+    "orgnr": "2120001108",
+    "replaced_by": []
+  },
+  "Q504626": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1181",
+    "label": "Simrishamns kommun",
+    "label_en": "Simrishamn Municipality",
+    "orgnr": "2120000969",
+    "replaced_by": []
+  },
+  "Q504630": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2034",
+    "label": "Orsa kommun",
+    "label_en": "Orsa Municipality",
+    "orgnr": "2120002189",
+    "replaced_by": []
+  },
+  "Q504676": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0581",
+    "label": "Norrköpings kommun",
+    "label_en": "Norrköping Municipality",
+    "orgnr": "2120000456",
+    "replaced_by": []
+  },
+  "Q504689": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0680",
+    "label": "Jönköpings kommun",
+    "label_en": "Jönköping Municipality",
+    "orgnr": "2120000530",
+    "replaced_by": []
+  },
+  "Q504692": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1380",
+    "label": "Halmstads kommun",
+    "label_en": "Halmstad Municipality",
+    "orgnr": "2120001215",
+    "replaced_by": []
+  },
+  "Q504983": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2262",
+    "label": "Timrå kommun",
+    "label_en": "Timrå Municipality",
+    "orgnr": "2120002395",
+    "replaced_by": []
+  },
+  "Q504988": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1881",
+    "label": "Kumla kommun",
+    "label_en": "Kumla Municipality",
+    "orgnr": "2120001975",
+    "replaced_by": []
+  },
+  "Q504994": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2281",
+    "label": "Sundsvalls kommun",
+    "label_en": "Sundsvall Municipality",
+    "orgnr": "2120002411",
+    "replaced_by": []
+  },
+  "Q505006": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0882",
+    "label": "Oskarshamns kommun",
+    "label_en": "Oskarshamn Municipality",
+    "orgnr": "2120000761",
+    "replaced_by": []
+  },
+  "Q505013": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1284",
+    "label": "Höganäs kommun",
+    "label_en": "Höganäs Municipality",
+    "orgnr": "2120001165",
+    "replaced_by": []
+  },
+  "Q505018": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1281",
+    "label": "Lunds kommun",
+    "label_en": "Lund Municipality",
+    "orgnr": "2120001132",
+    "replaced_by": []
+  },
+  "Q505046": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2061",
+    "label": "Smedjebackens kommun",
+    "label_en": "Smedjebacken Municipality",
+    "orgnr": "2120002205",
+    "replaced_by": []
+  },
+  "Q505052": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0685",
+    "label": "Vetlanda kommun",
+    "label_en": "Vetlanda Municipality",
+    "orgnr": "2120000571",
+    "replaced_by": []
+  },
+  "Q505057": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0884",
+    "label": "Vimmerby kommun",
+    "label_en": "Vimmerby Municipality",
+    "orgnr": "2120000787",
+    "replaced_by": []
+  },
+  "Q505064": {
+    "inception": "1992-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0488",
+    "label": "Trosa kommun",
+    "label_en": "Trosa Municipality",
+    "orgnr": "2120002957",
+    "replaced_by": []
+  },
+  "Q505071": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0687",
+    "label": "Tranås kommun",
+    "label_en": "Tranås Municipality",
+    "orgnr": "2120000597",
+    "replaced_by": []
+  },
+  "Q505076": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0642",
+    "label": "Mullsjö kommun",
+    "label_en": "Mullsjö Municipality",
+    "orgnr": "2120001603",
+    "replaced_by": []
+  },
+  "Q505085": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2121",
+    "label": "Ovanåkers kommun",
+    "label_en": "Ovanåker Municipality",
+    "orgnr": "2120002304",
+    "replaced_by": []
+  },
+  "Q505090": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0192",
+    "label": "Nynäshamns kommun",
+    "label_en": "Nynäshamn Municipality",
+    "orgnr": "2120000233",
+    "replaced_by": []
+  },
+  "Q505096": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0682",
+    "label": "Nässjö kommun",
+    "label_en": "Nässjö Municipality",
+    "orgnr": "2120000548",
+    "replaced_by": []
+  },
+  "Q505102": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1286",
+    "label": "Ystads kommun",
+    "label_en": "Ystad Municipality",
+    "orgnr": "2120001181",
+    "replaced_by": []
+  },
+  "Q505109": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2101",
+    "label": "Ockelbo kommun",
+    "label_en": "Ockelbo Municipality",
+    "orgnr": "2120002288",
+    "replaced_by": []
+  },
+  "Q505239": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0684",
+    "label": "Sävsjö kommun",
+    "label_en": "Sävsjö Municipality",
+    "orgnr": "2120000563",
+    "replaced_by": []
+  },
+  "Q505246": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0481",
+    "label": "Oxelösunds kommun",
+    "label_en": "Oxelösund Municipality",
+    "orgnr": "2120000324",
+    "replaced_by": []
+  },
+  "Q505259": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0662",
+    "label": "Gislaveds kommun",
+    "label_en": "Gislaved Municipality",
+    "orgnr": "2120000514",
+    "replaced_by": []
+  },
+  "Q505936": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1760",
+    "label": "Storfors kommun",
+    "label_en": "Storfors Municipality",
+    "orgnr": "2120001785",
+    "replaced_by": []
+  },
+  "Q506250": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0180",
+    "label": "Stockholms kommun",
+    "label_en": "Stockholm Municipality",
+    "orgnr": "2120000142",
+    "replaced_by": []
+  },
+  "Q507644": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2417",
+    "label": "Norsjö kommun",
+    "label_en": "Norsjö Municipality",
+    "orgnr": "2120002858",
+    "replaced_by": [
+      "Q501540"
+    ]
+  },
+  "Q507656": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2581",
+    "label": "Piteå kommun",
+    "label_en": "Piteå Municipality",
+    "orgnr": "2120002759",
+    "replaced_by": []
+  },
+  "Q507670": {
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2409",
+    "label": "Robertsfors kommun",
+    "label_en": "Robertsfors Municipality",
+    "orgnr": "2120002551",
+    "replaced_by": []
+  },
+  "Q507684": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2083",
+    "label": "Hedemora kommun",
+    "label_en": "Hedemora Municipality",
+    "orgnr": "2120002254",
+    "replaced_by": []
+  },
+  "Q507709": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2480",
+    "label": "Umeå kommun",
+    "label_en": "Umeå Municipality",
+    "orgnr": "2120002627",
+    "replaced_by": []
+  },
+  "Q508108": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0583",
+    "label": "Motala kommun",
+    "label_en": "Motala Municipality",
+    "orgnr": "2120002817",
+    "replaced_by": [
+      "Q515969"
+    ]
+  },
+  "Q508125": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1183",
+    "label": "Hässleholms kommun",
+    "label_en": "Hässleholm Municipality",
+    "orgnr": "2120000985",
+    "replaced_by": []
+  },
+  "Q508140": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0483",
+    "label": "Katrineholms kommun",
+    "label_en": "Katrineholm Municipality",
+    "orgnr": "2120000340",
+    "replaced_by": []
+  },
+  "Q508153": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0880",
+    "label": "Kalmar kommun",
+    "label_en": "Kalmar Municipality",
+    "orgnr": "2120000746",
+    "replaced_by": []
+  },
+  "Q508168": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1382",
+    "label": "Falkenbergs kommun",
+    "label_en": "Falkenberg Municipality",
+    "orgnr": "2120001231",
+    "replaced_by": []
+  },
+  "Q508180": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1861",
+    "label": "Hallsbergs kommun",
+    "label_en": "Hallsberg Municipality",
+    "orgnr": "2120001926",
+    "replaced_by": []
+  },
+  "Q509452": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0862",
+    "label": "Emmaboda kommun",
+    "label_en": "Emmaboda Municipality",
+    "orgnr": "2120000738",
+    "replaced_by": []
+  },
+  "Q509469": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1862",
+    "label": "Degerfors kommun",
+    "label_en": "Degerfors Municipality",
+    "orgnr": "2120001934",
+    "replaced_by": []
+  },
+  "Q509476": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2582",
+    "label": "Bodens kommun",
+    "label_en": "Boden Municipality",
+    "orgnr": "2120002767",
+    "replaced_by": []
+  },
+  "Q509488": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0761",
+    "label": "Lessebo kommun",
+    "label_en": "Lessebo Municipality",
+    "orgnr": "2120000613",
+    "replaced_by": []
+  },
+  "Q509501": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1882",
+    "label": "Askersunds kommun",
+    "label_en": "Askersund Municipality",
+    "orgnr": "2120001983",
+    "replaced_by": []
+  },
+  "Q509514": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0560",
+    "label": "Boxholms kommun",
+    "label_en": "Boxholm Municipality",
+    "orgnr": "2120000407",
+    "replaced_by": []
+  },
+  "Q509546": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0885",
+    "label": "Borgholms kommun",
+    "label_en": "Borgholm Municipality",
+    "orgnr": "2120000795",
+    "replaced_by": []
+  },
+  "Q509568": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0381",
+    "label": "Enköpings kommun",
+    "label_en": "Enköping Municipality",
+    "orgnr": "2120000282",
+    "replaced_by": []
+  },
+  "Q509609": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0617",
+    "label": "Gnosjö kommun",
+    "label_en": "Gnosjö Municipality",
+    "orgnr": "2120000506",
+    "replaced_by": []
+  },
+  "Q509634": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1883",
+    "label": "Karlskoga kommun",
+    "label_en": "Karlskoga Municipality",
+    "orgnr": "2120001991",
+    "replaced_by": []
+  },
+  "Q509651": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2029",
+    "label": "Leksands kommun",
+    "label_en": "Leksand Municipality",
+    "orgnr": "2120002163",
+    "replaced_by": []
+  },
+  "Q509997": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0563",
+    "label": "Valdemarsviks kommun",
+    "label_en": "Valdemarsvik Municipality",
+    "orgnr": "2120000431",
+    "replaced_by": []
+  },
+  "Q510010": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2180",
+    "label": "Gävle kommun",
+    "label_en": "Gävle Municipality",
+    "orgnr": "2120002338",
+    "replaced_by": []
+  },
+  "Q510135": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1737",
+    "label": "Torsby kommun",
+    "label_en": "Torsby Municipality",
+    "orgnr": "2120001777",
+    "replaced_by": []
+  },
+  "Q510198": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0360",
+    "label": "Tierps kommun",
+    "label_en": "Tierp Municipality",
+    "orgnr": "2120000266",
+    "replaced_by": []
+  },
+  "Q510223": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1082",
+    "label": "Karlshamns kommun",
+    "label_en": "Karlshamn Municipality",
+    "orgnr": "2120000845",
+    "replaced_by": []
+  },
+  "Q510233": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0821",
+    "label": "Högsby kommun",
+    "label_en": "Högsby Municipality",
+    "orgnr": "2120000688",
+    "replaced_by": []
+  },
+  "Q510310": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2583",
+    "label": "Haparanda kommun",
+    "label_en": "Haparanda Municipality",
+    "orgnr": "2120002775",
+    "replaced_by": []
+  },
+  "Q510364": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1781",
+    "label": "Kristinehamns kommun",
+    "label_en": "Kristinehamn Municipality",
+    "orgnr": "2120001868",
+    "replaced_by": []
+  },
+  "Q511228": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1435",
+    "label": "Tanums kommun",
+    "label_en": "Tanum Municipality",
+    "orgnr": "2120001348",
+    "replaced_by": []
+  },
+  "Q511241": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1462",
+    "label": "Lilla Edets kommun",
+    "label_en": "Lilla Edet Municipality",
+    "orgnr": "2120001496",
+    "replaced_by": []
+  },
+  "Q511253": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0305",
+    "label": "Håbo kommun",
+    "label_en": "Håbo Municipality",
+    "orgnr": "2120000241",
+    "replaced_by": []
+  },
+  "Q511270": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1481",
+    "label": "Mölndals kommun",
+    "label_en": "Mölndal Municipality",
+    "orgnr": "2120001363",
+    "replaced_by": []
+  },
+  "Q511281": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1471",
+    "label": "Götene kommun",
+    "label_en": "Götene Municipality",
+    "orgnr": "2120001652",
+    "replaced_by": []
+  },
+  "Q511297": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1442",
+    "label": "Vårgårda kommun",
+    "label_en": "Vårgårda Municipality",
+    "orgnr": "2120001454",
+    "replaced_by": []
+  },
+  "Q511310": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1260",
+    "label": "Bjuvs kommun",
+    "label_en": "Bjuv Municipality",
+    "orgnr": "2120001041",
+    "replaced_by": []
+  },
+  "Q511326": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1785",
+    "label": "Säffle kommun",
+    "label_en": "Säffle Municipality",
+    "orgnr": "2120001900",
+    "replaced_by": []
+  },
+  "Q511338": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1233",
+    "label": "Vellinge kommun",
+    "label_en": "Vellinge Municipality",
+    "orgnr": "2120001033",
+    "replaced_by": []
+  },
+  "Q511365": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1784",
+    "label": "Arvika kommun",
+    "label_en": "Arvika Municipality",
+    "orgnr": "2120001892",
+    "replaced_by": []
+  },
+  "Q511394": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1482",
+    "label": "Kungälvs kommun",
+    "label_en": "Kungälv Municipality",
+    "orgnr": "2120001371",
+    "replaced_by": []
+  },
+  "Q511407": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1783",
+    "label": "Hagfors kommun",
+    "label_en": "Hagfors Municipality",
+    "orgnr": "2120001884",
+    "replaced_by": []
+  },
+  "Q511426": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1487",
+    "label": "Vänersborgs kommun",
+    "label_en": "Vänersborg Municipality",
+    "orgnr": "2120001538",
+    "replaced_by": []
+  },
+  "Q511438": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1415",
+    "label": "Stenungsunds kommun",
+    "label_en": "Stenungsund Municipality",
+    "orgnr": "2120001298",
+    "replaced_by": []
+  },
+  "Q512002": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0860",
+    "label": "Hultsfreds kommun",
+    "label_en": "Hultsfred Municipality",
+    "orgnr": "2120000712",
+    "replaced_by": []
+  },
+  "Q512035": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0686",
+    "label": "Eksjö kommun",
+    "label_en": "Eksjö Municipality",
+    "orgnr": "2120000589",
+    "replaced_by": []
+  },
+  "Q512048": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2510",
+    "label": "Jokkmokks kommun",
+    "label_en": "Jokkmokk Municipality",
+    "orgnr": "2120002676",
+    "replaced_by": []
+  },
+  "Q513370": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1261",
+    "label": "Kävlinge kommun",
+    "label_en": "Kävlinge Municipality",
+    "orgnr": "2120001058",
+    "replaced_by": []
+  },
+  "Q513421": {
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2361",
+    "label": "Härjedalens kommun",
+    "label_en": "Härjedalen Municipality",
+    "orgnr": "2120002510",
+    "replaced_by": []
+  },
+  "Q514707": {
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2309",
+    "label": "Krokoms kommun",
+    "label_en": "Krokom Municipality",
+    "orgnr": "2120002478",
+    "replaced_by": []
+  },
+  "Q514722": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2401",
+    "label": "Nordmalings kommun",
+    "label_en": "Nordmaling Municipality",
+    "orgnr": "2120002536",
+    "replaced_by": []
+  },
+  "Q514739": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1864",
+    "label": "Ljusnarsbergs kommun",
+    "label_en": "Ljusnarsberg Municipality",
+    "orgnr": "2120001959",
+    "replaced_by": []
+  },
+  "Q514756": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0840",
+    "label": "Mörbylånga kommun",
+    "label_en": "Mörbylånga Municipality",
+    "orgnr": "2120000704",
+    "replaced_by": []
+  },
+  "Q514770": {
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2313",
+    "label": "Strömsunds kommun",
+    "label_en": "Strömsund Municipality",
+    "orgnr": "2120002486",
+    "replaced_by": []
+  },
+  "Q514805": {
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2132",
+    "label": "Nordanstigs kommun",
+    "label_en": "Nordanstig Municipality",
+    "orgnr": "2120002312",
+    "replaced_by": []
+  },
+  "Q514815": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2282",
+    "label": "Kramfors kommun",
+    "label_en": "Kramfors Municipality",
+    "orgnr": "2120002429",
+    "replaced_by": []
+  },
+  "Q514830": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1162",
+    "label": "Bromölla kommun",
+    "label_en": "Bromölla Municipality",
+    "orgnr": "2120000894",
+    "replaced_by": []
+  },
+  "Q514858": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1885",
+    "label": "Lindesbergs kommun",
+    "label_en": "Lindesberg Municipality",
+    "orgnr": "2120002015",
+    "replaced_by": []
+  },
+  "Q515235": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2161",
+    "label": "Ljusdals kommun",
+    "label_en": "Ljusdal Municipality",
+    "orgnr": "2120002320",
+    "replaced_by": []
+  },
+  "Q515250": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0861",
+    "label": "Mönsterås kommun",
+    "label_en": "Mönsterås Municipality",
+    "orgnr": "2120000720",
+    "replaced_by": []
+  },
+  "Q515266": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1264",
+    "label": "Skurups kommun",
+    "label_en": "Skurup Municipality",
+    "orgnr": "2120001082",
+    "replaced_by": []
+  },
+  "Q515282": {
+    "inception": "1995-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1814",
+    "label": "Lekebergs kommun",
+    "label_en": "Lekeberg Municipality",
+    "orgnr": "2120002981",
+    "replaced_by": []
+  },
+  "Q515299": {
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0513",
+    "label": "Kinda kommun",
+    "label_en": "Kinda Municipality",
+    "orgnr": "2120000399",
+    "replaced_by": []
+  },
+  "Q515318": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0881",
+    "label": "Nybro kommun",
+    "label_en": "Nybro Municipality",
+    "orgnr": "2120000753",
+    "replaced_by": []
+  },
+  "Q515326": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1860",
+    "label": "Laxå kommun",
+    "label_en": "Laxå Municipality",
+    "orgnr": "2120001918",
+    "replaced_by": []
+  },
+  "Q515342": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2303",
+    "label": "Ragunda kommun",
+    "label_en": "Ragunda Municipality",
+    "orgnr": "2120002452",
+    "replaced_by": []
+  },
+  "Q515358": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1494",
+    "label": "Lidköpings kommun",
+    "label_en": "Lidköping Municipality",
+    "orgnr": "2120001694",
+    "replaced_by": []
+  },
+  "Q515373": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1081",
+    "label": "Ronneby kommun",
+    "label_en": "Ronneby Municipality",
+    "orgnr": "2120000837",
+    "replaced_by": []
+  },
+  "Q515409": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1083",
+    "label": "Sölvesborgs kommun",
+    "label_en": "Sölvesborg Municipality",
+    "orgnr": "2120000852",
+    "replaced_by": []
+  },
+  "Q515477": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0883",
+    "label": "Västerviks kommun",
+    "label_en": "Västervik Municipality",
+    "orgnr": "2120000779",
+    "replaced_by": []
+  },
+  "Q515491": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0763",
+    "label": "Tingsryds kommun",
+    "label_en": "Tingsryd Municipality",
+    "orgnr": "2120000621",
+    "replaced_by": []
+  },
+  "Q515505": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0760",
+    "label": "Uppvidinge kommun",
+    "label_en": "Uppvidinge Municipality",
+    "orgnr": "2120000605",
+    "replaced_by": []
+  },
+  "Q515519": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1160",
+    "label": "Tomelilla kommun",
+    "label_en": "Tomelilla Municipality",
+    "orgnr": "2120000886",
+    "replaced_by": []
+  },
+  "Q515551": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0834",
+    "label": "Torsås kommun",
+    "label_en": "Torsås Municipality",
+    "orgnr": "2120000696",
+    "replaced_by": []
+  },
+  "Q515680": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0582",
+    "label": "Söderköpings kommun",
+    "label_en": "Söderköping Municipality",
+    "orgnr": "2120000464",
+    "replaced_by": []
+  },
+  "Q515699": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0512",
+    "label": "Ydre kommun",
+    "label_en": "Ydre Municipality",
+    "orgnr": "2120000381",
+    "replaced_by": []
+  },
+  "Q515706": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1263",
+    "label": "Svedala kommun",
+    "label_en": "Svedala Municipality",
+    "orgnr": "2120001074",
+    "replaced_by": []
+  },
+  "Q515861": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2462",
+    "label": "Vilhelmina kommun",
+    "label_en": "Vilhelmina Municipality",
+    "orgnr": "2120002601",
+    "replaced_by": []
+  },
+  "Q515969": {
+    "inception": "1980-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0584",
+    "label": "Vadstena kommun",
+    "label_en": "Vadstena Municipality",
+    "orgnr": "2120002825",
+    "replaced_by": []
+  },
+  "Q516080": {
+    "inception": "1983-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0128",
+    "label": "Salems kommun",
+    "label_en": "Salem Municipality",
+    "orgnr": "2120002874",
+    "replaced_by": []
+  },
+  "Q516308": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0331",
+    "label": "Heby kommun",
+    "label_en": "Heby Municipality",
+    "orgnr": "2120002049",
+    "replaced_by": []
+  },
+  "Q516336": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0181",
+    "label": "Södertälje kommun",
+    "label_en": "Södertälje Municipality",
+    "orgnr": "2120000159",
+    "replaced_by": [
+      "Q499460"
+    ]
+  },
+  "Q5185227": {
+    "department": "Justitiedepartementet",
+    "inception": "1994-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Brottsoffermyndigheten",
+    "label_en": "Crime Victim Compensation and Support Authority",
+    "orgnr": "2021003435",
+    "replaced_by": []
+  },
+  "Q52502": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1480",
+    "label": "Göteborgs kommun",
+    "label_en": "Gothenburg Municipality",
+    "orgnr": "2120001355",
+    "replaced_by": []
+  },
+  "Q5251219": {
+    "department": "Försvarsdepartementet",
+    "inception": "1968-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Försvarets materielverk",
+    "label_en": "Defence Materiel Administration",
+    "orgnr": "2021000340",
+    "replaced_by": []
+  },
+  "Q52912": {
+    "dissolved": "2000-12-31T00:00:00Z",
+    "inception": "1888-06-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens Järnvägar",
+    "label_en": "Statens Järnvägar",
+    "replaced_by": []
+  },
+  "Q52918": {
+    "dissolved": "1993-01-01T00:00:00Z",
+    "inception": "1853-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Televerket",
+    "label_en": "Televerket",
+    "replaced_by": []
+  },
+  "Q537526": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1977-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Högskolan Dalarna",
+    "label_en": "Dalarna University",
+    "orgnr": "2021002908",
+    "replaced_by": []
+  },
+  "Q5384186": {
+    "dissolved": "2009-01-01T00:00:00Z",
+    "inception": "1980-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Jämställdhetsombudsmannen",
+    "label_en": "Office of the Equal Opportunities Ombudsman",
+    "replaced_by": []
+  },
+  "Q5449671": {
+    "department": "Finansdepartementet",
+    "inception": "1991-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Finansinspektionen",
+    "label_en": "Financial Supervisory Authority",
+    "orgnr": "2021004235",
+    "replaced_by": []
+  },
+  "Q5495902": {
+    "department": "Finansdepartementet",
+    "inception": "1539-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Kammarkollegiet",
+    "label_en": "Legal, Financial and Administrative Services Agency",
+    "orgnr": "2021000829",
+    "replaced_by": []
+  },
+  "Q5625923": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1977-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Högskolan i Gävle",
+    "label_en": "University of Gävle",
+    "orgnr": "2021002890",
+    "replaced_by": []
+  },
+  "Q56302089": {
+    "department": "Infrastrukturdepartementet",
+    "dissolved": "2027-01-01T00:00:00Z",
+    "inception": "2018-09-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för digital förvaltning",
+    "label_en": "Agency for Digital Government",
+    "orgnr": "2021006883",
+    "replaced_by": []
+  },
+  "Q5734099": {
+    "dissolved": "2010-01-01T00:00:00Z",
+    "inception": "1977-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Högskolan i Kalmar",
+    "label_en": "Kalmar University",
+    "replaced_by": [
+      "Q1751928"
+    ]
+  },
+  "Q59091": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0380",
+    "label": "Uppsala kommun",
+    "label_en": "Uppsala Municipality",
+    "orgnr": "2120003005",
+    "replaced_by": [
+      "Q504465"
+    ]
+  },
+  "Q59093": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0382",
+    "label": "Östhammars kommun",
+    "label_en": "Östhammar Municipality",
+    "orgnr": "2120000290",
+    "replaced_by": []
+  },
+  "Q59858": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0319",
+    "label": "Älvkarleby kommun",
+    "label_en": "Älvkarleby Municipality",
+    "orgnr": "2120000258",
+    "replaced_by": []
+  },
+  "Q605329": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0665",
+    "label": "Vaggeryds kommun",
+    "label_en": "Vaggeryd Municipality",
+    "orgnr": "2120000522",
+    "replaced_by": []
+  },
+  "Q60942149": {
+    "department": "Utbildningsdepartementet",
+    "kind": "myndighet",
+    "label": "Etikprövningsmyndigheten",
+    "label_en": "Swedish Ethical Review Authority",
+    "orgnr": "2021006925",
+    "replaced_by": []
+  },
+  "Q60970301": {
+    "department": "Arbetsmarknadsdepartementet",
+    "inception": "2017-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Jämställdhetsmyndigheten",
+    "label_en": "Swedish Gender Equality Agency",
+    "orgnr": "2021006693",
+    "replaced_by": []
+  },
+  "Q61685072": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2461",
+    "label": "Holmsunds kommun",
+    "replaced_by": [
+      "Q507709"
+    ]
+  },
+  "Q61823286": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1360",
+    "label": "Oskarströms kommun",
+    "replaced_by": [
+      "Q504692"
+    ]
+  },
+  "Q61826364": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2361",
+    "label": "Svegs kommun",
+    "replaced_by": [
+      "Q513421"
+    ]
+  },
+  "Q61864132": {
+    "dissolved": "1973-12-31T00:00:00Z",
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2418",
+    "label": "Malå kommun",
+    "replaced_by": [
+      "Q507644"
+    ]
+  },
+  "Q62464": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2104",
+    "label": "Hofors kommun",
+    "label_en": "Hofors Municipality",
+    "orgnr": "2120002296",
+    "replaced_by": []
+  },
+  "Q62469": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2183",
+    "label": "Bollnäs kommun",
+    "label_en": "Bollnäs Municipality",
+    "orgnr": "2120002361",
+    "replaced_by": []
+  },
+  "Q6305559": {
+    "department": "Arbetsmarknadsdepartementet",
+    "inception": "1993-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Barnombudsmannen",
+    "label_en": "Ombudsman for Children in Sweden",
+    "orgnr": "2021003690",
+    "replaced_by": []
+  },
+  "Q631844": {
+    "department": "kulturdepartementet",
+    "inception": "1630-05-20T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Riksantikvarieämbetet",
+    "label_en": "Swedish National Heritage Board",
+    "orgnr": "2021001090",
+    "replaced_by": []
+  },
+  "Q64822017": {
+    "dissolved": "2007-01-01T00:00:00Z",
+    "inception": "1988-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Ekonomiska rådet",
+    "label_en": "Ekonomiska rådet",
+    "replaced_by": []
+  },
+  "Q65195567": {
+    "department": "Miljödepartementet",
+    "kind": "myndighet",
+    "label": "Klimatpolitiska rådet",
+    "label_en": "Swedish Climate Policy Council",
+    "orgnr": "2021006719",
+    "replaced_by": []
+  },
+  "Q6970210": {
+    "dissolved": "2012-12-31T00:00:00Z",
+    "inception": "1995-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Högskoleverket",
+    "label_en": "National Agency for Higher Education",
+    "replaced_by": []
+  },
+  "Q6971047": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Allmänna reklamationsnämnden",
+    "label_en": "The National Board for Consumer Disputes",
+    "orgnr": "2021003625",
+    "replaced_by": []
+  },
+  "Q6971056": {
+    "department": "Socialdepartementet",
+    "inception": "1913-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Socialstyrelsen",
+    "label_en": "National Board of Health and Welfare",
+    "orgnr": "2021000555",
+    "replaced_by": []
+  },
+  "Q6971083": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1964-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Centrala studiestödsnämnden",
+    "label_en": "Swedish Board for Study Support",
+    "orgnr": "2021001819",
+    "replaced_by": []
+  },
+  "Q6972528": {
+    "department": "Utrikesdepartementet",
+    "inception": "1933-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Exportkreditnämnden",
+    "label_en": "Swedish Export Credits Guarantee Board",
+    "orgnr": "2021002098",
+    "replaced_by": []
+  },
+  "Q6972720": {
+    "department": "Näringsdepartementet",
+    "inception": "1972-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Livsmedelsverket",
+    "label_en": "National Food Agency",
+    "orgnr": "2021001850",
+    "replaced_by": []
+  },
+  "Q6973641": {
+    "department": "Finansdepartementet",
+    "inception": "1937-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Konjunkturinstitutet",
+    "label_en": "National Institute of Economic Research",
+    "orgnr": "2021000845",
+    "replaced_by": []
+  },
+  "Q7061065": {
+    "department": "Justitiedepartementet",
+    "inception": "1825-02-03T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Kriminalvården",
+    "label_en": "Swedish Prison and Probation Service",
+    "orgnr": "2021000225",
+    "replaced_by": []
+  },
+  "Q7216254": {
+    "department": "Justitiedepartementet",
+    "inception": "1714-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Justitiekanslern",
+    "label_en": "Chancellor of Justice",
+    "orgnr": "2021000035",
+    "replaced_by": []
+  },
+  "Q7395171": {
+    "department": "Utrikesdepartementet",
+    "kind": "myndighet",
+    "label": "Styrelsen för ackreditering och teknisk kontroll",
+    "label_en": "Swedish Board for Accreditation and Conformity Assessment",
+    "orgnr": "2021003815",
+    "replaced_by": []
+  },
+  "Q7654606": {
+    "department": "Landsbygds- och infrastrukturdepartementet",
+    "inception": "1991-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens jordbruksverk",
+    "label_en": "Swedish Board of Agriculture",
+    "orgnr": "2021004151",
+    "replaced_by": []
+  },
+  "Q7654686": {
+    "department": "Finansdepartementet",
+    "inception": "1948-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Fortifikationsverket",
+    "label_en": "National Fortifications Administration",
+    "orgnr": "2021004607",
+    "replaced_by": []
+  },
+  "Q7654717": {
+    "dissolved": "2019-01-01T00:00:00Z",
+    "inception": "1999-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Svenska institutet i Alexandria",
+    "label_en": "Swedish Institute Alexandria",
+    "replaced_by": []
+  },
+  "Q7654721": {
+    "department": "kulturdepartementet",
+    "inception": "2006-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Institutet för språk och folkminnen",
+    "label_en": "Swedish Institute for Language and Folklore",
+    "orgnr": "2021001082",
+    "replaced_by": []
+  },
+  "Q7654779": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1997-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Försvarshögskolan",
+    "label_en": "Swedish Defence University",
+    "replaced_by": []
+  },
+  "Q7654780": {
+    "department": "Finansdepartementet",
+    "inception": "1998-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statskontoret",
+    "label_en": "The Swedish Agency for Financial and Public Management",
+    "orgnr": "2021005026",
+    "replaced_by": []
+  },
+  "Q7654781": {
+    "dissolved": "2006-01-01T00:00:00Z",
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens växtsortnämnd",
+    "label_en": "Swedish National Plant Variety Board",
+    "replaced_by": []
+  },
+  "Q7654818": {
+    "department": "Infrastrukturdepartementet",
+    "inception": "1992-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Post- och telestyrelsen",
+    "label_en": "Swedish Post and Telecom Agency",
+    "orgnr": "2021004359",
+    "replaced_by": []
+  },
+  "Q7654827": {
+    "department": "Utbildningsdepartementet",
+    "inception": "2001-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Vetenskapsrådet",
+    "label_en": "Swedish Research Council",
+    "orgnr": "2021005208",
+    "replaced_by": []
+  },
+  "Q7654838": {
+    "dissolved": "2006-01-01T00:00:00Z",
+    "inception": "1978-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens utsädeskontroll",
+    "label_en": "Swedish Seed Testing and Certification Institute",
+    "replaced_by": []
+  },
+  "Q782600": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1975-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Linköpings universitet",
+    "label_en": "Linköping University",
+    "orgnr": "2021003096",
+    "replaced_by": []
+  },
+  "Q783911": {
+    "department": "Försvarsdepartementet",
+    "kind": "myndighet",
+    "label": "Försvarsmakten",
+    "label_en": "Swedish Armed Forces",
+    "orgnr": "2021004615",
+    "replaced_by": []
+  },
+  "Q7894643": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1990-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Högskolan Väst",
+    "label_en": "University West",
+    "orgnr": "2021004052",
+    "replaced_by": []
+  },
+  "Q80207104": {
+    "department": "Arbetsmarknadsdepartementet",
+    "kind": "myndighet",
+    "label": "Svenska Ilo-kommittén",
+    "label_en": "Swedish ILO Committee",
+    "orgnr": "2021005877",
+    "replaced_by": []
+  },
+  "Q80207105": {
+    "department": "Miljödepartementet",
+    "kind": "myndighet",
+    "label": "Lokala säkerhetsnämnden vid Barsebäck",
+    "orgnr": "2021006727",
+    "replaced_by": []
+  },
+  "Q80207112": {
+    "department": "Miljödepartementet",
+    "kind": "myndighet",
+    "label": "Lokala säkerhetsnämnden vid Forsmark",
+    "orgnr": "2021006735",
+    "replaced_by": []
+  },
+  "Q80207116": {
+    "department": "Miljödepartementet",
+    "kind": "myndighet",
+    "label": "Lokala säkerhetsnämnden vid Oskarshamn",
+    "orgnr": "2021006743",
+    "replaced_by": []
+  },
+  "Q80207119": {
+    "department": "Miljödepartementet",
+    "kind": "myndighet",
+    "label": "Lokala säkerhetsnämnden vid Ringhals",
+    "orgnr": "2021006750",
+    "replaced_by": []
+  },
+  "Q80207121": {
+    "department": "Miljödepartementet",
+    "dissolved": "2022-12-31T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Lokala säkerhetsnämnden vid Studsvik",
+    "orgnr": "2021006768",
+    "replaced_by": []
+  },
+  "Q80207124": {
+    "department": "Arbetsmarknadsdepartementet",
+    "dissolved": "2025-12-31T00:00:00Z",
+    "inception": "2018-06-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Myndigheten för arbetsmiljökunskap",
+    "label_en": "Swedish Agency for Work Environment Expertise",
+    "orgnr": "2021006875",
+    "replaced_by": []
+  },
+  "Q80207128": {
+    "department": "Näringsdepartementet",
+    "kind": "myndighet",
+    "label": "Patentombudsnämnden",
+    "label_en": "Patent Attorneys Board",
+    "orgnr": "2021006370",
+    "replaced_by": []
+  },
+  "Q80207132": {
+    "department": "Försvarsdepartementet",
+    "kind": "myndighet",
+    "label": "Riksvärderingsnämnden",
+    "orgnr": "2021006784",
+    "replaced_by": [],
+    "riksarkivet": "agent/euEFr0N4rX61p03GjpvwY3"
+  },
+  "Q80207140": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Statens tjänstepensions- och grupplivnämnd",
+    "label_en": "State Occupational Pensions and Group Life Board",
+    "orgnr": "2021005851",
+    "replaced_by": []
+  },
+  "Q80207143": {
+    "department": "Näringsdepartementet",
+    "kind": "myndighet",
+    "label": "Styrelsen för samefonden",
+    "label_en": "The Sami Foundation Board",
+    "orgnr": "2021006800",
+    "replaced_by": []
+  },
+  "Q80207145": {
+    "department": "Näringsdepartementet",
+    "kind": "myndighet",
+    "label": "Svenska Fao-kommittén",
+    "label_en": "The Swedish FAO Committee",
+    "orgnr": "2021006818",
+    "replaced_by": []
+  },
+  "Q80207147": {
+    "department": "Utrikesdepartementet",
+    "kind": "myndighet",
+    "label": "Utrikesförvaltningens antagningsnämnd",
+    "label_en": "Foreign Service Admissions Board",
+    "orgnr": "2021006826",
+    "replaced_by": []
+  },
+  "Q80207151": {
+    "department": "Utbildningsdepartementet",
+    "kind": "myndighet",
+    "label": "Överklagandenämnden för etikprövning",
+    "label_en": "The Ethics Review Appeals Board",
+    "orgnr": "2021005463",
+    "replaced_by": []
+  },
+  "Q80207153": {
+    "department": "Justitiedepartementet",
+    "kind": "myndighet",
+    "label": "Överklagandenämnden för nämndemannauppdrag",
+    "orgnr": "2021006024",
+    "replaced_by": []
+  },
+  "Q80224507": {
+    "department": "Socialdepartementet",
+    "kind": "myndighet",
+    "label": "Arvfondsdelegationen",
+    "orgnr": "2021005950",
+    "replaced_by": []
+  },
+  "Q80224509": {
+    "department": "Försvarsdepartementet",
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Delegationen för folkrättslig granskning av vapenprojekt",
+    "label_en": "Delegation for the International Legal Review of Weapons Projects",
+    "orgnr": "2021006842",
+    "replaced_by": []
+  },
+  "Q80224512": {
+    "department": "Försvarsdepartementet",
+    "kind": "myndighet",
+    "label": "Granskningsnämnden för försvarsuppfinningar",
+    "orgnr": "2021006859",
+    "replaced_by": []
+  },
+  "Q80224515": {
+    "department": "Statsrådsberedningen",
+    "kind": "myndighet",
+    "label": "Harpsundsnämnden",
+    "label_en": "Harpsund Committee",
+    "orgnr": "2021004250",
+    "replaced_by": []
+  },
+  "Q807013": {
+    "dissolved": "2010-04-01T00:00:00Z",
+    "inception": "1988-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Banverket",
+    "label_en": "Swedish National Rail Administration",
+    "replaced_by": [
+      "Q1677108",
+      "Q10535401"
+    ]
+  },
+  "Q8100253": {
+    "kind": "region",
+    "label": "Region Västernorrland",
+    "label_en": "Region Västernorrland",
+    "orgnr": "2321000206",
+    "replaced_by": []
+  },
+  "Q820241": {
+    "dissolved": "2009-01-01T00:00:00Z",
+    "inception": "1637-02-14T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Bergsstaten",
+    "replaced_by": []
+  },
+  "Q836916": {
+    "department": "Finansdepartementet",
+    "inception": "2004-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Skatteverket",
+    "label_en": "Swedish Tax Agency",
+    "orgnr": "2021005448",
+    "replaced_by": []
+  },
+  "Q842858": {
+    "department": "kulturdepartementet",
+    "inception": "1792-06-28T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Nationalmuseum",
+    "label_en": "Nationalmuseum",
+    "orgnr": "2021001108",
+    "replaced_by": []
+  },
+  "Q8437714": {
+    "department": "kulturdepartementet",
+    "dissolved": "2026-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens konstråd",
+    "label_en": "National Public Art Council",
+    "orgnr": "2021001033",
+    "replaced_by": []
+  },
+  "Q845497": {
+    "department": "Finansdepartementet",
+    "kind": "myndighet",
+    "label": "Lantmäteriet",
+    "label_en": "Lantmäteriet",
+    "orgnr": "2021004888",
+    "replaced_by": []
+  },
+  "Q845930": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2326",
+    "label": "Bergs kommun",
+    "label_en": "Berg Municipality",
+    "orgnr": "2120002502",
+    "replaced_by": []
+  },
+  "Q854280": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1827-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Kungliga Tekniska högskolan",
+    "label_en": "Royal Institute of Technology",
+    "orgnr": "2021003054",
+    "replaced_by": []
+  },
+  "Q891249": {
+    "department": "Näringsdepartementet",
+    "inception": "2004-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Bolagsverket",
+    "label_en": "Swedish Companies Registration Office",
+    "orgnr": "2021005489",
+    "replaced_by": []
+  },
+  "Q894327": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "1490",
+    "label": "Borås kommun",
+    "label_en": "Borås Municipality",
+    "orgnr": "2120001561",
+    "replaced_by": [
+      "Q503102",
+      "Q503102"
+    ]
+  },
+  "Q895355": {
+    "department": "Finansdepartementet",
+    "inception": "1988-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Boverket",
+    "label_en": "National Board of Housing, Building and Planning",
+    "orgnr": "2021003989",
+    "replaced_by": []
+  },
+  "Q909090": {
+    "department": "Finansdepartementet",
+    "inception": "1993-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Statens fastighetsverk",
+    "label_en": "National Property Board of Sweden",
+    "orgnr": "2021004474",
+    "replaced_by": []
+  },
+  "Q918384": {
+    "dissolved": "2010-03-31T00:00:00Z",
+    "inception": "1983-04-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Vägverket",
+    "label_en": "Swedish Road Administration",
+    "replaced_by": [
+      "Q1677108"
+    ]
+  },
+  "Q946647": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0182",
+    "label": "Nacka kommun",
+    "label_en": "Nacka Municipality",
+    "orgnr": "2120000167",
+    "replaced_by": []
+  },
+  "Q948462": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "2481",
+    "label": "Lycksele kommun",
+    "label_en": "Lycksele Municipality",
+    "orgnr": "2120002635",
+    "replaced_by": []
+  },
+  "Q953058": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1661-01-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Kungliga biblioteket",
+    "label_en": "National Library of Sweden",
+    "orgnr": "2021001710",
+    "replaced_by": []
+  },
+  "Q972564": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "kommun",
+    "kommunkod": "0183",
+    "label": "Sundbybergs kommun",
+    "label_en": "Sundbyberg Municipality",
+    "orgnr": "2120000175",
+    "replaced_by": []
+  },
+  "Q977781": {
+    "department": "Utbildningsdepartementet",
+    "inception": "1998-07-01T00:00:00Z",
+    "kind": "myndighet",
+    "label": "Malmö universitet",
+    "label_en": "Malmö University",
+    "orgnr": "2021004920",
+    "replaced_by": []
+  }
+}

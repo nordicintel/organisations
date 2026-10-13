@@ -2,183 +2,39 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://github.com/nordicintel/organisations/schema/organisation.schema.json",
   "title": "Organisation",
-  "description": "One organisation, keyed by Swedish organisationsnummer where one exists.",
+  "description": "One organisation in organisations.json, keyed by Swedish organisationsnummer where one exists.",
   "type": "object",
-  "required": [
-    "id",
-    "names",
-    "status"
-  ],
+  "required": ["id", "label", "status"],
   "additionalProperties": false,
   "properties": {
-    "id": {
-      "type": "string",
-      "description": "SE + 10-digit organisationsnummer, or a prefixed external id (ror:..., wikidata:Q...) for organisations without one.",
-      "pattern": "^(SE\\d{10}(-[A-Z0-9]+)?|ror:[0-9a-z]+|wikidata:Q\\d+)$"
-    },
-    "names": {
-      "type": "object",
-      "description": "Official names by language. The registered name from SCB is names.sv.",
-      "additionalProperties": {
-        "type": "string"
-      },
-      "minProperties": 1
-    },
-    "status": {
-      "type": "string",
-      "enum": [
-        "active",
-        "deregistered",
-        "unknown"
-      ]
-    },
-    "registered_name": {
-      "type": "string",
-      "description": "Name exactly as registered with SCB (usually upper case)."
-    },
-    "legal_form": {
-      "type": "object",
-      "description": "Skatteverket juridisk form code as reported by SCB, e.g. 81 statliga enheter, 82 kommuner, 83 kommunalförbund, 84 regioner.",
-      "properties": {
-        "code": {
-          "type": "string",
-          "pattern": "^\\d{2}$"
-        },
-        "label": {
-          "type": "string"
-        }
-      },
-      "required": [
-        "code"
-      ]
-    },
-    "publisher_type": {
-      "type": "string",
-      "description": "ADMS publisher type term, http://purl.org/adms/publishertype/<term>.",
-      "enum": [
-        "NationalAuthority",
-        "RegionalAuthority",
-        "LocalAuthority",
-        "Academia-ScientificOrganisation",
-        "Company",
-        "NonProfitOrganisation",
-        "NonGovernmentalOrganisation",
-        "IndustryConsortium",
-        "PrivateIndividual(s)",
-        "StandardisationBody",
-        "SupraNationalAuthority"
-      ]
-    },
-    "state_body_group": {
-      "type": "string",
-      "description": "Group in SCB Myndighetsregistret for state bodies.",
-      "enum": [
-        "forvaltningsmyndighet",
-        "riksdag",
-        "affarsverk",
-        "ap_fond",
-        "domstol"
-      ]
-    },
-    "sfs": {
-      "type": "string",
-      "description": "SFS number of the instruction, from Myndighetsregistret."
-    },
-    "department": {
-      "type": "string",
-      "description": "Government department the body reports to (Wikidata P749)."
-    },
-    "codes": {
-      "type": "object",
-      "properties": {
-        "kommun": {
-          "type": "string",
-          "pattern": "^\\d{4}$"
-        },
-        "lan": {
-          "type": "string",
-          "pattern": "^\\d{2}$"
-        }
-      }
-    },
-    "homepage": {
-      "type": "string",
-      "format": "uri"
-    },
-    "email": {
-      "type": "string"
-    },
-    "established": {
-      "type": "string",
-      "description": "ISO date, from SCB registration date or Wikidata inception."
-    },
-    "dissolved": {
-      "type": "string",
-      "description": "ISO date."
-    },
-    "succeeded_by": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "description": "Organisation ids."
-    },
-    "part_of": {
-      "type": "string",
-      "description": "Organisation id of a parent, e.g. a county board under the joint Länsstyrelserna id."
-    },
-    "identifiers": {
-      "type": "object",
-      "description": "One canonical identifier per external system.",
-      "additionalProperties": false,
-      "properties": {
-        "orgnr": {
-          "type": "string",
-          "pattern": "^\\d{10}$"
-        },
-        "dataportal": {
-          "type": "string",
-          "format": "uri",
-          "description": "Canonical agent URI, http://dataportal.se/organisation/SE<orgnr>[-suffix]; data.europa.eu reuses it."
-        },
-        "wikidata": {
-          "type": "string",
-          "pattern": "^Q\\d+$"
-        },
-        "ror": {
-          "type": "string"
-        },
-        "riksarkivet": {
-          "type": "string"
-        }
-      }
-    },
-    "sources": {
-      "type": "array",
-      "description": "Which registers contributed to this record.",
-      "items": {
-        "type": "string",
-        "enum": [
-          "scb_bulk",
-          "myndighetsregistret",
-          "dataportal",
-          "data_europa",
-          "wikidata",
-          "manual"
-        ]
-      }
-    },
-    "note": {
-      "type": "string",
-      "description": "Free-text remark maintained by hand."
-    },
-    "same_as": {
-      "type": "array",
-      "items": {
-        "type": "string",
-        "format": "uri"
-      },
-      "description": "Other URIs the portals use for this organisation: spelling variants of the canonical URI, source-catalogue agent URIs, and the portals' own owl:sameAs targets."
-    }
+    "id": {"type": "string", "pattern": "^(SE\\d{10}(-[A-Z0-9]+)?|ror:[0-9a-z]+|wikidata:Q\\d+)$",
+           "description": "SE + 10-digit organisationsnummer, optionally with dataportal.se's agreed suffix; ror:… or wikidata:Q… for bodies without one."},
+    "label": {"type": "object", "additionalProperties": {"type": "string"}, "minProperties": 1,
+              "description": "Official name by language. sv is the Swedish name, en the official English name where published."},
+    "registered_label": {"type": "string", "description": "Name exactly as registered with SCB, usually upper case."},
+    "slug": {"type": "string", "pattern": "^[a-z][a-z0-9_]*$", "description": "Our short code. May change; the id never does."},
+    "alias": {"type": "array", "items": {"type": "string"}, "description": "Strings seen in source metadata that denote this organisation."},
+    "status": {"type": "string", "enum": ["active", "deregistered", "unknown"]},
+    "type": {"type": "string", "description": "ADMS publisher type term, http://purl.org/adms/publishertype/<term>.",
+             "enum": ["NationalAuthority", "RegionalAuthority", "LocalAuthority", "Academia-ScientificOrganisation", "Company", "NonProfitOrganisation", "NonGovernmentalOrganisation", "IndustryConsortium", "PrivateIndividual(s)", "StandardisationBody", "SupraNationalAuthority"]},
+    "legal_type": {"type": "object", "required": ["code"], "description": "Skatteverket juridisk form as reported by SCB: 81 statlig enhet, 82 kommun, 83 kommunalförbund, 84 region, 49 aktiebolag, 61 ideell förening …",
+                   "properties": {"code": {"type": "string", "pattern": "^\\d{2}$"}, "label": {"type": "string"}}},
+    "state_body_group": {"type": "string", "enum": ["forvaltningsmyndighet", "riksdag", "affarsverk", "ap_fond", "domstol"], "description": "Group in SCB Myndighetsregistret."},
+    "sfs": {"type": "string", "description": "SFS number of the body's instruction."},
+    "department": {"type": "string", "description": "Government department the body reports to."},
+    "code": {"type": "object", "properties": {"kommun": {"type": "string", "pattern": "^\\d{4}$"}, "lan": {"type": "string", "pattern": "^\\d{2}$"}}},
+    "homepage": {"type": "string", "format": "uri"},
+    "email": {"type": "string"},
+    "established": {"type": "string", "description": "ISO date."},
+    "dissolved": {"type": "string", "description": "ISO date."},
+    "succeeded_by": {"type": "array", "items": {"type": "string"}, "description": "Organisation ids."},
+    "part_of": {"type": "string", "description": "Organisation id of the parent, e.g. the base number behind a suffixed id."},
+    "identifier": {"type": "object", "additionalProperties": false, "description": "One canonical identifier per external system.",
+                   "properties": {"orgnr": {"type": "string", "pattern": "^\\d{10}$"},
+                                  "dataportal": {"type": "string", "format": "uri", "description": "http://dataportal.se/organisation/SE<orgnr>[-suffix]; data.europa.eu reuses it."},
+                                  "wikidata": {"type": "string", "pattern": "^Q\\d+$"}, "ror": {"type": "string"}, "riksarkivet": {"type": "string"}}},
+    "same_as": {"type": "array", "items": {"type": "string", "format": "uri"}, "description": "Other URIs the portals use for this organisation: spelling variants, source-catalogue agent URIs, owl:sameAs targets."},
+    "source": {"type": "array", "items": {"type": "string", "enum": ["scb_bulk", "myndighetsregistret", "dataportal", "data_europa", "wikidata", "edits"]}, "description": "Registers and edits that contributed."},
+    "note": {"type": "string", "description": "Free-text remark from edits."}
   }
 }

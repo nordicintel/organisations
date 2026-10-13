@@ -1,72 +1,19 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Data source",
-  "description": "A survey, register, database, statistical product or unit that source metadata names as the origin of data, owned by an organisation where known.",
+  "description": "One entry in data_sources.json: a survey, register, database, statistical product, publication or unit that source metadata names as the origin of data.",
   "type": "object",
-  "required": [
-    "id",
-    "names",
-    "kind"
-  ],
+  "required": ["id", "label", "type"],
   "additionalProperties": false,
   "properties": {
-    "id": {
-      "type": "string",
-      "pattern": "^[a-z0-9][a-z0-9-]*$"
-    },
-    "names": {
-      "type": "object",
-      "additionalProperties": {
-        "type": "string"
-      },
-      "minProperties": 1
-    },
-    "kind": {
-      "type": "string",
-      "enum": [
-        "survey",
-        "register",
-        "database",
-        "statistical_product",
-        "publication",
-        "unit",
-        "other"
-      ]
-    },
-    "owner": {
-      "type": [
-        "string",
-        "null"
-      ],
-      "description": "Organisation id that runs or publishes the data source; null when unknown."
-    },
-    "aliases": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "description": "Raw strings from source metadata that denote this data source, after the organisation part has been removed."
-    },
-    "seen_in": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "description": "Adapters or owners whose metadata mention it."
-    },
-    "homepage": {
-      "type": "string",
-      "format": "uri"
-    },
-    "note": {
-      "type": "string"
-    },
-    "cited_by": {
-      "type": "array",
-      "items": {
-        "type": "string"
-      },
-      "description": "Organisation ids whose datasets cite this data source as their origin."
-    }
+    "id": {"type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$"},
+    "label": {"type": "object", "additionalProperties": {"type": "string"}, "minProperties": 1},
+    "type": {"type": "string", "enum": ["survey", "register", "database", "statistical_product", "publication", "unit", "other"]},
+    "owner": {"type": ["string", "null"], "description": "Organisation id that runs or publishes it; null when unknown."},
+    "alias": {"type": "array", "items": {"type": "string"}, "minItems": 1, "description": "Raw strings from source metadata that denote it. One string may denote several data sources."},
+    "seen_in": {"type": "array", "items": {"type": "string"}, "description": "Adapters whose metadata mention it."},
+    "cited_by": {"type": "array", "items": {"type": "string"}, "description": "Organisation ids whose datasets cite it."},
+    "homepage": {"type": "string", "format": "uri"},
+    "note": {"type": "string"}
   }
 }

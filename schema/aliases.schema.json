@@ -1,7 +1,0 @@
-{
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "title": "Aliases",
-  "description": "Free-text strings seen in source metadata, mapped to organisation ids. Keys are the raw strings; values are organisation ids or null when the string is known not to be an organisation.",
-  "type": "object",
-  "additionalProperties": {"type": ["string", "null"]}
-}

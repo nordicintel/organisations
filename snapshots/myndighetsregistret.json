@@ -1,0 +1,1829 @@
+{
+  "2021000035": {
+    "email": "registrator@jk.se",
+    "group": "forvaltningsmyndighet",
+    "name": "JUSTITIEKANSLERN",
+    "sfs": "1975:1345",
+    "web": "www.jk.se"
+  },
+  "2021000043": {
+    "email": "registratur@kammarkollegiet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FIDEIKOMMISSNÄMNDEN",
+    "sfs": "2007:1074",
+    "web": "https://www.kammarkollegiet.se/om-oss/kammarkollegiets-uppgifter/kammarkollegiets-stod-till-andra-myndigheter/fideikommissnamnden"
+  },
+  "2021000050": {
+    "email": "imy@imy.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Integritetsskyddsmyndigheten",
+    "sfs": "2007:975",
+    "web": "www.imy.se"
+  },
+  "2021000068": {
+    "email": "registrator@bra.se",
+    "group": "forvaltningsmyndighet",
+    "name": "BROTTSFÖREBYGGANDE RÅDET",
+    "sfs": "2016:1201",
+    "web": "www.bra.se"
+  },
+  "2021000076": {
+    "email": "registrator.kansli@polisen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "POLISMYNDIGHETEN",
+    "sfs": "2022:1718",
+    "web": "www.polisen.se"
+  },
+  "2021000084": {
+    "email": "registrator@aklagare.se",
+    "group": "forvaltningsmyndighet",
+    "name": "ÅKLAGARMYNDIGHETEN",
+    "sfs": "2015:743",
+    "web": "www.aklagare.se"
+  },
+  "2021000225": {
+    "email": "hk@kriminalvarden.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KRIMINALVÅRDEN",
+    "sfs": "2023:797",
+    "web": "www.kriminalvarden.se"
+  },
+  "2021000340": {
+    "email": "registrator@fmv.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FÖRSVARETS MATERIELVERK",
+    "sfs": "2007:854",
+    "web": "www.fmv.se"
+  },
+  "2021000365": {
+    "email": "fra@fra.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FÖRSVARETS RADIOANSTALT",
+    "sfs": "2025:237",
+    "web": "www.fra.se"
+  },
+  "2021000555": {
+    "email": "socialstyrelsen@socialstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SOCIALSTYRELSEN",
+    "sfs": "2015:284",
+    "web": "www.socialstyrelsen.se"
+  },
+  "2021000654": {
+    "email": "sjofartsverket@sjofartsverket.se",
+    "group": "affarsverk",
+    "name": "SJÖFARTSVERKET",
+    "sfs": "2007:1161",
+    "web": "www.sjofartsverket.se"
+  },
+  "2021000696": {
+    "email": "smhi@smhi.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SVERIGES METEOROLOGISKA OCH HYDROLOGISKA INSTITUT",
+    "sfs": "2009:974",
+    "web": "www.smhi.se"
+  },
+  "2021000704": {
+    "email": "vti@vti.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS VÄG- OCH TRANSPORTFORSKNINGSINSTITUT",
+    "sfs": "2007:964",
+    "web": "www.vti.se"
+  },
+  "2021000712": {
+    "email": "sgi@sgi.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS GEOTEKNISKA INSTITUT",
+    "sfs": "2009:945",
+    "web": "www.swedgeo.se"
+  },
+  "2021000795": {
+    "email": "lfv@lfv.se",
+    "group": "affarsverk",
+    "name": "LUFTFARTSVERKET",
+    "sfs": "2010:184",
+    "web": "www.lfv.se"
+  },
+  "2021000829": {
+    "email": "registratur@kammarkollegiet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KAMMARKOLLEGIET",
+    "sfs": "2007:824",
+    "web": "www.kammarkollegiet.se"
+  },
+  "2021000837": {
+    "email": "scb@scb.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATISTISKA CENTRALBYRÅN",
+    "sfs": "2016:822",
+    "web": "www.scb.se"
+  },
+  "2021000845": {
+    "email": "registrator@konj.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KONJUNKTURINSTITUTET",
+    "sfs": "2007:759",
+    "web": "www.konj.se"
+  },
+  "2021000928": {
+    "email": "kundservice@spv.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS TJÄNSTEPENSIONSVERK",
+    "sfs": "2007:832",
+    "web": "www.spv.se/privatperson/statlig-tjanstepension"
+  },
+  "2021000969": {
+    "email": "tullverket@tullverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "TULLVERKET",
+    "sfs": "2016:1332",
+    "web": "www.tullverket.se"
+  },
+  "2021001074": {
+    "email": "riksarkivet@riksarkivet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "RIKSARKIVET",
+    "sfs": "2009:1593",
+    "web": "www.riksarkivet.se"
+  },
+  "2021001082": {
+    "email": "registrator@isof.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Institutet för språk och folkminnen",
+    "sfs": "2007:1181",
+    "web": "www.isof.se"
+  },
+  "2021001090": {
+    "email": "registrator@raa.se",
+    "group": "forvaltningsmyndighet",
+    "name": "RIKSANTIKVARIEÄMBETET",
+    "sfs": "2014:1585",
+    "web": "www.raa.se"
+  },
+  "2021001108": {
+    "email": "registrator@nationalmuseum.se",
+    "group": "forvaltningsmyndighet",
+    "name": "NATIONALMUSEUM",
+    "sfs": "2007:1175",
+    "web": "www.nationalmuseum.se"
+  },
+  "2021001124": {
+    "email": "registrator@nrm.se",
+    "group": "forvaltningsmyndighet",
+    "name": "NATURHISTORISKA RIKSMUSEET",
+    "sfs": "2007:1176",
+    "web": "www.nrm.se"
+  },
+  "2021001132": {
+    "email": "registrator@smtm.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS MUSEER FÖR MARITIM, TRANSPORT- OCH FÖRSVARSHISTORIA",
+    "sfs": "2007:1198",
+    "web": "www.smtm.se"
+  },
+  "2021001173": {
+    "email": "info@mucf.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MYNDIGHETEN FÖR UNGDOMS-OCH CIVILSAMHÄLLESFRÅGOR",
+    "sfs": "2018:1425",
+    "web": "www.mucf.se"
+  },
+  "2021001199": {
+    "email": "registrator@konstfack.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KONSTFACK",
+    "sfs": "1993:100",
+    "web": "www.konstfack.se"
+  },
+  "2021001215": {
+    "email": "registrator@kmh.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KUNGLIGA MUSIKHÖGSKOLAN",
+    "sfs": "1993:100",
+    "web": "www.kmh.se"
+  },
+  "2021001280": {
+    "email": "kulturradet@kulturradet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS KULTURRÅD",
+    "sfs": "2012:515",
+    "web": "www.kulturradet.se"
+  },
+  "2021001710": {
+    "email": "kungl.biblioteket@kb.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KUNGLIGA BIBLIOTEKET",
+    "sfs": "2008:1421",
+    "web": "www.kb.se"
+  },
+  "2021001819": {
+    "email": "registrator@csn.se",
+    "group": "forvaltningsmyndighet",
+    "name": "CENTRALA STUDIESTÖDSNÄMNDEN",
+    "sfs": "2017:1114",
+    "web": "www.csn.se"
+  },
+  "2021001850": {
+    "email": "livsmedelsverket@slv.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Livsmedelsverket",
+    "sfs": "2009:1426",
+    "web": "www.livsmedelsverket.se"
+  },
+  "2021001868": {
+    "email": "sva@sva.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS VETERINÄRMEDICINSKA ANSTALT",
+    "sfs": "2009:1394",
+    "web": "www.sva.se"
+  },
+  "2021001975": {
+    "email": "registrator@naturvardsverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "NATURVÅRDSVERKET",
+    "sfs": "2012:989",
+    "web": "www.naturvardsverket.se"
+  },
+  "2021002007": {
+    "email": "registrator@kommerskollegium.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KOMMERSKOLLEGIUM",
+    "sfs": "2012:990",
+    "web": "www.kommerskollegium.se"
+  },
+  "2021002064": {
+    "email": "konsumentverket@konsumentverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KONSUMENTVERKET",
+    "sfs": "2009:607",
+    "web": "www.konsumentverket.se"
+  },
+  "2021002072": {
+    "email": "prv@prv.se",
+    "group": "forvaltningsmyndighet",
+    "name": "PATENT- OCH REGISTRERINGSVERKET",
+    "sfs": "2007:1111",
+    "web": "www.prv.se"
+  },
+  "2021002098": {
+    "email": "info@ekn.se",
+    "group": "forvaltningsmyndighet",
+    "name": "EXPORTKREDITNÄMNDEN",
+    "sfs": "2007:1217",
+    "web": "www.ekn.se"
+  },
+  "2021002114": {
+    "email": "registrator@arbetsformedlingen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "ARBETSFÖRMEDLINGEN",
+    "sfs": "2022:811",
+    "web": "www.arbetsformedlingen.se"
+  },
+  "2021002122": {
+    "email": "kansliet@arbetsdomstolen.se",
+    "group": "domstol",
+    "name": "ARBETSDOMSTOLEN",
+    "sfs": "1988:1137",
+    "web": "www.arbetsdomstolen.se"
+  },
+  "2021002148": {
+    "email": "arbetsmiljoverket@av.se",
+    "group": "forvaltningsmyndighet",
+    "name": "ARBETSMILJÖVERKET",
+    "sfs": "2007:913",
+    "web": "www.av.se"
+  },
+  "2021002163": {
+    "email": "registrator@migrationsverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MIGRATIONSVERKET",
+    "sfs": "2019:502",
+    "web": "www.migrationsverket.se"
+  },
+  "2021002247": {
+    "email": "stockholm@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I STOCKHOLMS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/stockholm"
+  },
+  "2021002254": {
+    "email": "uppsala@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I UPPSALA LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/uppsala"
+  },
+  "2021002262": {
+    "email": "sodermanland@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I SÖDERMANLANDS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/sodermanland"
+  },
+  "2021002270": {
+    "email": "ostergotland@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I ÖSTERGÖTLANDS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/ostergotland"
+  },
+  "2021002288": {
+    "email": "jonkoping@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I JÖNKÖPINGS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/jonkoping"
+  },
+  "2021002296": {
+    "email": "kronoberg@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I KRONOBERGS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/kronoberg"
+  },
+  "2021002304": {
+    "email": "kalmar@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I KALMAR LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/kalmar"
+  },
+  "2021002312": {
+    "email": "gotland@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I GOTLANDS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/gotland"
+  },
+  "2021002320": {
+    "email": "blekinge@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I BLEKINGE LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/blekinge"
+  },
+  "2021002346": {
+    "email": "skane@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I SKÅNE LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/skane"
+  },
+  "2021002353": {
+    "email": "halland@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I HALLANDS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/halland"
+  },
+  "2021002361": {
+    "email": "vastragotaland@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I VÄSTRA GÖTALANDS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/vastragotaland"
+  },
+  "2021002395": {
+    "email": "varmland@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I VÄRMLANDS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/varmland"
+  },
+  "2021002403": {
+    "email": "orebro@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I ÖREBRO LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/orebro"
+  },
+  "2021002411": {
+    "email": "vastmanland@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I VÄSTMANLANDS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/vastmanland"
+  },
+  "2021002429": {
+    "email": "dalarna@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I DALARNAS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/dalarna"
+  },
+  "2021002437": {
+    "email": "gavleborg@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I GÄVLEBORGS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/gavleborg"
+  },
+  "2021002445": {
+    "email": "vasternorrland@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I VÄSTERNORRLANDS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/vasternorrland"
+  },
+  "2021002452": {
+    "email": "jamtland@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I JÄMTLANDS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/jamtland"
+  },
+  "2021002460": {
+    "email": "vasterbotten@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I VÄSTERBOTTENS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/vasterbotten"
+  },
+  "2021002478": {
+    "email": "Norrbotten@lansstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄNSSTYRELSEN I NORRBOTTENS LÄN",
+    "sfs": "2017:868",
+    "web": "www.lansstyrelsen.se/norrbotten"
+  },
+  "2021002528": {
+    "email": "sgu@sgu.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SVERIGES GEOLOGISKA UNDERSÖKNING",
+    "sfs": "2008:1233",
+    "web": "www.sgu.se"
+  },
+  "2021002585": {
+    "email": "rymdstyrelsen@snsa.se",
+    "group": "forvaltningsmyndighet",
+    "name": "RYMDSTYRELSEN",
+    "sfs": "2007:1115",
+    "web": "www.rymdstyrelsen.se"
+  },
+  "2021002627": {
+    "email": "registrator.riksdagsforvaltningen@riksdagen.se",
+    "group": "riksdag",
+    "name": "RIKSDAGSFÖRVALTNINGEN",
+    "sfs": "2011:745",
+    "web": "www.riksdagen.se/sv/sa-fungerar-riksdagen/riksdagsforvaltningen"
+  },
+  "2021002635": {
+    "email": "riksgalden@riksgalden.se",
+    "group": "forvaltningsmyndighet",
+    "name": "RIKSGÄLDSKONTORET",
+    "sfs": "2023:909",
+    "web": "www.riksgalden.se"
+  },
+  "2021002650": {
+    "email": "justitieombudsmannen@jo.se",
+    "group": "riksdag",
+    "name": "RIKSDAGENS OMBUDSMÄN",
+    "sfs": "1986:765",
+    "web": "www.jo.se"
+  },
+  "2021002684": {
+    "email": "Lon@riksbank.se",
+    "group": "riksdag",
+    "name": "SVERIGES RIKSBANK",
+    "sfs": "1988:1385",
+    "web": "www.riksbank.se"
+  },
+  "2021002726": {
+    "email": "nai@nai.uu.se",
+    "group": "forvaltningsmyndighet",
+    "name": "NORDISKA AFRIKAINSTITUTET",
+    "sfs": "2021:371",
+    "web": "www.nai.uu.se"
+  },
+  "2021002742": {
+    "email": "ostersunds.tingsratt@dom.se",
+    "group": "domstol",
+    "name": "ÖSTERSUNDS TINGSRÄTT OCH MARK OCH MILJÖDOMSTOL",
+    "sfs": "1988:317",
+    "web": "www.domstol.se"
+  },
+  "2021002817": {
+    "email": "registrator@slu.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SVERIGES LANTBRUKSUNIVERSITET",
+    "sfs": "1993:221",
+    "web": "www.slu.se"
+  },
+  "2021002841": {
+    "email": "registrator@ltu.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LULEÅ TEKNISKA UNIVERSITET",
+    "sfs": "1993:100",
+    "web": "www.ltu.se"
+  },
+  "2021002874": {
+    "email": "registrator@umu.se",
+    "group": "forvaltningsmyndighet",
+    "name": "UMEÅ UNIVERSITET",
+    "sfs": "1993:100",
+    "web": "www.umu.se"
+  },
+  "2021002890": {
+    "email": "registrator@hig.se",
+    "group": "forvaltningsmyndighet",
+    "name": "HÖGSKOLAN I GÄVLE",
+    "sfs": "1993:100",
+    "web": "www.hig.se"
+  },
+  "2021002908": {
+    "email": "registrator@du.se",
+    "group": "forvaltningsmyndighet",
+    "name": "HÖGSKOLAN DALARNA",
+    "sfs": "1993:100",
+    "web": "www.du.se"
+  },
+  "2021002916": {
+    "email": "registrator@mdu.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MÄLARDALENS UNIVERSITET",
+    "sfs": "1993:100",
+    "web": "www.mdu.se"
+  },
+  "2021002924": {
+    "email": "registrator@oru.se",
+    "group": "forvaltningsmyndighet",
+    "name": "ÖREBRO UNIVERSITET",
+    "sfs": "1993:100",
+    "web": "www.oru.se"
+  },
+  "2021002932": {
+    "email": "registrator@uu.se",
+    "group": "forvaltningsmyndighet",
+    "name": "UPPSALA UNIVERSITET",
+    "sfs": "1993:100",
+    "web": "www.uu.se"
+  },
+  "2021002957": {
+    "email": "info@kkh.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KUNGLIGA KONSTHÖGSKOLAN",
+    "sfs": "1993:100",
+    "web": "www.kkh.se"
+  },
+  "2021002973": {
+    "email": "registrator@ki.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KAROLINSKA INSTITUTET",
+    "sfs": "1993:100",
+    "web": "www.ki.se"
+  },
+  "2021003054": {
+    "email": "registrator@kth.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KUNGLIGA TEKNISKA HÖGSKOLAN",
+    "sfs": "1993:100",
+    "web": "www.kth.se"
+  },
+  "2021003062": {
+    "email": "registrator@su.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STOCKHOLMS UNIVERSITET",
+    "sfs": "1993:100",
+    "web": "www.su.se"
+  },
+  "2021003096": {
+    "email": "registrator@liu.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LINKÖPINGS UNIVERSITET",
+    "sfs": "1993:100",
+    "web": "www.liu.se"
+  },
+  "2021003120": {
+    "email": "registrator@kau.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KARLSTADS UNIVERSITET",
+    "sfs": "1993:100",
+    "web": "www.kau.se"
+  },
+  "2021003138": {
+    "email": "registrator@hb.se",
+    "group": "forvaltningsmyndighet",
+    "name": "HÖGSKOLAN I BORÅS",
+    "sfs": "1993:100",
+    "web": "www.hb.se"
+  },
+  "2021003146": {
+    "email": "registrator@his.se",
+    "group": "forvaltningsmyndighet",
+    "name": "HÖGSKOLAN I SKÖVDE",
+    "sfs": "1993:100",
+    "web": "www.his.se"
+  },
+  "2021003153": {
+    "email": "",
+    "group": "forvaltningsmyndighet",
+    "name": "GÖTEBORGS UNIVERSITET",
+    "sfs": "1993:100",
+    "web": "www.gu.se"
+  },
+  "2021003195": {
+    "email": "info@hkr.se",
+    "group": "forvaltningsmyndighet",
+    "name": "HÖGSKOLAN KRISTIANSTAD",
+    "sfs": "1993:100",
+    "web": "www.hkr.se"
+  },
+  "2021003203": {
+    "email": "registrator@hh.se",
+    "group": "forvaltningsmyndighet",
+    "name": "HÖGSKOLAN I HALMSTAD",
+    "sfs": "1993:100",
+    "web": "www.hh.se"
+  },
+  "2021003211": {
+    "email": "lu@lu.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LUNDS UNIVERSITET",
+    "sfs": "1993:100",
+    "web": "www.lu.se"
+  },
+  "2021003252": {
+    "email": "info@konstnarsnamnden.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KONSTNÄRSNÄMNDEN",
+    "sfs": "2007:1199",
+    "web": "www.konstnarsnamnden.se"
+  },
+  "2021003260": {
+    "email": "info@shk.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS HAVERIKOMMISSION",
+    "sfs": "2007:860",
+    "web": "www.shk.se"
+  },
+  "2021003278": {
+    "email": "bfn@bfn.se",
+    "group": "forvaltningsmyndighet",
+    "name": "BOKFÖRINGSNÄMNDEN",
+    "sfs": "2017:153",
+    "web": "www.bfn.se"
+  },
+  "2021003310": {
+    "email": "registrator@spelinspektionen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SPELINSPEKTIONEN",
+    "sfs": "2018:1476",
+    "web": "www.spelinspektionen.se"
+  },
+  "2021003435": {
+    "email": "registrator@brottsoffermyndigheten.se",
+    "group": "forvaltningsmyndighet",
+    "name": "BROTTSOFFERMYNDIGHETEN",
+    "sfs": "2007:1171",
+    "web": "www.brottsoffermyndigheten.se"
+  },
+  "2021003476": {
+    "email": "registrator@arbetsgivarverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "ARBETSGIVARVERKET",
+    "sfs": "2007:829",
+    "web": "www.arbetsgivarverket.se"
+  },
+  "2021003567": {
+    "email": "irf@irf.se",
+    "group": "forvaltningsmyndighet",
+    "name": "INSTITUTET FÖR RYMDFYSIK",
+    "sfs": "2007:1163",
+    "web": "www.irf.se"
+  },
+  "2021003583": {
+    "email": "svff@svff.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SVERIGES FÖRFATTARFOND",
+    "sfs": "1962:652",
+    "web": "www.svff.se"
+  },
+  "2021003591": {
+    "email": "info@mtm.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Myndigheten för tillgängliga medier",
+    "sfs": "2010:769",
+    "web": "www.msb.se"
+  },
+  "2021003625": {
+    "email": "arn@arn.se",
+    "group": "forvaltningsmyndighet",
+    "name": "ALLMÄNNA REKLAMATIONSNÄMNDEN",
+    "sfs": "2015:739",
+    "web": "www.arn.se"
+  },
+  "2021003666": {
+    "email": "registrator@musikverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS MUSIKVERK",
+    "sfs": "2010:1922",
+    "web": "www.musikverket.se"
+  },
+  "2021003690": {
+    "email": "info@barnombudsmannen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "BARNOMBUDSMANNEN",
+    "sfs": "2007:1021",
+    "web": "www.barnombudsmannen.se"
+  },
+  "2021003765": {
+    "email": "socialstyrelsen@socialstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "HÄLSO- & SJUKVÅRDENS ANSVARSNÄMND",
+    "sfs": "2011:582",
+    "web": "www.hsan.se"
+  },
+  "2021003815": {
+    "email": "registrator@swedac.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STYRELSEN FÖR ACKREDITERING OCH TEKNISK KONTROLL",
+    "sfs": "2021:1252",
+    "web": "www.swedac.se"
+  },
+  "2021003831": {
+    "email": "forvaltningsavdelningen.registrator@regeringskansliet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "REGERINGSKANSLIET",
+    "sfs": "1996:1515",
+    "web": "www.regeringen.se"
+  },
+  "2021003880": {
+    "email": "kemi@kemi.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KEMIKALIEINSPEKTIONEN",
+    "sfs": "2009:947",
+    "web": "www.kemi.se"
+  },
+  "2021003989": {
+    "email": "registraturen@boverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "BOVERKET",
+    "sfs": "2022:208",
+    "web": "www.boverket.se"
+  },
+  "2021003997": {
+    "email": "registrator@kustbevakningen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KUSTBEVAKNINGEN",
+    "sfs": "2019:84",
+    "web": "www.kustbevakningen.se"
+  },
+  "2021004011": {
+    "email": "registrator@bth.se",
+    "group": "forvaltningsmyndighet",
+    "name": "BLEKINGE TEKNISKA HÖGSKOLA",
+    "sfs": "1993:100",
+    "web": "www.bth.se"
+  },
+  "2021004052": {
+    "email": "registrator@hv.se",
+    "group": "forvaltningsmyndighet",
+    "name": "HÖGSKOLAN VÄST",
+    "sfs": "1993:100",
+    "web": "www.hv.se"
+  },
+  "2021004060": {
+    "email": "office@polar.se",
+    "group": "forvaltningsmyndighet",
+    "name": "POLARFORSKNINGSSEKRETARIATET",
+    "sfs": "2007:1072",
+    "web": "www.polar.se"
+  },
+  "2021004078": {
+    "email": "registrator@lakemedelsverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LÄKEMEDELSVERKET",
+    "sfs": "2020:57",
+    "web": "www.lakemedelsverket.se"
+  },
+  "2021004144": {
+    "email": "nfh@nfh.se",
+    "group": "forvaltningsmyndighet",
+    "name": "NÄMNDEN FÖR HEMSLÖJDSFRÅGOR",
+    "sfs": "2007:1193",
+    "web": "www.nfh.se"
+  },
+  "2021004151": {
+    "email": "jordbruksverket@jordbruksverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS JORDBRUKSVERK",
+    "sfs": "2009:1464",
+    "web": "www.jordbruksverket.se"
+  },
+  "2021004169": {
+    "email": "info@mfof.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MYNDIGHETEN FÖR FAMILJERÄTT OCH FÖRÄLDRASKAPSSTÖD",
+    "sfs": "2017:292",
+    "web": "www.mfof.se"
+  },
+  "2021004185": {
+    "email": "registrator@skolverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS SKOLVERK",
+    "sfs": "2015:1047",
+    "web": "www.skolverket.se"
+  },
+  "2021004227": {
+    "email": "rmv@rmv.se",
+    "group": "forvaltningsmyndighet",
+    "name": "RÄTTSMEDICINALVERKET",
+    "sfs": "2007:976",
+    "web": "www.rmv.se"
+  },
+  "2021004235": {
+    "email": "finansinspektionen@fi.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FINANSINSPEKTIONEN",
+    "sfs": "2023:910",
+    "web": "www.fi.se"
+  },
+  "2021004250": {
+    "email": "christoffer@harpsund.se",
+    "group": "forvaltningsmyndighet",
+    "name": "HARPSUNDSNÄMNDEN",
+    "sfs": "2007:1227",
+    "web": "www.harpsund.se"
+  },
+  "2021004284": {
+    "email": "registrator@svk.se",
+    "group": "affarsverk",
+    "name": "SVENSKA KRAFTNÄT",
+    "sfs": "2007:1119",
+    "web": "www.svk.se"
+  },
+  "2021004334": {
+    "email": "registrator@gih.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Gymnastik- och idrottshögskolan (GIH)",
+    "sfs": "1993:100",
+    "web": "www.gih.se"
+  },
+  "2021004342": {
+    "email": "konkurrensverket@kkv.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KONKURRENSVERKET",
+    "sfs": "2007:1117",
+    "web": "www.konkurrensverket.se"
+  },
+  "2021004359": {
+    "email": "pts@pts.se",
+    "group": "forvaltningsmyndighet",
+    "name": "POST- OCH TELESTYRELSEN",
+    "sfs": "2007:951",
+    "web": "www.pts.se"
+  },
+  "2021004375": {
+    "email": "onh@onh.se",
+    "group": "forvaltningsmyndighet",
+    "name": "ÖVERKLAGANDENÄMNDEN FÖR HÖGSKOLAN",
+    "sfs": "2007:991",
+    "web": "www.onh.se"
+  },
+  "2021004417": {
+    "email": "registrator@sbu.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS BEREDNING FÖR MEDICINSK OCH SOCIAL UTVÄRDERING",
+    "sfs": "2007:1233",
+    "web": "www.sbu.se"
+  },
+  "2021004466": {
+    "email": "registrator@elsakerhetsverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "ELSÄKERHETSVERKET",
+    "sfs": "2007:1121",
+    "web": "www.elsakerhetsverket.se"
+  },
+  "2021004474": {
+    "email": "sfv@sfv.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS FASTIGHETSVERK",
+    "sfs": "2007:757",
+    "web": "www.sfv.se"
+  },
+  "2021004508": {
+    "email": "registrator@stat-inst.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS INSTITUTIONSSTYRELSE",
+    "sfs": "2007:1132",
+    "web": "www.stat-inst.se"
+  },
+  "2021004524": {
+    "email": "registrator@miun.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MITTUNIVERSITETET",
+    "sfs": "1993:100",
+    "web": "www.miun.se"
+  },
+  "2021004573": {
+    "email": "kansli@sametinget.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SAMETINGET",
+    "sfs": "2009:1395",
+    "web": "www.sametinget.se"
+  },
+  "2021004607": {
+    "email": "fortv@fortifikationsverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FORTIFIKATIONSVERKET",
+    "sfs": "2007:758",
+    "web": "www.fortifikationsverket.se"
+  },
+  "2021004615": {
+    "email": "exp-hkv@mil.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FÖRSVARSMAKTEN",
+    "sfs": "2024:1333",
+    "web": "www.forsvarsmakten.se"
+  },
+  "2021004631": {
+    "email": "sameskolstyrelsen@sameskolstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SAMESKOLSTYRELSEN",
+    "sfs": "2011:131",
+    "web": "www.sameskolstyrelsen.se"
+  },
+  "2021004730": {
+    "email": "registrator@fhs.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FÖRSVARSHÖGSKOLAN",
+    "sfs": "2007:1164",
+    "web": "www.fra.se"
+  },
+  "2021004763": {
+    "email": "registratur@kammarkollegiet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Statens överklagandenämnd",
+    "sfs": "2007:835",
+    "web": ""
+  },
+  "2021004771": {
+    "email": "registrator@pliktverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Totalförsvarets plikt- och prövningsverk",
+    "sfs": "2010:1472",
+    "web": "www.rekryteringsmyndigheten.se"
+  },
+  "2021004789": {
+    "email": "sida@sida.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Sida",
+    "sfs": "2025:269",
+    "web": "www.sida.se"
+  },
+  "2021004805": {
+    "email": "ri@revisorsinspektionen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "REVISORSINSPEKTIONEN",
+    "sfs": "2007:1077",
+    "web": "www.revisorsinspektionen.se"
+  },
+  "2021004813": {
+    "email": "genteknik@genteknik.se",
+    "group": "forvaltningsmyndighet",
+    "name": "GENTEKNIKNÄMNDEN",
+    "sfs": "2007:1075",
+    "web": "www.genteknik.se"
+  },
+  "2021004870": {
+    "email": "registrator@fmi.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FASTIGHETSMÄKLARINSPEKTIONEN",
+    "sfs": "2009:606",
+    "web": "www.fmi.se"
+  },
+  "2021004888": {
+    "email": "lantmateriet@lm.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LANTMÄTERIET",
+    "sfs": "2009:946",
+    "web": "www.lantmateriet.se"
+  },
+  "2021004896": {
+    "email": "registrator@sh.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SÖDERTÖRNS HÖGSKOLA",
+    "sfs": "1993:100",
+    "web": "www.sh.se"
+  },
+  "2021004904": {
+    "email": "karnavfallsfonden@kammarkollegiet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KÄRNAVFALLSFONDEN",
+    "sfs": "2007:1055",
+    "web": "www.karnavfallsfonden.se"
+  },
+  "2021004912": {
+    "email": "registrator@isp.se",
+    "group": "forvaltningsmyndighet",
+    "name": "INSPEKTIONEN FÖR STRATEGISKA PRODUKTER",
+    "sfs": "2010:1101",
+    "web": "www.isp.se"
+  },
+  "2021004920": {
+    "email": "info@mau.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MALMÖ UNIVERSITET",
+    "sfs": "1993:100",
+    "web": "www.mau.se"
+  },
+  "2021004946": {
+    "email": "ifau@ifau.uu.se",
+    "group": "forvaltningsmyndighet",
+    "name": "INSTITUTET FÖR ARBETSMARKNADS-OCH UTBILDNINGSPOLITISK UTVÄRDERING",
+    "sfs": "2007:911",
+    "web": "www.ifau.se"
+  },
+  "2021004953": {
+    "email": "registrator@shm.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS HISTORISKA MUSEER",
+    "sfs": "2014:1079",
+    "web": "www.shm.se"
+  },
+  "2021004961": {
+    "email": "si@si.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SVENSKA INSTITUTET",
+    "sfs": "2015:152",
+    "web": "www.si.se"
+  },
+  "2021004979": {
+    "email": "huvudregistrator@ekobrottsmyndigheten.se",
+    "group": "forvaltningsmyndighet",
+    "name": "EKOBROTTSMYNDIGHETEN",
+    "sfs": "2015:744",
+    "web": "www.ekobrottsmyndigheten.se"
+  },
+  "2021005000": {
+    "email": "registrator@energimyndigheten.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS ENERGIMYNDIGHET",
+    "sfs": "2025:784",
+    "web": "www.energimyndigheten.se"
+  },
+  "2021005026": {
+    "email": "registrator@statskontoret.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Statskontoret",
+    "sfs": "2025:681",
+    "web": "www.statskontoret.se"
+  },
+  "2021005075": {
+    "email": "registrator@varldskulturmuseerna.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS MUSEER FÖR VÄRLDSKULTUR",
+    "sfs": "2007:1185",
+    "web": "www.varldskulturmuseerna.se"
+  },
+  "2021005091": {
+    "email": "registrator@modernamuseet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MODERNA MUSEET",
+    "sfs": "2007:1177",
+    "web": "www.modernamuseet.se"
+  },
+  "2021005174": {
+    "email": "info@mi.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MEDLINGSINSTITUTET",
+    "sfs": "2007:912",
+    "web": "www.mi.se"
+  },
+  "2021005182": {
+    "email": "registrator@foi.se",
+    "group": "forvaltningsmyndighet",
+    "name": "TOTALFÖRSVARETS FORSKNINGSINSTITUT, FOI",
+    "sfs": "2024:1230",
+    "web": "www.foi.se"
+  },
+  "2021005208": {
+    "email": "registrator@vr.se",
+    "group": "forvaltningsmyndighet",
+    "name": "VETENSKAPSRÅDET",
+    "sfs": "2009:975",
+    "web": "www.vr.se"
+  },
+  "2021005216": {
+    "email": "vinnova@vinnova.se",
+    "group": "forvaltningsmyndighet",
+    "name": "VERKET FÖR INNOVATIONSSYSTEM",
+    "sfs": "2009:1101",
+    "web": "www.vinnova.se"
+  },
+  "2021005224": {
+    "email": "esf@esf.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SVENSKA ESF-RÅDET",
+    "sfs": "2007:907",
+    "web": "www.esf.se"
+  },
+  "2021005232": {
+    "email": "registrator@formas.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FORSKNINGSRÅDET F MILJÖ, AREELLA NÄRINGAR OCH SAMHÄLLSBYGGANDE",
+    "sfs": "2009:1024",
+    "web": "www.formas.se"
+  },
+  "2021005240": {
+    "email": "forte@forte.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FORSKNINGSRÅDET FÖR HÄLSA, ARBETSLIV OCH VÄLFÄRD",
+    "sfs": "2007:1431",
+    "web": "www.forte.se"
+  },
+  "2021005273": {
+    "email": "registrator@oks.se",
+    "group": "forvaltningsmyndighet",
+    "name": "ÖVERKLAGANDENÄMNDEN FÖR STUDIESTÖD",
+    "sfs": "2007:1348",
+    "web": "www.oks.se"
+  },
+  "2021005281": {
+    "email": "registrator@val.se",
+    "group": "forvaltningsmyndighet",
+    "name": "VALMYNDIGHETEN",
+    "sfs": "2007:977",
+    "web": "www.val.se"
+  },
+  "2021005315": {
+    "email": "lagradet@dom.se",
+    "group": "forvaltningsmyndighet",
+    "name": "LAGRÅDET",
+    "sfs": "2003:333",
+    "web": "www.lagradet.se"
+  },
+  "2021005331": {
+    "email": "info@sieps.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Svenska institutet för europapolitiska studier",
+    "sfs": "2008:748",
+    "web": "www.sieps.se"
+  },
+  "2021005356": {
+    "email": "info@levandehistoria.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FORUM FÖR LEVANDE HISTORIA",
+    "sfs": "2007:1197",
+    "web": "www.levandehistoria.se"
+  },
+  "2021005364": {
+    "email": "registrator@tlv.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Tandvårds-och läkemedelsförmånsverket, TLV",
+    "sfs": "2007:1206",
+    "web": "www.tlv.se"
+  },
+  "2021005380": {
+    "email": "info@fba.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FOLKE BERNADOTTEAKADEMIN",
+    "sfs": "2024:1026",
+    "web": "www.fba.se"
+  },
+  "2021005414": {
+    "email": "iaf@iaf.se",
+    "group": "forvaltningsmyndighet",
+    "name": "INSPEKTIONEN FÖR ARBETSLÖSHETSFÖRSÄKRING",
+    "sfs": "2007:906",
+    "web": "www.iaf.se"
+  },
+  "2021005422": {
+    "email": "registrator@riksrevisionen.se",
+    "group": "riksdag",
+    "name": "RIKSREVISIONEN",
+    "sfs": "2002:1023",
+    "web": "www.riksrevisionen.se"
+  },
+  "2021005448": {
+    "email": "registrator@skatteverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SKATTEVERKET",
+    "sfs": "2017:154",
+    "web": "www.skatteverket.se"
+  },
+  "2021005463": {
+    "email": "kansli@onep.se",
+    "group": "forvaltningsmyndighet",
+    "name": "ÖVERKLAGANDENÄMNDEN FÖR ETIKPRÖVNING",
+    "sfs": "2007:1068",
+    "web": "www.onep.se"
+  },
+  "2021005489": {
+    "email": "bolagsverket@bolagsverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "BOLAGSVERKET",
+    "sfs": "2007:1110",
+    "web": "www.bolagsverket.se"
+  },
+  "2021005521": {
+    "email": "huvudkontoret@forsakringskassan.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FÖRSÄKRINGSKASSAN",
+    "sfs": "2009:1174",
+    "web": "www.forsakringskassan.se"
+  },
+  "2021005588": {
+    "email": "info@mfd.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MYNDIGHETEN FÖR DELAKTIGHET",
+    "sfs": "2024:78",
+    "web": "www.mfd.se"
+  },
+  "2021005612": {
+    "email": "skogsstyrelsen@skogsstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SKOGSSTYRELSEN",
+    "sfs": "2009:1393",
+    "web": "www.skogsstyrelsen.se"
+  },
+  "2021005646": {
+    "email": "kontakt@kronofogden.se",
+    "group": "forvaltningsmyndighet",
+    "name": "KRONOFOGDEMYNDIGHETEN",
+    "sfs": "2016:1333",
+    "web": "www.kronofogden.se"
+  },
+  "2021005687": {
+    "email": "info@fpr.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FINANSPOLITISKA RÅDET",
+    "sfs": "2011:446",
+    "web": "www.fpr.se"
+  },
+  "2021005695": {
+    "email": "registrator@ei.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Energimarknadsinspektionen",
+    "sfs": "2016:742",
+    "web": "www.ei.se"
+  },
+  "2021005703": {
+    "email": "sakint@sakint.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Myndigheten för säkerhet och integritetsskydd",
+    "sfs": "2007:1141",
+    "web": "www.sakint.se"
+  },
+  "2021005729": {
+    "email": "overklagandenamnden@overklagandenamnden.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SKOLVÄSENDETS ÖVERKLAGANDENÄMND",
+    "sfs": "2007:948",
+    "web": "www.overklagandenamnden.se"
+  },
+  "2021005737": {
+    "email": "registrator@ssm.se",
+    "group": "forvaltningsmyndighet",
+    "name": "STRÅLSÄKERHETSMYNDIGHETEN",
+    "sfs": "2008:452",
+    "web": "www.stralsakerhetsmyndigheten.se"
+  },
+  "2021005745": {
+    "email": "spsm@spsm.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SPECIALPEDAGOGISKA SKOLMYNDIGHETEN",
+    "sfs": "2011:130",
+    "web": "www.spsm.se"
+  },
+  "2021005778": {
+    "email": "",
+    "group": "forvaltningsmyndighet",
+    "name": "STATENS NÄMND FÖR ARBETSTAGARES UPPFINNINGAR",
+    "sfs": "2007:908",
+    "web": ""
+  },
+  "2021005786": {
+    "email": "",
+    "group": "forvaltningsmyndighet",
+    "name": "NÄMNDEN FÖR STYRELSEREPRESENTATIONSFRÅGOR",
+    "sfs": "2007:909",
+    "web": ""
+  },
+  "2021005810": {
+    "email": "",
+    "group": "forvaltningsmyndighet",
+    "name": "Krigsförsäkringsnämnden",
+    "sfs": "2007:842",
+    "web": ""
+  },
+  "2021005828": {
+    "email": "",
+    "group": "forvaltningsmyndighet",
+    "name": "Statens skaderegleringsnämnd",
+    "sfs": "2007:826",
+    "web": ""
+  },
+  "2021005836": {
+    "email": "ansvarsnamnden@dom.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Statens ansvarsnämnd",
+    "sfs": "2007:831",
+    "web": "www.statensansvarsnamnd.se"
+  },
+  "2021005851": {
+    "email": "kundservice@spv.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Statens tjänstepensions- och grupplivnämnd",
+    "sfs": "2007:833",
+    "web": "www.spv.se"
+  },
+  "2021005869": {
+    "email": "registratur@kammarkollegiet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Skiljenämnden i vissa trygghetsfrågor",
+    "sfs": "2007:830",
+    "web": ""
+  },
+  "2021005877": {
+    "email": "a.ilo-kommitten@regeringskansliet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "ILO-KOMMITTÉN",
+    "sfs": "1977:987",
+    "web": "www.svenskailo-kommitten.se"
+  },
+  "2021005893": {
+    "email": "kansliet@forskarskattenamnden.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Forskarskattenämnden",
+    "sfs": "2007:786",
+    "web": "www.forskarskattenamnden.se"
+  },
+  "2021005901": {
+    "email": "kansliet@skatterattsnamnden.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Skatterättsnämnden",
+    "sfs": "2007:785",
+    "web": "www.skatterattsnamnden.se"
+  },
+  "2021005943": {
+    "email": "registratur@kammarkollegiet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Alkoholsortimentsnämnden",
+    "sfs": "2007:1216",
+    "web": "www.kammarkollegiet.se/alkoholsortimentsnamnden"
+  },
+  "2021005950": {
+    "email": "info@arvsfonden.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Arvfondsdelegationen",
+    "sfs": "2021:403",
+    "web": "www.arvsfonden.se"
+  },
+  "2021005984": {
+    "email": "registrator@mcf.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Myndigheten för civilt försvar",
+    "sfs": "2008:1002",
+    "web": "www.mcf.se"
+  },
+  "2021006008": {
+    "email": "rattshjalpsnamnden@dom.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Rättshjälpnämnden",
+    "sfs": "2007:1079",
+    "web": "www.domstol.se/rattshjalpsnamnden"
+  },
+  "2021006016": {
+    "email": "rattshjalpsmyndigheten@dom.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Rättshjälpsmyndigheten",
+    "sfs": "2007:1078",
+    "web": "www.rattshjalp.se"
+  },
+  "2021006024": {
+    "email": "overklagandenamnden@dom.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Överklagandenämnden för nämndemannauppdrag",
+    "sfs": "2007:1081",
+    "web": "www.domstol.se/overklagandenamnden-for-namndemannauppdrag"
+  },
+  "2021006032": {
+    "email": "notarienamnden@dom.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Notarienämnden",
+    "sfs": "2007:1076",
+    "web": "www.domstol.se/notarienamnden"
+  },
+  "2021006065": {
+    "email": "skolinspektionen@skolinspektionen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Statens skolinspektion",
+    "sfs": "2011:556",
+    "web": "www.skolinspektionen.se"
+  },
+  "2021006073": {
+    "email": "do@do.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Diskrimineringsombudsmannen",
+    "sfs": "2008:1401",
+    "web": "www.do.se"
+  },
+  "2021006081": {
+    "email": "domarnamnden@dom.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Domarnämnden",
+    "sfs": "2010:1793",
+    "web": "www.domstol.se/domarnamnden"
+  },
+  "2021006099": {
+    "email": "kontakt@transportstyrelsen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Transportstyrelsen",
+    "sfs": "2008:1300",
+    "web": "www.transportstyrelsen.se"
+  },
+  "2021006149": {
+    "email": "tillvaxtverket@tillvaxtverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "TILLVÄXTVERKET",
+    "sfs": "2009:145",
+    "web": "www.tillvaxtverket.se"
+  },
+  "2021006164": {
+    "email": "info@tillvaxtanalys.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+    "sfs": "2016:1048",
+    "web": "www.tillvaxtanalys.se"
+  },
+  "2021006206": {
+    "email": "kansliet@namndenmotdiskriminering.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Nämnden mot Diskriminering",
+    "sfs": "2008:1328",
+    "web": "www.namndenmotdiskriminering.se"
+  },
+  "2021006214": {
+    "email": "registrator@siun.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Statens inspektion för försvarsunderrättelseverksamheten (SIUN)",
+    "sfs": "2009:969",
+    "web": "www.siun.se"
+  },
+  "2021006230": {
+    "email": "registrator@myh.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MYNDIGHETEN FÖR YRKESHÖGSKOLAN",
+    "sfs": "2011:1162",
+    "web": "www.myh.se"
+  },
+  "2021006248": {
+    "email": "registrator@isf.se",
+    "group": "forvaltningsmyndighet",
+    "name": "INSPEKTIONEN FÖR SOCIALFÖRSÄKRINGEN",
+    "sfs": "2009:602",
+    "web": "www.isf.se"
+  },
+  "2021006255": {
+    "email": "registrator@pensionsmyndigheten.se",
+    "group": "forvaltningsmyndighet",
+    "name": "PENSIONSMYNDIGHETEN",
+    "sfs": "2009:1175",
+    "web": "www.pensionsmyndigheten.se"
+  },
+  "2021006271": {
+    "email": "info@lnu.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Linnéuniversitetet",
+    "sfs": "1993:100",
+    "web": "www.lnu.se"
+  },
+  "2021006297": {
+    "email": "trafikverket@trafikverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Trafikverket",
+    "sfs": "2010:185",
+    "web": "www.trafikverket.se"
+  },
+  "2021006305": {
+    "email": "trafikanalys@trafa.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Trafikanalys",
+    "sfs": "2010:186",
+    "web": "www.trafa.se"
+  },
+  "2021006313": {
+    "email": "undom@undom.se",
+    "group": "domstol",
+    "name": "Försvarsunderrättelsedomstolen",
+    "sfs": "2009:966",
+    "web": "www.undom.se"
+  },
+  "2021006347": {
+    "email": "registrator@mediemyndigheten.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MEDIEMYNDIGHETEN",
+    "sfs": "2023:844",
+    "web": "www.mediemyndigheten.se"
+  },
+  "2021006370": {
+    "email": "patentombudsnamnden@patentombudsnamnden.se",
+    "group": "forvaltningsmyndighet",
+    "name": "PATENTOMBUDSNÄMNDEN",
+    "sfs": "2010:1054",
+    "web": "www.bolagsverket.se/om/oss/fler/patentombud"
+  },
+  "2021006404": {
+    "email": "info@kulturanalys.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Myndigheten för kulturanalys",
+    "sfs": "2011:124",
+    "web": "www.kulturanalys.se"
+  },
+  "2021006412": {
+    "email": "registrator@vardanalys.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Myndigheten för vård- och omsorgsanalys",
+    "sfs": "2010:1385",
+    "web": "www.vardanalys.se"
+  },
+  "2021006420": {
+    "email": "havochvatten@havochvatten.se",
+    "group": "forvaltningsmyndighet",
+    "name": "HAVS- OCH VATTENMYNDIGHETEN",
+    "sfs": "2011:619",
+    "web": "www.havochvatten.se"
+  },
+  "2021006453": {
+    "email": "registrator@statenssc.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Statens servicecenter",
+    "sfs": "2012:208",
+    "web": "www.statenssc.se"
+  },
+  "2021006461": {
+    "email": "riksdagens.arvodesnamnd@riksdagen.se",
+    "group": "riksdag",
+    "name": "Riksdagens arvodesnämnd",
+    "sfs": "2012:883",
+    "web": "www.riksdagen.se/sv/sa-funkar-riksdagen/riksdagens-myndigheter-och-namnder/riksdagens-arvodesnamnd"
+  },
+  "2021006487": {
+    "email": "registrator@uhr.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Universitets- och högskolerådet",
+    "sfs": "2012:811",
+    "web": "www.uhr.se"
+  },
+  "2021006495": {
+    "email": "registrator@uka.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Universitetskanslersämbetet",
+    "sfs": "2012:810",
+    "web": "www.uka.se"
+  },
+  "2021006537": {
+    "email": "registrator@ivo.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Inspektionen för vård och omsorg",
+    "sfs": "2013:196",
+    "web": "www.ivo.se"
+  },
+  "2021006545": {
+    "email": "info@folkhalsomyndigheten.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Folkhälsomyndigheten",
+    "sfs": "2021:248",
+    "web": "www.folkhalsomyndigheten.se"
+  },
+  "2021006552": {
+    "email": "registrator@ehalsomyndigheten.se",
+    "group": "forvaltningsmyndighet",
+    "name": "E-hälsomyndigheten",
+    "sfs": "2013:1031",
+    "web": "www.ehalsomyndigheten.se"
+  },
+  "2021006560": {
+    "email": "registrator@uniarts.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Stockholms konstnärliga högskola",
+    "sfs": "1993:100",
+    "web": "www.uniarts.se"
+  },
+  "2021006594": {
+    "email": "sakerhetspolisen@sakerhetspolisen.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SÄKERHETSPOLISEN",
+    "sfs": "2022:1719",
+    "web": "www.sakerhetspolisen.se"
+  },
+  "2021006602": {
+    "email": "info@skolfi.se",
+    "group": "forvaltningsmyndighet",
+    "name": "SKOLFORSKNINGSINSTITUTET",
+    "sfs": "2014:1578",
+    "web": "www.skolfi.se"
+  },
+  "2021006610": {
+    "email": "registrator@uhmynd.se",
+    "group": "forvaltningsmyndighet",
+    "name": "UPPHANDLINGSMYNDIGHETEN",
+    "sfs": "2015:527",
+    "web": "www.upphandlingsmyndigheten.se"
+  },
+  "2021006693": {
+    "email": "info@jamstalldhetsmyndigheten.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Jämställdhetsmyndigheten",
+    "sfs": "2017:937",
+    "web": "www.jamstalldhetsmyndigheten.se"
+  },
+  "2021006719": {
+    "email": "kansli@klimatpolitiskaradet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Klimatpolitiska rådet",
+    "sfs": "2017:1268",
+    "web": "www.klimatpolitiskaradet.se"
+  },
+  "2021006735": {
+    "email": "",
+    "group": "forvaltningsmyndighet",
+    "name": "Lokala säkerhetsnämnden vid Forsmark",
+    "sfs": "2007:1054",
+    "web": ""
+  },
+  "2021006743": {
+    "email": "",
+    "group": "forvaltningsmyndighet",
+    "name": "Lokala säkerhetsnämnden vid Oskarshamn",
+    "sfs": "2007:1054",
+    "web": ""
+  },
+  "2021006750": {
+    "email": "",
+    "group": "forvaltningsmyndighet",
+    "name": "Lokala säkerhetsnämnden vid Ringhals",
+    "sfs": "2007:1054",
+    "web": ""
+  },
+  "2021006776": {
+    "email": "info@oljekrisnamnden.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Oljekrisnämnden",
+    "sfs": "2007:1152",
+    "web": "www.oljekrisnamnden.se"
+  },
+  "2021006784": {
+    "email": "",
+    "group": "forvaltningsmyndighet",
+    "name": "Riksvärderingsnämnden",
+    "sfs": "2007:859",
+    "web": ""
+  },
+  "2021006800": {
+    "email": "samefonden@sametinget.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Styrelsen För Samefonden",
+    "sfs": "1993:384",
+    "web": ""
+  },
+  "2021006818": {
+    "email": "alexander.bang.bergstrom@regeringskansliet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Svenska FAO-kommittén",
+    "sfs": "1995:1100",
+    "web": "www.svenskafaokommitten.se"
+  },
+  "2021006826": {
+    "email": "",
+    "group": "forvaltningsmyndighet",
+    "name": "Utrikesförvaltningens antagningsnämnd",
+    "sfs": "1991:360",
+    "web": ""
+  },
+  "2021006834": {
+    "email": "vetansvar@jordbruksverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Ansvarsnämnden för djurens hälso- och sjukvård",
+    "sfs": "2009:302",
+    "web": "www.vetansvar.se"
+  },
+  "2021006842": {
+    "email": "",
+    "group": "forvaltningsmyndighet",
+    "name": "Delegationen för folkrättslig granskning av vapenprojekt",
+    "sfs": "2007:936",
+    "web": ""
+  },
+  "2021006859": {
+    "email": "",
+    "group": "forvaltningsmyndighet",
+    "name": "Granskningsnämnden för försvarsuppfinningar",
+    "sfs": "2007:855",
+    "web": ""
+  },
+  "2021006867": {
+    "email": "han@han.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Högskolans avskiljandenämnd",
+    "sfs": "2007:990",
+    "web": "www.han.se"
+  },
+  "2021006883": {
+    "email": "info@digg.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MYNDIGHETEN FÖR DIGITAL FÖRVALTNING",
+    "sfs": "2018:1486",
+    "web": "www.digg.se"
+  },
+  "2021006909": {
+    "email": "infoCDFN@jordbruksverket.se",
+    "group": "forvaltningsmyndighet",
+    "name": "CENTRALA DJURFÖRSÖKSETISKA NÄMNDEN",
+    "sfs": "1988:539",
+    "web": "www.cdfn.se"
+  },
+  "2021006925": {
+    "email": "registrator@etikprovning.se",
+    "group": "forvaltningsmyndighet",
+    "name": "ETIKPRÖVNINGSMYNDIGHETEN",
+    "sfs": "2018:1879",
+    "web": "www.etikprovningsmyndigheten.se"
+  },
+  "2021006933": {
+    "email": "registrator@npof.se",
+    "group": "forvaltningsmyndighet",
+    "name": "Nämnden för prövning av oredlighet i forskning",
+    "sfs": "2019:1152",
+    "web": "www.npof.se"
+  },
+  "2021007014": {
+    "email": "registrator@mpf.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MYNDIGHETEN FÖR PSYKOLOGISKT FÖRSVAR",
+    "sfs": "2021:936",
+    "web": "www.mpf.se"
+  },
+  "2021007022": {
+    "email": "registrator@mrinstitutet.se",
+    "group": "forvaltningsmyndighet",
+    "name": "INSTITUTET FÖR MÄNSKLIGA RÄTTIGHETER",
+    "sfs": "2021:1198",
+    "web": "www.mrinstitutet.se"
+  },
+  "2021007030": {
+    "email": "registrator@ftn.se",
+    "group": "forvaltningsmyndighet",
+    "name": "FONDTORGSNÄMNDEN",
+    "sfs": "2022:764",
+    "web": "www.ftn.se"
+  },
+  "2021007055": {
+    "email": "registrator@mtfa.se",
+    "group": "forvaltningsmyndighet",
+    "name": "MYNDIGHETEN FÖR TOTALFÖRSVARSANALYS",
+    "sfs": "2022:1768",
+    "web": "www.mtfa.se"
+  },
+  "2021007071": {
+    "email": "registrator@ubm.se",
+    "group": "forvaltningsmyndighet",
+    "name": "UTBETALNINGSMYNDIGHETEN",
+    "sfs": "2023:461",
+    "web": "www.ubm.se"
+  },
+  "8020051952": {
+    "email": "info@ap4.se",
+    "group": "ap_fond",
+    "name": "FJÄRDE AP-FONDEN",
+    "sfs": "2000:192",
+    "web": "www.ap4.se"
+  },
+  "8020057538": {
+    "email": "info@ap1.se",
+    "group": "ap_fond",
+    "name": "FÖRSTA AP-FONDEN",
+    "sfs": "2000:192",
+    "web": ""
+  },
+  "8020144120": {
+    "email": "info@ap3.se",
+    "group": "ap_fond",
+    "name": "TREDJE AP-FONDEN",
+    "sfs": "2000:192",
+    "web": "www.ap3.se"
+  },
+  "8024062302": {
+    "email": "info@ap7.se",
+    "group": "ap_fond",
+    "name": "SJUNDE AP-FONDEN",
+    "sfs": "",
+    "web": "www.ap7.se"
+  },
+  "8551040721": {
+    "email": "info@apfond6.se",
+    "group": "ap_fond",
+    "name": "SJÄTTE AP-FONDEN",
+    "sfs": "2000:193",
+    "web": ""
+  },
+  "8572090606": {
+    "email": "info@ap2.se",
+    "group": "ap_fond",
+    "name": "ANDRA AP-FONDEN",
+    "sfs": "2000:192",
+    "web": "www.ap2.se/"
+  }
+}

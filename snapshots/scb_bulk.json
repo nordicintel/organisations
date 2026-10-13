@@ -1,0 +1,6722 @@
+{
+  "2021000035": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "JUSTITIEKANSLERN",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021000043": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FIDEIKOMMISSNÄMNDEN",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021000050": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Integritetsskyddsmyndigheten",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021000068": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "BROTTSFÖREBYGGANDE RÅDET",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021000076": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "POLISMYNDIGHETEN",
+    "postort": "STOCKHOLM",
+    "registered": "1978-01-01"
+  },
+  "2021000084": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "ÅKLAGARMYNDIGHETEN",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021000225": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KRIMINALVÅRDEN",
+    "postort": "NORRKÖPING",
+    "registered": "1975-01-01"
+  },
+  "2021000340": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FÖRSVARETS MATERIELVERK",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021000365": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FÖRSVARETS RADIOANSTALT",
+    "postort": "BROMMA",
+    "registered": "1975-01-01"
+  },
+  "2021000555": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SOCIALSTYRELSEN",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021000654": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SJÖFARTSVERKET",
+    "postort": "NORRKÖPING",
+    "registered": "1975-01-01"
+  },
+  "2021000696": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SVERIGES METEOROLOGISKA OCH HYDROLOGISKA INSTITUT",
+    "postort": "NORRKÖPING",
+    "registered": "1976-01-01"
+  },
+  "2021000704": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS VÄG- OCH TRANSPORTFORSKNINGSINSTITUT",
+    "postort": "LINKÖPING",
+    "registered": "1975-01-01"
+  },
+  "2021000712": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS GEOTEKNISKA INSTITUT",
+    "postort": "LINKÖPING",
+    "registered": "1975-01-01"
+  },
+  "2021000795": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LUFTFARTSVERKET",
+    "postort": "NORRKÖPING",
+    "registered": "1975-01-01"
+  },
+  "2021000829": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KAMMARKOLLEGIET",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021000837": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATISTISKA CENTRALBYRÅN",
+    "postort": "ÖREBRO",
+    "registered": "1975-01-01"
+  },
+  "2021000845": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KONJUNKTURINSTITUTET",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021000928": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS TJÄNSTEPENSIONSVERK",
+    "postort": "SUNDSVALL",
+    "registered": "1975-01-01"
+  },
+  "2021000969": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "TULLVERKET",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021001074": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "RIKSARKIVET",
+    "postort": "TÄBY",
+    "registered": "1975-01-01"
+  },
+  "2021001082": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Institutet för språk och folkminnen",
+    "postort": "UPPSALA",
+    "registered": "1975-01-01"
+  },
+  "2021001090": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "RIKSANTIKVARIEÄMBETET",
+    "postort": "VISBY",
+    "registered": "1975-01-01"
+  },
+  "2021001108": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "NATIONALMUSEUM",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021001124": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "NATURHISTORISKA RIKSMUSEET",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021001132": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS MUSEER FÖR MARITIM, TRANSPORT- OCH FÖRSVARSHISTORIA",
+    "postort": "KARLSKRONA",
+    "registered": "1975-01-01"
+  },
+  "2021001173": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MYNDIGHETEN FÖR UNGDOMS-OCH CIVILSAMHÄLLESFRÅGOR",
+    "postort": "VÄXJÖ",
+    "registered": "1975-01-01"
+  },
+  "2021001199": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KONSTFACK",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021001215": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KUNGLIGA MUSIKHÖGSKOLAN",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021001280": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS KULTURRÅD",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021001710": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KUNGLIGA BIBLIOTEKET",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021001819": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "CENTRALA STUDIESTÖDSNÄMNDEN",
+    "postort": "SUNDSVALL",
+    "registered": "1975-01-01"
+  },
+  "2021001850": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Livsmedelsverket",
+    "postort": "UPPSALA",
+    "registered": "1975-01-01"
+  },
+  "2021001868": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS VETERINÄRMEDICINSKA ANSTALT",
+    "postort": "UPPSALA",
+    "registered": "1975-01-01"
+  },
+  "2021001975": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "NATURVÅRDSVERKET",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021002007": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KOMMERSKOLLEGIUM",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021002064": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KONSUMENTVERKET",
+    "postort": "KARLSTAD",
+    "registered": "1975-01-01"
+  },
+  "2021002072": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "PATENT- OCH REGISTRERINGSVERKET",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021002098": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "EXPORTKREDITNÄMNDEN",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021002114": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "ARBETSFÖRMEDLINGEN",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021002122": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "ARBETSDOMSTOLEN",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021002148": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "ARBETSMILJÖVERKET",
+    "postort": "SOLNA",
+    "registered": "1975-01-01"
+  },
+  "2021002163": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MIGRATIONSVERKET",
+    "postort": "NORRKÖPING",
+    "registered": "1975-01-01"
+  },
+  "2021002247": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I STOCKHOLMS LÄN",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021002254": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I UPPSALA LÄN",
+    "postort": "UPPSALA",
+    "registered": "1975-01-01"
+  },
+  "2021002262": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I SÖDERMANLANDS LÄN",
+    "postort": "NYKÖPING",
+    "registered": "1975-01-01"
+  },
+  "2021002270": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I ÖSTERGÖTLANDS LÄN",
+    "postort": "LINKÖPING",
+    "registered": "1975-01-01"
+  },
+  "2021002288": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I JÖNKÖPINGS LÄN",
+    "postort": "JÖNKÖPING",
+    "registered": "1975-01-01"
+  },
+  "2021002296": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I KRONOBERGS LÄN",
+    "postort": "VÄXJÖ",
+    "registered": "1975-01-01"
+  },
+  "2021002304": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I KALMAR LÄN",
+    "postort": "KALMAR",
+    "registered": "1975-01-01"
+  },
+  "2021002312": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I GOTLANDS LÄN",
+    "postort": "VISBY",
+    "registered": "1975-01-01"
+  },
+  "2021002320": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I BLEKINGE LÄN",
+    "postort": "KARLSKRONA",
+    "registered": "1975-01-01"
+  },
+  "2021002346": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I SKÅNE LÄN",
+    "postort": "MALMÖ",
+    "registered": "1975-01-01"
+  },
+  "2021002353": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I HALLANDS LÄN",
+    "postort": "HALMSTAD",
+    "registered": "1975-01-01"
+  },
+  "2021002361": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I VÄSTRA GÖTALANDS LÄN",
+    "postort": "GÖTEBORG",
+    "registered": "1975-01-01"
+  },
+  "2021002395": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I VÄRMLANDS LÄN",
+    "postort": "KARLSTAD",
+    "registered": "1975-01-01"
+  },
+  "2021002403": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I ÖREBRO LÄN",
+    "postort": "ÖREBRO",
+    "registered": "1975-01-01"
+  },
+  "2021002411": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I VÄSTMANLANDS LÄN",
+    "postort": "VÄSTERÅS",
+    "registered": "1977-01-01"
+  },
+  "2021002429": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I DALARNAS LÄN",
+    "postort": "FALUN",
+    "registered": "1975-01-01"
+  },
+  "2021002437": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I GÄVLEBORGS LÄN",
+    "postort": "GÄVLE",
+    "registered": "1975-01-01"
+  },
+  "2021002445": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I VÄSTERNORRLANDS LÄN",
+    "postort": "HÄRNÖSAND",
+    "registered": "1975-01-01"
+  },
+  "2021002452": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I JÄMTLANDS LÄN",
+    "postort": "ÖSTERSUND",
+    "registered": "1975-01-01"
+  },
+  "2021002460": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I VÄSTERBOTTENS LÄN",
+    "postort": "UMEÅ",
+    "registered": "1975-01-01"
+  },
+  "2021002478": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄNSSTYRELSEN I NORRBOTTENS LÄN",
+    "postort": "LULEÅ",
+    "registered": "1975-01-01"
+  },
+  "2021002528": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SVERIGES GEOLOGISKA UNDERSÖKNING",
+    "postort": "UPPSALA",
+    "registered": "1975-01-01"
+  },
+  "2021002585": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "RYMDSTYRELSEN",
+    "postort": "SOLNA",
+    "registered": "1975-01-01"
+  },
+  "2021002627": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "RIKSDAGSFÖRVALTNINGEN",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021002635": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "RIKSGÄLDSKONTORET",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021002650": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "RIKSDAGENS OMBUDSMÄN",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021002684": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SVERIGES RIKSBANK",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2021002726": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "NORDISKA AFRIKAINSTITUTET",
+    "postort": "UPPSALA",
+    "registered": "1975-01-01"
+  },
+  "2021002742": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SVERIGES DOMSTOLAR",
+    "postort": "JÖNKÖPING",
+    "registered": "1975-01-01"
+  },
+  "2021002817": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SVERIGES LANTBRUKSUNIVERSITET",
+    "postort": "UPPSALA",
+    "registered": "1978-01-01"
+  },
+  "2021002841": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LULEÅ TEKNISKA UNIVERSITET",
+    "postort": "LULEÅ",
+    "registered": "1977-01-01"
+  },
+  "2021002874": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "UMEÅ UNIVERSITET",
+    "postort": "UMEÅ",
+    "registered": "1977-01-01"
+  },
+  "2021002890": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "HÖGSKOLAN I GÄVLE",
+    "postort": "GÄVLE",
+    "registered": "1977-01-01"
+  },
+  "2021002908": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "HÖGSKOLAN DALARNA",
+    "postort": "FALUN",
+    "registered": "1977-01-01"
+  },
+  "2021002916": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MÄLARDALENS UNIVERSITET",
+    "postort": "VÄSTERÅS",
+    "registered": "1977-01-01"
+  },
+  "2021002924": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "ÖREBRO UNIVERSITET",
+    "postort": "ÖREBRO",
+    "registered": "1977-01-01"
+  },
+  "2021002932": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "UPPSALA UNIVERSITET",
+    "postort": "UPPSALA",
+    "registered": "1977-01-01"
+  },
+  "2021002957": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KUNGLIGA KONSTHÖGSKOLAN",
+    "postort": "STOCKHOLM",
+    "registered": "1978-01-01"
+  },
+  "2021002973": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KAROLINSKA INSTITUTET",
+    "postort": "STOCKHOLM",
+    "registered": "1977-01-01"
+  },
+  "2021003054": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KUNGLIGA TEKNISKA HÖGSKOLAN",
+    "postort": "STOCKHOLM",
+    "registered": "1978-01-01"
+  },
+  "2021003062": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STOCKHOLMS UNIVERSITET",
+    "postort": "STOCKHOLM",
+    "registered": "1978-01-01"
+  },
+  "2021003096": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LINKÖPINGS UNIVERSITET",
+    "postort": "LINKÖPING",
+    "registered": "1977-01-01"
+  },
+  "2021003120": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KARLSTADS UNIVERSITET",
+    "postort": "KARLSTAD",
+    "registered": "1977-01-01"
+  },
+  "2021003138": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "HÖGSKOLAN I BORÅS",
+    "postort": "BORÅS",
+    "registered": "1977-01-01"
+  },
+  "2021003146": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "HÖGSKOLAN I SKÖVDE",
+    "postort": "SKÖVDE",
+    "registered": "1980-01-01"
+  },
+  "2021003153": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "GÖTEBORGS UNIVERSITET",
+    "postort": "GÖTEBORG",
+    "registered": "1977-01-01"
+  },
+  "2021003195": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "HÖGSKOLAN KRISTIANSTAD",
+    "postort": "KRISTIANSTAD",
+    "registered": "1977-01-01"
+  },
+  "2021003203": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "HÖGSKOLAN I HALMSTAD",
+    "postort": "HALMSTAD",
+    "registered": "1979-01-01"
+  },
+  "2021003211": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LUNDS UNIVERSITET",
+    "postort": "LUND",
+    "registered": "1977-01-01"
+  },
+  "2021003252": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KONSTNÄRSNÄMNDEN",
+    "postort": "STOCKHOLM",
+    "registered": "1978-01-01"
+  },
+  "2021003260": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS HAVERIKOMMISSION",
+    "postort": "STOCKHOLM",
+    "registered": "1978-01-01"
+  },
+  "2021003278": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "BOKFÖRINGSNÄMNDEN",
+    "postort": "STOCKHOLM",
+    "registered": "1978-01-01"
+  },
+  "2021003310": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SPELINSPEKTIONEN",
+    "postort": "STRÄNGNÄS",
+    "registered": "1978-01-01"
+  },
+  "2021003435": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "BROTTSOFFERMYNDIGHETEN",
+    "postort": "UMEÅ",
+    "registered": "1979-01-01"
+  },
+  "2021003476": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "ARBETSGIVARVERKET",
+    "postort": "STOCKHOLM",
+    "registered": "1979-01-01"
+  },
+  "2021003484": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "HOVSTATERNA",
+    "postort": "STOCKHOLM",
+    "registered": "1979-01-01"
+  },
+  "2021003567": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "INSTITUTET FÖR RYMDFYSIK",
+    "postort": "KIRUNA",
+    "registered": "1979-01-01"
+  },
+  "2021003583": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SVERIGES FÖRFATTARFOND",
+    "postort": "STOCKHOLM",
+    "registered": "1980-01-01"
+  },
+  "2021003591": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Myndigheten för tillgängliga medier",
+    "postort": "Malmö",
+    "registered": "1980-01-01"
+  },
+  "2021003625": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "ALLMÄNNA REKLAMATIONSNÄMNDEN",
+    "postort": "STOCKHOLM",
+    "registered": "1980-01-01"
+  },
+  "2021003666": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS MUSIKVERK",
+    "postort": "STOCKHOLM",
+    "registered": "1981-01-01"
+  },
+  "2021003690": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "BARNOMBUDSMANNEN",
+    "postort": "STOCKHOLM",
+    "registered": "1983-01-08"
+  },
+  "2021003765": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "HÄLSO- & SJUKVÅRDENS ANSVARSNÄMND",
+    "postort": "STOCKHOLM",
+    "registered": "1983-01-08"
+  },
+  "2021003815": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STYRELSEN FÖR ACKREDITERING OCH TEKNISK KONTROLL",
+    "postort": "BORÅS",
+    "registered": "1983-04-23"
+  },
+  "2021003831": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "REGERINGSKANSLIET",
+    "postort": "STOCKHOLM",
+    "registered": "1984-06-24"
+  },
+  "2021003880": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KEMIKALIEINSPEKTIONEN",
+    "postort": "SUNDBYBERG",
+    "registered": "1986-01-08"
+  },
+  "2021003989": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "BOVERKET",
+    "postort": "KARLSKRONA",
+    "registered": "1988-06-17"
+  },
+  "2021003997": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KUSTBEVAKNINGEN",
+    "postort": "KARLSKRONA",
+    "registered": "1988-06-17"
+  },
+  "2021004011": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "BLEKINGE TEKNISKA HÖGSKOLA",
+    "postort": "KARLSKRONA",
+    "registered": "1989-04-02"
+  },
+  "2021004052": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "HÖGSKOLAN VÄST",
+    "postort": "TROLLHÄTTAN",
+    "registered": "1989-12-10"
+  },
+  "2021004060": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "POLARFORSKNINGSSEKRETARIATET",
+    "postort": "LULEÅ",
+    "registered": "1989-12-24"
+  },
+  "2021004078": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LÄKEMEDELSVERKET",
+    "postort": "UPPSALA",
+    "registered": "1990-08-06"
+  },
+  "2021004144": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "NÄMNDEN FÖR HEMSLÖJDSFRÅGOR",
+    "postort": "STOCKHOLM",
+    "registered": "1991-03-19"
+  },
+  "2021004151": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS JORDBRUKSVERK",
+    "postort": "JÖNKÖPING",
+    "registered": "1991-04-23"
+  },
+  "2021004169": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MYNDIGHETEN FÖR FAMILJERÄTT OCH FÖRÄLDRASKAPSSTÖD",
+    "postort": "SKELLEFTEÅ",
+    "registered": "1991-05-21"
+  },
+  "2021004185": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS SKOLVERK",
+    "postort": "SOLNA",
+    "registered": "1991-06-04"
+  },
+  "2021004227": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "RÄTTSMEDICINALVERKET",
+    "postort": "STOCKHOLM",
+    "registered": "1991-06-11"
+  },
+  "2021004235": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FINANSINSPEKTIONEN",
+    "postort": "STOCKHOLM",
+    "registered": "1991-07-02"
+  },
+  "2021004250": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "HARPSUNDSNÄMNDEN",
+    "postort": "MELLÖSA",
+    "registered": "1991-10-01"
+  },
+  "2021004284": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SVENSKA KRAFTNÄT",
+    "postort": "SUNDBYBERG",
+    "registered": "1991-12-03"
+  },
+  "2021004334": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Gymnastik- och idrottshögskolan (GIH)",
+    "postort": "STOCKHOLM",
+    "registered": "1992-05-06"
+  },
+  "2021004342": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KONKURRENSVERKET",
+    "postort": "STOCKHOLM",
+    "registered": "1992-10-07"
+  },
+  "2021004359": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "POST- OCH TELESTYRELSEN",
+    "postort": "STOCKHOLM",
+    "registered": "1993-02-19"
+  },
+  "2021004375": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "ÖVERKLAGANDENÄMNDEN FÖR HÖGSKOLAN",
+    "postort": "JOHANNESHOV",
+    "registered": "1992-06-17"
+  },
+  "2021004417": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS BEREDNING FÖR MEDICINSK OCH SOCIAL UTVÄRDERING",
+    "postort": "STOCKHOLM",
+    "registered": "1992-08-12"
+  },
+  "2021004466": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "ELSÄKERHETSVERKET",
+    "postort": "KRISTINEHAMN",
+    "registered": "1993-04-23"
+  },
+  "2021004474": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS FASTIGHETSVERK",
+    "postort": "STOCKHOLM",
+    "registered": "1993-02-12"
+  },
+  "2021004508": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS INSTITUTIONSSTYRELSE",
+    "postort": "SOLNA",
+    "registered": "1993-05-07"
+  },
+  "2021004524": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MITTUNIVERSITETET",
+    "postort": "SUNDSVALL",
+    "registered": "1993-07-23"
+  },
+  "2021004573": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SAMETINGET",
+    "postort": "KIRUNA",
+    "registered": "1993-09-03"
+  },
+  "2021004607": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FORTIFIKATIONSVERKET",
+    "postort": "ESKILSTUNA",
+    "registered": "1993-11-26"
+  },
+  "2021004615": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FÖRSVARSMAKTEN",
+    "postort": "STOCKHOLM",
+    "registered": "1993-11-26"
+  },
+  "2021004631": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SAMESKOLSTYRELSEN",
+    "postort": "JOKKMOKK",
+    "registered": "1994-05-21"
+  },
+  "2021004730": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FÖRSVARSHÖGSKOLAN",
+    "postort": "STOCKHOLM",
+    "registered": "1994-06-18"
+  },
+  "2021004763": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Statens överklagandenämnd",
+    "postort": "STOCKHOLM",
+    "registered": "1994-10-01"
+  },
+  "2021004771": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Totalförsvarets plikt- och prövningsverk",
+    "postort": "KARLSTAD",
+    "registered": "1995-07-23"
+  },
+  "2021004789": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Sida",
+    "postort": "SUNDBYBERG",
+    "registered": "1995-07-23"
+  },
+  "2021004805": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "REVISORSINSPEKTIONEN",
+    "postort": "STOCKHOLM",
+    "registered": "1995-06-11"
+  },
+  "2021004813": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "GENTEKNIKNÄMNDEN",
+    "postort": "STOCKHOLM",
+    "registered": "1995-10-22"
+  },
+  "2021004870": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FASTIGHETSMÄKLARINSPEKTIONEN",
+    "postort": "KARLSTAD",
+    "registered": "1995-08-13"
+  },
+  "2021004888": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LANTMÄTERIET",
+    "postort": "GÄVLE",
+    "registered": "1996-01-22"
+  },
+  "2021004896": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SÖDERTÖRNS HÖGSKOLA",
+    "postort": "HUDDINGE",
+    "registered": "1995-11-26"
+  },
+  "2021004904": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KÄRNAVFALLSFONDEN",
+    "postort": "STOCKHOLM",
+    "registered": "1996-02-12"
+  },
+  "2021004912": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "INSPEKTIONEN FÖR STRATEGISKA PRODUKTER",
+    "postort": "SOLNA",
+    "registered": "1996-01-29"
+  },
+  "2021004920": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MALMÖ UNIVERSITET",
+    "postort": "MALMÖ",
+    "registered": "1997-04-23"
+  },
+  "2021004946": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "INSTITUTET FÖR ARBETSMARKNADS-OCH UTBILDNINGSPOLITISK UTVÄRDERING",
+    "postort": "UPPSALA",
+    "registered": "1996-12-16"
+  },
+  "2021004953": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS HISTORISKA MUSEER",
+    "postort": "STOCKHOLM",
+    "registered": "1998-10-08"
+  },
+  "2021004961": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SVENSKA INSTITUTET",
+    "postort": "JOHANNESHOV",
+    "registered": "1998-01-29"
+  },
+  "2021004979": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "EKOBROTTSMYNDIGHETEN",
+    "postort": "STOCKHOLM",
+    "registered": "1997-11-19"
+  },
+  "2021005000": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS ENERGIMYNDIGHET",
+    "postort": "ESKILSTUNA",
+    "registered": "1997-11-05"
+  },
+  "2021005026": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Statskontoret",
+    "postort": "STOCKHOLM",
+    "registered": "1998-08-20"
+  },
+  "2021005075": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS MUSEER FÖR VÄRLDSKULTUR",
+    "postort": "GÖTEBORG",
+    "registered": "1998-12-10"
+  },
+  "2021005091": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MODERNA MUSEET",
+    "postort": "STOCKHOLM",
+    "registered": "1999-05-07"
+  },
+  "2021005174": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MEDLINGSINSTITUTET",
+    "postort": "STOCKHOLM",
+    "registered": "2000-05-15"
+  },
+  "2021005182": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "TOTALFÖRSVARETS FORSKNINGSINSTITUT, FOI",
+    "postort": "Stockholm",
+    "registered": "2001-01-16"
+  },
+  "2021005208": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "VETENSKAPSRÅDET",
+    "postort": "STOCKHOLM",
+    "registered": "2001-02-16"
+  },
+  "2021005216": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "VERKET FÖR INNOVATIONSSYSTEM",
+    "postort": "STOCKHOLM",
+    "registered": "2000-12-14"
+  },
+  "2021005224": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SVENSKA ESF-RÅDET",
+    "postort": "GÄVLE",
+    "registered": "2000-12-14"
+  },
+  "2021005232": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FORSKNINGSRÅDET F MILJÖ, AREELLA NÄRINGAR OCH SAMHÄLLSBYGGANDE",
+    "postort": "STOCKHOLM",
+    "registered": "2000-12-14"
+  },
+  "2021005240": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FORSKNINGSRÅDET FÖR HÄLSA, ARBETSLIV OCH VÄLFÄRD",
+    "postort": "STOCKHOLM",
+    "registered": "2001-01-16"
+  },
+  "2021005273": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "ÖVERKLAGANDENÄMNDEN FÖR STUDIESTÖD",
+    "postort": "HÄRNÖSAND",
+    "registered": "2001-02-16"
+  },
+  "2021005281": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "VALMYNDIGHETEN",
+    "postort": "SOLNA",
+    "registered": "2001-04-13"
+  },
+  "2021005315": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "LAGRÅDET",
+    "postort": "STOCKHOLM",
+    "registered": "2002-03-04"
+  },
+  "2021005331": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Svenska institutet för europapolitiska studier",
+    "postort": "STOCKHOLM",
+    "registered": "2002-02-18"
+  },
+  "2021005356": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FORUM FÖR LEVANDE HISTORIA",
+    "postort": "STOCKHOLM",
+    "registered": "2003-06-07"
+  },
+  "2021005364": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Tandvårds-och läkemedelsförmånsverket, TLV",
+    "postort": "STOCKHOLM",
+    "registered": "2002-11-28"
+  },
+  "2021005380": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FOLKE BERNADOTTEAKADEMIN",
+    "postort": "STOCKHOLM",
+    "registered": "2002-09-05"
+  },
+  "2021005414": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "INSPEKTIONEN FÖR ARBETSLÖSHETSFÖRSÄKRING",
+    "postort": "KATRINEHOLM",
+    "registered": "2003-06-07"
+  },
+  "2021005422": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "RIKSREVISIONEN",
+    "postort": "STOCKHOLM",
+    "registered": "2003-06-07"
+  },
+  "2021005448": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SKATTEVERKET",
+    "postort": "MALMÖ",
+    "registered": "2003-12-17"
+  },
+  "2021005463": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "ÖVERKLAGANDENÄMNDEN FÖR ETIKPRÖVNING",
+    "postort": "STOCKHOLM",
+    "registered": "2003-12-17"
+  },
+  "2021005489": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "BOLAGSVERKET",
+    "postort": "SUNDSVALL",
+    "registered": "2004-08-09"
+  },
+  "2021005521": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FÖRSÄKRINGSKASSAN",
+    "postort": "STOCKHOLM",
+    "registered": "2004-12-16"
+  },
+  "2021005588": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MYNDIGHETEN FÖR DELAKTIGHET",
+    "postort": "STOCKHOLM",
+    "registered": "2005-12-23"
+  },
+  "2021005612": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SKOGSSTYRELSEN",
+    "postort": "JÖNKÖPING",
+    "registered": "2005-12-23"
+  },
+  "2021005646": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "KRONOFOGDEMYNDIGHETEN",
+    "postort": "SUNDBYBERG",
+    "registered": "2006-06-22"
+  },
+  "2021005687": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FINANSPOLITISKA RÅDET",
+    "postort": "STOCKHOLM",
+    "registered": "2007-08-09"
+  },
+  "2021005695": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Energimarknadsinspektionen",
+    "postort": "ESKILSTUNA",
+    "registered": "2008-01-11"
+  },
+  "2021005703": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Myndigheten för säkerhet och integritetsskydd",
+    "postort": "STOCKHOLM",
+    "registered": "2008-01-11"
+  },
+  "2021005729": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SKOLVÄSENDETS ÖVERKLAGANDENÄMND",
+    "postort": "STOCKHOLM",
+    "registered": "2008-02-21"
+  },
+  "2021005737": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STRÅLSÄKERHETSMYNDIGHETEN",
+    "postort": "STOCKHOLM",
+    "registered": "2008-07-03"
+  },
+  "2021005745": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SPECIALPEDAGOGISKA SKOLMYNDIGHETEN",
+    "postort": "HÄRNÖSAND",
+    "registered": "2008-07-03"
+  },
+  "2021005778": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "STATENS NÄMND FÖR ARBETSTAGARES UPPFINNINGAR",
+    "postort": "STOCKHOLM",
+    "registered": "2008-05-08"
+  },
+  "2021005786": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "NÄMNDEN FÖR STYRELSEREPRESENTATIONSFRÅGOR",
+    "postort": "STOCKHOLM",
+    "registered": "2008-05-08"
+  },
+  "2021005810": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Krigsförsäkringsnämnden",
+    "postort": "STOCKHOLM",
+    "registered": "2008-06-19"
+  },
+  "2021005828": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Statens skaderegleringsnämnd",
+    "postort": "STOCKHOLM",
+    "registered": "2008-06-19"
+  },
+  "2021005836": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Statens ansvarsnämnd",
+    "postort": "STOCKHOLM",
+    "registered": "2008-06-19"
+  },
+  "2021005851": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Statens tjänstepensions- och grupplivnämnd",
+    "postort": "SUNDSVALL",
+    "registered": "2008-06-19"
+  },
+  "2021005869": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Skiljenämnden i vissa trygghetsfrågor",
+    "postort": "STOCKHOLM",
+    "registered": "2008-06-19"
+  },
+  "2021005877": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "ILO-KOMMITTÉN",
+    "postort": "STOCKHOLM",
+    "registered": "2008-06-19"
+  },
+  "2021005893": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Forskarskattenämnden",
+    "postort": "STOCKHOLM",
+    "registered": "2008-06-19"
+  },
+  "2021005901": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Skatterättsnämnden",
+    "postort": "STOCKHOLM",
+    "registered": "2008-06-19"
+  },
+  "2021005943": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Alkoholsortimentsnämnden",
+    "postort": "STOCKHOLM",
+    "registered": "2008-06-26"
+  },
+  "2021005950": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Arvfondsdelegationen",
+    "postort": "STOCKHOLM",
+    "registered": "2008-06-19"
+  },
+  "2021005984": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Myndigheten för civilt försvar",
+    "postort": "KARLSTAD",
+    "registered": "2009-01-03"
+  },
+  "2021006008": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Rättshjälpnämnden",
+    "postort": "SUNDSVALL",
+    "registered": "2008-06-26"
+  },
+  "2021006016": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Rättshjälpsmyndigheten",
+    "postort": "SUNDSVALL",
+    "registered": "2008-06-26"
+  },
+  "2021006024": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Överklagandenämnden för nämndemannauppdrag",
+    "postort": "SUNDSVALL",
+    "registered": "2008-06-26"
+  },
+  "2021006032": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Notarienämnden",
+    "postort": "JÖNKÖPING",
+    "registered": "2008-06-26"
+  },
+  "2021006065": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Statens skolinspektion",
+    "postort": "STOCKHOLM",
+    "registered": "2008-10-02"
+  },
+  "2021006073": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Diskrimineringsombudsmannen",
+    "postort": "SOLNA",
+    "registered": "2009-01-03"
+  },
+  "2021006081": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Domarnämnden",
+    "postort": "STOCKHOLM",
+    "registered": "2008-08-28"
+  },
+  "2021006099": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Transportstyrelsen",
+    "postort": "NORRKÖPING",
+    "registered": "2009-01-03"
+  },
+  "2021006149": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "TILLVÄXTVERKET",
+    "postort": "STOCKHOLM",
+    "registered": "2009-04-02"
+  },
+  "2021006164": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Myndigheten för tillväxtpolitiska utvärderingar och analyser",
+    "postort": "ÖSTERSUND",
+    "registered": "2009-04-02"
+  },
+  "2021006206": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Nämnden mot Diskriminering",
+    "postort": "STOCKHOLM",
+    "registered": "2009-02-05"
+  },
+  "2021006214": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Statens inspektion för försvarsunderrättelseverksamheten (SIUN)",
+    "postort": "KISTA",
+    "registered": "2009-02-12"
+  },
+  "2021006230": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MYNDIGHETEN FÖR YRKESHÖGSKOLAN",
+    "postort": "VÄSTERÅS",
+    "registered": "2009-07-02"
+  },
+  "2021006248": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "INSPEKTIONEN FÖR SOCIALFÖRSÄKRINGEN",
+    "postort": "GÖTEBORG",
+    "registered": "2009-07-02"
+  },
+  "2021006255": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "PENSIONSMYNDIGHETEN",
+    "postort": "STOCKHOLM",
+    "registered": "2010-01-01"
+  },
+  "2021006271": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Linnéuniversitetet",
+    "postort": "VÄXJÖ",
+    "registered": "2010-01-01"
+  },
+  "2021006297": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Trafikverket",
+    "postort": "BORLÄNGE",
+    "registered": "2010-04-02"
+  },
+  "2021006305": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Trafikanalys",
+    "postort": "STOCKHOLM",
+    "registered": "2010-04-02"
+  },
+  "2021006313": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Försvarsunderrättelsedomstolen",
+    "postort": "KISTA",
+    "registered": "2009-12-03"
+  },
+  "2021006347": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MEDIEMYNDIGHETEN",
+    "postort": "STOCKHOLM",
+    "registered": "2010-08-12"
+  },
+  "2021006370": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "PATENTOMBUDSNÄMNDEN",
+    "postort": "SUNDSVALL",
+    "registered": "2010-09-02"
+  },
+  "2021006404": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Myndigheten för kulturanalys",
+    "postort": "GÖTEBORG",
+    "registered": "2011-04-22"
+  },
+  "2021006412": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Myndigheten för vård- och omsorgsanalys",
+    "postort": "STOCKHOLM",
+    "registered": "2010-12-23"
+  },
+  "2021006420": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "HAVS- OCH VATTENMYNDIGHETEN",
+    "postort": "GÖTEBORG",
+    "registered": "2011-06-30"
+  },
+  "2021006453": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Statens servicecenter",
+    "postort": "GÄVLE",
+    "registered": "2012-05-31"
+  },
+  "2021006461": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Riksdagens arvodesnämnd",
+    "postort": "STOCKHOLM",
+    "registered": "2012-05-24"
+  },
+  "2021006487": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Universitets- och högskolerådet",
+    "postort": "SOLNA",
+    "registered": "2013-01-01"
+  },
+  "2021006495": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Universitetskanslersämbetet",
+    "postort": "JOHANNESHOV",
+    "registered": "2013-01-01"
+  },
+  "2021006537": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Inspektionen för vård och omsorg",
+    "postort": "STOCKHOLM",
+    "registered": "2013-06-06"
+  },
+  "2021006545": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Folkhälsomyndigheten",
+    "postort": "SOLNA",
+    "registered": "2014-01-01"
+  },
+  "2021006552": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "E-hälsomyndigheten",
+    "postort": "KALMAR",
+    "registered": "2014-01-01"
+  },
+  "2021006560": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Stockholms konstnärliga högskola",
+    "postort": "STOCKHOLM",
+    "registered": "2014-01-01"
+  },
+  "2021006594": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SÄKERHETSPOLISEN",
+    "postort": "STOCKHOLM",
+    "registered": "2015-01-01"
+  },
+  "2021006602": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "SKOLFORSKNINGSINSTITUTET",
+    "postort": "STOCKHOLM",
+    "registered": "2015-01-01"
+  },
+  "2021006610": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "UPPHANDLINGSMYNDIGHETEN",
+    "postort": "SOLNA",
+    "registered": "2015-09-10"
+  },
+  "2021006693": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Jämställdhetsmyndigheten",
+    "postort": "GÖTEBORG",
+    "registered": "2018-01-01"
+  },
+  "2021006719": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Klimatpolitiska rådet",
+    "postort": "STOCKHOLM",
+    "registered": "2018-01-01"
+  },
+  "2021006735": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Lokala säkerhetsnämnden vid Forsmark",
+    "postort": "ÖSTHAMMAR",
+    "registered": "2008-01-01"
+  },
+  "2021006743": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Lokala säkerhetsnämnden vid Oskarshamn",
+    "postort": "OSKARSHAMN",
+    "registered": "2008-01-01"
+  },
+  "2021006750": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Lokala säkerhetsnämnden vid Ringhals",
+    "postort": "VARBERG",
+    "registered": "2008-01-01"
+  },
+  "2021006776": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Oljekrisnämnden",
+    "postort": "STOCKHOLM",
+    "registered": "2008-01-01"
+  },
+  "2021006784": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Riksvärderingsnämnden",
+    "postort": "STOCKHOLM",
+    "registered": "2008-01-01"
+  },
+  "2021006800": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Styrelsen För Samefonden",
+    "postort": "KIRUNA",
+    "registered": "1993-07-01"
+  },
+  "2021006818": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Svenska FAO-kommittén",
+    "postort": "STOCKHOLM",
+    "registered": "1995-11-01"
+  },
+  "2021006826": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Utrikesförvaltningens antagningsnämnd",
+    "postort": "STOCKHOLM",
+    "registered": "1991-07-01"
+  },
+  "2021006834": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Ansvarsnämnden för djurens hälso- och sjukvård",
+    "postort": "JÖNKÖPING",
+    "registered": "2010-01-01"
+  },
+  "2021006842": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Delegationen för folkrättslig granskning av vapenprojekt",
+    "postort": "STOCKHOLM",
+    "registered": "2008-01-01"
+  },
+  "2021006859": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Granskningsnämnden för försvarsuppfinningar",
+    "postort": "STOCKHOLM",
+    "registered": "2008-01-01"
+  },
+  "2021006867": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Högskolans avskiljandenämnd",
+    "postort": "JOHANNESHOV",
+    "registered": "2008-01-01"
+  },
+  "2021006883": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MYNDIGHETEN FÖR DIGITAL FÖRVALTNING",
+    "postort": "SUNDSVALL",
+    "registered": "2018-08-09"
+  },
+  "2021006909": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "CENTRALA DJURFÖRSÖKSETISKA NÄMNDEN",
+    "postort": "JÖNKÖPING",
+    "registered": "2013-01-01"
+  },
+  "2021006925": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "ETIKPRÖVNINGSMYNDIGHETEN",
+    "postort": "UPPSALA",
+    "registered": "2019-01-01"
+  },
+  "2021006933": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "Nämnden för prövning av oredlighet i forskning",
+    "postort": "UPPSALA",
+    "registered": "2020-01-03"
+  },
+  "2021007014": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MYNDIGHETEN FÖR PSYKOLOGISKT FÖRSVAR",
+    "postort": "KARLSTAD",
+    "registered": "2022-01-01"
+  },
+  "2021007022": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "INSTITUTET FÖR MÄNSKLIGA RÄTTIGHETER",
+    "postort": "LUND",
+    "registered": "2022-01-01"
+  },
+  "2021007030": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "FONDTORGSNÄMNDEN",
+    "postort": "STOCKHOLM",
+    "registered": "2022-06-10"
+  },
+  "2021007055": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "MYNDIGHETEN FÖR TOTALFÖRSVARSANALYS",
+    "postort": "STOCKHOLM",
+    "registered": "2022-11-25"
+  },
+  "2021007071": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "81",
+    "name": "UTBETALNINGSMYNDIGHETEN",
+    "postort": "STOCKHOLM",
+    "registered": "2023-07-07"
+  },
+  "2120000019": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "UPPLANDS VÄSBY KOMMUN",
+    "postort": "UPPLANDS VÄSBY",
+    "registered": "1974-01-01"
+  },
+  "2120000027": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VALLENTUNA KOMMUN",
+    "postort": "VALLENTUNA",
+    "registered": "1974-01-01"
+  },
+  "2120000035": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VÄRMDÖ KOMMUN",
+    "postort": "GUSTAVSBERG",
+    "registered": "1974-01-01"
+  },
+  "2120000043": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "JÄRFÄLLA KOMMUN",
+    "postort": "JÄRFÄLLA",
+    "registered": "1974-01-01"
+  },
+  "2120000050": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "EKERÖ KOMMUN",
+    "postort": "EKERÖ",
+    "registered": "1974-01-01"
+  },
+  "2120000068": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HUDDINGE KOMMUN",
+    "postort": "HUDDINGE",
+    "registered": "1974-01-01"
+  },
+  "2120000084": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HANINGE KOMMUN",
+    "postort": "HANINGE",
+    "registered": "1974-01-01"
+  },
+  "2120000092": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TYRESÖ KOMMUN",
+    "postort": "TYRESÖ",
+    "registered": "1974-01-01"
+  },
+  "2120000100": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "UPPLANDS-BRO KOMMUN",
+    "postort": "KUNGSÄNGEN",
+    "registered": "1974-01-01"
+  },
+  "2120000118": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TÄBY KOMMUN",
+    "postort": "TÄBY",
+    "registered": "1974-01-01"
+  },
+  "2120000126": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "DANDERYDS KOMMUN",
+    "postort": "DJURSHOLM",
+    "registered": "1974-01-01"
+  },
+  "2120000134": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SOLLENTUNA KOMMUN",
+    "postort": "SOLLENTUNA",
+    "registered": "1974-01-01"
+  },
+  "2120000142": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "STOCKHOLMS KOMMUN",
+    "postort": "STOCKHOLM",
+    "registered": "1974-01-01"
+  },
+  "2120000159": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SÖDERTÄLJE KOMMUN",
+    "postort": "SÖDERTÄLJE",
+    "registered": "1974-01-01"
+  },
+  "2120000167": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "NACKA KOMMUN",
+    "postort": "NACKA",
+    "registered": "1974-01-01"
+  },
+  "2120000175": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SUNDBYBERGS KOMMUN",
+    "postort": "SUNDBYBERG",
+    "registered": "1974-01-01"
+  },
+  "2120000183": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SOLNA KOMMUN",
+    "postort": "SOLNA",
+    "registered": "1974-01-01"
+  },
+  "2120000191": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LIDINGÖ KOMMUN",
+    "postort": "LIDINGÖ",
+    "registered": "1975-01-01"
+  },
+  "2120000217": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "NORRTÄLJE KOMMUN",
+    "postort": "NORRTÄLJE",
+    "registered": "1974-01-01"
+  },
+  "2120000225": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SIGTUNA KOMMUN",
+    "postort": "MÄRSTA",
+    "registered": "1974-01-01"
+  },
+  "2120000233": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "NYNÄSHAMNS KOMMUN",
+    "postort": "NYNÄSHAMN",
+    "registered": "1974-01-01"
+  },
+  "2120000241": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HÅBO KOMMUN",
+    "postort": "BÅLSTA",
+    "registered": "1974-01-01"
+  },
+  "2120000258": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÄLVKARLEBY KOMMUN",
+    "postort": "SKUTSKÄR",
+    "registered": "1974-01-01"
+  },
+  "2120000266": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TIERPS KOMMUN",
+    "postort": "TIERP",
+    "registered": "1974-01-01"
+  },
+  "2120000282": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ENKÖPINGS KOMMUN",
+    "postort": "ENKÖPING",
+    "registered": "1974-01-01"
+  },
+  "2120000290": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÖSTHAMMARS KOMMUN",
+    "postort": "ÖSTHAMMAR",
+    "registered": "1974-01-01"
+  },
+  "2120000308": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VINGÅKERS KOMMUN",
+    "postort": "VINGÅKER",
+    "registered": "1974-01-01"
+  },
+  "2120000324": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "OXELÖSUNDS KOMMUN",
+    "postort": "OXELÖSUND",
+    "registered": "1974-01-01"
+  },
+  "2120000332": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "FLENS KOMMUN",
+    "postort": "FLEN",
+    "registered": "1974-01-01"
+  },
+  "2120000340": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KATRINEHOLMS KOMMUN",
+    "postort": "KATRINEHOLM",
+    "registered": "1974-01-01"
+  },
+  "2120000357": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ESKILSTUNA KOMMUN",
+    "postort": "ESKILSTUNA",
+    "registered": "1975-01-01"
+  },
+  "2120000365": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "STRÄNGNÄS KOMMUN",
+    "postort": "STRÄNGNÄS",
+    "registered": "1974-01-01"
+  },
+  "2120000373": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÖDESHÖGS KOMMUN",
+    "postort": "ÖDESHÖG",
+    "registered": "1974-01-01"
+  },
+  "2120000381": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "YDRE KOMMUN",
+    "postort": "YDRE",
+    "registered": "1974-01-01"
+  },
+  "2120000399": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KINDA KOMMUN",
+    "postort": "KISA",
+    "registered": "1974-01-01"
+  },
+  "2120000407": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BOXHOLMS KOMMUN",
+    "postort": "BOXHOLM",
+    "registered": "1974-01-01"
+  },
+  "2120000415": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÅTVIDABERGS KOMMUN",
+    "postort": "ÅTVIDABERG",
+    "registered": "1974-01-01"
+  },
+  "2120000423": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "FINSPÅNGS KOMMUN",
+    "postort": "FINSPÅNG",
+    "registered": "1974-01-01"
+  },
+  "2120000431": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VALDEMARSVIKS KOMMUN",
+    "postort": "VALDEMARSVIK",
+    "registered": "1974-01-01"
+  },
+  "2120000449": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LINKÖPINGS KOMMUN",
+    "postort": "LINKÖPING",
+    "registered": "1974-01-01"
+  },
+  "2120000456": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "NORRKÖPINGS KOMMUN",
+    "postort": "NORRKÖPING",
+    "registered": "1974-01-01"
+  },
+  "2120000464": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SÖDERKÖPINGS KOMMUN",
+    "postort": "SÖDERKÖPING",
+    "registered": "1974-01-01"
+  },
+  "2120000480": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MJÖLBY KOMMUN",
+    "postort": "MJÖLBY",
+    "registered": "1974-01-01"
+  },
+  "2120000498": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ANEBY KOMMUN",
+    "postort": "ANEBY",
+    "registered": "1974-01-01"
+  },
+  "2120000506": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "GNOSJÖ KOMMUN",
+    "postort": "GNOSJÖ",
+    "registered": "1974-01-01"
+  },
+  "2120000514": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "GISLAVEDS KOMMUN",
+    "postort": "GISLAVED",
+    "registered": "1974-01-01"
+  },
+  "2120000522": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VAGGERYDS KOMMUN",
+    "postort": "SKILLINGARYD",
+    "registered": "1974-01-01"
+  },
+  "2120000530": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "JÖNKÖPINGS KOMMUN",
+    "postort": "JÖNKÖPING",
+    "registered": "1974-01-01"
+  },
+  "2120000548": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "NÄSSJÖ KOMMUN",
+    "postort": "NÄSSJÖ",
+    "registered": "1974-01-01"
+  },
+  "2120000555": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VÄRNAMO KOMMUN",
+    "postort": "VÄRNAMO",
+    "registered": "1974-01-01"
+  },
+  "2120000563": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SÄVSJÖ KOMMUN",
+    "postort": "SÄVSJÖ",
+    "registered": "1974-01-01"
+  },
+  "2120000571": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VETLANDA KOMMUN",
+    "postort": "VETLANDA",
+    "registered": "1974-01-01"
+  },
+  "2120000589": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "EKSJÖ KOMMUN",
+    "postort": "EKSJÖ",
+    "registered": "1974-01-01"
+  },
+  "2120000597": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TRANÅS KOMMUN",
+    "postort": "TRANÅS",
+    "registered": "1974-01-01"
+  },
+  "2120000605": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "UPPVIDINGE KOMMUN",
+    "postort": "ÅSEDA",
+    "registered": "1974-01-01"
+  },
+  "2120000613": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LESSEBO KOMMUN",
+    "postort": "LESSEBO",
+    "registered": "1974-01-01"
+  },
+  "2120000621": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TINGSRYDS KOMMUN",
+    "postort": "TINGSRYD",
+    "registered": "1974-01-01"
+  },
+  "2120000639": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ALVESTA KOMMUN",
+    "postort": "ALVESTA",
+    "registered": "1974-01-01"
+  },
+  "2120000647": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÄLMHULTS KOMMUN",
+    "postort": "ÄLMHULT",
+    "registered": "1974-01-01"
+  },
+  "2120000654": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MARKARYDS KOMMUN",
+    "postort": "MARKARYD",
+    "registered": "1974-01-01"
+  },
+  "2120000662": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VÄXJÖ KOMMUN",
+    "postort": "VÄXJÖ",
+    "registered": "1974-01-01"
+  },
+  "2120000670": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LJUNGBY KOMMUN",
+    "postort": "LJUNGBY",
+    "registered": "1974-01-01"
+  },
+  "2120000688": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HÖGSBY KOMMUN",
+    "postort": "HÖGSBY",
+    "registered": "1974-01-01"
+  },
+  "2120000696": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TORSÅS KOMMUN",
+    "postort": "TORSÅS",
+    "registered": "1974-01-01"
+  },
+  "2120000704": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MÖRBYLÅNGA KOMMUN",
+    "postort": "MÖRBYLÅNGA",
+    "registered": "1974-01-01"
+  },
+  "2120000712": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HULTSFREDS KOMMUN",
+    "postort": "HULTSFRED",
+    "registered": "1974-01-01"
+  },
+  "2120000720": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MÖNSTERÅS KOMMUN",
+    "postort": "MÖNSTERÅS",
+    "registered": "1974-01-01"
+  },
+  "2120000738": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "EMMABODA KOMMUN",
+    "postort": "EMMABODA",
+    "registered": "1974-01-01"
+  },
+  "2120000746": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KALMAR KOMMUN",
+    "postort": "KALMAR",
+    "registered": "1974-01-01"
+  },
+  "2120000753": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "NYBRO KOMMUN",
+    "postort": "NYBRO",
+    "registered": "1974-01-01"
+  },
+  "2120000761": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "OSKARSHAMNS KOMMUN",
+    "postort": "OSKARSHAMN",
+    "registered": "1974-01-01"
+  },
+  "2120000779": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VÄSTERVIKS KOMMUN",
+    "postort": "VÄSTERVIK",
+    "registered": "1974-01-01"
+  },
+  "2120000787": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VIMMERBY KOMMUN",
+    "postort": "VIMMERBY",
+    "registered": "1974-01-01"
+  },
+  "2120000795": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BORGHOLMS KOMMUN",
+    "postort": "BORGHOLM",
+    "registered": "1974-01-01"
+  },
+  "2120000803": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "REGION GOTLAND",
+    "postort": "VISBY",
+    "registered": "1974-01-01"
+  },
+  "2120000811": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "OLOFSTRÖMS KOMMUN",
+    "postort": "OLOFSTRÖM",
+    "registered": "1974-01-01"
+  },
+  "2120000829": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KARLSKRONA KOMMUN",
+    "postort": "KARLSKRONA",
+    "registered": "1974-01-01"
+  },
+  "2120000837": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "RONNEBY KOMMUN",
+    "postort": "RONNEBY",
+    "registered": "1974-01-01"
+  },
+  "2120000845": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KARLSHAMNS KOMMUN",
+    "postort": "KARLSHAMN",
+    "registered": "1974-01-01"
+  },
+  "2120000852": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SÖLVESBORGS KOMMUN",
+    "postort": "SÖLVESBORG",
+    "registered": "1974-01-01"
+  },
+  "2120000860": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÖSTRA GÖINGE KOMMUN",
+    "postort": "BROBY",
+    "registered": "1974-01-01"
+  },
+  "2120000878": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÖRKELLJUNGA KOMMUN",
+    "postort": "ÖRKELLJUNGA",
+    "registered": "1974-01-01"
+  },
+  "2120000886": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TOMELILLA KOMMUN",
+    "postort": "TOMELILLA",
+    "registered": "1974-01-01"
+  },
+  "2120000894": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BROMÖLLA KOMMUN",
+    "postort": "BROMÖLLA",
+    "registered": "1974-01-01"
+  },
+  "2120000902": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "OSBY KOMMUN",
+    "postort": "OSBY",
+    "registered": "1974-01-01"
+  },
+  "2120000910": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "PERSTORPS KOMMUN",
+    "postort": "PERSTORP",
+    "registered": "1974-01-01"
+  },
+  "2120000928": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KLIPPANS KOMMUN",
+    "postort": "KLIPPAN",
+    "registered": "1974-01-01"
+  },
+  "2120000936": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÅSTORPS KOMMUN",
+    "postort": "ÅSTORP",
+    "registered": "1974-01-01"
+  },
+  "2120000944": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BÅSTADS KOMMUN",
+    "postort": "BÅSTAD",
+    "registered": "1974-01-01"
+  },
+  "2120000951": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KRISTIANSTADS KOMMUN",
+    "postort": "KRISTIANSTAD",
+    "registered": "1974-01-01"
+  },
+  "2120000969": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SIMRISHAMNS KOMMUN",
+    "postort": "SIMRISHAMN",
+    "registered": "1974-01-01"
+  },
+  "2120000977": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÄNGELHOLMS KOMMUN",
+    "postort": "ÄNGELHOLM",
+    "registered": "1974-01-01"
+  },
+  "2120000985": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HÄSSLEHOLMS KOMMUN",
+    "postort": "HÄSSLEHOLM",
+    "registered": "1974-01-01"
+  },
+  "2120000993": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SVALÖVS KOMMUN",
+    "postort": "SVALÖV",
+    "registered": "1974-01-01"
+  },
+  "2120001017": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "STAFFANSTORPS KOMMUN",
+    "postort": "STAFFANSTORP",
+    "registered": "1974-01-01"
+  },
+  "2120001025": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BURLÖVS KOMMUN",
+    "postort": "ARLÖV",
+    "registered": "1974-01-01"
+  },
+  "2120001033": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VELLINGE KOMMUN",
+    "postort": "VELLINGE",
+    "registered": "1974-01-01"
+  },
+  "2120001041": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BJUVS KOMMUN",
+    "postort": "BJUV",
+    "registered": "1974-01-01"
+  },
+  "2120001058": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KÄVLINGE KOMMUN",
+    "postort": "KÄVLINGE",
+    "registered": "1974-01-01"
+  },
+  "2120001066": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LOMMA KOMMUN",
+    "postort": "LOMMA",
+    "registered": "1974-01-01"
+  },
+  "2120001074": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SVEDALA KOMMUN",
+    "postort": "SVEDALA",
+    "registered": "1974-01-01"
+  },
+  "2120001082": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SKURUPS KOMMUN",
+    "postort": "SKURUP",
+    "registered": "1974-01-01"
+  },
+  "2120001090": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SJÖBO KOMMUN",
+    "postort": "SJÖBO",
+    "registered": "1974-01-01"
+  },
+  "2120001108": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HÖRBY KOMMUN",
+    "postort": "HÖRBY",
+    "registered": "1974-01-01"
+  },
+  "2120001116": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HÖÖRS KOMMUN",
+    "postort": "HÖÖR",
+    "registered": "1974-01-01"
+  },
+  "2120001124": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MALMÖ KOMMUN",
+    "postort": "MALMÖ",
+    "registered": "1974-01-01"
+  },
+  "2120001132": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LUNDS KOMMUN",
+    "postort": "LUND",
+    "registered": "1974-01-01"
+  },
+  "2120001140": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LANDSKRONA KOMMUN",
+    "postort": "LANDSKRONA",
+    "registered": "1974-01-01"
+  },
+  "2120001157": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HELSINGBORGS KOMMUN",
+    "postort": "HELSINGBORG",
+    "registered": "1975-01-01"
+  },
+  "2120001165": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HÖGANÄS KOMMUN",
+    "postort": "HÖGANÄS",
+    "registered": "1974-01-01"
+  },
+  "2120001173": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ESLÖVS KOMMUN",
+    "postort": "ESLÖV",
+    "registered": "1974-01-01"
+  },
+  "2120001181": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "YSTAD KOMMUN",
+    "postort": "YSTAD",
+    "registered": "1974-01-01"
+  },
+  "2120001199": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TRELLEBORGS KOMMUN",
+    "postort": "TRELLEBORG",
+    "registered": "1974-01-01"
+  },
+  "2120001207": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HYLTE KOMMUN",
+    "postort": "HYLTEBRUK",
+    "registered": "1974-01-01"
+  },
+  "2120001215": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HALMSTADS KOMMUN",
+    "postort": "HALMSTAD",
+    "registered": "1974-01-01"
+  },
+  "2120001223": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LAHOLMS KOMMUN",
+    "postort": "LAHOLM",
+    "registered": "1974-01-01"
+  },
+  "2120001231": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "FALKENBERGS KOMMUN",
+    "postort": "FALKENBERG",
+    "registered": "1974-01-01"
+  },
+  "2120001249": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VARBERGS KOMMUN",
+    "postort": "VARBERG",
+    "registered": "1974-01-01"
+  },
+  "2120001256": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KUNGSBACKA KOMMUN",
+    "postort": "KUNGSBACKA",
+    "registered": "1974-01-01"
+  },
+  "2120001264": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HÄRRYDA KOMMUN",
+    "postort": "MÖLNLYCKE",
+    "registered": "1974-01-01"
+  },
+  "2120001272": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "PARTILLE KOMMUN",
+    "postort": "PARTILLE",
+    "registered": "1974-01-01"
+  },
+  "2120001280": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÖCKERÖ KOMMUN",
+    "postort": "ÖCKERÖ",
+    "registered": "1974-01-01"
+  },
+  "2120001298": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "STENUNGSUNDS KOMMUN",
+    "postort": "STENUNGSUND",
+    "registered": "1974-01-01"
+  },
+  "2120001306": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TJÖRNS KOMMUN",
+    "postort": "SKÄRHAMN",
+    "registered": "1974-01-01"
+  },
+  "2120001314": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ORUST KOMMUN",
+    "postort": "HENÅN",
+    "registered": "1974-01-01"
+  },
+  "2120001322": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SOTENÄS KOMMUN",
+    "postort": "KUNGSHAMN",
+    "registered": "1974-01-01"
+  },
+  "2120001330": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MUNKEDALS KOMMUN",
+    "postort": "MUNKEDAL",
+    "registered": "1974-01-01"
+  },
+  "2120001348": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TANUMS KOMMUN",
+    "postort": "TANUMSHEDE",
+    "registered": "1974-01-01"
+  },
+  "2120001355": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "GÖTEBORGS KOMMUN",
+    "postort": "GÖTEBORG",
+    "registered": "1974-01-01"
+  },
+  "2120001363": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MÖLNDALS KOMMUN",
+    "postort": "MÖLNDAL",
+    "registered": "1974-01-01"
+  },
+  "2120001371": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KUNGÄLVS KOMMUN",
+    "postort": "KUNGÄLV",
+    "registered": "1974-01-01"
+  },
+  "2120001389": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LYSEKILS KOMMUN",
+    "postort": "LYSEKIL",
+    "registered": "1974-01-01"
+  },
+  "2120001397": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "UDDEVALLA KOMMUN",
+    "postort": "UDDEVALLA",
+    "registered": "1974-01-01"
+  },
+  "2120001405": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "STRÖMSTADS KOMMUN",
+    "postort": "STRÖMSTAD",
+    "registered": "1974-01-01"
+  },
+  "2120001413": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "DALS-EDS KOMMUN",
+    "postort": "ED",
+    "registered": "1975-01-01"
+  },
+  "2120001421": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "FÄRGELANDA KOMMUN",
+    "postort": "FÄRGELANDA",
+    "registered": "1974-01-01"
+  },
+  "2120001439": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ALE KOMMUN",
+    "postort": "ALAFORS",
+    "registered": "1974-01-01"
+  },
+  "2120001447": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LERUMS KOMMUN",
+    "postort": "LERUM",
+    "registered": "1974-01-01"
+  },
+  "2120001454": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VÅRGÅRDA KOMMUN",
+    "postort": "VÅRGÅRDA",
+    "registered": "1975-01-01"
+  },
+  "2120001462": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TRANEMO KOMMUN",
+    "postort": "TRANEMO",
+    "registered": "1974-01-01"
+  },
+  "2120001470": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BENGTSFORS KOMMUN",
+    "postort": "BENGTSFORS",
+    "registered": "1975-01-01"
+  },
+  "2120001488": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MELLERUDS KOMMUN",
+    "postort": "MELLERUD",
+    "registered": "1974-01-01"
+  },
+  "2120001496": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LILLA EDETS KOMMUN",
+    "postort": "LILLA EDET",
+    "registered": "1974-01-01"
+  },
+  "2120001504": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MARKS KOMMUN",
+    "postort": "KINNA",
+    "registered": "1974-01-01"
+  },
+  "2120001512": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SVENLJUNGA KOMMUN",
+    "postort": "SVENLJUNGA",
+    "registered": "1974-01-01"
+  },
+  "2120001520": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HERRLJUNGA KOMMUN",
+    "postort": "HERRLJUNGA",
+    "registered": "1975-01-01"
+  },
+  "2120001538": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VÄNERSBORGS KOMMUN",
+    "postort": "VÄNERSBORG",
+    "registered": "1974-01-01"
+  },
+  "2120001546": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TROLLHÄTTANS KOMMUN",
+    "postort": "TROLLHÄTTAN",
+    "registered": "1974-01-01"
+  },
+  "2120001553": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ALINGSÅS KOMMUN",
+    "postort": "ALINGSÅS",
+    "registered": "1975-01-01"
+  },
+  "2120001561": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BORÅS KOMMUN",
+    "postort": "BORÅS",
+    "registered": "1975-01-01"
+  },
+  "2120001579": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ULRICEHAMNS KOMMUN",
+    "postort": "ULRICEHAMN",
+    "registered": "1974-01-01"
+  },
+  "2120001587": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÅMÅLS KOMMUN",
+    "postort": "ÅMÅL",
+    "registered": "1975-01-01"
+  },
+  "2120001595": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "GRÄSTORPS KOMMUN",
+    "postort": "GRÄSTORP",
+    "registered": "1974-01-01"
+  },
+  "2120001603": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MULLSJÖ KOMMUN",
+    "postort": "MULLSJÖ",
+    "registered": "1974-01-01"
+  },
+  "2120001611": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HABO KOMMUN",
+    "postort": "HABO",
+    "registered": "1974-01-01"
+  },
+  "2120001629": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KARLSBORGS KOMMUN",
+    "postort": "KARLSBORG",
+    "registered": "1974-01-01"
+  },
+  "2120001637": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "GULLSPÅNGS KOMMUN",
+    "postort": "Mariestad",
+    "registered": "1974-01-01"
+  },
+  "2120001652": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "GÖTENE KOMMUN",
+    "postort": "GÖTENE",
+    "registered": "1974-01-01"
+  },
+  "2120001660": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TIBRO KOMMUN",
+    "postort": "TIBRO",
+    "registered": "1974-01-01"
+  },
+  "2120001678": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TÖREBODA KOMMUN",
+    "postort": "TÖREBODA",
+    "registered": "1974-01-01"
+  },
+  "2120001686": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MARIESTADS KOMMUN",
+    "postort": "MARIESTAD",
+    "registered": "1974-01-01"
+  },
+  "2120001694": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LIDKÖPINGS KOMMUN",
+    "postort": "LIDKÖPING",
+    "registered": "1974-01-01"
+  },
+  "2120001702": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SKARA KOMMUN",
+    "postort": "SKARA",
+    "registered": "1974-01-01"
+  },
+  "2120001710": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SKÖVDE KOMMUN",
+    "postort": "SKÖVDE",
+    "registered": "1974-01-01"
+  },
+  "2120001728": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HJO KOMMUN",
+    "postort": "HJO",
+    "registered": "1974-01-01"
+  },
+  "2120001736": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TIDAHOLMS KOMMUN",
+    "postort": "TIDAHOLM",
+    "registered": "1974-01-01"
+  },
+  "2120001744": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "FALKÖPINGS KOMMUN",
+    "postort": "FALKÖPING",
+    "registered": "1974-01-01"
+  },
+  "2120001751": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KILS KOMMUN",
+    "postort": "KIL",
+    "registered": "1974-01-01"
+  },
+  "2120001769": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "EDA KOMMUN",
+    "postort": "CHARLOTTENBERG",
+    "registered": "1974-01-01"
+  },
+  "2120001777": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TORSBY KOMMUN",
+    "postort": "TORSBY",
+    "registered": "1974-01-01"
+  },
+  "2120001785": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "STORFORS KOMMUN",
+    "postort": "STORFORS",
+    "registered": "1974-01-01"
+  },
+  "2120001793": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HAMMARÖ KOMMUN",
+    "postort": "SKOGHALL",
+    "registered": "1974-01-01"
+  },
+  "2120001801": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MUNKFORS KOMMUN",
+    "postort": "MUNKFORS",
+    "registered": "1974-01-01"
+  },
+  "2120001819": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "FORSHAGA KOMMUN",
+    "postort": "FORSHAGA",
+    "registered": "1974-01-01"
+  },
+  "2120001827": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "GRUMS KOMMUN",
+    "postort": "GRUMS",
+    "registered": "1974-01-01"
+  },
+  "2120001835": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÅRJÄNGS KOMMUN",
+    "postort": "ÅRJÄNG",
+    "registered": "1974-01-01"
+  },
+  "2120001843": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SUNNE KOMMUN",
+    "postort": "SUNNE",
+    "registered": "1974-01-01"
+  },
+  "2120001850": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KARLSTADS KOMMUN",
+    "postort": "KARLSTAD",
+    "registered": "1974-01-01"
+  },
+  "2120001868": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KRISTINEHAMNS KOMMUN",
+    "postort": "KRISTINEHAMN",
+    "registered": "1974-01-01"
+  },
+  "2120001876": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "FILIPSTADS KOMMUN",
+    "postort": "FILIPSTAD",
+    "registered": "1974-01-01"
+  },
+  "2120001884": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HAGFORS KOMMUN",
+    "postort": "HAGFORS",
+    "registered": "1974-01-01"
+  },
+  "2120001892": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ARVIKA KOMMUN",
+    "postort": "ARVIKA",
+    "registered": "1974-01-01"
+  },
+  "2120001900": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SÄFFLE KOMMUN",
+    "postort": "SÄFFLE",
+    "registered": "1974-01-01"
+  },
+  "2120001918": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LAXÅ KOMMUN",
+    "postort": "LAXÅ",
+    "registered": "1974-01-01"
+  },
+  "2120001926": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HALLSBERGS KOMMUN",
+    "postort": "HALLSBERG",
+    "registered": "1974-01-01"
+  },
+  "2120001934": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "DEGERFORS KOMMUN",
+    "postort": "DEGERFORS",
+    "registered": "1974-01-01"
+  },
+  "2120001942": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HÄLLEFORS KOMMUN",
+    "postort": "HÄLLEFORS",
+    "registered": "1974-01-01"
+  },
+  "2120001959": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LJUSNARSBERGS KOMMUN",
+    "postort": "KOPPARBERG",
+    "registered": "1974-01-01"
+  },
+  "2120001967": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÖREBRO KOMMUN",
+    "postort": "ÖREBRO",
+    "registered": "1974-01-01"
+  },
+  "2120001975": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KUMLA KOMMUN",
+    "postort": "KUMLA",
+    "registered": "1974-01-01"
+  },
+  "2120001983": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ASKERSUNDS KOMMUN",
+    "postort": "ASKERSUND",
+    "registered": "1974-01-01"
+  },
+  "2120001991": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KARLSKOGA KOMMUN",
+    "postort": "KARLSKOGA",
+    "registered": "1974-01-01"
+  },
+  "2120002007": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "NORA KOMMUN",
+    "postort": "NORA",
+    "registered": "1974-01-01"
+  },
+  "2120002015": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LINDESBERGS KOMMUN",
+    "postort": "LINDESBERG",
+    "registered": "1974-01-01"
+  },
+  "2120002023": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SKINNSKATTEBERGS KOMMUN",
+    "postort": "SKINNSKATTEBERG",
+    "registered": "1974-01-01"
+  },
+  "2120002031": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SURAHAMMARS KOMMUN",
+    "postort": "SURAHAMMAR",
+    "registered": "1974-01-01"
+  },
+  "2120002049": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HEBY KOMMUN",
+    "postort": "HEBY",
+    "registered": "1974-01-01"
+  },
+  "2120002056": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KUNGSÖRS KOMMUN",
+    "postort": "KUNGSÖR",
+    "registered": "1974-01-01"
+  },
+  "2120002064": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HALLSTAHAMMARS KOMMUN",
+    "postort": "HALLSTAHAMMAR",
+    "registered": "1974-01-01"
+  },
+  "2120002072": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "NORBERGS KOMMUN",
+    "postort": "NORBERG",
+    "registered": "1974-01-01"
+  },
+  "2120002080": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VÄSTERÅS KOMMUN",
+    "postort": "VÄSTERÅS",
+    "registered": "1974-01-01"
+  },
+  "2120002098": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SALA KOMMUN",
+    "postort": "SALA",
+    "registered": "1974-01-01"
+  },
+  "2120002106": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "FAGERSTA KOMMUN",
+    "postort": "FAGERSTA",
+    "registered": "1974-01-01"
+  },
+  "2120002114": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KÖPINGS KOMMUN",
+    "postort": "KÖPING",
+    "registered": "1974-01-01"
+  },
+  "2120002122": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ARBOGA KOMMUN",
+    "postort": "ARBOGA",
+    "registered": "1974-01-01"
+  },
+  "2120002130": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VANSBRO KOMMUN",
+    "postort": "VANSBRO",
+    "registered": "1974-01-01"
+  },
+  "2120002148": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MALUNG-SÄLENS KOMMUN",
+    "postort": "MALUNG",
+    "registered": "1974-01-01"
+  },
+  "2120002155": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "GAGNEFS KOMMUN",
+    "postort": "GAGNEF",
+    "registered": "1974-01-01"
+  },
+  "2120002163": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LEKSANDS KOMMUN",
+    "postort": "LEKSAND",
+    "registered": "1974-01-01"
+  },
+  "2120002171": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "RÄTTVIKS KOMMUN",
+    "postort": "RÄTTVIK",
+    "registered": "1974-01-01"
+  },
+  "2120002189": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ORSA KOMMUN",
+    "postort": "ORSA",
+    "registered": "1974-01-01"
+  },
+  "2120002197": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÄLVDALENS KOMMUN",
+    "postort": "ÄLVDALEN",
+    "registered": "1974-01-01"
+  },
+  "2120002205": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SMEDJEBACKENS KOMMUN",
+    "postort": "SMEDJEBACKEN",
+    "registered": "1974-01-01"
+  },
+  "2120002213": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MORA KOMMUN",
+    "postort": "MORA",
+    "registered": "1974-01-01"
+  },
+  "2120002221": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "FALU KOMMUN",
+    "postort": "FALUN",
+    "registered": "1974-01-01"
+  },
+  "2120002239": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BORLÄNGE KOMMUN",
+    "postort": "BORLÄNGE",
+    "registered": "1974-01-01"
+  },
+  "2120002247": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SÄTERS KOMMUN",
+    "postort": "SÄTER",
+    "registered": "1974-01-01"
+  },
+  "2120002254": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HEDEMORA KOMMUN",
+    "postort": "HEDEMORA",
+    "registered": "1974-01-01"
+  },
+  "2120002262": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "AVESTA KOMMUN",
+    "postort": "AVESTA",
+    "registered": "1974-01-01"
+  },
+  "2120002270": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LUDVIKA KOMMUN",
+    "postort": "LUDVIKA",
+    "registered": "1974-01-01"
+  },
+  "2120002288": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "OCKELBO KOMMUN",
+    "postort": "OCKELBO",
+    "registered": "1974-01-01"
+  },
+  "2120002296": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HOFORS KOMMUN",
+    "postort": "HOFORS",
+    "registered": "1974-01-01"
+  },
+  "2120002304": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "OVANÅKERS KOMMUN",
+    "postort": "EDSBYN",
+    "registered": "1974-01-01"
+  },
+  "2120002312": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "NORDANSTIGS KOMMUN",
+    "postort": "BERGSJÖ",
+    "registered": "1974-01-01"
+  },
+  "2120002320": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LJUSDALS KOMMUN",
+    "postort": "LJUSDAL",
+    "registered": "1974-01-01"
+  },
+  "2120002338": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "GÄVLE KOMMUN",
+    "postort": "GÄVLE",
+    "registered": "1974-01-01"
+  },
+  "2120002346": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SANDVIKENS KOMMUN",
+    "postort": "SANDVIKEN",
+    "registered": "1974-01-01"
+  },
+  "2120002353": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SÖDERHAMNS KOMMUN",
+    "postort": "SÖDERHAMN",
+    "registered": "1974-01-01"
+  },
+  "2120002361": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BOLLNÄS KOMMUN",
+    "postort": "BOLLNÄS",
+    "registered": "1974-01-01"
+  },
+  "2120002379": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HUDIKSVALLS KOMMUN",
+    "postort": "HUDIKSVALL",
+    "registered": "1974-01-01"
+  },
+  "2120002387": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÅNGE KOMMUN",
+    "postort": "ÅNGE",
+    "registered": "1974-01-01"
+  },
+  "2120002395": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TIMRÅ KOMMUN",
+    "postort": "TIMRÅ",
+    "registered": "1974-01-01"
+  },
+  "2120002403": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HÄRNÖSANDS KOMMUN",
+    "postort": "HÄRNÖSAND",
+    "registered": "1974-01-01"
+  },
+  "2120002411": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SUNDSVALLS KOMMUN",
+    "postort": "SUNDSVALL",
+    "registered": "1974-01-01"
+  },
+  "2120002429": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KRAMFORS KOMMUN",
+    "postort": "KRAMFORS",
+    "registered": "1974-01-01"
+  },
+  "2120002437": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SOLLEFTEÅ KOMMUN",
+    "postort": "SOLLEFTEÅ",
+    "registered": "1974-01-01"
+  },
+  "2120002445": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÖRNSKÖLDSVIKS KOMMUN",
+    "postort": "ÖRNSKÖLDSVIK",
+    "registered": "1974-01-01"
+  },
+  "2120002452": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "RAGUNDA KOMMUN",
+    "postort": "HAMMARSTRAND",
+    "registered": "1974-01-01"
+  },
+  "2120002460": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BRÄCKE KOMMUN",
+    "postort": "BRÄCKE",
+    "registered": "1974-01-01"
+  },
+  "2120002478": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KROKOMS KOMMUN",
+    "postort": "KROKOM",
+    "registered": "1974-01-01"
+  },
+  "2120002486": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "STRÖMSUNDS KOMMUN",
+    "postort": "STRÖMSUND",
+    "registered": "1974-01-01"
+  },
+  "2120002494": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÅRE KOMMUN",
+    "postort": "JÄRPEN",
+    "registered": "1974-01-01"
+  },
+  "2120002502": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BERGS KOMMUN",
+    "postort": "SVENSTAVIK",
+    "registered": "1974-01-01"
+  },
+  "2120002510": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HÄRJEDALENS KOMMUN",
+    "postort": "SVEG",
+    "registered": "1974-01-01"
+  },
+  "2120002528": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÖSTERSUNDS KOMMUN",
+    "postort": "ÖSTERSUND",
+    "registered": "1974-01-01"
+  },
+  "2120002536": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "NORDMALINGS KOMMUN",
+    "postort": "NORDMALING",
+    "registered": "1974-01-01"
+  },
+  "2120002544": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VINDELNS KOMMUN",
+    "postort": "VINDELN",
+    "registered": "1974-01-01"
+  },
+  "2120002551": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ROBERTSFORS KOMMUN",
+    "postort": "ROBERTSFORS",
+    "registered": "1974-01-01"
+  },
+  "2120002577": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "STORUMANS KOMMUN",
+    "postort": "STORUMAN",
+    "registered": "1974-01-01"
+  },
+  "2120002585": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SORSELE KOMMUN",
+    "postort": "SORSELE",
+    "registered": "1974-01-01"
+  },
+  "2120002601": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VILHELMINA KOMMUN",
+    "postort": "VILHELMINA",
+    "registered": "1974-01-01"
+  },
+  "2120002627": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "UMEÅ KOMMUN",
+    "postort": "UMEÅ",
+    "registered": "1974-01-01"
+  },
+  "2120002635": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LYCKSELE KOMMUN",
+    "postort": "LYCKSELE",
+    "registered": "1974-01-01"
+  },
+  "2120002643": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SKELLEFTEÅ KOMMUN",
+    "postort": "SKELLEFTEÅ",
+    "registered": "1974-01-01"
+  },
+  "2120002650": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ARVIDSJAURS KOMMUN",
+    "postort": "ARVIDSJAUR",
+    "registered": "1974-01-01"
+  },
+  "2120002668": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ARJEPLOGS KOMMUN",
+    "postort": "ARJEPLOG",
+    "registered": "1974-01-01"
+  },
+  "2120002676": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "JOKKMOKKS KOMMUN",
+    "postort": "JOKKMOKK",
+    "registered": "1974-01-01"
+  },
+  "2120002684": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÖVERKALIX KOMMUN",
+    "postort": "ÖVERKALIX",
+    "registered": "1974-01-01"
+  },
+  "2120002692": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KALIX KOMMUN",
+    "postort": "KALIX",
+    "registered": "1974-01-01"
+  },
+  "2120002700": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÖVERTORNEÅ KOMMUN",
+    "postort": "ÖVERTORNEÅ",
+    "registered": "1974-01-01"
+  },
+  "2120002718": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "PAJALA KOMMUN",
+    "postort": "PAJALA",
+    "registered": "1974-01-01"
+  },
+  "2120002726": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "GÄLLIVARE KOMMUN",
+    "postort": "GÄLLIVARE",
+    "registered": "1974-01-01"
+  },
+  "2120002734": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÄLVSBYNS KOMMUN",
+    "postort": "ÄLVSBYN",
+    "registered": "1971-01-01"
+  },
+  "2120002742": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LULEÅ KOMMUN",
+    "postort": "LULEÅ",
+    "registered": "1974-01-01"
+  },
+  "2120002759": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "PITEÅ KOMMUN",
+    "postort": "PITEÅ",
+    "registered": "1974-01-01"
+  },
+  "2120002767": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BODENS KOMMUN",
+    "postort": "BODEN",
+    "registered": "1974-01-01"
+  },
+  "2120002775": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "HAPARANDA KOMMUN",
+    "postort": "HAPARANDA",
+    "registered": "1974-01-01"
+  },
+  "2120002783": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KIRUNA KOMMUN",
+    "postort": "KIRUNA",
+    "registered": "1974-01-01"
+  },
+  "2120002791": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÅSELE KOMMUN",
+    "postort": "ÅSELE",
+    "registered": "1980-01-01"
+  },
+  "2120002809": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "DOROTEA KOMMUN",
+    "postort": "DOROTEA",
+    "registered": "1980-01-01"
+  },
+  "2120002817": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MOTALA KOMMUN",
+    "postort": "MOTALA",
+    "registered": "1979-01-01"
+  },
+  "2120002825": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VADSTENA KOMMUN",
+    "postort": "VADSTENA",
+    "registered": "1980-01-01"
+  },
+  "2120002833": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BJURHOLMS KOMMUN",
+    "postort": "BJURHOLM",
+    "registered": "1983-01-08"
+  },
+  "2120002841": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VÄNNÄS KOMMUN",
+    "postort": "VÄNNÄS",
+    "registered": "1983-01-08"
+  },
+  "2120002858": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "NORSJÖ KOMMUN",
+    "postort": "NORSJÖ",
+    "registered": "1983-01-08"
+  },
+  "2120002866": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "MALÅ KOMMUN",
+    "postort": "MALÅ",
+    "registered": "1983-01-08"
+  },
+  "2120002874": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "SALEMS KOMMUN",
+    "postort": "RÖNNINGE",
+    "registered": "1983-01-08"
+  },
+  "2120002882": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BOTKYRKA KOMMUN",
+    "postort": "TUMBA",
+    "registered": "1983-01-08"
+  },
+  "2120002890": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ÖSTERÅKERS KOMMUN",
+    "postort": "ÅKERSBERGA",
+    "registered": "1983-01-08"
+  },
+  "2120002908": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VAXHOLMS KOMMUN",
+    "postort": "VAXHOLM",
+    "registered": "1983-01-08"
+  },
+  "2120002916": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "ESSUNGA KOMMUN",
+    "postort": "NOSSEBRO",
+    "registered": "1983-01-08"
+  },
+  "2120002924": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "VARA KOMMUN",
+    "postort": "VARA",
+    "registered": "1983-01-08"
+  },
+  "2120002940": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "NYKÖPINGS KOMMUN",
+    "postort": "NYKÖPING",
+    "registered": "1991-12-17"
+  },
+  "2120002957": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "TROSA KOMMUN",
+    "postort": "TROSA",
+    "registered": "1991-12-17"
+  },
+  "2120002965": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "GNESTA KOMMUN",
+    "postort": "GNESTA",
+    "registered": "1992-01-15"
+  },
+  "2120002973": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "BOLLEBYGDS KOMMUN",
+    "postort": "BOLLEBYGD",
+    "registered": "1994-12-10"
+  },
+  "2120002981": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "LEKEBERGS KOMMUN",
+    "postort": "FJUGESTA",
+    "registered": "1994-11-19"
+  },
+  "2120002999": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "NYKVARNS KOMMUN",
+    "postort": "NYKVARN",
+    "registered": "1999-02-19"
+  },
+  "2120003005": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "UPPSALA KOMMUN",
+    "postort": "UPPSALA",
+    "registered": "2003-01-13"
+  },
+  "2120003013": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "82",
+    "name": "KNIVSTA KOMMUN",
+    "postort": "KNIVSTA",
+    "registered": "2003-01-13"
+  },
+  "2220000117": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KÄPPALAFÖRBUNDET",
+    "postort": "LIDINGÖ",
+    "registered": "1975-01-01"
+  },
+  "2220000158": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET NORRVATTEN",
+    "postort": "SOLNA",
+    "registered": "1975-01-01"
+  },
+  "2220000182": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "NOVF",
+    "postort": "NYKÖPING",
+    "registered": "1975-01-01"
+  },
+  "2220000224": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "NORDVÄSTRA SKÅNES KOMMUNALFÖRBUND",
+    "postort": "HELSINGBORG",
+    "registered": "1975-01-01"
+  },
+  "2220000265": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "GÖTEBORGSREGIONENS KOMMUNALFÖRBUND",
+    "postort": "GÖTEBORG",
+    "registered": "1975-01-01"
+  },
+  "2220000281": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET SKARABORGSVATTEN",
+    "postort": "STENSTORP",
+    "registered": "1975-01-01"
+  },
+  "2220000299": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KARLSTAD-GRUMS VATTENVERKSFÖRBUND",
+    "postort": "KARLSTAD",
+    "registered": "1975-01-01"
+  },
+  "2220000315": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "61",
+    "name": "SVERIGES KOMMUNER OCH REGIONER",
+    "postort": "STOCKHOLM",
+    "registered": "1976-01-01"
+  },
+  "2220000323": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "VÅRDFÖRBUNDET SÖRMLAND",
+    "postort": "VINGÅKER",
+    "registered": "1983-01-08"
+  },
+  "2220000331": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "VÄSTERBOTTENS VÅRDFÖRBUND",
+    "postort": "UMEÅ",
+    "registered": "1983-01-08"
+  },
+  "2220000356": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "STORSTOCKHOLMS BRANDFÖRSVAR",
+    "postort": "STOCKHOLM",
+    "registered": "1984-04-15"
+  },
+  "2220000406": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "VÄRMLANDS LÄNS VÅRDFÖRBUND",
+    "postort": "FORSHAGA",
+    "registered": "1989-01-29"
+  },
+  "2220000422": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Medelpads Räddningstjänstförbund",
+    "postort": "SUNDSVALL",
+    "registered": "1989-12-10"
+  },
+  "2220000448": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "61",
+    "name": "STORSTHLM",
+    "postort": "STOCKHOLM",
+    "registered": "1990-12-24"
+  },
+  "2220000687": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "VOB KRONOBERG",
+    "postort": "VÄXJÖ",
+    "registered": "1991-06-11"
+  },
+  "2220000711": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNSAMVERKAN CURA INDIVIDUTVECKLING",
+    "postort": "KARLSHAMN",
+    "registered": "1993-02-05"
+  },
+  "2220000737": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SÖDERTÖRNS BRANDFÖRSVARSFÖRBUND",
+    "postort": "VÅRBY",
+    "registered": "1993-02-19"
+  },
+  "2220000745": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOLBÄCKSÅDALENS PENSIONSFÖRBUND",
+    "postort": "HALLSTAHAMMAR",
+    "registered": "1992-11-18"
+  },
+  "2220000752": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "RÄDDNINGSTJÄNSTFÖRBUNDET STORGÖTEBORG",
+    "postort": "GÖTEBORG",
+    "registered": "1992-12-09"
+  },
+  "2220000760": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "LAPPLANDS KOMMUNALFÖRBUND",
+    "postort": "KIRUNA",
+    "registered": "1993-10-29"
+  },
+  "2220000778": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "GÄSTRIKE RÄDDNINGSTJÄNST",
+    "postort": "GÄVLE",
+    "registered": "1993-11-19"
+  },
+  "2220000786": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "TORNEDALSRÅDET",
+    "postort": "HAPARANDA",
+    "registered": "1994-05-21"
+  },
+  "2220000802": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "VÄSTERBERGSLAGENS UTBILDNINGSFÖRBUND,VBU",
+    "postort": "LUDVIKA",
+    "registered": "1994-06-04"
+  },
+  "2220000810": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SÖDRA ÄLVSBORGS RÄDDNINGSTJÄNSTFÖRBUND",
+    "postort": "BORÅS",
+    "registered": "1995-02-05"
+  },
+  "2220000877": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Dalsland Miljö- och energiförbund",
+    "postort": "MELLERUD",
+    "registered": "1996-07-29"
+  },
+  "2220000919": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "BERGSLAGENS RÄDDNINGSTJÄNST",
+    "postort": "KRISTINEHAMN",
+    "registered": "1996-12-02"
+  },
+  "2220000935": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "RÄDDNINGSTJÄNSTEN VÄSTRA BLEKINGE",
+    "postort": "KARLSHAMN",
+    "registered": "1997-01-08"
+  },
+  "2220000943": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET AV MEDIA SKÅNE",
+    "postort": "HÄSSLEHOLM",
+    "registered": "1997-01-08"
+  },
+  "2220000950": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "RÄDDNINGSTJÄNSTEN FYRBODAL",
+    "postort": "TROLLHÄTTAN",
+    "registered": "1997-02-26"
+  },
+  "2220000976": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "BRANDKÅREN ATTUNDA",
+    "postort": "SOLLENTUNA",
+    "registered": "1997-06-11"
+  },
+  "2220001008": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SJUHÄRADS KOMMUNALFÖRBUND",
+    "postort": "BORÅS",
+    "registered": "1999-11-26"
+  },
+  "2220001016": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "NERIKES BRANDKÅR",
+    "postort": "ÖREBRO",
+    "registered": "1997-12-03"
+  },
+  "2220001024": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "UTBILDNINGSFÖRBUNDET SOLNA/SUNDBYBERG",
+    "postort": "SUNDBYBERG",
+    "registered": "1998-02-19"
+  },
+  "2220001057": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET VÄSTMANLANDS TEATER",
+    "postort": "VÄSTERÅS",
+    "registered": "1997-12-03"
+  },
+  "2220001065": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SÖDRA DALARNAS RÄDDNINGSTJÄNSTFÖRBUND",
+    "postort": "AVESTA",
+    "registered": "1997-12-03"
+  },
+  "2220001073": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "VÄSTMANLANDSMUSIKEN",
+    "postort": "VÄSTERÅS",
+    "registered": "1998-01-29"
+  },
+  "2220001099": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "RÄDDNINGSTJÄNSTEN DALA MITT",
+    "postort": "FALUN",
+    "registered": "1998-04-30"
+  },
+  "2220001115": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "RÄDDNINGSTJÄNSTEN SKARABORG",
+    "postort": "SKÖVDE",
+    "registered": "1999-02-19"
+  },
+  "2220001131": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET VÄSTRA SÖRMLANDS RÄDDNINGSTJÄN",
+    "postort": "KATRINEHOLM",
+    "registered": "1999-02-19"
+  },
+  "2220001149": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SYDÖSTRA SKÅNES RÄDDNINGSTJÄNSTFÖRBUND-SÖRF",
+    "postort": "YSTAD",
+    "registered": "1998-12-24"
+  },
+  "2220001172": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "ARKIVNÄMNDEN F V GÖTALANDSREGIONEN OCH GÖTEBORG",
+    "postort": "GÖTEBORG",
+    "registered": "1999-06-04"
+  },
+  "2220001180": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SYDNÄRKES UTBILDNINGSFÖRBUND",
+    "postort": "HALLSBERG",
+    "registered": "1999-07-16"
+  },
+  "2220001206": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Kommunalförbundet Avfall & Återvinning Skaraborg",
+    "postort": "SKÖVDE",
+    "registered": "1999-11-26"
+  },
+  "2220001230": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KARLSTADSREGIONENS RÄDDNINGSTJÄNSTFÖRBUND",
+    "postort": "KARLSTAD",
+    "registered": "2000-01-27"
+  },
+  "2220001255": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET RÄDDNINGSTJÄNSTEN Ö BLEKINGE",
+    "postort": "KARLSKRONA",
+    "registered": "2000-07-11"
+  },
+  "2220001271": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "RÄDDNINGSTJÄNSTEN MÄLARDALEN",
+    "postort": "VÄSTERÅS",
+    "registered": "2001-01-16"
+  },
+  "2220001289": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET PARTNERSKAP INLAND-AKADEMI N",
+    "postort": "STORUMAN",
+    "registered": "2007-11-14"
+  },
+  "2220001313": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET NORRLANDS NÄTVERK FÖR MUSIKTEATER OCH DANS (NMD)",
+    "postort": "UMEÅ",
+    "registered": "2000-12-14"
+  },
+  "2220001339": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "GÄSTRIKE ÅTERVINNARE",
+    "postort": "GÄVLE",
+    "registered": "2001-05-05"
+  },
+  "2220001354": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "RÄDDNINGSTJÄNSTEN HÖGA KUSTEN-ÅDALEN",
+    "postort": "KRAMFORS",
+    "registered": "2001-10-16"
+  },
+  "2220001388": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "HÖGLANDETS RÄDDNINGSTJÄNSTFÖRBUND",
+    "postort": "NÄSSJÖ",
+    "registered": "2001-12-03"
+  },
+  "2220001396": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "VÄRENDS RÄDDNINGSTJÄNSTFÖRBUND",
+    "postort": "VÄXJÖ",
+    "registered": "2001-12-31"
+  },
+  "2220001404": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "VÄRMLANDS LÄNS KALKNINGSFÖRBUND",
+    "postort": "CHARLOTTENBERG",
+    "registered": "2001-12-31"
+  },
+  "2220001412": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "HÖGLANDSFÖRBUNDET",
+    "postort": "EKSJÖ",
+    "registered": "2002-03-04"
+  },
+  "2220001420": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "REGION HALLAND",
+    "postort": "HALMSTAD",
+    "registered": "2003-01-13"
+  },
+  "2220001479": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRB.RÄDDNINGSTJÄNSTEN ÖSTRA KRONOBERG",
+    "postort": "LESSEBO",
+    "registered": "2003-01-13"
+  },
+  "2220001487": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samhällsbyggnadsförbundet Bergslagen",
+    "postort": "NORA",
+    "registered": "2002-11-07"
+  },
+  "2220001529": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "REGION SILJAN",
+    "postort": "MORA",
+    "registered": "2003-01-13"
+  },
+  "2220001552": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "NORRA VÄSTMANLANDS KOMMUNALTEKNIKFÖRBUND",
+    "postort": "FAGERSTA",
+    "registered": "2003-12-17"
+  },
+  "2220001560": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "JÄMTLANDS RÄDDNINGSTJÄNSTFÖRBUND",
+    "postort": "ÖSTERSUND",
+    "registered": "2003-12-17"
+  },
+  "2220001578": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "VÄSTRA MÄLARDALENS KOMMUNALFÖRBUND",
+    "postort": "KÖPING",
+    "registered": "2004-01-15"
+  },
+  "2220001594": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET MEDELPUNKTEN",
+    "postort": "HELSINGBORG",
+    "registered": "2004-05-28"
+  },
+  "2220001602": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "GÖLISKA IT",
+    "postort": "LIDKÖPING",
+    "registered": "2004-08-26"
+  },
+  "2220001636": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "JÄMTLANDS GYMNASIEFÖRBUND",
+    "postort": "ÖSTERSUND",
+    "registered": "2004-11-25"
+  },
+  "2220001644": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "MILJÖFÖRBUNDET BLEKINGE VÄST",
+    "postort": "SÖLVESBORG",
+    "registered": "2004-12-16"
+  },
+  "2220001651": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "NORRA SJUKVÅRDSREGIONFÖRBUNDET",
+    "postort": "UMEÅ",
+    "registered": "2004-12-16"
+  },
+  "2220001701": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET ÖSTRA ÖSTERGÖTLAND",
+    "postort": "NORRKÖPING",
+    "registered": "2005-02-17"
+  },
+  "2220001719": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET SÖDRA VÄNERN",
+    "postort": "TROLLHÄTTAN",
+    "registered": "2005-03-25"
+  },
+  "2220001727": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SÖDRA DALARNAS SAMORDNINGSFÖRBUND",
+    "postort": "AVESTA",
+    "registered": "2005-03-25"
+  },
+  "2220001735": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "VÄSTERBERGSLAGENS SAMORDNINGSFÖRBUND",
+    "postort": "LUDVIKA",
+    "registered": "2005-03-31"
+  },
+  "2220001743": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET I KRAMFORS",
+    "postort": "KRAMFORS",
+    "registered": "2005-04-07"
+  },
+  "2220001750": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet Västra Östergötland",
+    "postort": "MOTALA",
+    "registered": "2005-04-14"
+  },
+  "2220001768": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET I SUNDSVALL",
+    "postort": "SUNDSVALL",
+    "registered": "2005-05-12"
+  },
+  "2220001776": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "FYRBODALS KOMMUNALFÖRBUND",
+    "postort": "UDDEVALLA",
+    "registered": "2005-05-26"
+  },
+  "2220001784": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET LYCKSELE",
+    "postort": "LYCKSELE",
+    "registered": "2005-08-01"
+  },
+  "2220001792": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET SÖRMLAND",
+    "postort": "NYKÖPING",
+    "registered": "2005-08-01"
+  },
+  "2220001800": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "VÄSTRA VÄRMLANDS OCH NORRA DALSLANDS SAMORDNINGSFÖRBUND",
+    "postort": "ARVIKA",
+    "registered": "2005-08-01"
+  },
+  "2220001818": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET I NORRA ÖREBRO LÄN, SOFINT",
+    "postort": "LINDESBERG",
+    "registered": "2005-08-25"
+  },
+  "2220001826": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Mediacenter Jönköpings län",
+    "postort": "JÖNKÖPING",
+    "registered": "2006-01-13"
+  },
+  "2220001834": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet Umeåregionen",
+    "postort": "UMEÅ",
+    "registered": "2005-09-22"
+  },
+  "2220001859": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET I KALMAR LÄN",
+    "postort": "KALMAR",
+    "registered": "2005-10-27"
+  },
+  "2220001883": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Kretslopp Sydost",
+    "postort": "KALMAR",
+    "registered": "2005-12-23"
+  },
+  "2220001891": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Kommunalförbundet Sjukvård och Omsorg i Norrtälje",
+    "postort": "NORRTÄLJE",
+    "registered": "2005-12-01"
+  },
+  "2220001909": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "RÄDDNINGSTJÄNSTEN SYD",
+    "postort": "MALMÖ",
+    "registered": "2005-12-01"
+  },
+  "2220001925": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUND FÖR REHABILITERING I SÖDERTÄLJE",
+    "postort": "SÖDERTÄLJE",
+    "registered": "2006-01-13"
+  },
+  "2220001933": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet Skellefteå",
+    "postort": "SKELLEFTEÅ",
+    "registered": "2005-12-01"
+  },
+  "2220001941": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET ÄLV & KUST",
+    "postort": "KUNGÄLV",
+    "registered": "2005-12-15"
+  },
+  "2220001966": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET BERG",
+    "postort": "SVENSTAVIK",
+    "registered": "2006-01-13"
+  },
+  "2220001974": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET VÄSTMANLAND",
+    "postort": "FAGERSTA",
+    "registered": "2006-01-13"
+  },
+  "2220001982": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET I SOLLEFTEÅ",
+    "postort": "SOLLEFTEÅ",
+    "registered": "2006-02-23"
+  },
+  "2220001990": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET I JÄMTLANDS LÄN",
+    "postort": "ÖSTERSUND",
+    "registered": "2006-02-23"
+  },
+  "2220002030": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET VÄST",
+    "postort": "UDDEVALLA",
+    "registered": "2006-04-06"
+  },
+  "2220002055": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET HÄRNÖSAND-TIMRÅ",
+    "postort": "TIMRÅ",
+    "registered": "2006-04-20"
+  },
+  "2220002063": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET I ÖRNSKÖLDSVIK",
+    "postort": "ÖRNSKÖLDSVIK",
+    "registered": "2006-08-01"
+  },
+  "2220002071": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET INSJÖRIKET",
+    "postort": "MÖLNDAL",
+    "registered": "2006-08-01"
+  },
+  "2220002097": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET SKANDIONKLINIKEN",
+    "postort": "UPPSALA",
+    "registered": "2006-08-31"
+  },
+  "2220002105": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SJUHÄRADS SAMORDNINGSFÖRBUND",
+    "postort": "BORÅS",
+    "registered": "2006-09-14"
+  },
+  "2220002113": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET ÅRE KOMMUN",
+    "postort": "JÄRPEN",
+    "registered": "2006-09-21"
+  },
+  "2220002139": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET FINSAM-FALUN",
+    "postort": "FALUN",
+    "registered": "2006-10-12"
+  },
+  "2220002147": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SUNNERBO SAMORDNINGSFÖRBUND",
+    "postort": "LJUNGBY",
+    "registered": "2006-10-26"
+  },
+  "2220002154": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET SKARABORG",
+    "postort": "SKÖVDE",
+    "registered": "2006-11-16"
+  },
+  "2220002162": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET ÖSTRA SÖDERTÖRN",
+    "postort": "HANINGE",
+    "registered": "2006-12-23"
+  },
+  "2220002188": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SKARABORGS KOMMUNALFÖRBUND",
+    "postort": "SKÖVDE",
+    "registered": "2006-12-23"
+  },
+  "2220002204": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET SÖDRA NORRBOTTEN",
+    "postort": "LULEÅ",
+    "registered": "2006-12-23"
+  },
+  "2220002279": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet Karlskoga/Degerfors i Örebro län",
+    "postort": "KARLSKOGA",
+    "registered": "2007-02-22"
+  },
+  "2220002295": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet FINSAM i Malmö",
+    "postort": "MALMÖ",
+    "registered": "2007-04-12"
+  },
+  "2220002329": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "NedanSiljans Samordningsförbund",
+    "postort": "GAGNEF",
+    "registered": "2007-05-24"
+  },
+  "2220002337": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KLARÄLVDALENS SAMORDNINGSFÖRBUND",
+    "postort": "MUNKFORS",
+    "registered": "2007-05-24"
+  },
+  "2220002352": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet Östra Värmland",
+    "postort": "FILIPSTAD",
+    "registered": "2007-06-21"
+  },
+  "2220002378": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "VA SYD",
+    "postort": "MALMÖ",
+    "registered": "2008-01-11"
+  },
+  "2220002394": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET GOTLAND",
+    "postort": "VISBY",
+    "registered": "2007-09-27"
+  },
+  "2220002410": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Räddningstjänsten Enköping-Håbo",
+    "postort": "ENKÖPING",
+    "registered": "2008-01-11"
+  },
+  "2220002428": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET SÖDRA VÄTTERBYGDEN",
+    "postort": "JÖNKÖPING",
+    "registered": "2008-01-11"
+  },
+  "2220002444": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SÖDERTÖRNS MILJÖ-OCH HÄLSOSKYDDSFÖRBUND",
+    "postort": "HANINGE",
+    "registered": "2008-01-11"
+  },
+  "2220002451": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet i Blekinge län",
+    "postort": "KARLSKRONA",
+    "registered": "2008-01-11"
+  },
+  "2220002477": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET SAMSPELET",
+    "postort": "KARLSTAD",
+    "registered": "2008-02-21"
+  },
+  "2220002485": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet Centrala Östergötland",
+    "postort": "LINKÖPING",
+    "registered": "2008-02-21"
+  },
+  "2220002493": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "FINSAM LEKEBERG OCH ÖREBRO",
+    "postort": "ÖREBRO",
+    "registered": "2008-02-21"
+  },
+  "2220002535": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Alingsås och Vårgårda räddningstjänstförbund",
+    "postort": "ALINGSÅS",
+    "registered": "2009-01-03"
+  },
+  "2220002543": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Kommunalförbundet Hälsingland",
+    "postort": "BOLLNÄS",
+    "registered": "2009-01-03"
+  },
+  "2220002550": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Fryksdalens samordningsförbund",
+    "postort": "SUNNE",
+    "registered": "2008-09-18"
+  },
+  "2220002568": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "FINSAM VÄSTERDALARNA",
+    "postort": "MALUNG",
+    "registered": "2008-10-30"
+  },
+  "2220002576": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet Uppsala Län",
+    "postort": "UPPSALA",
+    "registered": "2008-12-11"
+  },
+  "2220002584": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Kommunalförbundet ITSAM",
+    "postort": "LINKÖPING",
+    "registered": "2009-01-03"
+  },
+  "2220002600": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET SYDNÄRKE",
+    "postort": "KUMLA",
+    "registered": "2009-01-08"
+  },
+  "2220002618": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SYDÖSTRA SKÅNES SAMORDNINGSFÖRBUND",
+    "postort": "MALMÖ",
+    "registered": "2009-02-12"
+  },
+  "2220002626": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "YSTAD-ÖSTERLENREGIONENS MILJÖFÖRBUND",
+    "postort": "TOMELILLA",
+    "registered": "2009-04-02"
+  },
+  "2220002634": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET VÄREND",
+    "postort": "VÄXJÖ",
+    "registered": "2009-02-12"
+  },
+  "2220002642": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SÖDERÅSENS SAMORDNINGSFÖRBUND",
+    "postort": "ÅSTORP",
+    "registered": "2009-03-19"
+  },
+  "2220002667": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET I SVEDALA",
+    "postort": "SVEDALA",
+    "registered": "2009-04-23"
+  },
+  "2220002675": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SÖDERÅSENS MILJÖFÖRBUND",
+    "postort": "KLIPPAN",
+    "registered": "2009-09-03"
+  },
+  "2220002683": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet VärNa",
+    "postort": "NACKA",
+    "registered": "2009-05-07"
+  },
+  "2220002709": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET FÖR FASTIGHETEN ST RETERED",
+    "postort": "KÅLLERED",
+    "registered": "2009-06-04"
+  },
+  "2220002717": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet Helsingborg",
+    "postort": "HELSINGBORG",
+    "registered": "2009-07-02"
+  },
+  "2220002725": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet i Trelleborgs kommun",
+    "postort": "MALMÖ",
+    "registered": "2009-07-09"
+  },
+  "2220002733": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET LANDSKRONA - SVALÖV",
+    "postort": "LANDSKRONA",
+    "registered": "2009-09-17"
+  },
+  "2220002758": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Kommunalförbundet Räddningstjänsten Östra Götaland",
+    "postort": "NORRKÖPING",
+    "registered": "2009-12-31"
+  },
+  "2220002766": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Lunds Samordningsförbund",
+    "postort": "LUND",
+    "registered": "2009-11-12"
+  },
+  "2220002790": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet Skåne Nordost",
+    "postort": "KRISTIANSTAD",
+    "registered": "2009-11-19"
+  },
+  "2220002857": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet i Halland",
+    "postort": "HALMSTAD",
+    "registered": "2010-09-30"
+  },
+  "2220002865": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Miljösamverkan Östra Skaraborg",
+    "postort": "SKÖVDE",
+    "registered": "2010-11-18"
+  },
+  "2220002873": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Finnvedens Samordningsförbund",
+    "postort": "GNOSJÖ",
+    "registered": "2010-12-09"
+  },
+  "2220002881": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Västra Mälardalens Myndighetsförbund",
+    "postort": "ARBOGA",
+    "registered": "2010-12-23"
+  },
+  "2220002907": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Höglandets Samordningsförbund",
+    "postort": "EKSJÖ",
+    "registered": "2011-04-14"
+  },
+  "2220002915": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet MittSkåne",
+    "postort": "KRISTIANSTAD",
+    "registered": "2011-05-05"
+  },
+  "2220002923": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Kommunalförbundet Kollektivtrafikmyndigheten i Västernorrlands län",
+    "postort": "ÅNGE",
+    "registered": "2011-12-29"
+  },
+  "2220002949": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Kommunalförbundet Norrbottens läns kollektivtrafikmyndighet",
+    "postort": "LULEÅ",
+    "registered": "2012-03-08"
+  },
+  "2220002956": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Finsam Sydväst",
+    "postort": "STAFFANSTORP",
+    "registered": "2012-05-24"
+  },
+  "2220002964": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "RÄDDNINGSTJÄNSTEN VÄST",
+    "postort": "VARBERG",
+    "registered": "2012-06-14"
+  },
+  "2220002972": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Tolkförmedling Väst",
+    "postort": "GÖTEBORG",
+    "registered": "2012-09-14"
+  },
+  "2220002998": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Kunskapsförbundet Väst",
+    "postort": "VÄNERSBORG",
+    "registered": "2012-10-11"
+  },
+  "2220003004": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Bohus Räddningstjänstförbund",
+    "postort": "KUNGÄLV",
+    "registered": "2012-12-29"
+  },
+  "2220003020": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet Botkyrka, Huddinge och Salem",
+    "postort": "HUDDINGE",
+    "registered": "2012-12-29"
+  },
+  "2220003038": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Norra Dalarnas Finsamförbund",
+    "postort": "MORA",
+    "registered": "2013-07-04"
+  },
+  "2220003046": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Norra Mälaren kulturintegration Kommunalförbund",
+    "postort": "STOCKHOLM",
+    "registered": "2014-02-13"
+  },
+  "2220003053": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SKÄRGÅRDSUTVECKLING KOMMUNALFÖRBUND",
+    "postort": "STOCKHOLM",
+    "registered": "2014-03-13"
+  },
+  "2220003061": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SVENSK LUFTAMBULANS",
+    "postort": "KARLSTAD",
+    "registered": "2014-05-22"
+  },
+  "2220003079": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET ROSLAGEN",
+    "postort": "ÅKERSBERGA",
+    "registered": "2014-06-05"
+  },
+  "2220003087": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Räddningstjänsten Skåne Nordväst",
+    "postort": "HELSINGBORG",
+    "registered": "2014-12-11"
+  },
+  "2220003095": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Sydnärkes kommunalförbund",
+    "postort": "HALLSBERG",
+    "registered": "2014-12-11"
+  },
+  "2220003103": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Kommunalförbundet SYDARKIVERA",
+    "postort": "ALVESTA",
+    "registered": "2014-12-11"
+  },
+  "2220003111": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Hälsinglands Utbildningsförbund",
+    "postort": "BOLLNÄS",
+    "registered": "2014-10-30"
+  },
+  "2220003129": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Vafabmiljö kommunalförbund",
+    "postort": "VÄSTERÅS",
+    "registered": "2014-12-04"
+  },
+  "2220003137": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet Gävleborg",
+    "postort": "GÄVLE",
+    "registered": "2014-12-11"
+  },
+  "2220003152": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET SVENSKT AMBULANSFLYG",
+    "postort": "UMEÅ",
+    "registered": "2015-12-17"
+  },
+  "2220003178": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET STOCKHOLMS STAD",
+    "postort": "JOHANNESHOV",
+    "registered": "2016-03-03"
+  },
+  "2220003186": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet Ånge",
+    "postort": "ÅNGE",
+    "registered": "2016-04-28"
+  },
+  "2220003202": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Konstmuseet i Norr",
+    "postort": "KIRUNA",
+    "registered": "2017-02-09"
+  },
+  "2220003228": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samverkan Återvinning och Miljö",
+    "postort": "SKILLINGARYD",
+    "registered": "2017-05-18"
+  },
+  "2220003236": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET SOLLENTUNA- UPPLANDS VÄSBY-SIGTUNA",
+    "postort": "SOLLENTUNA",
+    "registered": "2017-08-17"
+  },
+  "2220003244": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet NNV Skåne",
+    "postort": "ÄNGELHOLM",
+    "registered": "2018-01-04"
+  },
+  "2220003251": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SAMORDNINGSFÖRBUNDET SAMSUND",
+    "postort": "SUNDBYBERG",
+    "registered": "2018-05-17"
+  },
+  "2220003269": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "BRANDKÅREN NORRA DALARNA",
+    "postort": "MORA",
+    "registered": "2018-12-06"
+  },
+  "2220003277": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "LYSTKOM",
+    "postort": "LYCKSELE",
+    "registered": "2019-03-07"
+  },
+  "2220003285": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "Samordningsförbundet Göteborg",
+    "postort": "GÖTEBORG",
+    "registered": "2019-05-03"
+  },
+  "2220003293": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "SÖDRA LAPPLANDS GYMNASIEFÖRBUND",
+    "postort": "VILHELMINA",
+    "registered": "2021-10-01"
+  },
+  "2220003301": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "RÄDDNINGSTJÄNSTEN SYDOST",
+    "postort": "KALMAR",
+    "registered": "2022-05-27"
+  },
+  "2220003319": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET SWEARKIVERA",
+    "postort": "ALVESTA",
+    "registered": "2025-01-17"
+  },
+  "2220003327": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KOMMUNALFÖRBUNDET RÄDDNINGSTJÄNSTEN BLEKINGE",
+    "postort": "KARLSKRONA",
+    "registered": "2025-04-04"
+  },
+  "2321000016": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION STOCKHOLM",
+    "postort": "STOCKHOLM",
+    "registered": "1974-01-01"
+  },
+  "2321000024": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION UPPSALA",
+    "postort": "UPPSALA",
+    "registered": "1975-01-01"
+  },
+  "2321000032": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION SÖRMLAND",
+    "postort": "NYKÖPING",
+    "registered": "1974-01-01"
+  },
+  "2321000040": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION ÖSTERGÖTLAND",
+    "postort": "LINKÖPING",
+    "registered": "1974-01-01"
+  },
+  "2321000057": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION JÖNKÖPINGS LÄN",
+    "postort": "JÖNKÖPING",
+    "registered": "1974-01-01"
+  },
+  "2321000065": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION KRONOBERG",
+    "postort": "VÄXJÖ",
+    "registered": "1974-01-01"
+  },
+  "2321000073": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION KALMAR LÄN",
+    "postort": "KALMAR",
+    "registered": "1974-01-01"
+  },
+  "2321000081": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION BLEKINGE",
+    "postort": "KARLSKRONA",
+    "registered": "1974-01-01"
+  },
+  "2321000115": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION HALLAND",
+    "postort": "HALMSTAD",
+    "registered": "1974-01-01"
+  },
+  "2321000131": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "VÄSTRA GÖTALANDSREGIONEN",
+    "postort": "VÄNERSBORG",
+    "registered": "1974-01-01"
+  },
+  "2321000156": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION VÄRMLAND",
+    "postort": "KARLSTAD",
+    "registered": "1974-01-01"
+  },
+  "2321000164": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION ÖREBRO LÄN",
+    "postort": "ÖREBRO",
+    "registered": "1974-01-01"
+  },
+  "2321000172": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION VÄSTMANLAND",
+    "postort": "VÄSTERÅS",
+    "registered": "1974-01-01"
+  },
+  "2321000180": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION DALARNA",
+    "postort": "FALUN",
+    "registered": "1974-01-01"
+  },
+  "2321000198": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION GÄVLEBORG",
+    "postort": "GÄVLE",
+    "registered": "1974-01-01"
+  },
+  "2321000206": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION VÄSTERNORRLAND",
+    "postort": "HÄRNÖSAND",
+    "registered": "1974-01-01"
+  },
+  "2321000214": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION JÄMTLAND HÄRJEDALEN",
+    "postort": "ÖSTERSUND",
+    "registered": "1974-01-01"
+  },
+  "2321000222": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION VÄSTERBOTTEN",
+    "postort": "UMEÅ",
+    "registered": "1974-01-01"
+  },
+  "2321000230": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION NORRBOTTEN",
+    "postort": "LULEÅ",
+    "registered": "1974-01-01"
+  },
+  "2321000255": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "84",
+    "name": "REGION SKÅNE",
+    "postort": "KRISTIANSTAD",
+    "registered": "1998-12-10"
+  },
+  "2620000022": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET I STH:S O UPPSALA LÄN",
+    "postort": "UPPSALA",
+    "registered": "1975-01-01"
+  },
+  "2620000048": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET I ÖSTERGÖTLANDS LÄN",
+    "postort": "VRETA KLOSTER",
+    "registered": "1975-01-01"
+  },
+  "2620000055": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET I JKPGS LÄN",
+    "postort": "HUSKVARNA",
+    "registered": "1975-01-01"
+  },
+  "2620000071": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET KALMAR-KRONOBERG-BLEKINGE",
+    "postort": "KALMAR",
+    "registered": "1975-01-01"
+  },
+  "2620000089": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET GOTLAND",
+    "postort": "ROMAKLOSTER",
+    "registered": "1975-01-01"
+  },
+  "2620000105": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET SKÅNE",
+    "postort": "KRISTIANSTAD",
+    "registered": "1975-01-01"
+  },
+  "2620000113": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET MALMÖHUS",
+    "postort": "BJÄRRED",
+    "registered": "1975-01-01"
+  },
+  "2620000121": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET I HALLANDS LÄN",
+    "postort": "ELDSBERGA",
+    "registered": "1975-01-01"
+  },
+  "2620000147": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET VÄST",
+    "postort": "VÄNERSBORG",
+    "registered": "1975-01-01"
+  },
+  "2620000154": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET SJUHÄRAD",
+    "postort": "LÄNGHEM",
+    "registered": "1975-01-01"
+  },
+  "2620000162": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET VÄSTRA",
+    "postort": "VÄNERSBORG",
+    "registered": "1975-01-01"
+  },
+  "2620000170": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "VÄRMLANDS LÄNS HUSHÅLLNINGSSÄLLSKAP",
+    "postort": "KARLSTAD",
+    "registered": "1975-01-01"
+  },
+  "2620000188": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "ÖREBRO LÄNS HUSHÅLLNINGSSÄLLSKAP",
+    "postort": "ÖREBRO",
+    "registered": "1975-01-01"
+  },
+  "2620000196": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "VÄSTMANLANDS LÄNS HUSHÅLLNINGSSÄLLSKAP",
+    "postort": "VÄSTERÅS",
+    "registered": "1975-01-01"
+  },
+  "2620000212": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET DALARNA GÄVLEBORG",
+    "postort": "STORVIK",
+    "registered": "1971-01-01"
+  },
+  "2620000220": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET I VÄSTERNORRLANDS LÄN",
+    "postort": "HÄRNÖSAND",
+    "registered": "1975-01-01"
+  },
+  "2620000238": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET I JÄMTLANDS LÄN",
+    "postort": "ÖSTERSUND",
+    "registered": "1975-01-01"
+  },
+  "2620000253": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HUSHÅLLNINGSSÄLLSKAPET I NORRBOTTEN-VÄSTERBOTTEN",
+    "postort": "LULEÅ",
+    "registered": "1975-01-01"
+  },
+  "2620000261": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "STOCKHOLMS HANDELSKAMMARE",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2620000279": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "ÖSTSVENSKA HANDELSKAMMAREN",
+    "postort": "NORRKÖPING",
+    "registered": "1975-01-01"
+  },
+  "2620000295": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "GOTLANDS HANDELSKAMMARE",
+    "postort": "VISBY",
+    "registered": "1975-01-01"
+  },
+  "2620000303": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "SYDSVENSKA INDUSTRI- OCH HANDELSKAMMAREN",
+    "postort": "MALMÖ",
+    "registered": "1975-01-01"
+  },
+  "2620000311": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "FÖRENINGEN VÄSTSVENSKA HANDELSKAMMAREN",
+    "postort": "GÖTEBORG",
+    "registered": "1975-01-01"
+  },
+  "2620000337": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HANDELSKAMMAREN MÄLARDALEN FÖR ÖREBRO OCH VÄSTMA",
+    "postort": "ÖREBRO",
+    "registered": "1975-01-01"
+  },
+  "2620000345": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "MELLANSVENSKA HANDELSKAMMAREN",
+    "postort": "GÄVLE",
+    "registered": "1975-01-01"
+  },
+  "2620000352": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "FÖREN. AV MITTSV:S INDUSTRI- O HANDELSKAMMARE",
+    "postort": "SUNDSVALL",
+    "registered": "1975-01-01"
+  },
+  "2620000675": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "SVERIGES ADVOKATSAMFUND",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "2620000782": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "VÄRMLANDS NATION",
+    "postort": "UPPSALA",
+    "registered": "1975-01-01"
+  },
+  "2620000907": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "BLEKINGE NATION",
+    "postort": "LUND",
+    "registered": "1975-01-01"
+  },
+  "2620000931": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "KALMAR NATION",
+    "postort": "LUND",
+    "registered": "1975-01-01"
+  },
+  "2620001046": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "88",
+    "name": "SVENSKA SKEPPSHYPOTEKSKASSAN",
+    "postort": "GÖTEBORG",
+    "registered": "1975-01-01"
+  },
+  "2620001095": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "NORRBOTTENS HANDELSKAMMARE",
+    "postort": "LULEÅ",
+    "registered": "1975-01-01"
+  },
+  "2620001103": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "HANDELSKAMMAREFÖRENINGEN I VÄSTERBOTTEN",
+    "postort": "SKELLEFTEÅ",
+    "registered": "1975-01-01"
+  },
+  "2620001111": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "SVENSKA AKADEMIEN",
+    "postort": "STOCKHOLM",
+    "registered": "1979-01-01"
+  },
+  "2620001129": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "KUNGL VETENSKAPSAKADEMIEN KVA",
+    "postort": "STOCKHOLM",
+    "registered": "1979-01-01"
+  },
+  "2620001145": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "KUNGL SKOGS- OCH LANTBRUKSAKADEMIEN",
+    "postort": "STOCKHOLM",
+    "registered": "1979-01-01"
+  },
+  "2620001152": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "KUNGL KRIGSVETENSKAPSAKADEMIEN KKRVA",
+    "postort": "STOCKHOLM",
+    "registered": "1979-01-01"
+  },
+  "2620001160": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "KUNGL.INGENJÖRSVETENSKAPSAKADEMIEN IVA",
+    "postort": "STOCKHOLM",
+    "registered": "1979-01-01"
+  },
+  "2620001178": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "KUNGL GUSTAV ADOLFS AKADEMIEN",
+    "postort": "UPPSALA",
+    "registered": "1979-01-01"
+  },
+  "2620001186": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "Kungl. Akademien för de fria konsterna",
+    "postort": "STOCKHOLM",
+    "registered": "1979-01-01"
+  },
+  "2620001194": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "SVERIGES EXPORT- OCH INVESTERINGSRÅD",
+    "postort": "STOCKHOLM",
+    "registered": "1979-01-01"
+  },
+  "2620001467": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "NÄMNDEN F UTG AV FÖRVALT.RÄTTSLIGA PUBLIKATIONER",
+    "postort": "OKÄND",
+    "registered": "1983-04-23"
+  },
+  "2620001566": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "NORDISKA MUSIKKOMMITTÉN",
+    "postort": "STOCKHOLM",
+    "registered": "1991-06-11"
+  },
+  "2620001582": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "ZORNSAMLINGARNA",
+    "postort": "MORA",
+    "registered": "1996-12-23"
+  },
+  "2620001590": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "NORDREGIO",
+    "postort": "STOCKHOLM",
+    "registered": "1997-08-13"
+  },
+  "2620001608": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "Nordens välfärdscenter",
+    "postort": "STOCKHOLM",
+    "registered": "1997-12-17"
+  },
+  "2620001673": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "NORDISKT GENRESURSCENTER",
+    "postort": "LOMMA",
+    "registered": "2008-01-11"
+  },
+  "2620001681": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "Finsk-svenska gränsälvskommissionen",
+    "postort": "HAPARANDA",
+    "registered": "2010-09-30"
+  },
+  "5560334285": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "SVERIGES TELEVISION AKTIEBOLAG",
+    "postort": "STOCKHOLM",
+    "registered": "1972-01-01"
+  },
+  "5560599473": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Systembolaget Aktiebolag",
+    "postort": "STOCKHOLM",
+    "registered": "1972-01-01"
+  },
+  "5561162446": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "IVL SVENSKA MILJÖINSTITUTET AB",
+    "postort": "STOCKHOLM",
+    "registered": "1972-01-01"
+  },
+  "5561386532": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Apoteket AB",
+    "postort": "SOLNA",
+    "registered": "1972-01-01"
+  },
+  "5561595819": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "SOS Alarm Sverige AB",
+    "postort": "STOCKHOLM",
+    "registered": "1972-01-01"
+  },
+  "5561848564": {
+    "ftgstat": "9",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "SCANIA AKTIEBOLAG",
+    "postort": "SÖDERTÄLJE",
+    "registered": "1973-01-01"
+  },
+  "5563108942": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Arkeologikonsult Sverige AB",
+    "postort": "UPPLANDS VÄSBY",
+    "registered": "1987-11-12"
+  },
+  "5564193232": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "SVERIGES RADIO AKTIEBOLAG",
+    "postort": "STOCKHOLM",
+    "registered": "1991-02-12"
+  },
+  "5564646874": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "RISE Research Institutes of Sweden AB",
+    "postort": "BORÅS",
+    "registered": "1993-03-19"
+  },
+  "5564795598": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "CHALMERS TEKNISKA HÖGSKOLA AKTIEBOLAG",
+    "postort": "GÖTEBORG",
+    "registered": "1994-01-22"
+  },
+  "5565007621": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "V.S. VisitSweden AB",
+    "postort": "STOCKHOLM",
+    "registered": "1994-12-03"
+  },
+  "5565582185": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "STATISTICON AB",
+    "postort": "UPPSALA",
+    "registered": "1998-08-13"
+  },
+  "5567409817": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "MacroBond Financial AB",
+    "postort": "MALMÖ",
+    "registered": "2007-10-25"
+  },
+  "5567679849": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "SWECO Sverige AB",
+    "postort": "STOCKHOLM",
+    "registered": "2008-10-23"
+  },
+  "5568540701": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Metasolutions AB",
+    "postort": "STOCKHOLM",
+    "registered": "2011-05-26"
+  },
+  "5569478968": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Enskilda Högskolan Stockholm AB",
+    "postort": "BROMMA",
+    "registered": "2013-11-07"
+  },
+  "5590719547": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "RVSMR AB",
+    "postort": "GÖTEBORG",
+    "registered": "2016-08-11"
+  },
+  "5592038961": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Demoskop AB",
+    "postort": "STOCKHOLM",
+    "registered": "2019-05-03"
+  },
+  "7696046924": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "51",
+    "name": "Biometria ek. för.",
+    "postort": "UPPSALA",
+    "registered": "1999-09-03"
+  },
+  "7696081087": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "51",
+    "name": "Miljöfordon Sverige, ekonomisk förening",
+    "postort": "VÄXJÖ",
+    "registered": "2002-03-04"
+  },
+  "8020005461": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "61",
+    "name": "CENTRALFÖRB FÖR ALKOHOL O NARKOTIKAUPPLYSNING",
+    "postort": "STOCKHOLM",
+    "registered": "1971-01-01"
+  },
+  "8020021500": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "61",
+    "name": "SVENSK KOLLEKTIVTRAFIK",
+    "postort": "STOCKHOLM",
+    "registered": "1971-01-01"
+  },
+  "8020028166": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "61",
+    "name": "SVERIGES RIKSIDROTTSFÖRBUND",
+    "postort": "STOCKHOLM",
+    "registered": "1971-01-01"
+  },
+  "8020051952": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "FJÄRDE AP-FONDEN",
+    "postort": "STOCKHOLM",
+    "registered": "1974-01-01"
+  },
+  "8020057538": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "FÖRSTA AP-FONDEN",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "8020060912": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "87",
+    "name": "NORDISKA SKATTEVETENSKAPLIGA FORSKNINGSRÅDET",
+    "postort": "STOCKHOLM",
+    "registered": "2002-01-07"
+  },
+  "8020061365": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "61",
+    "name": "RIKSTEATERN",
+    "postort": "NORSBORG",
+    "registered": "1975-01-01"
+  },
+  "8020062074": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "61",
+    "name": "HANDELSHÖGSKOLAN I STOCKHOLM",
+    "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "8020120948": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "STIFTELSEN STOCKHOLMS LÄNS ÄLDRECENTRUM",
+    "postort": "STOCKHOLM",
+    "registered": "1986-04-09"
+  },
+  "8020133198": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "STIFTELSEN INSTITUTET FÖR FRAMTIDSSTUDIER",
+    "postort": "STOCKHOLM",
+    "registered": "1987-11-05"
+  },
+  "8020144120": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "TREDJE AP-FONDEN",
+    "postort": "STOCKHOLM",
+    "registered": "1989-06-18"
+  },
+  "8024041769": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "61",
+    "name": "IDEELLA FÖRENINGEN EKOMATCENTRUM",
+    "postort": "FAGERÅS",
+    "registered": "1997-06-25"
+  },
+  "8024050190": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "STIFTELSEN FÖR INTERNETINFRASTRUKTUR",
+    "postort": "STOCKHOLM",
+    "registered": "1997-12-10"
+  },
+  "8024062302": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "SJUNDE AP-FONDEN",
+    "postort": "STOCKHOLM",
+    "registered": "1998-08-06"
+  },
+  "8024076468": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "KOLLEKTIVAVTALSTIFTELSEN HANDELSRÅDET",
+    "postort": "STOCKHOLM",
+    "registered": "1999-05-07"
+  },
+  "8024195029": {
+    "ftgstat": "0",
+    "jestat": "1",
+    "legal_form": "61",
+    "name": "SVENSKA ARBETSLIVSINSTITUTET",
+    "postort": "OKÄND",
+    "registered": "2004-08-13"
+  },
+  "8024256052": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "INSAMLINGSSTIFTELSEN FÖR REUMATOLOGISK FORSKNING VID SPENSHULT",
+    "postort": "HALMSTAD",
+    "registered": "2007-09-20"
+  },
+  "8024282785": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "61",
+    "name": "FÖRENINGEN SAMBRUK",
+    "postort": "KUNGSÖR",
+    "registered": "2005-08-01"
+  },
+  "8176029786": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "STIFT SKOGSBRUKETS FORSKNINGSINSTITUT, SKOGFORSK",
+    "postort": "UPPSALA",
+    "registered": "1992-05-06"
+  },
+  "8176053182": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "STIFTELSEN SOCIETAS ARCHAEOLOGICA UPSALIENSIS",
+    "postort": "UPPSALA",
+    "registered": "1999-10-01"
+  },
+  "8260017333": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "STIFTELSEN HÖGSKOLAN I JÖNKÖPING",
+    "postort": "JÖNKÖPING",
+    "registered": "1994-06-18"
+  },
+  "8324016453": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "83",
+    "name": "KALMARSUNDS GYMNASIEFÖRBUND",
+    "postort": "KALMAR",
+    "registered": "1995-03-19"
+  },
+  "8350006113": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "STIFTELSEN BLEKINGE LÄNS MUSEUM",
+    "postort": "KARLSKRONA",
+    "registered": "1983-01-08"
+  },
+  "8460010161": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "61",
+    "name": "AVFALL SVERIGE",
+    "postort": "MALMÖ",
+    "registered": "1971-01-01"
+  },
+  "8551040721": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "SJÄTTE AP-FONDEN",
+    "postort": "GÖTEBORG",
+    "registered": "1996-11-18"
+  },
+  "8572090606": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "ANDRA AP-FONDEN",
+    "postort": "GÖTEBORG",
+    "registered": "2000-05-15"
+  },
+  "8985005183": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "AJTTE, SVENSKT FJÄLL- & SAMEMUSEUM",
+    "postort": "JOKKMOKK",
+    "registered": "1983-12-17"
+  }
+}

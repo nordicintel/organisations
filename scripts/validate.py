@@ -1,7 +1,6 @@
-"""Check the generated and hand-maintained files against each other and the schemas.
+"""Check organisations.json, data_sources.json and edits/organisations.json against the schemas and each other.
 
-Standard library only: validates the few constraints that matter (id pattern,
-required keys, enum values, referential integrity) without a jsonschema dependency.
+Standard library only: ids, required keys, enums, patterns and references.
 """
 import json
 import re
@@ -9,60 +8,68 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-schema = json.loads((ROOT / "schema" / "organisation.schema.json").read_text(encoding="utf-8"))
-ID = re.compile(schema["properties"]["id"]["pattern"])
-TYPES = set(schema["properties"]["publisher_type"]["enum"])
-GROUPS = set(schema["properties"]["state_body_group"]["enum"])
-STATUS = set(schema["properties"]["status"]["enum"])
-FIELDS = set(schema["properties"])
-
-orgs = json.loads((ROOT / "organisations.json").read_text(encoding="utf-8"))["organisations"]
 errors = []
+
+
+def read(path):
+    return json.loads((ROOT / path).read_text(encoding="utf-8"))
+
+
+def check(obj, schema, where):
+    props = schema["properties"]
+    for key in schema.get("required", []):
+        if key not in obj:
+            errors.append(f"{where}: missing {key}")
+    for key, value in obj.items():
+        if key not in props:
+            errors.append(f"{where}: unknown field {key}")
+            continue
+        spec = props[key]
+        if "enum" in spec and value not in spec["enum"]:
+            errors.append(f"{where}: {key} {value!r} not in enum")
+        if "pattern" in spec and isinstance(value, str) and not re.fullmatch(spec["pattern"], value):
+            errors.append(f"{where}: {key} {value!r} does not match pattern")
+        if spec.get("type") == "array" and spec.get("minItems") and not value:
+            errors.append(f"{where}: {key} is empty")
+
+
+org_schema, ds_schema, edits_schema = read("schema/organisation.schema.json"), read("schema/data_source.schema.json"), read("schema/edits.schema.json")
+orgs = read("organisations.json")["organisation"]
+sources = read("data_sources.json")
+edits = read("edits/organisations.json")
+
+slugs = {}
 for key, org in orgs.items():
-    if key != org["id"] or not ID.match(key):
-        errors.append(f"bad id {key}")
-    if not org.get("names"):
-        errors.append(f"{key}: no names")
-    if org.get("status") not in STATUS:
-        errors.append(f"{key}: status {org.get('status')}")
-    if "publisher_type" in org and org["publisher_type"] not in TYPES:
-        errors.append(f"{key}: publisher_type {org['publisher_type']}")
-    if "state_body_group" in org and org["state_body_group"] not in GROUPS:
-        errors.append(f"{key}: state_body_group {org['state_body_group']}")
-    if extra := set(org) - FIELDS:
-        errors.append(f"{key}: unknown fields {sorted(extra)}")
+    if key != org.get("id"):
+        errors.append(f"organisations.json: key {key} != id {org.get('id')}")
+    check(org, org_schema, f"organisations.json {key}")
+    if not org.get("label"):
+        errors.append(f"{key}: no label")
+    if "slug" in org:
+        if org["slug"] in slugs:
+            errors.append(f"{key}: slug {org['slug']} also used by {slugs[org['slug']]}")
+        slugs[org["slug"]] = key
     for ref in org.get("succeeded_by", []) + ([org["part_of"]] if "part_of" in org else []):
         if ref not in orgs:
-            errors.append(f"{key}: dangling reference {ref}")
+            errors.append(f"{key}: reference {ref} not in registry")
 
-for name in ("slugs.json", "aliases.json", "manual.json"):
-    data = json.loads((ROOT / name).read_text(encoding="utf-8"))
-    for k, v in (data.items() if name != "manual.json" else ((k, k) for k in data)):
-        if v is not None and v not in orgs:
-            errors.append(f"{name}: {k!r} -> {v} not in registry")
-slugs = json.loads((ROOT / "slugs.json").read_text(encoding="utf-8"))
-for slug in slugs:
-    if not re.fullmatch(r"[a-z][a-z0-9_]*", slug):
-        errors.append(f"slugs.json: bad slug {slug!r}")
-
-ds_schema = json.loads((ROOT / "schema" / "data_source.schema.json").read_text(encoding="utf-8"))
-KINDS = set(ds_schema["properties"]["kind"]["enum"])
-DS_FIELDS = set(ds_schema["properties"])
-sources = json.loads((ROOT / "data_sources.json").read_text(encoding="utf-8"))
-aliases = json.loads((ROOT / "aliases.json").read_text(encoding="utf-8"))
-seen_alias = {}
 for key, ds in sources.items():
-    if key != ds.get("id") or not re.fullmatch(ds_schema["properties"]["id"]["pattern"], key):
-        errors.append(f"data_sources.json: bad id {key!r}")
-    if ds.get("kind") not in KINDS:
-        errors.append(f"data_sources.json: {key}: kind {ds.get('kind')}")
-    if extra := set(ds) - DS_FIELDS:
-        errors.append(f"data_sources.json: {key}: unknown fields {sorted(extra)}")
+    if key != ds.get("id"):
+        errors.append(f"data_sources.json: key {key} != id {ds.get('id')}")
+    check(ds, ds_schema, f"data_sources.json {key}")
     for ref in ([ds["owner"]] if ds.get("owner") else []) + ds.get("cited_by", []):
         if ref not in orgs:
-            errors.append(f"data_sources.json: {key}: organisation {ref} not in registry")
-    if not ds.get("aliases"):
-        errors.append(f"data_sources.json: {key}: no aliases")
+            errors.append(f"data_sources.json {key}: organisation {ref} not in registry")
+
+check(edits, edits_schema, "edits/organisations.json")
+for key, patch in edits.get("organisation", {}).items():
+    if not re.fullmatch(org_schema["properties"]["id"]["pattern"], key):
+        errors.append(f"edits: bad id {key}")
+    if key not in orgs:
+        errors.append(f"edits: {key} did not make it into organisations.json")
+    for field in patch:
+        if field not in org_schema["properties"] or field in ("id", "source", "registered_label"):
+            errors.append(f"edits {key}: field {field} not allowed")
 
 for line in errors:
     print(line, file=sys.stderr)
