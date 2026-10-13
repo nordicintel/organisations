@@ -104,12 +104,14 @@ The only hand file for organisations. Merged last, so it wins over every registe
 | `links/data-europa.json` | data.europa.eu publisher and creator URI → organisation id |
 | `links/wikidata.json` | Wikidata item → organisation id |
 | `snapshots/<register>.json` | the reduced result of the last successful fetch of each register. Committed so a build still runs when a register is down |
+| `dist/<product>.json`, `dist/<product>.csv` | the two product files in every published format: a copy of the JSON and a CSV with one row per record, same name, only the extension differs. Nested fields are dotted columns (`label.sv`), lists are `\|`-joined, and a list of objects gives one column per field with the items aligned by position. Derived from the JSON, so it changes exactly when the product does |
 | `reports/<date>.json` | written by a build that changed an organisation or found a register with no snapshot: per register `fetched`, `stale` or `failed`, counts, added and removed ids. `generated` in `organisations.json` is the date of the last content change |
 
 ## Build and check
 
 ```sh
-python scripts/build.py     # fetch registers, rewrite organisations.json, links/, snapshots/, reports/
+python scripts/build.py     # fetch registers, rewrite organisations.json, dist/, links/, snapshots/, reports/
+python scripts/export.py organisations.json data_sources.json  # rewrite dist/ alone
 python scripts/validate.py  # schemas and references across all files; run before committing
 ```
 

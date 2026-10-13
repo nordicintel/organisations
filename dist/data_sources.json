@@ -1,0 +1,3275 @@
+{
+  "scb-statistikdatabasen": {
+    "id": "scb-statistikdatabasen",
+    "label": {
+      "sv": "Statistikdatabasen (SSD)",
+      "en": "Statistical Database"
+    },
+    "type": "database",
+    "owner": "SE2021000837",
+    "alias": [
+      "SCB (FoB och SSD / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / OSDB), Linköpings kommun. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / OSDB). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / Östgötadatabasen), BAS. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / Östgötadatabasen).  Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD och årliga böcker om Befolkning).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD) / Riksantikvarieämbetet.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD) / Östgötadatabasen. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD), .  Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD), Linköpings kommun. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD).",
+      "SCB (SSD).   Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD).  Bearbetning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD).  Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD). Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Socialstyrelsen (statistikdatabasen) & SCB",
+      "Statistiska Centralbyrån (SCB) - SSD.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB75, FoB80, FoB85, FoB90, Årsys, RAMS, BAS.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB75, FoB80, FoB85, Årsys, RAMS, BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB80,  Årsys, RAMS, BAS.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD.   Sammanställning, beräkning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD.   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Trafikanalys men hämtat från SCB:s databas: https://www.statistikdatabasen.scb.se/sq/175080"
+    ],
+    "seen_in": [
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120000449",
+      "SE2120001850",
+      "SE2220000315"
+    ]
+  },
+  "scb-ostgotadatabasen": {
+    "id": "scb-ostgotadatabasen",
+    "label": {
+      "sv": "Östgötadatabasen (OSDB)"
+    },
+    "type": "database",
+    "owner": "SE2021000837",
+    "alias": [
+      "Källa: Östgötadatabasen (SCB)  Sammanställning: Statistikgruppen, Linköpings kommun",
+      "KäÖstgötadatabasen (SCB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / OSDB / Östgötadatabasen).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / OSDB / Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / Årsys / RAMS / OSDB  / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / Årsys / RAMS / OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB och SSD / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB, OSDB/Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB - Bilpak).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB - H32).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB / Östgötadatabasen) och Statistikgruppen, Linköpings kommun.  Beräkning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB / Östgötadatabasen), Linköpings kommun.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB / Östgötadatabasen).  Beräkning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB / Östgötadatabasen).  Sammanställning och beräkning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB / Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB och Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB) / Linköpings kommuns Statistikmeddelanden.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB) och Linköpings kommun.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB) och Linköpings kommun.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB), Linköpings kommun (Statistisk Årsbok).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB), Linköpings kommun.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB), Linköpings kommun. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB).  Bearbetad och sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB).  Beräkning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB).  Sammanställning av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB).  Uppdaterad och sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB). Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB). Statistik & Utredningar, Linköpings kommun.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB/Östgötadatabasen) och Linköpings kommun.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB/Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB/Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (RAMS / AMPAK / BAS / OSDB).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (RAMS / AMPAK / OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / OSDB), Linköpings kommun. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / OSDB). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / Östgötadatabasen), BAS. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / Östgötadatabasen).  Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD) / Östgötadatabasen. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen / OSDB).  Beräkning, analys, bearbetning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen / OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen)  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen) / BAS. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen) och Statistikgruppen, Linköpings kommun.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).     Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).    Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).   Sammanställning och beräkning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Bearbetning och sammanställning av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Bearbetning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Beräkning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning och beräkning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning och beräkning: Statistikgruppen, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning, beräkning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning: Statistik & Utredningar, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun",
+      "SCB (Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen). Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun,",
+      "SCB (Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen). Sammanställt av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB Östgötadatabasen.   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB, OSDB",
+      "SCB, OSDB, BILPAK BIL07HH",
+      "SCB, OSDB, Bil06",
+      "Östgötadatabasen (SCB)  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB) RAKS / BAS.   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB) RAKS / BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB) RAKS/BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB), RAMS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB).   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB).  Beräkning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning Linköpings kommun.",
+      "Östgötadatabasen (SCB).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB).  Sammanställning: Statistikgruppen, Analys & Utredning,  Linköpings kommun.",
+      "Östgötadatabasen (SCB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun."
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120000449",
+      "SE2120001355"
+    ]
+  },
+  "scb-regiondatabasen": {
+    "id": "scb-regiondatabasen",
+    "label": {
+      "sv": "Regiondatabasen"
+    },
+    "type": "database",
+    "owner": "SE2021000837",
+    "alias": [
+      "Regiondatabasen (SCB)",
+      "SCB (Regiondatabasen)"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120000456"
+    ]
+  },
+  "scb-rams": {
+    "id": "scb-rams",
+    "label": {
+      "sv": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
+      "en": "Register-based labour market statistics"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "SCB (FoB / Årsys / RAMS / OSDB  / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / Årsys / RAMS / OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (RAMS / AMPAK / BAS / OSDB).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (RAMS / AMPAK / OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB RAMS -2021, 2022- SCB Befolkningens arbetsmarknadsstatus (BAS)",
+      "SCB, Registerbaserad arbetsmarknadsstatistik(RAMS)",
+      "SCBs registerbaserade arbetsmarknadsstatistik (RAMS)",
+      "Statistiska Centralbyrån (SCB)  Årlig sysselsättningsstatistik (Årsys) 1985-1992 och Registerbaserad arbetsmarknadsstatistik (RAMS) 1993-2021, samt Befolkningens arbetsmarknadsstatus (BAS) från 2022 och framåt.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB) FoB80, samt ÅRSYS 1985-1992, RAMS 1993-2021, BAS 2022-w. Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB75, FoB80, FoB85, FoB90, Årsys, RAMS, BAS.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB75, FoB80, FoB85, Årsys, RAMS, BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB80,  Årsys, RAMS, BAS.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska centralbyrån (SCB), RAMS, BAS",
+      "Statistiska centralbyrån (SCB), RAMS/BAS",
+      "Östgötadatabasen (SCB), RAMS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun."
+    ],
+    "seen_in": [
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545",
+      "SE2120000449",
+      "SE2120001355",
+      "SE2220000315",
+      "SE2321000131"
+    ]
+  },
+  "scb-bas": {
+    "id": "scb-bas",
+    "label": {
+      "sv": "Befolkningens arbetsmarknadsstatus (BAS)",
+      "en": "Labour market status of the population"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "Arbetsförmedlingen och SCB (BAS)",
+      "Försäkringskassan, SCB, SCB - Befolkningens arbetsmarknadsstatus (BAS), STATIV från SCB, Arbetsförmedlingen, Folkhälsomy",
+      "Försäkringskassan, SCB, SCB - Befolkningens arbetsmarknadsstatus (BAS), STATIV från SCB, Arbetsförmedlingen, Folkhälsomyndigheten",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet",
+      "SCB (RAMS / AMPAK / BAS / OSDB).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / Östgötadatabasen), BAS. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen) / BAS. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB - Befolkningens arbetsmarknadsstatus (BAS)",
+      "SCB - Befolkningens arbetsmarknadsstatus (BAS).\\n",
+      "SCB RAMS -2021, 2022- SCB Befolkningens arbetsmarknadsstatus (BAS)",
+      "SCB – Befolkningens arbetsmarknadsstatus (BAS)",
+      "SCB, SCB - Befolkningens arbetsmarknadsstatus (BAS), STATIV från SCB, Arbetsförmedlingen, Folkhälsomyndigheten",
+      "SCB, SCB - Befolkningens arbetsmarknadsstatus (BAS), STATIV från SCB, Arbetsförmedlingen, Folkhälsomyndigheten.\\n",
+      "Statistiska Centralbyrån (SCB)  Årlig sysselsättningsstatistik (Årsys) 1985-1992 och Registerbaserad arbetsmarknadsstatistik (RAMS) 1993-2021, samt Befolkningens arbetsmarknadsstatus (BAS) från 2022 och framåt.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB) FoB80, samt ÅRSYS 1985-1992, RAMS 1993-2021, BAS 2022-w. Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB75, FoB80, FoB85, FoB90, Årsys, RAMS, BAS.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB75, FoB80, FoB85, Årsys, RAMS, BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB80,  Årsys, RAMS, BAS.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska centralbyrån (SCB), RAMS, BAS",
+      "Statistiska centralbyrån (SCB), RAMS/BAS",
+      "Östgötadatabasen (SCB) RAKS / BAS.   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB) RAKS / BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB) RAKS/BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun."
+    ],
+    "seen_in": [
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545",
+      "SE2120000449",
+      "SE2220000315"
+    ]
+  },
+  "scb-arsys": {
+    "id": "scb-arsys",
+    "label": {
+      "sv": "Årlig regional sysselsättningsstatistik (ÅRSYS)"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "SCB (FoB / Årsys / RAMS / OSDB  / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / Årsys / RAMS / OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB)  Årlig sysselsättningsstatistik (Årsys) 1985-1992 och Registerbaserad arbetsmarknadsstatistik (RAMS) 1993-2021, samt Befolkningens arbetsmarknadsstatus (BAS) från 2022 och framåt.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB) FoB80, samt ÅRSYS 1985-1992, RAMS 1993-2021, BAS 2022-w. Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB75, FoB80, FoB85, FoB90, Årsys, RAMS, BAS.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB75, FoB80, FoB85, Årsys, RAMS, BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB80,  Årsys, RAMS, BAS.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun."
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120000449"
+    ]
+  },
+  "scb-fob": {
+    "id": "scb-fob",
+    "label": {
+      "sv": "Folk- och bostadsräkningen (FoB)",
+      "en": "Population and Housing Census"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "SCB (FoB / OSDB / Östgötadatabasen).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / OSDB / Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / Årsys / RAMS / OSDB  / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / Årsys / RAMS / OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB och SSD / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB, OSDB/Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB, FoB 1965-1990, Linköpings kommun 1995-2005, SCB Lägenhetsregistret 2013-w.    Bearbetning och sammanställdning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB) FoB80, samt ÅRSYS 1985-1992, RAMS 1993-2021, BAS 2022-w. Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB75, FoB80, FoB85, FoB90, Årsys, RAMS, BAS.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB75, FoB80, FoB85, Årsys, RAMS, BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB80,  Årsys, RAMS, BAS.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun."
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120000449"
+    ]
+  },
+  "scb-rtb": {
+    "id": "scb-rtb",
+    "label": {
+      "sv": "Registret över totalbefolkningen (RTB)",
+      "en": "Total Population Register"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "Lägenhetsregistret, fastighetstaxeringsregistret (FTR) och registret över totalbefolkningen (RTB)",
+      "Registret över totalbefolkningen",
+      "Registret över totalbefolkningen (RTB)",
+      "Registret över totalbefolkningen (RTB) samt Sysselsättningsregistret (Sreg)",
+      "Registret över totalbefolkningen (RTB) samt Utbildningsregistret",
+      "Socialstyrelsens register över ekonomiskt bistånd samt Registret över totalbefolkningen (RTB)"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "scb-lisa": {
+    "id": "scb-lisa",
+    "label": {
+      "sv": "LISA (longitudinell integrationsdatabas)"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "SCB (LISA)"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "scb-frida": {
+    "id": "scb-frida",
+    "label": {
+      "sv": "FRIDA (Företagsregister och individdatabas)"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "FRIDA (FöretagsRegister och IndividDAtabas), SCB"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "scb-stativ": {
+    "id": "scb-stativ",
+    "label": {
+      "sv": "STATIV"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "Försäkringskassan, SCB, SCB - Befolkningens arbetsmarknadsstatus (BAS), STATIV från SCB, Arbetsförmedlingen, Folkhälsomy",
+      "Försäkringskassan, SCB, SCB - Befolkningens arbetsmarknadsstatus (BAS), STATIV från SCB, Arbetsförmedlingen, Folkhälsomyndigheten",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet",
+      "SCB - STATIV",
+      "SCB, SCB - Befolkningens arbetsmarknadsstatus (BAS), STATIV från SCB, Arbetsförmedlingen, Folkhälsomyndigheten",
+      "SCB, SCB - Befolkningens arbetsmarknadsstatus (BAS), STATIV från SCB, Arbetsförmedlingen, Folkhälsomyndigheten.\\n",
+      "SCB:s STATIV",
+      "STATIV",
+      "STATIV från SCB"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "scb-iot": {
+    "id": "scb-iot",
+    "label": {
+      "sv": "Inkomst- och taxeringsregistret (IoT)"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "SCB, Inkomst och Taxeringsregistret (IoT)",
+      "SCB, Inkomst- och taxeringsregistret, (IoT)"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545"
+    ]
+  },
+  "scb-trif": {
+    "id": "scb-trif",
+    "label": {
+      "sv": "Totalräknad inkomstfördelningsstatistik (TRIF)"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021000837",
+    "alias": [
+      "SCB, Totalräknad inkomstfördelningsstatistik (TRIF)"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545"
+    ]
+  },
+  "scb-ftr": {
+    "id": "scb-ftr",
+    "label": {
+      "sv": "Fastighetstaxeringsregistret (FTR)",
+      "en": "Property tax assessment register"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "Fastighetstaxeringsregistret (FTR) och SCB",
+      "Lägenhetsregistret, fastighetstaxeringsregistret (FTR) och registret över totalbefolkningen (RTB)",
+      "SCB, fastighetstaxeringsregistret bearbetat av Skogsstyrelsen.",
+      "SCB:s Fastighetstaxeringsregister och SCB:s insamlade KU55 blanketter från Skatteverket",
+      "Statistics Sweden, Swedish Tax Agency Property Register, processed by Swedish Forest Agency."
+    ],
+    "seen_in": [
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021005612",
+      "SE2220000315"
+    ]
+  },
+  "scb-fastighetsprisregistret": {
+    "id": "scb-fastighetsprisregistret",
+    "label": {
+      "sv": "Fastighetsprisregistret",
+      "en": "Property price register"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "Fastighetsprisregistret, Statistiska centralbyrån, bearbetat av Skogsstyrelsen.",
+      "Property price register, Statistics Sweden, processed by Swedish Forest Agency."
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021005612"
+    ]
+  },
+  "scb-lagenhetsregistret": {
+    "id": "scb-lagenhetsregistret",
+    "label": {
+      "sv": "Lägenhetsregistret",
+      "en": "Dwelling register"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "Lägenhetsregistret, fastighetstaxeringsregistret (FTR) och registret över totalbefolkningen (RTB)",
+      "SCB, FoB 1965-1990, Linköpings kommun 1995-2005, SCB Lägenhetsregistret 2013-w.    Bearbetning och sammanställdning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB, Lägenhetsregistret"
+    ],
+    "seen_in": [
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545",
+      "SE2120000449",
+      "SE2220000315"
+    ]
+  },
+  "scb-utbildningsregistret": {
+    "id": "scb-utbildningsregistret",
+    "label": {
+      "sv": "Utbildningsregistret"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "Registret över totalbefolkningen (RTB) samt Utbildningsregistret",
+      "SKR:s personalstatistik (novemberstatistiken) och SCB:s utbildningsregister",
+      "SKR:s personalstatistik (novemberstatistiken) och SCB:s utbildningsregister.\\n"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "scb-sysselsattningsregistret": {
+    "id": "scb-sysselsattningsregistret",
+    "label": {
+      "sv": "Sysselsättningsregistret"
+    },
+    "type": "register",
+    "owner": "SE2021000837",
+    "alias": [
+      "Registret över totalbefolkningen (RTB) samt Sysselsättningsregistret (Sreg)"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "scb-rakenskapssammandraget": {
+    "id": "scb-rakenskapssammandraget",
+    "label": {
+      "sv": "Räkenskapssammandraget (RS)",
+      "en": "Municipal and regional accounts"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021000837",
+    "alias": [
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet",
+      "Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Folkhä",
+      "Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Nationella folkhälsoenkäten",
+      "Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
+      "SCB (RS) och Kulturrådet",
+      "SCB (RS), sammanställt av SKR",
+      "SCB Räkenskapssammandraget",
+      "SCB Räkenskapssammandraget\\n",
+      "SCB, Räkenskapssammandraget",
+      "SCB-Räkenskapssammandraget",
+      "SCB-Räkenskapssammandraget och Socialstyrelsens individstatistik",
+      "SCB-Räkenskapssammandraget\\n",
+      "SCB: räkenskapssammandrag för kommuner och region",
+      "SCB:s Räkenskapssammandrag",
+      "SCB:s Räkenskapssammandrag och Skolverket",
+      "SCB:s Räkenskapssammandrag och befolkningsstatistik",
+      "SCB:s Räkenskapssammandrag.. Källa: SCB:s Räkenskapssammandrag",
+      "SCB:s räkenskapssammandrag",
+      "SCB:s räkenskapssammandrag och SCB:s befolkningsstatistik",
+      "SCB:s räkenskapssammandrag och Socialstyrelsen",
+      "SCBs Räkenskapssammandrag och SCB:s befolkningsstatistik",
+      "SCBs räkenskapssammandrag"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "scb-medborgarundersokningen": {
+    "id": "scb-medborgarundersokningen",
+    "label": {
+      "sv": "Medborgarundersökningen"
+    },
+    "type": "survey",
+    "owner": "SE2021000837",
+    "alias": [
+      "Medborgarundersökningen",
+      "RKAs beräkningar av data från SCBs medborgarundersökning",
+      "SCB medborgarundersökning",
+      "SCB:s medborgarundersökning",
+      "SCB:s medborgarundersökningar",
+      "SCBs medborgarundersökning"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "scb-befolkningsstatistik": {
+    "id": "scb-befolkningsstatistik",
+    "label": {
+      "sv": "Befolkningsstatistik",
+      "en": "Population statistics"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021000837",
+    "alias": [
+      "<ul> <li>Hälsoräkenskaperna (HC.0 - HC.7 ”Totala löpande hälso- och sjukvårdsutgifter” samt ”HC.3ADL - därav ADL”), Statistiska centralbyrån.</li> <li>Folkmängd per 31 december per år, Statistiska centralbyrån.</li> <li>Ett konsumtionsprisindex för hälso- och sjukvård för regioner, Statistiska centralbyrån.</li> </ul>",
+      "Försäkringskassan och SCB:s befolkningsstatistik",
+      "Läkemedelsregistret (LMED), Socialstyrelsen. Befolkningsstatistik från Statistiska Centralbyrån (SCB).",
+      "Patientregistret (PAR) och dödsorsaksregistret, Socialstyrelsen. Befolkningsstatistik från Statistiska Centralbyrån (SCB).",
+      "Patientregistret (PAR), Socialstyrelsen. Befolkningsstatistik från Statistiska Centralbyrån (SCB).",
+      "SCB, Befolkningsstatistik",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Kommunprognoser för Åtvidaberg och Kinda samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner. Sammanställning och bearbetning: Statistikgruppen, Linköpings kommun.",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Kommunprognoser för Ödeshög, Kinda, Boxholm, Åtvidaberg och Vadstena samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner. Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Övriga kommuners prognoser samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Övriga kommuners prognoser samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner.  Sammanställning och bearbetning: Statistikgruppen, Linköpings kommun.",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Övriga kommuners prognoser samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner. Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB:s Räkenskapssammandrag och befolkningsstatistik",
+      "SCB:s befolkningsstatistik och SKR:s novemberstatistik",
+      "SCB:s räkenskapssammandrag och SCB:s befolkningsstatistik",
+      "SCBs Räkenskapssammandrag och SCB:s befolkningsstatistik",
+      "SCBs befolkningsstatistik och  SKR:s personalstatistik (novemberstatistiken)",
+      "SCBs befolkningsstatistik och  SKR:s personalstatistik (novemberstatistiken).\\n",
+      "SKR:s personalstatistik (novemberstatistiken) och SCB:s befolkningsstatistik",
+      "SKR:s verksamhetsstatistik och SCB:s befolkningsstatistik",
+      "Socialstyrelsens mängdstatistik och SCB:s befolkningsstatistik"
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2021006545",
+      "SE2120000449",
+      "SE2220000315"
+    ]
+  },
+  "scb-befolkningsprognoser": {
+    "id": "scb-befolkningsprognoser",
+    "label": {
+      "sv": "Befolkningsprognoser"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021000837",
+    "alias": [
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Kommunprognoser för Åtvidaberg och Kinda samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner. Sammanställning och bearbetning: Statistikgruppen, Linköpings kommun.",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Kommunprognoser för Ödeshög, Kinda, Boxholm, Åtvidaberg och Vadstena samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner. Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Övriga kommuners prognoser samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Övriga kommuners prognoser samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner.  Sammanställning och bearbetning: Statistikgruppen, Linköpings kommun.",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Övriga kommuners prognoser samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner. Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun."
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120000449"
+    ]
+  },
+  "scb-aku": {
+    "id": "scb-aku",
+    "label": {
+      "sv": "Arbetskraftsundersökningarna (AKU)",
+      "en": "Labour Force Surveys"
+    },
+    "type": "survey",
+    "owner": "SE2021000837",
+    "alias": [
+      "SCB, AKU",
+      "SCB, Arbetskraftsundersökningarna (AKU)"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021005612",
+      "SE2021006545"
+    ]
+  },
+  "scb-valdeltagandeundersokningen": {
+    "id": "scb-valdeltagandeundersokningen",
+    "label": {
+      "sv": "Valdeltagandeundersökningen"
+    },
+    "type": "survey",
+    "owner": "SE2021000837",
+    "alias": [
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet",
+      "SCB:s valdeltagandeundersökning",
+      "SCB:s valdeltagandeundersökning, SCB, Valmyndigheten och SCB, Riksidrottsförbundet",
+      "SCB:s valdeltagandeundersökning, SCB, Valmyndigheten och SCB, Riksidrottsförbundet.\\n",
+      "SCB:s valdeltagandeundersökning.\\n",
+      "SCB:s valdeltagandeundersökning\\n"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "scb-valstatistik": {
+    "id": "scb-valstatistik",
+    "label": {
+      "sv": "Valstatistik",
+      "en": "Election statistics"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021000837",
+    "alias": [
+      "SCB, Valstatistik, Valmyndigheten fr o m 2010"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545"
+    ]
+  },
+  "scb-socioekonomiskt-index": {
+    "id": "scb-socioekonomiskt-index",
+    "label": {
+      "sv": "Socioekonomiskt index"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021000837",
+    "alias": [
+      "Beräkningar av RKA, baserade på Socioekonomiskt index (SCB) via Skolverket"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "scb-halsorakenskaperna": {
+    "id": "scb-halsorakenskaperna",
+    "label": {
+      "sv": "Hälsoräkenskaperna",
+      "en": "Health accounts"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021000837",
+    "alias": [
+      "<ul> <li>Hälsoräkenskaperna (HC.0 - HC.7 ”Totala löpande hälso- och sjukvårdsutgifter” samt ”HC.3ADL - därav ADL”), Statistiska centralbyrån.</li> <li>Folkmängd per 31 december per år, Statistiska centralbyrån.</li> <li>Ett konsumtionsprisindex för hälso- och sjukvård för regioner, Statistiska centralbyrån.</li> </ul>"
+    ],
+    "seen_in": [
+      "dataanalys"
+    ],
+    "cited_by": [
+      "SE2021000555"
+    ]
+  },
+  "scb-nst": {
+    "id": "scb-nst",
+    "label": {
+      "sv": "NST-tabeller",
+      "en": "Regional accounts tables"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021000837",
+    "alias": [
+      "Statistiska centralbyrån (SCB), tab NST 1.3",
+      "Statistiska centralbyrån (SCB), tab NST 2.3"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120002411"
+    ]
+  },
+  "scb-kommunal-personal": {
+    "id": "scb-kommunal-personal",
+    "label": {
+      "sv": "Kommunal personal (KU55)"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021000837",
+    "alias": [
+      "SCB:s Fastighetstaxeringsregister och SCB:s insamlade KU55 blanketter från Skatteverket",
+      "SCB:s insamlade KU55 blanketter från Skatteverket"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "skr-personalstatistik": {
+    "id": "skr-personalstatistik",
+    "label": {
+      "sv": "Personal- och lönestatistik (novemberstatistiken)"
+    },
+    "type": "statistical_product",
+    "owner": "SE2220000315",
+    "alias": [
+      "SCB:s befolkningsstatistik och SKR:s novemberstatistik",
+      "SCBs befolkningsstatistik och  SKR:s personalstatistik (novemberstatistiken)",
+      "SCBs befolkningsstatistik och  SKR:s personalstatistik (novemberstatistiken).\\n",
+      "SKR personal- och lönestatistik (novemberstatistiken)",
+      "SKR:s personal- och lönestatistik (novemberstatistiken)",
+      "SKR:s personal- och lönestatistik (novemberstatistiken).SKR",
+      "SKR:s personalstatistik (novemberstatistiken)",
+      "SKR:s personalstatistik (novemberstatistiken) och SCB:s befolkningsstatistik",
+      "SKR:s personalstatistik (novemberstatistiken) och SCB:s utbildningsregister",
+      "SKR:s personalstatistik (novemberstatistiken) och SCB:s utbildningsregister.\\n",
+      "SKR:s personalstatistik (novemberstatistiken).SKR",
+      "SKR:s personalstatistik (novemberstatistiken).\\n",
+      "SKR:s personalstatistik (novemberstatistiken)\\n"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "skr-kpp-databasen": {
+    "id": "skr-kpp-databasen",
+    "label": {
+      "sv": "KPP-databasen (kostnad per patient)"
+    },
+    "type": "database",
+    "owner": "SE2220000315",
+    "alias": [
+      "KPP-databasen (SKR)"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "skr-brukarundersokning-funktionsnedsattning": {
+    "id": "skr-brukarundersokning-funktionsnedsattning",
+    "label": {
+      "sv": "Brukarundersökning inom verksamheter för personer med funktionsnedsättning"
+    },
+    "type": "survey",
+    "owner": "SE2220000315",
+    "alias": [
+      "SKR:s undersökning om brukares uppfattning av kvalitet inom verksamheter för personer med funktionsnedsättning"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "skr-brukarundersokning-ifo": {
+    "id": "skr-brukarundersokning-ifo",
+    "label": {
+      "sv": "Brukarundersökning inom individ- och familjeomsorg"
+    },
+    "type": "survey",
+    "owner": "SE2220000315",
+    "alias": [
+      "SKR:s undersökning om brukares uppfattning av kvalitet inom individ- och familjeomsorg"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "skr-anlaggningsenkaten": {
+    "id": "skr-anlaggningsenkaten",
+    "label": {
+      "sv": "Anläggningsenkäten"
+    },
+    "type": "survey",
+    "owner": "SE2220000315",
+    "alias": [
+      "Riksidrottsförbundet och Anläggningsenkäten (SKR)",
+      "Riksidrottsförbundet och anläggningsenkäten (SKR)",
+      "SKR:s Anläggningsenkät",
+      "SKR:s Anläggningsenkät och SCB",
+      "SKR:s anläggningsenkät"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "skr-verksamhetsstatistik": {
+    "id": "skr-verksamhetsstatistik",
+    "label": {
+      "sv": "SKR:s verksamhetsstatistik"
+    },
+    "type": "statistical_product",
+    "owner": "SE2220000315",
+    "alias": [
+      "Patientregistret (Socialstyrelsen) via SKR:s verksamhetsstatistik",
+      "SKR:s verksamhetsstatistik",
+      "SKR:s verksamhetsstatistik och SCB:s befolkningsstatistik"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "skr-varden-i-siffror": {
+    "id": "skr-varden-i-siffror",
+    "label": {
+      "sv": "Vården i siffror"
+    },
+    "type": "database",
+    "owner": "SE2220000315",
+    "alias": [
+      "Beräkningar av RKA baserat på uppgifter från Vården i siffror och väntetider i vården",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
+      "Graviditetsregistret via Vården i Siffror",
+      "Källa: Patientregistret, Socialstyrelsen via Vården i Siffror",
+      "Luftvägsregistret via Vården i Siffror",
+      "Luftvägsregistret via Vården i siffror",
+      "Nationella diabetesregistret  via Vården i Siffror",
+      "Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror)",
+      "Nationella kvalitetsregistret för stroke via Vården i siffror",
+      "Nationella lungcancerregistret (NLCR)  via Vården i Siffror",
+      "Nationella lungcancerregistret via Vården i Siffror",
+      "Nationella prostatacancerregistret (NPCR) via Vården i Siffror",
+      "Nationella prostatacancerregistret via Vården i siffror",
+      "Nationellt kvalitetsregister för Cervixcancerprevention via Vården i Siffror",
+      "Nationellt kvalitetsregister för bröstcancer via Vården i Siffror",
+      "Patientregistret, Socialstyrelsen via Vården i Siffror",
+      "Patientsäkerhet, Sveriges kommuner och regioner via Vården i Siffror",
+      "RKA:s beräkningar baserade på uppgifter från Vården i siffror",
+      "RKA:s beräkningar baserat på uppgifter från Vården i siffror",
+      "SKR via Vården i siffror",
+      "SKaPa via Vården i Siffror",
+      "Socialstyrelsen via Vården i Siffror",
+      "Socialstyrelsen, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på li",
+      "Socialstyrelsen, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH).\\n",
+      "Svensk njurregister via Vården i Siffror",
+      "Svenska Kolorektalcancerregistret via Vården i Siffror",
+      "Svenska Palliativregistret via Vården i siffror",
+      "Svenska kolorektalcancerregistret (SCRCR) via Vården i Siffror",
+      "Svenska palliativregistret via Vården i Siffror",
+      "Svenska palliativregistret via Vården i siffror",
+      "Svenskt kvalitetsregister för Karies och Parodontit (SKaPa) via Vården i Siffror",
+      "Svenskt perioperativt register via Vården i Siffror",
+      "Sveriges kommuner och regioner via Vården i Siffror",
+      "Swedeheart via Vården i Siffrar",
+      "Swedeheart via Vården i Siffror",
+      "Swedeheart via Vården i siffror",
+      "Väntetider i vården, Sveriges kommuner och regioner via Vården i Siffror",
+      "Vården i siffror",
+      "Vårdförloppsuppföljning vid cancer, SKR via Vården i siffror"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "skr-vantetider-i-varden": {
+    "id": "skr-vantetider-i-varden",
+    "label": {
+      "sv": "Väntetider i vården"
+    },
+    "type": "database",
+    "owner": "SE2220000315",
+    "alias": [
+      "Beräkningar av RKA baserat på uppgifter från Vården i siffror och väntetider i vården",
+      "Väntetider i Vården",
+      "Väntetider i Vården och SCB",
+      "Väntetider i vården",
+      "Väntetider i vården, SKR",
+      "Väntetider i vården, Sveriges Kommuner och Regioner",
+      "Väntetider i vården, Sveriges kommuner och regioner via Vården i Siffror",
+      "Väntetidsdatabasen, Sveriges Kommuner och Regioner"
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2220000315"
+    ]
+  },
+  "skr-halso-och-sjukvardsbarometern": {
+    "id": "skr-halso-och-sjukvardsbarometern",
+    "label": {
+      "sv": "Hälso- och sjukvårdsbarometern"
+    },
+    "type": "survey",
+    "owner": "SE2220000315",
+    "alias": [
+      "Hälso- och sjukvårdsbarometern",
+      "Hälso- och sjukvårdsbarometern, Sveriges Kommuner och Regioner"
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2220000315"
+    ]
+  },
+  "skr-oppna-jamforelser": {
+    "id": "skr-oppna-jamforelser",
+    "label": {
+      "sv": "Öppna jämförelser"
+    },
+    "type": "statistical_product",
+    "owner": "SE2220000315",
+    "alias": [
+      "Socialstyrelsens Öppna Jämförelser av ekonomiskt bistånd",
+      "Socialstyrelsens öppna jämförelser.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Öppna jämförelser Enkät till kommunal hälso- och sjukvård och socialtjänsten, kommunundersökning.",
+      "Öppna jämförelser Trygghet och säkerhet",
+      "Öppna jämförelser. Enkät till kommunal hälso- och sjukvård och socialtjänsten, kommunundersökning.",
+      "Öppna jämförelser. Enkät till kommunal hälso- och sjukvård och socialtjänsten, kommunundersökning. Socialstyrelsen"
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2120000449",
+      "SE2220000315"
+    ]
+  },
+  "skr-ehalsa-enkat": {
+    "id": "skr-ehalsa-enkat",
+    "label": {
+      "sv": "Enkät om utvecklingen av e-hälsa och välfärdsteknik i kommunerna"
+    },
+    "type": "survey",
+    "owner": "SE2220000315",
+    "alias": [
+      "Socialstyrelsen, enkät om utvecklingen av e-hälsa och välfärdsteknik i kommunerna",
+      "Socialstyrelsen, enkät om utvecklingen av e-hälsa och välfärdsteknik i kommunerna. Källa: Socialstyrelsen, enkät om utve",
+      "Socialstyrelsen, enkät om utvecklingen av och välfärdsteknik i kommunerna"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "skr-enhetsundersokning": {
+    "id": "skr-enhetsundersokning",
+    "label": {
+      "sv": "Enhetsundersökningen"
+    },
+    "type": "survey",
+    "owner": "SE2220000315",
+    "alias": [
+      "Enhetsundersökningen om äldreomsorg och kommunal hälso- och sjukvård. 2025. Socialstyrelsen.",
+      "Socialstyrelsen,  Enhetsundersökningen om äldreomsorg och kommunal hälso- och sjukvård",
+      "Socialstyrelsens Enhetsundersökning LSS",
+      "Socialstyrelsens enhetsundersökning",
+      "Socialstyrelsens kommun- och enhetsundersökning"
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2220000315"
+    ]
+  },
+  "skr-jamforelsetal": {
+    "id": "skr-jamforelsetal",
+    "label": {
+      "sv": "Jämförelsetal"
+    },
+    "type": "statistical_product",
+    "owner": "SE2220000315",
+    "alias": [
+      "Jämförelsetal",
+      "Jämförelsetal - Skolverket",
+      "Skolverket (Jämförelsetal)"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "skr-fastighetsnyckeltal": {
+    "id": "skr-fastighetsnyckeltal",
+    "label": {
+      "sv": "Regionernas fastighetsnyckeltalsnätverk"
+    },
+    "type": "other",
+    "owner": "SE2220000315",
+    "alias": [
+      "Regionens fastighetsnyckeltalsnäverk"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "rka-berakningar": {
+    "id": "rka-berakningar",
+    "label": {
+      "sv": "RKA:s beräkningar"
+    },
+    "type": "statistical_product",
+    "owner": "SE2220000315",
+    "alias": [
+      "Medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreo",
+      "Medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreomsorgen)",
+      "RKA har beräknat utsläpp med data från den Nationella emissionsdatabasen",
+      "RKA har beräknat utsläpp med data från den Nationella emissionsdatabasen. Uppgifter för olika undersektorer kan vara osä",
+      "RKA har beräknat utsläpp per invånare med data från den Nationella emissionsdatabasen och SCB",
+      "RKA har beräknat utsläpp per invånare med data från den Nationella emissionsdatabasen och SCB. Uppgifter för olika under",
+      "RKA:s beräkningar",
+      "RKA:s beräkningar baserade på underlag från SCB och SKR",
+      "RKA:s beräkningar baserade på underlag från SCB och Skolverket",
+      "RKA:s beräkningar baserade på underlag från SCB och Skolverket.\\n",
+      "RKA:s beräkningar baserade på uppgifter från SCB och Skolverket",
+      "RKA:s beräkningar baserade på uppgifter från SCB och Socialstyrelsen",
+      "RKA:s beräkningar baserade på uppgifter från SCB, Socialstyrelsen samt SKR",
+      "RKA:s beräkningar baserade på uppgifter från SKR",
+      "RKA:s beräkningar baserade på uppgifter från SKR SCB och Socialstyrelsen",
+      "RKA:s beräkningar baserade på uppgifter från SKR, SCB och Skolverket",
+      "RKA:s beräkningar baserade på uppgifter från SKR, SCB och Socialstyrelsen",
+      "RKA:s beräkningar baserade på uppgifter från SKR, SCB, Skolverket och Skolinspektionen",
+      "RKA:s beräkningar baserade på uppgifter från SKR, SCB, Skolverket samt Skolinspektionen",
+      "RKA:s beräkningar baserade på uppgifter från Skolinspektionen",
+      "RKA:s beräkningar baserade på uppgifter från Vården i siffror",
+      "RKA:s beräkningar baseras på uppgifter från Folkhälsomyndigheten Hälsa på lika villkor (HLV) samt Liv & hälsa (LH)",
+      "RKA:s beräkningar baserat på uppgifter från SCB och Försäkringskassan",
+      "RKA:s beräkningar baserat på uppgifter från Vården i siffror",
+      "RKAs beräkningar",
+      "RKAs beräkningar av data från SCBs medborgarundersökning",
+      "medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreo",
+      "medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreomsorgen)"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "kolada": {
+    "id": "kolada",
+    "label": {
+      "sv": "Kolada"
+    },
+    "type": "database",
+    "owner": "SE2220000315",
+    "alias": [
+      "BRÅs nationella trygghetsundersökning 2021 slås ihop och det gemensamma resultatet publiceras under åren 2020 och 2021 i Kolada",
+      "SCB, Socialstyrelsen, Arbetsförmedlingen, Kolada, Trafikanalys.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun."
+    ],
+    "seen_in": [
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120000449",
+      "SE2220000315"
+    ]
+  },
+  "sos-patientregistret": {
+    "id": "sos-patientregistret",
+    "label": {
+      "sv": "Patientregistret (PAR)",
+      "en": "National Patient Register"
+    },
+    "type": "register",
+    "owner": "SE2021000555",
+    "alias": [
+      "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen",
+      "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen.\\n",
+      "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen",
+      "Arbetsmiljöverket, Skolverket och SCB, SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen.\\n",
+      "Arbetsmiljöverket, Skolverket och SCB, SCB, Socialstyrelsen, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen",
+      "Källa: Patientregistret, Socialstyrelsen via Vården i Siffror",
+      "Medicinska födelseregistret, Patientregistret, Socialstyrelsen",
+      "Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, BRÅ och SCB, Skolverket och SCB, SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen.\\n",
+      "Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, BRÅ och SCB, Skolverket och SCB, SCB, Socialstyrelsen, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen",
+      "Nationella emissionsdatabasen och SCB, Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, SCB, BRÅ och SCB, Skolverket och SCB, Energimyndigheten och SCB, Socialstyrelsen, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Avfall Sverige, Patientregistret, Socialstyrelsen",
+      "Nationella emissionsdatabasen och SCB, Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, SCB, BRÅ och SCB, Skolverket och SCB, Energimyndigheten och SCB, Sveriges geologiska undersökning (SGU) och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Avfall Sverige, Patientregistret, Socialstyrelsen.\\n",
+      "Nationella patientregistret",
+      "Patientregistret (PAR) och dödsorsaksregistret, Socialstyrelsen. Befolkningsstatistik från Statistiska Centralbyrån (SCB).",
+      "Patientregistret (PAR), Socialstyrelsen. Befolkningsstatistik från Statistiska Centralbyrån (SCB).",
+      "Patientregistret (Socialstyrelsen) via SKR:s verksamhetsstatistik",
+      "Patientregistret och Dödsorsaksregistret, Socialstyrelsen",
+      "Patientregistret och Dödsorsaksregistret, Socialstyrelsen.",
+      "Patientregistret och Läkemedelsregistret, Socialstyrelsen",
+      "Patientregistret och Registret över insatser inom kommunal hälso- och sjukvård, Socialstyrelsen",
+      "Patientregistret och Registret över insatser till äldre och personer med funktionsnedsättning, Socialstyrelsen",
+      "Patientregistret och dödsorsaksregistret via Folkhälsomyndigheten",
+      "Patientregistret och dödsorsaksregistret, Socialstyrelsen",
+      "Patientregistret, Läkemedelsregistret, Socialstyrelsen. Områdestyper, Boverket.",
+      "Patientregistret, Socialstyrelsen",
+      "Patientregistret, Socialstyrelsen via Vården i Siffror",
+      "Socialstyrelsen Patientregistret",
+      "Socialstyrelsen, patientregistret och dödsorsaksregistret."
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2021006545",
+      "SE2220000315"
+    ]
+  },
+  "sos-lakemedelsregistret": {
+    "id": "sos-lakemedelsregistret",
+    "label": {
+      "sv": "Läkemedelsregistret (LMED)",
+      "en": "Prescribed Drug Register"
+    },
+    "type": "register",
+    "owner": "SE2021000555",
+    "alias": [
+      "Dödsorsaksregistret och Läkemedelsregistret, Socialstyrelsen",
+      "Läkemedelsregistret (LMED), Socialstyrelsen. Befolkningsstatistik från Statistiska Centralbyrån (SCB).",
+      "Läkemedelsregistret och Registret över insatser inom kommunal hälso- och sjukvård, Socialstyrelsen",
+      "Läkemedelsregistret och Registret över insatser till äldre och personer med funktionsnedsättning, Socialstyrelsen",
+      "Läkemedelsregistret och registret över socialtjänstinsatser till äldre och personer med funktionsnedsättning via Socials",
+      "Läkemedelsregistret och registret över socialtjänstinsatser till äldre och personer med funktionsnedsättning via Socialstyrelsen",
+      "Läkemedelsregistret och registret över socialtjänstinsatser till äldre och personer med funktionsnedsättning, Socialstyr",
+      "Läkemedelsregistret och registret över socialtjänstinsatser till äldre och personer med funktionsnedsättning, Socialstyrelsen",
+      "Läkemedelsregistret, Socialstyrelsen",
+      "Patientregistret och Läkemedelsregistret, Socialstyrelsen",
+      "Patientregistret, Läkemedelsregistret, Socialstyrelsen. Områdestyper, Boverket.",
+      "Socialstyrelsens läkemedelsregister och SCB"
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2220000315"
+    ]
+  },
+  "sos-dodsorsaksregistret": {
+    "id": "sos-dodsorsaksregistret",
+    "label": {
+      "sv": "Dödsorsaksregistret",
+      "en": "Cause of Death Register"
+    },
+    "type": "register",
+    "owner": "SE2021000555",
+    "alias": [
+      "Dödsorsaksregistret och Läkemedelsregistret, Socialstyrelsen",
+      "Dödsorsaksregistret, Socialstyrelsen",
+      "Dödsorsaksregistret, Socialstyrelsen.",
+      "Patientregistret (PAR) och dödsorsaksregistret, Socialstyrelsen. Befolkningsstatistik från Statistiska Centralbyrån (SCB).",
+      "Patientregistret och Dödsorsaksregistret, Socialstyrelsen",
+      "Patientregistret och Dödsorsaksregistret, Socialstyrelsen.",
+      "Patientregistret och dödsorsaksregistret via Folkhälsomyndigheten",
+      "Patientregistret och dödsorsaksregistret, Socialstyrelsen",
+      "Socialstyrelsen, Dödsorsaksregistret",
+      "Socialstyrelsen, patientregistret och dödsorsaksregistret."
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2021006545",
+      "SE2220000315"
+    ]
+  },
+  "sos-medicinska-fodelseregistret": {
+    "id": "sos-medicinska-fodelseregistret",
+    "label": {
+      "sv": "Medicinska födelseregistret",
+      "en": "Medical Birth Register"
+    },
+    "type": "register",
+    "owner": "SE2021000555",
+    "alias": [
+      "Medicinska födelseregistret, Patientregistret, Socialstyrelsen",
+      "Medicinska födelseregistret, Socialstyrelsen",
+      "Medicinska födelseregistret, Socialstyrelsen.",
+      "Socialstyrelsen, Medicinska födelseregistret"
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2021006545",
+      "SE2220000315"
+    ]
+  },
+  "sos-register-insatser-aldre": {
+    "id": "sos-register-insatser-aldre",
+    "label": {
+      "sv": "Registret över insatser till äldre och personer med funktionsnedsättning"
+    },
+    "type": "register",
+    "owner": "SE2021000555",
+    "alias": [
+      "Folkhälsomyndigheten, Sminet, Socialstyrelsens register över insatser till äldre och personer med funktionsnedsättning",
+      "Läkemedelsregistret och Registret över insatser till äldre och personer med funktionsnedsättning, Socialstyrelsen",
+      "Läkemedelsregistret och registret över socialtjänstinsatser till äldre och personer med funktionsnedsättning via Socials",
+      "Läkemedelsregistret och registret över socialtjänstinsatser till äldre och personer med funktionsnedsättning via Socialstyrelsen",
+      "Läkemedelsregistret och registret över socialtjänstinsatser till äldre och personer med funktionsnedsättning, Socialstyr",
+      "Läkemedelsregistret och registret över socialtjänstinsatser till äldre och personer med funktionsnedsättning, Socialstyrelsen",
+      "Patientregistret och Registret över insatser till äldre och personer med funktionsnedsättning, Socialstyrelsen"
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2021006545",
+      "SE2220000315"
+    ]
+  },
+  "sos-register-ekonomiskt-bistand": {
+    "id": "sos-register-ekonomiskt-bistand",
+    "label": {
+      "sv": "Registret över ekonomiskt bistånd"
+    },
+    "type": "register",
+    "owner": "SE2021000555",
+    "alias": [
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet",
+      "SCB, Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd)",
+      "SCB, Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd).\\n",
+      "Socialstyrelsen (ÖJ ekonomiskt bistånd)",
+      "Socialstyrelsens register över ekonomiskt bistånd",
+      "Socialstyrelsens register över ekonomiskt bistånd samt Registret över totalbefolkningen (RTB)",
+      "Socialstyrelsens register över ekonomiskt bistånd samt SCB",
+      "Socialstyrelsens Öppna Jämförelser av ekonomiskt bistånd"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "sos-mangdstatistik": {
+    "id": "sos-mangdstatistik",
+    "label": {
+      "sv": "Mängdstatistik"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021000555",
+    "alias": [
+      "SCB och Socialstyrelsens mängdstatistik",
+      "Socialstyrelsens mängdstatistik och SCB:s befolkningsstatistik"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "sos-aldreundersokningen": {
+    "id": "sos-aldreundersokningen",
+    "label": {
+      "sv": "Vad tycker de äldre om äldreomsorgen?"
+    },
+    "type": "survey",
+    "owner": "SE2021000555",
+    "alias": [
+      "Medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreo",
+      "Medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreomsorgen)",
+      "Undersökningen av äldres uppfattning om kvaliteten i hemtjänst och äldreboenden, Socialstyrelsen",
+      "Vad tycker de äldre om äldreomsorgen? Socialstyrelsen",
+      "medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreo",
+      "medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreomsorgen)"
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2220000315"
+    ]
+  },
+  "sos-elevhalsan": {
+    "id": "sos-elevhalsan",
+    "label": {
+      "sv": "Elevhälsans längd- och viktmätningar"
+    },
+    "type": "survey",
+    "owner": "SE2021000555",
+    "alias": [
+      "Elevhälsan, data baseras på längd- och viktmätningar gjorda inom ramen för elevhälsosamtalen."
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545"
+    ]
+  },
+  "fohm-hlv": {
+    "id": "fohm-hlv",
+    "label": {
+      "sv": "Nationella folkhälsoenkäten Hälsa på lika villkor (HLV)",
+      "en": "National Public Health Survey"
+    },
+    "type": "survey",
+    "owner": "SE2021006545",
+    "alias": [
+      "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen",
+      "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen.\\n",
+      "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på",
+      "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen",
+      "Arbetsmiljöverket, Skolverket och SCB, SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen.\\n",
+      "Arbetsmiljöverket, Skolverket och SCB, SCB, Socialstyrelsen, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på",
+      "Arbetsmiljöverket, Skolverket och SCB, SCB, Socialstyrelsen, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen",
+      "Folkhälsomyndigheten (HLV)",
+      "Folkhälsomyndigheten (HLV), VISS, Länsstyrelserna",
+      "Folkhälsomyndigheten (HLV), VISS, Länsstyrelserna.\\n",
+      "Folkhälsomyndigheten, Hälsa på lika villkor (HLV)",
+      "Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH)",
+      "Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH).\\n",
+      "Folkhälsomyndigheten, Nationella folkhälsoenkäten",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarkn",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolk",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet",
+      "Källa: Folkhälsomyndigheten (HLV)",
+      "Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, BRÅ och SCB, Skolverket och SCB, SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen.\\n",
+      "Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, BRÅ och SCB, Skolverket och SCB, SCB, Socialstyrelsen, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen",
+      "Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Nationella f",
+      "Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Nationella folkhälsoenkäten",
+      "Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
+      "Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Nationella folkhälsoenkäten",
+      "Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
+      "Nationella emissionsdatabasen och SCB, Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, SCB, BRÅ och SCB, Skolverket och SCB, Energimyndigheten och SCB, Socialstyrelsen, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Avfall Sverige, Patientregistret, Socialstyrelsen",
+      "Nationella emissionsdatabasen och SCB, Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, SCB, BRÅ och SCB, Skolverket och SCB, Energimyndigheten och SCB, Sveriges geologiska undersökning (SGU) och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Avfall Sverige, Patientregistret, Socialstyrelsen.\\n",
+      "RKA:s beräkningar baseras på uppgifter från Folkhälsomyndigheten Hälsa på lika villkor (HLV) samt Liv & hälsa (LH)",
+      "SCB, Folkhälsomyndigheten, Nationella folkhälsoenkäten",
+      "SCB, Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd)",
+      "SCB, Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd).\\n",
+      "SCB, Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
+      "Skolinspektionens elevenkät, Folkhälsomyndigheten (HLV)",
+      "Skolinspektionens elevenkät, Folkhälsomyndigheten (HLV).\\n",
+      "Socialstyrelsen, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH)",
+      "Socialstyrelsen, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH).\\n",
+      "The Public Health Agency of Sweden, the national public health survey"
+    ],
+    "seen_in": [
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545",
+      "SE2220000315"
+    ]
+  },
+  "fohm-folkhalsodata": {
+    "id": "fohm-folkhalsodata",
+    "label": {
+      "sv": "Folkhälsodata"
+    },
+    "type": "database",
+    "owner": "SE2021006545",
+    "alias": [
+      "Folkhälsomyndigheten (Folkhälsodata) och SCB.  Sammanställning: Statistikgruppen, Linköpings kommun"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120000449"
+    ]
+  },
+  "fohm-sminet": {
+    "id": "fohm-sminet",
+    "label": {
+      "sv": "SmiNet"
+    },
+    "type": "register",
+    "owner": "SE2021006545",
+    "alias": [
+      "Folkhälsomyndigheten, Sminet",
+      "Folkhälsomyndigheten, Sminet, Socialstyrelsens register över insatser till äldre och personer med funktionsnedsättning",
+      "Folkhälsomyndigheten, Sminet, Statistikmyndigheten SCB",
+      "Folkhälsomyndigheten, Sminet, Statistikmyndigheten SCB, Svenska Intensivvårdsregistret SIR",
+      "Public Health Agency of Sweden, Sminet"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545"
+    ]
+  },
+  "fohm-nvr": {
+    "id": "fohm-nvr",
+    "label": {
+      "sv": "Nationella vaccinationsregistret (NVR)",
+      "en": "National vaccination register"
+    },
+    "type": "register",
+    "owner": "SE2021006545",
+    "alias": [
+      "Folkhälsomyndigheten, Nationella vaccinationsregistret (NVR)",
+      "Folkhälsomyndigheten. Nationella vaccinationsregistret (NVR)",
+      "Nationella vaccinregistret (NVR) via Folkhälsomyndigheten",
+      "The Public Health Agency of Sweden, National vaccination register (NVR)"
+    ],
+    "seen_in": [
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545",
+      "SE2220000315"
+    ]
+  },
+  "fohm-sir": {
+    "id": "fohm-sir",
+    "label": {
+      "sv": "Svenska intensivvårdsregistret (SIR)"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Folkhälsomyndigheten, Sminet, Statistikmyndigheten SCB, Svenska Intensivvårdsregistret SIR"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545"
+    ]
+  },
+  "bra-ntu": {
+    "id": "bra-ntu",
+    "label": {
+      "sv": "Nationella trygghetsundersökningen (NTU)"
+    },
+    "type": "survey",
+    "owner": "SE2021000068",
+    "alias": [
+      "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU",
+      "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen",
+      "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen.\\n",
+      "Arbetsmiljöverket, Skolverket och SCB, SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU",
+      "Arbetsmiljöverket, Skolverket och SCB, SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen.\\n",
+      "BRÅs nationella trygghetsundersökning",
+      "BRÅs nationella trygghetsundersökning 2021 slås ihop och det gemensamma resultatet publiceras under åren 2020 och 2021 i",
+      "BRÅs nationella trygghetsundersökning 2021 slås ihop och det gemensamma resultatet publiceras under åren 2020 och 2021 i Kolada",
+      "Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå)",
+      "Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, BRÅ och SCB, Skolverket och SCB, SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen.\\n",
+      "Nationella emissionsdatabasen och SCB, Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, SCB, BRÅ och SCB, Skolverket och SCB, Energimyndigheten och SCB, Sveriges geologiska undersökning (SGU) och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Avfall Sverige, Patientregistret, Socialstyrelsen.\\n"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "bra-ptu": {
+    "id": "bra-ptu",
+    "label": {
+      "sv": "Politikernas trygghetsundersökning (PTU)"
+    },
+    "type": "survey",
+    "owner": "SE2021000068",
+    "alias": [
+      "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU",
+      "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen",
+      "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen.\\n",
+      "Arbetsmiljöverket, Skolverket och SCB, SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU",
+      "Arbetsmiljöverket, Skolverket och SCB, SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen.\\n",
+      "Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå)",
+      "Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, BRÅ och SCB, Skolverket och SCB, SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen.\\n",
+      "Nationella emissionsdatabasen och SCB, Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, SCB, BRÅ och SCB, Skolverket och SCB, Energimyndigheten och SCB, Sveriges geologiska undersökning (SGU) och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Avfall Sverige, Patientregistret, Socialstyrelsen.\\n"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "boverket-bostadsmarknadsenkaten": {
+    "id": "boverket-bostadsmarknadsenkaten",
+    "label": {
+      "sv": "Bostadsmarknadsenkäten"
+    },
+    "type": "survey",
+    "owner": "SE2021003989",
+    "alias": [
+      "Bostadsmarknadsenkäten",
+      "Bostadsmarknadsenkäten (Boverket)"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "trafikverket-nvdb": {
+    "id": "trafikverket-nvdb",
+    "label": {
+      "sv": "Nationell vägdatabas (NVDB)"
+    },
+    "type": "database",
+    "owner": "SE2021006297",
+    "alias": [
+      "Egen undersökning i kommunen och NVBD",
+      "Gatustatistik (Egen undersökning i kommunen) och NVDB",
+      "Gatustatistik och NVDB",
+      "NVDB och SCB",
+      "Trafikverket (NVDB)",
+      "Trafikverket (NVDB) och SCB"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "skolinspektionen-elevenkat": {
+    "id": "skolinspektionen-elevenkat",
+    "label": {
+      "sv": "Skolinspektionens elevenkät"
+    },
+    "type": "survey",
+    "owner": "SE2021006065",
+    "alias": [
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet",
+      "Skolinspektionens elevenkät",
+      "Skolinspektionens elevenkät, Folkhälsomyndigheten (HLV)",
+      "Skolinspektionens elevenkät, Folkhälsomyndigheten (HLV).\\n"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "skolverket-siris": {
+    "id": "skolverket-siris",
+    "label": {
+      "sv": "SIRIS"
+    },
+    "type": "database",
+    "owner": "SE2021004185",
+    "alias": [
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet",
+      "SCB, Skolverket (Siris)",
+      "SCB, Skolverket (Siris).\\n",
+      "Skolverket (Siris)"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "smhi-nationella-emissionsdatabasen": {
+    "id": "smhi-nationella-emissionsdatabasen",
+    "label": {
+      "sv": "Nationella emissionsdatabasen"
+    },
+    "type": "database",
+    "owner": "SE2021000696",
+    "alias": [
+      "Nationella emissionsdatabasen",
+      "Nationella emissionsdatabasen och SCB",
+      "Nationella emissionsdatabasen och SCB, Energimyndigheten och SCB, SCB, Avfall Sverige",
+      "Nationella emissionsdatabasen och SCB, Energimyndigheten och SCB, Sveriges geologiska undersökning (SGU) och SCB, SCB, A",
+      "Nationella emissionsdatabasen och SCB, Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, SCB, BRÅ oc",
+      "Nationella emissionsdatabasen och SCB, Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, SCB, BRÅ och SCB, Skolverket och SCB, Energimyndigheten och SCB, Socialstyrelsen, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Avfall Sverige, Patientregistret, Socialstyrelsen",
+      "Nationella emissionsdatabasen och SCB, Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, SCB, BRÅ och SCB, Skolverket och SCB, Energimyndigheten och SCB, Sveriges geologiska undersökning (SGU) och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Avfall Sverige, Patientregistret, Socialstyrelsen.\\n",
+      "Nationella emissionsdatabasen och SCB\\n",
+      "Nationella emissionsdatabasen\\n",
+      "RKA har beräknat utsläpp med data från den Nationella emissionsdatabasen",
+      "RKA har beräknat utsläpp med data från den Nationella emissionsdatabasen. Uppgifter för olika undersektorer kan vara osä",
+      "RKA har beräknat utsläpp per invånare med data från den Nationella emissionsdatabasen och SCB",
+      "RKA har beräknat utsläpp per invånare med data från den Nationella emissionsdatabasen och SCB. Uppgifter för olika under",
+      "SMHI, Nationella emissionsdatabasen"
+    ],
+    "seen_in": [
+      "kolada",
+      "smhi_emissions"
+    ],
+    "cited_by": [
+      "SE2021000696",
+      "SE2220000315"
+    ]
+  },
+  "slu-riksskogstaxeringen": {
+    "id": "slu-riksskogstaxeringen",
+    "label": {
+      "sv": "Riksskogstaxeringen",
+      "en": "Swedish National Forest Inventory"
+    },
+    "type": "survey",
+    "owner": "SE2021002817",
+    "alias": [
+      "Riksskogstaxeringen, Sveriges lantbruksuniversitet.##Framtaget för länsstyrelsernas delprogram Miljötillståndet i skogslandskapet inom den regionala miljöövervakningen.",
+      "SLU Riksskogstaxeringen",
+      "SLU Riksskogstaxeringen, Naturvårdsverket (skyddade områden)",
+      "Swedish National Forest Area",
+      "Swedish National Forest Inventory",
+      "Swedish National Forest Inventory and the Swedish Environmental Protection Agency (protected areas)",
+      "The Swedish National Forest Inventory, Swedish University of Agricultural Sciences"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021002361-LST",
+      "SE2021002817",
+      "SE2021005612"
+    ]
+  },
+  "skogsstyrelsen-abin": {
+    "id": "skogsstyrelsen-abin",
+    "label": {
+      "sv": "Älgbetesinventeringen (Äbin)"
+    },
+    "type": "survey",
+    "owner": "SE2021005612",
+    "alias": [
+      "Skogsstyrelsen. Älgbetesinventering (Äbin)."
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021005612"
+    ]
+  },
+  "skogsstyrelsen-navet": {
+    "id": "skogsstyrelsen-navet",
+    "label": {
+      "sv": "Navet (Skogsstyrelsens administrativa register)"
+    },
+    "type": "register",
+    "owner": "SE2021005612",
+    "alias": [
+      "Skogsstyelsens administrativa register Navet.",
+      "Skogsstyrelsens administrativa register Navet."
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021005612"
+    ]
+  },
+  "skogsstyrelsen-ska22": {
+    "id": "skogsstyrelsen-ska22",
+    "label": {
+      "sv": "Skogliga konsekvensanalyser 2022 (SKA22)"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021005612",
+    "alias": [
+      "Skogsstyrelsen, SKA22"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021005612"
+    ]
+  },
+  "fk-sjukstatistik": {
+    "id": "fk-sjukstatistik",
+    "label": {
+      "sv": "Försäkringskassans statistik inom området sjuk"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021005521",
+    "alias": [
+      "Försäkringskassans statistik inom området sjuk och SCB",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarkn",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolk",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "finsam": {
+    "id": "finsam",
+    "label": {
+      "sv": "Finsam (samordningsförbundens uppföljning)"
+    },
+    "type": "database",
+    "owner": null,
+    "alias": [
+      "SCB och Försäkringskassan via finsam.se"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "valmyndigheten-valresultat": {
+    "id": "valmyndigheten-valresultat",
+    "label": {
+      "sv": "Valmyndighetens valresultat"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021005281",
+    "alias": [
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet",
+      "Källa: Valmyndigheten, Sammanställd av Ao Statistik & Utredningar",
+      "Källa: Valmyndigheten, Sammanställd av Statistik & Utredningar",
+      "Källa: Valmyndigheten; Sammanställd av Ao Statistik & Utredningar",
+      "SCB, Valmyndigheten",
+      "SCB, Valstatistik, Valmyndigheten fr o m 2010",
+      "SCB:s valdeltagandeundersökning, SCB, Valmyndigheten och SCB, Riksidrottsförbundet",
+      "SCB:s valdeltagandeundersökning, SCB, Valmyndigheten och SCB, Riksidrottsförbundet.\\n",
+      "Valmyndigheten och Helsingborgs stad",
+      "Valmyndigheten och Kommunkansliet.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Valmyndigheten och Länsstyrelsen i Östergötland.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Valmyndigheten och SCB",
+      "Valmyndigheten och SCB.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Valmyndigheten och SCB.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Valmyndigheten.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Valmyndigheten.  Sammanställning, beräkning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Valmyndigheten.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun."
+    ],
+    "seen_in": [
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545",
+      "SE2120000449",
+      "SE2120001157",
+      "SE2220000315"
+    ]
+  },
+  "energimyndigheten-drivmedel": {
+    "id": "energimyndigheten-drivmedel",
+    "label": {
+      "sv": "Drivmedelsvolymer (trafikhuvudmännen)"
+    },
+    "type": "statistical_product",
+    "owner": "SE2021005000",
+    "alias": [
+      "Trafikhuvudmännen (drivmedelsvolymer) och Energimyndigheten (omräkningsfaktorer)"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "tourism-in-skane": {
+    "id": "tourism-in-skane",
+    "label": {
+      "sv": "Tourism in Skåne"
+    },
+    "type": "other",
+    "owner": null,
+    "alias": [
+      "Tourism in Skåne/SCB, uttag genom Helsingborgs stads statistikdatabas"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120001157"
+    ]
+  },
+  "internetstiftelsen-bredbandskollen": {
+    "id": "internetstiftelsen-bredbandskollen",
+    "label": {
+      "sv": "Bredbandskollen"
+    },
+    "type": "database",
+    "owner": "SE8024050190",
+    "alias": [
+      "Bredbandskollen via Internetstiftelsen",
+      "Bredbandskollen via Internetstiftelsen och SCB"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "can-skolundersokningen": {
+    "id": "can-skolundersokningen",
+    "label": {
+      "sv": "CAN:s nationella skolundersökning"
+    },
+    "type": "survey",
+    "owner": "SE8020005461",
+    "alias": [
+      "CAN:s nationella skolundersökning"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "svensk-kollektivtrafik-kollektivtrafikbarometern": {
+    "id": "svensk-kollektivtrafik-kollektivtrafikbarometern",
+    "label": {
+      "sv": "Kollektivtrafikbarometern"
+    },
+    "type": "survey",
+    "owner": "SE8020021500",
+    "alias": [
+      "Kollektivtrafikbarometern"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "ivl-krondroppsnatet": {
+    "id": "ivl-krondroppsnatet",
+    "label": {
+      "sv": "Krondroppsnätet"
+    },
+    "type": "survey",
+    "owner": "SE5561162446",
+    "alias": [
+      "Krondroppsnätet, IVL Svenska Miljöinstirutet"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021005612"
+    ]
+  },
+  "avfall-sverige-statistik": {
+    "id": "avfall-sverige-statistik",
+    "label": {
+      "sv": "Avfall Sveriges avfallsstatistik"
+    },
+    "type": "statistical_product",
+    "owner": "SE8460010161",
+    "alias": [
+      "Avfall Sverige",
+      "Avfall Sverige via FTI och i förekommande fall kompletterande uppgifter från kommunen avseende fastighetsnära insamling",
+      "Nationella emissionsdatabasen och SCB, Energimyndigheten och SCB, SCB, Avfall Sverige",
+      "Nationella emissionsdatabasen och SCB, Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, SCB, BRÅ och SCB, Skolverket och SCB, Energimyndigheten och SCB, Socialstyrelsen, Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Avfall Sverige, Patientregistret, Socialstyrelsen",
+      "Nationella emissionsdatabasen och SCB, Myndigheten för samhällsskydd och beredskap (MSB), Arbetsmiljöverket, SCB, BRÅ och SCB, Skolverket och SCB, Energimyndigheten och SCB, Sveriges geologiska undersökning (SGU) och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Avfall Sverige, Patientregistret, Socialstyrelsen.\\n"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "fti-insamlingsstatistik": {
+    "id": "fti-insamlingsstatistik",
+    "label": {
+      "sv": "FTI:s insamlingsstatistik"
+    },
+    "type": "statistical_product",
+    "owner": null,
+    "alias": [
+      "Avfall Sverige via FTI och i förekommande fall kompletterande uppgifter från kommunen avseende fastighetsnära insamling"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "senior-alert": {
+    "id": "senior-alert",
+    "label": {
+      "sv": "Senior alert"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Senior Alert",
+      "Senior Alerts TUFM rapport",
+      "Senior alert",
+      "Senior alert via Socialstyrelsen"
+    ],
+    "seen_in": [
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545",
+      "SE2220000315"
+    ]
+  },
+  "svenska-palliativregistret": {
+    "id": "svenska-palliativregistret",
+    "label": {
+      "sv": "Svenska palliativregistret"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Palliativ registret",
+      "Palliativa registret",
+      "Svenska Palliativregistret via Vården i siffror",
+      "Svenska palliativregistret",
+      "Svenska palliativregistret via Vården i Siffror",
+      "Svenska palliativregistret via Vården i siffror"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "ndr": {
+    "id": "ndr",
+    "label": {
+      "sv": "Nationella diabetesregistret (NDR)"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
+      "Nationella Diabetesregistret",
+      "Nationella diabetesregistret  via Vården i Siffror",
+      "Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror)",
+      "Nationella diabetesregistret och Socialstyrelsen",
+      "Socialstyrelsen, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på li",
+      "Socialstyrelsen, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH).\\n"
+    ],
+    "seen_in": [
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545",
+      "SE2220000315"
+    ]
+  },
+  "riksstroke": {
+    "id": "riksstroke",
+    "label": {
+      "sv": "Riksstroke"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Nationella kvalitetsregistret för stroke via Vården i siffror",
+      "Riksstroke - Nationella kvalitetsregistret för stroke"
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2220000315"
+    ]
+  },
+  "swedeheart": {
+    "id": "swedeheart",
+    "label": {
+      "sv": "SWEDEHEART"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Swedeheart via Vården i Siffrar",
+      "Swedeheart via Vården i Siffror",
+      "Swedeheart via Vården i siffror"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "graviditetsregistret": {
+    "id": "graviditetsregistret",
+    "label": {
+      "sv": "Graviditetsregistret"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Graviditetsregistret",
+      "Graviditetsregistret via Vården i Siffror"
+    ],
+    "seen_in": [
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545",
+      "SE2220000315"
+    ]
+  },
+  "luftvagsregistret": {
+    "id": "luftvagsregistret",
+    "label": {
+      "sv": "Luftvägsregistret"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Luftvägsregistret via Vården i Siffror",
+      "Luftvägsregistret via Vården i siffror"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "svenskt-njurregister": {
+    "id": "svenskt-njurregister",
+    "label": {
+      "sv": "Svenskt njurregister"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Svensk njurregister via Vården i Siffror"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "skapa": {
+    "id": "skapa",
+    "label": {
+      "sv": "Svenskt kvalitetsregister för karies och parodontit (SKaPa)"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "SKaPa via Vården i Siffror",
+      "Svenskt kvalitetsregister för Karies och Parodontit (SKaPa) via Vården i Siffror"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "spor": {
+    "id": "spor",
+    "label": {
+      "sv": "Svenskt perioperativt register (SPOR)"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Svenskt perioperativt register via Vården i Siffror"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "rikshoft": {
+    "id": "rikshoft",
+    "label": {
+      "sv": "Rikshöft"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Nationellt kvalitetsregister för höftfrakturpatienter (RIKSHÖFT)"
+    ],
+    "seen_in": [
+      "dataanalys"
+    ],
+    "cited_by": [
+      "SE2021000555"
+    ]
+  },
+  "nkbc": {
+    "id": "nkbc",
+    "label": {
+      "sv": "Nationellt kvalitetsregister för bröstcancer"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Nationellt kvalitetsregister för bröstcancer via Vården i Siffror"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "nkcx": {
+    "id": "nkcx",
+    "label": {
+      "sv": "Nationellt kvalitetsregister för cervixcancerprevention"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Nationellt kvalitetsregister för Cervixcancerprevention via Vården i Siffror"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "nlcr": {
+    "id": "nlcr",
+    "label": {
+      "sv": "Nationella lungcancerregistret (NLCR)"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Nationella lungcancerregistret (NLCR)",
+      "Nationella lungcancerregistret (NLCR)  via Vården i Siffror",
+      "Nationella lungcancerregistret via Vården i Siffror"
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2220000315"
+    ]
+  },
+  "npcr": {
+    "id": "npcr",
+    "label": {
+      "sv": "Nationella prostatacancerregistret (NPCR)"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Nationella prostatacancerregistret (NPCR) via Vården i Siffror",
+      "Nationella prostatacancerregistret via Vården i siffror"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "scrcr": {
+    "id": "scrcr",
+    "label": {
+      "sv": "Svenska kolorektalcancerregistret"
+    },
+    "type": "register",
+    "owner": null,
+    "alias": [
+      "Svenska Kolorektalcancerregistret via Vården i Siffror",
+      "Svenska kolorektalcancerregistret (SCRCR) via Vården i Siffror"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "rcc": {
+    "id": "rcc",
+    "label": {
+      "sv": "Regionala cancercentrum i samverkan"
+    },
+    "type": "other",
+    "owner": null,
+    "alias": [
+      "Regionala Cancercentrum i Samverkan"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "ihp": {
+    "id": "ihp",
+    "label": {
+      "sv": "International Health Policy Survey (IHP)"
+    },
+    "type": "survey",
+    "owner": null,
+    "alias": [
+      "International Health Policy Survey (IHP) bland personer 65 år eller äldre, Myndigheten för vård och omsorgsanalys"
+    ],
+    "seen_in": [
+      "dataanalys"
+    ],
+    "cited_by": [
+      "SE2021000555"
+    ]
+  },
+  "nns": {
+    "id": "nns",
+    "label": {
+      "sv": "Nationella nätverket för samordningsförbund (NNS)"
+    },
+    "type": "other",
+    "owner": null,
+    "alias": [
+      "Nationella nätverket för samordningsförbund (NNS)"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "nils-holgersson": {
+    "id": "nils-holgersson",
+    "label": {
+      "sv": "Nils Holgersson-gruppen"
+    },
+    "type": "other",
+    "owner": null,
+    "alias": [
+      "Nils Holgersson gruppen"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "vastfolket": {
+    "id": "vastfolket",
+    "label": {
+      "sv": "Västfolket"
+    },
+    "type": "database",
+    "owner": "SE2321000131",
+    "alias": [
+      "1984-2007: Västfolket. Från 2008 och framåt:SCB",
+      "1985-2008: Västfolket. Från 2009 och framåt:SCB",
+      "Västfolket"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120001355"
+    ]
+  },
+  "kusk": {
+    "id": "kusk",
+    "label": {
+      "sv": "Interreg-projekt KUSK"
+    },
+    "type": "other",
+    "owner": null,
+    "alias": [
+      "Interreg- projekt KUSK",
+      "Interreg- projekt KUSK, SSB, SCB",
+      "Interreg-projekt KUSK, SSB, SCB",
+      "Interreg-projekt KUSK, SSB,SCB",
+      "Projekt KUSK, SCB, SSB"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2321000131"
+    ]
+  },
+  "biometria-virkesmatning": {
+    "id": "biometria-virkesmatning",
+    "label": {
+      "sv": "Biometrias virkesmätningsdata"
+    },
+    "type": "statistical_product",
+    "owner": "SE7696046924",
+    "alias": [
+      "Biometria (SDC) and Swedish Forest Agency",
+      "Biometria (SDC) and Swedish Forest Agency until 2024, from 2025 Swedish Forest Agency",
+      "Biometria (SDC) och Skogsstyrelsen",
+      "Biometria (SDC) och Skogsstyrelsen till och med 2024, därefter Skogsstyrelsen",
+      "Biometria and Swedish Forest Agency 2019-2024. Swedish Forest Agency 2025-",
+      "Biometria and Swedish forest Agency",
+      "Biometria och Skogsstyrelsen",
+      "Biometria och Skogsstyrelsen 2019-2024. Skogsstyrelsen 2025-"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021005612"
+    ]
+  },
+  "svenska-agg": {
+    "id": "svenska-agg",
+    "label": {
+      "sv": "Svenska Ägg"
+    },
+    "type": "other",
+    "owner": null,
+    "alias": [
+      "Svenska Ägg"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021004151"
+    ]
+  },
+  "jordbruksverket-slaktdatabas": {
+    "id": "jordbruksverket-slaktdatabas",
+    "label": {
+      "sv": "Jordbruksverkets slaktdatabas"
+    },
+    "type": "database",
+    "owner": "SE2021004151",
+    "alias": [
+      "Jordbruksverkets slaktdatabas"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021004151"
+    ]
+  },
+  "macrobond": {
+    "id": "macrobond",
+    "label": {
+      "sv": "Macrobond"
+    },
+    "type": "database",
+    "owner": "SE5567409817",
+    "alias": [
+      "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond and National Institute of Economic Research and National Institute of Economic Research",
+      "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond och Konjunkturinstitutet och Konjunkturinstitutet",
+      "Riksbanken, ECB, Federal Reserve, Macrobond och Konjunkturinstitutet",
+      "Riksbanken, Macrobond och Konjunkturinstitutet",
+      "Sveriges Riksbank, ECB, Federal Reserve, Macrobond and National Institute of Economic Research",
+      "Sveriges Riksbank, Macrobond and National Institute of Economic Research"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000845"
+    ]
+  },
+  "refinitiv": {
+    "id": "refinitiv",
+    "label": {
+      "sv": "Refinitiv"
+    },
+    "type": "database",
+    "owner": "wikidata:Q60741469",
+    "alias": [
+      "Refinitiv"
+    ],
+    "seen_in": [
+      "riksbank"
+    ],
+    "cited_by": [
+      "SE2021002684"
+    ]
+  },
+  "nasdaq": {
+    "id": "nasdaq",
+    "label": {
+      "sv": "Nasdaq"
+    },
+    "type": "database",
+    "owner": "wikidata:Q1472929",
+    "alias": [
+      "Nasdaq",
+      "Nasdaq; Sveriges Riksbank"
+    ],
+    "seen_in": [
+      "riksbank"
+    ],
+    "cited_by": [
+      "SE2021002684"
+    ]
+  },
+  "eurostat": {
+    "id": "eurostat",
+    "label": {
+      "sv": "Eurostat"
+    },
+    "type": "database",
+    "owner": "wikidata:Q217659",
+    "alias": [
+      "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond and National Institute of Economic Research and National Institute of Economic Research",
+      "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond och Konjunkturinstitutet och Konjunkturinstitutet",
+      "Eurostat, OECD, IMF, Riksbanken och Konjunkturinstitutet",
+      "Eurostat, OECD, IMF, Sveriges Riksbank and National Institute of Economic Research"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000845"
+    ]
+  },
+  "oecd": {
+    "id": "oecd",
+    "label": {
+      "sv": "OECD"
+    },
+    "type": "database",
+    "owner": "wikidata:Q41550",
+    "alias": [
+      "Eurostat, OECD, IMF, Riksbanken och Konjunkturinstitutet",
+      "Eurostat, OECD, IMF, Sveriges Riksbank and National Institute of Economic Research"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000845"
+    ]
+  },
+  "imf": {
+    "id": "imf",
+    "label": {
+      "sv": "IMF"
+    },
+    "type": "database",
+    "owner": "wikidata:Q7804",
+    "alias": [
+      "Eurostat, OECD, IMF, Riksbanken och Konjunkturinstitutet",
+      "Eurostat, OECD, IMF, Sveriges Riksbank and National Institute of Economic Research",
+      "International Monetary Fund (IMF)"
+    ],
+    "seen_in": [
+      "pxweb_v1",
+      "riksbank"
+    ],
+    "cited_by": [
+      "SE2021000845",
+      "SE2021002684"
+    ]
+  },
+  "ecb": {
+    "id": "ecb",
+    "label": {
+      "sv": "ECB"
+    },
+    "type": "database",
+    "owner": "wikidata:Q8901",
+    "alias": [
+      "Riksbanken, ECB, Federal Reserve, Macrobond och Konjunkturinstitutet",
+      "Sveriges Riksbank, ECB, Federal Reserve, Macrobond and National Institute of Economic Research"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000845"
+    ]
+  },
+  "bis": {
+    "id": "bis",
+    "label": {
+      "sv": "BIS"
+    },
+    "type": "database",
+    "owner": "wikidata:Q309195",
+    "alias": [
+      "Bank for International Settlements (BIS)"
+    ],
+    "seen_in": [
+      "riksbank"
+    ],
+    "cited_by": [
+      "SE2021002684"
+    ]
+  },
+  "federal-reserve": {
+    "id": "federal-reserve",
+    "label": {
+      "sv": "Federal Reserve"
+    },
+    "type": "database",
+    "owner": "wikidata:Q53536",
+    "alias": [
+      "Riksbanken, ECB, Federal Reserve, Macrobond och Konjunkturinstitutet",
+      "Sveriges Riksbank, ECB, Federal Reserve, Macrobond and National Institute of Economic Research"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000845"
+    ]
+  },
+  "nbs-china": {
+    "id": "nbs-china",
+    "label": {
+      "sv": "National Bureau of Statistics of China"
+    },
+    "type": "database",
+    "owner": "wikidata:Q1509446",
+    "alias": [
+      "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond and National Institute of Economic Research and National Institute of Economic Research",
+      "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond och Konjunkturinstitutet och Konjunkturinstitutet"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000845"
+    ]
+  },
+  "ssb": {
+    "id": "ssb",
+    "label": {
+      "sv": "Statistics Norway (SSB)"
+    },
+    "type": "database",
+    "owner": "wikidata:Q2367019",
+    "alias": [
+      "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond and National Institute of Economic Research and National Institute of Economic Research",
+      "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond och Konjunkturinstitutet och Konjunkturinstitutet",
+      "Interreg- projekt KUSK, SSB, SCB",
+      "Interreg-projekt KUSK, SSB, SCB",
+      "Interreg-projekt KUSK, SSB,SCB",
+      "Projekt KUSK, SCB, SSB",
+      "SSB & SCB.",
+      "SSB,SCB"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000845",
+      "SE2321000131"
+    ]
+  },
+  "statistics-bureau-japan": {
+    "id": "statistics-bureau-japan",
+    "label": {
+      "sv": "Statistics Bureau of Japan"
+    },
+    "type": "database",
+    "owner": null,
+    "alias": [
+      "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond and National Institute of Economic Research and National Institute of Economic Research",
+      "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond och Konjunkturinstitutet och Konjunkturinstitutet"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021000845"
+    ]
+  },
+  "linkoping-statistikgruppen": {
+    "id": "linkoping-statistikgruppen",
+    "label": {
+      "sv": "Statistikgruppen, Analys & Utredning (Linköpings kommun)"
+    },
+    "type": "unit",
+    "owner": "SE2120000449",
+    "alias": [
+      "Arbetsförmedlingen.   Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Arbetsförmedlingen.   Sammanställd av Statistikgruppen, Analys & Utredning., Linköpings kommun.",
+      "Arbetsförmedlingen.   Sammanställd och bearbetad av Statistikgruppen, Analys & Utredning., Linköpings kommun.",
+      "Arbetsförmedlingen.   Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Arbetsförmedlingen.   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "DiMiOS.  Sammanställningt: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Folkhälsomyndigheten (Folkhälsodata) och SCB.  Sammanställning: Statistikgruppen, Linköpings kommun",
+      "Försäkringskassan.  Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Källa: Linköpings kommun, Statistik & Utredningar",
+      "Källa: SCB  Sammanställd av Statistik & Utredningar",
+      "Källa: SCB  Sammanställning:Statistik & Utredningar",
+      "Källa: SCB  Uppdaterad och sammanställd av Statistik & Utredningar",
+      "Källa: SCB, sammanställning Statistik & Utredningar",
+      "Källa: Statistiska Centralbyrån (SCB)  Sammanställning: Statistikgruppen, Linköpings kommun",
+      "Källa: Valmyndigheten, Sammanställd av Ao Statistik & Utredningar",
+      "Källa: Valmyndigheten, Sammanställd av Statistik & Utredningar",
+      "Källa: Valmyndigheten; Sammanställd av Ao Statistik & Utredningar",
+      "Källa: Östgötadatabasen (SCB)  Sammanställning: Statistikgruppen, Linköpings kommun",
+      "Källla: Region Östergötland, Sammanställning: Statistik & Utredningar, Linköpings kommun",
+      "KäÖstgötadatabasen (SCB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Region Östergötland,  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun",
+      "SCB (Bilpak).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Bilpak). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / OSDB / Östgötadatabasen).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / OSDB / Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / Årsys / RAMS / OSDB  / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB / Årsys / RAMS / OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB och SSD / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (FoB, OSDB/Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB - Bilpak).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB - H32).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB / Östgötadatabasen) och Statistikgruppen, Linköpings kommun.  Beräkning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB / Östgötadatabasen), Linköpings kommun.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB / Östgötadatabasen).  Beräkning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB / Östgötadatabasen).  Sammanställning och beräkning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB / Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB och Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB) / Linköpings kommuns Statistikmeddelanden.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB) och Linköpings kommun.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB) och Linköpings kommun.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB), Linköpings kommun (Statistisk Årsbok).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB), Linköpings kommun.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB), Linköpings kommun. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB).  Bearbetad och sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB).  Beräkning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB).  Sammanställning av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB).  Uppdaterad och sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB). Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB). Statistik & Utredningar, Linköpings kommun.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB/Östgötadatabasen) och Linköpings kommun.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB/Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (OSDB/Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (RAMS / AMPAK / BAS / OSDB).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (RAMS / AMPAK / OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / OSDB), Linköpings kommun. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / OSDB). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / Östgötadatabasen), BAS. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / Östgötadatabasen).  Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD och årliga böcker om Befolkning).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD) / Riksantikvarieämbetet.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD) / Östgötadatabasen. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD), .  Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD), Linköpings kommun. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD).   Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD).  Bearbetning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD).  Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD). Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (SSD). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen / OSDB).  Beräkning, analys, bearbetning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen / OSDB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen)  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen) / BAS. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen) och Statistikgruppen, Linköpings kommun.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).     Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).    Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).   Sammanställning och beräkning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Bearbetning och sammanställning av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Bearbetning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Beräkning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning och beräkning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning och beräkning: Statistikgruppen, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning, beräkning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning: Statistik & Utredningar, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun",
+      "SCB (Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen).  Sammanställning: Statistikgruppen, Analys & utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen). Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun,",
+      "SCB (Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & utredning, Linköpings kommun.",
+      "SCB (Östgötadatabasen). Sammanställt av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB och Linköpings kommun.  Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB och Linköpings kommun.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB och Linköpings kommun.  Uppdaterad och sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB och Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB och Statistikkontoret i Linköpings kommun.  Uppdaterad och sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB och Tillväxtverket. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB Östgötadatabasen.   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB, FoB 1965-1990, Linköpings kommun 1995-2005, SCB Lägenhetsregistret 2013-w.    Bearbetning och sammanställdning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB, Linköpings kommun, SIKA, Trafikanalys.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB, Socialstyrelsen, Arbetsförmedlingen, Kolada, Trafikanalys.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Kommunprognoser för Åtvidaberg och Kinda samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner. Sammanställning och bearbetning: Statistikgruppen, Linköpings kommun.",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Kommunprognoser för Ödeshög, Kinda, Boxholm, Åtvidaberg och Vadstena samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner. Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Övriga kommuners prognoser samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Övriga kommuners prognoser samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner.  Sammanställning och bearbetning: Statistikgruppen, Linköpings kommun.",
+      "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Övriga kommuners prognoser samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner. Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB.  Bearbetning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB.  Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB.  Sammanställning: Statistik & Utredningar, Linköpings kommun.",
+      "SCB.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB.  Uppdaterad och sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB. Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "SCB. Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Socialstyrelsen.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Socialstyrelsens statistikdatabas.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Socialstyrelsens öppna jämförelser.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistikgruppen, Analys och Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB)   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB)  Årlig sysselsättningsstatistik (Årsys) 1985-1992 och Registerbaserad arbetsmarknadsstatistik (RAMS) 1993-2021, samt Befolkningens arbetsmarknadsstatus (BAS) från 2022 och framåt.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB) - SSD.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB) FoB80, samt ÅRSYS 1985-1992, RAMS 1993-2021, BAS 2022-w. Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB) och Linköpings kommun.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB) och Tillväxtverket.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB), Arbetsförmedlingen och Tillväxtanalys.  Sammanställning, beräkning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB), Kungliga Bostadsstyrelsen.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB), Kungliga Socialstyrelsen, Kungliga Bostadsstyrelsen.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB), Tillväxtanalys, Arbetsförmedlingen, Socialstyrelsen.  Sammanställning, beräkning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB), samt enskilda kommuner.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB), samt kommunerna i Östergötlands län.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB).   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB).  Bearbetning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB).  Beräkning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun. Uppgifterna före kommunsammanslagningarna som genomfördes under perioden 1971-1974 avser kommunblock.",
+      "Statistiska Centralbyrån (SCB). Bearbetning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB75, FoB80, FoB85, FoB90, Årsys, RAMS, BAS.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB75, FoB80, FoB85, Årsys, RAMS, BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD, FoB80,  Årsys, RAMS, BAS.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD.   Sammanställning, beräkning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB). SSD.   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Tillväxtanalys (Statistikportalen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Trafikanalys.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Valmyndigheten och Kommunkansliet.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Valmyndigheten och Länsstyrelsen i Östergötland.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Valmyndigheten och SCB.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Valmyndigheten och SCB.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Valmyndigheten.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Valmyndigheten.  Sammanställning, beräkning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Valmyndigheten.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB)  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB) RAKS / BAS.   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB) RAKS / BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB) RAKS/BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB), RAMS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB).   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB).  Beräkning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning Linköpings kommun.",
+      "Östgötadatabasen (SCB).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Östgötadatabasen (SCB).  Sammanställning: Statistikgruppen, Analys & Utredning,  Linköpings kommun.",
+      "Östgötadatabasen (SCB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun."
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120000449"
+    ]
+  },
+  "helsingborg-statistikdatabas": {
+    "id": "helsingborg-statistikdatabas",
+    "label": {
+      "sv": "Helsingborgs stads statistikdatabas"
+    },
+    "type": "database",
+    "owner": "SE2120001157",
+    "alias": [
+      "Arbetsförmedlingen, uttag genom Helsingborgs stads statistikdatabas",
+      "Arbetsförmedlingen, uttag via Helsingborgs stads statistikdatabas",
+      "Bolagsverket (nyregistrerade företag) och SCB (konkurser), uttag genom Helsingborgs stads statistikdatabas",
+      "Helsingborgs stad, uttag genom Helsingborgs stads statistikdatabas",
+      "SCB, uttag genom Helsingborgs stads statistikdatabas",
+      "Skolverket, uttag genom Helsingborgs stads statistikdatabas",
+      "Sveriges statistiska databaser, uttag genom Helsingborgs stads statistikdatabas",
+      "Tourism in Skåne/SCB, uttag genom Helsingborgs stads statistikdatabas"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120001157"
+    ]
+  },
+  "region-ostergotland-statistik": {
+    "id": "region-ostergotland-statistik",
+    "label": {
+      "sv": "Statistik & Utredningar (Region Östergötland)"
+    },
+    "type": "unit",
+    "owner": "SE2321000040",
+    "alias": [
+      "Källla: Region Östergötland, Sammanställning: Statistik & Utredningar, Linköpings kommun",
+      "Region Östergötland,  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120000449"
+    ]
+  },
+  "sos-alarm-data": {
+    "id": "sos-alarm-data",
+    "label": {
+      "sv": "SOS Alarm"
+    },
+    "type": "other",
+    "owner": "SE5561595819",
+    "alias": [
+      "SOS Alarm",
+      "SOS alarm"
+    ],
+    "seen_in": [
+      "dataanalys",
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2021000555",
+      "SE2220000315"
+    ]
+  },
+  "ekomatcentrum-statistik": {
+    "id": "ekomatcentrum-statistik",
+    "label": {
+      "sv": "Ekomatcentrums statistik"
+    },
+    "type": "statistical_product",
+    "owner": "SE8024041769",
+    "alias": [
+      "Ekomatcentrum"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "handelsradet": {
+    "id": "handelsradet",
+    "label": {
+      "sv": "Handelsrådet"
+    },
+    "type": "other",
+    "owner": "SE8024076468",
+    "alias": [
+      "Handelsrådet"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "miljofordon-sverige": {
+    "id": "miljofordon-sverige",
+    "label": {
+      "sv": "Miljöfordon Sverige"
+    },
+    "type": "database",
+    "owner": "SE7696081087",
+    "alias": [
+      "Miljöfordon Sverige",
+      "Miljöfordon Sverige (MFS)"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "riksidrottsforbundet-anlaggningar": {
+    "id": "riksidrottsforbundet-anlaggningar",
+    "label": {
+      "sv": "Riksidrottsförbundets anläggningsdata"
+    },
+    "type": "other",
+    "owner": "SE8020028166",
+    "alias": [
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
+      "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet",
+      "Riksidrottsförbundet",
+      "Riksidrottsförbundet och Anläggningsenkäten (SKR)",
+      "Riksidrottsförbundet och SCB",
+      "Riksidrottsförbundet och anläggningsenkäten (SKR)",
+      "SCB:s valdeltagandeundersökning, SCB, Valmyndigheten och SCB, Riksidrottsförbundet",
+      "SCB:s valdeltagandeundersökning, SCB, Valmyndigheten och SCB, Riksidrottsförbundet.\\n"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "systembolaget-forsaljning": {
+    "id": "systembolaget-forsaljning",
+    "label": {
+      "sv": "Systembolagets försäljningsstatistik"
+    },
+    "type": "statistical_product",
+    "owner": "SE5560599473",
+    "alias": [
+      "Folkhälsomyndigheten, Systembolaget",
+      "Swedish Alcohol Retail Monopoly",
+      "Swedish Alcohol Retail Monopoly, The Public Health Agency of Sweden, Statistics Sweden (SCB)",
+      "Systembolaget",
+      "Systembolaget, Folkhälsomyndigheten, Statistiska centralbyrån (SCB)",
+      "The Public Health Agency of Sweden, Swedish Alcohol Retail Monopoly"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021006545"
+    ]
+  },
+  "apoteket-gasleveranser": {
+    "id": "apoteket-gasleveranser",
+    "label": {
+      "sv": "Apotekets gasleveranser"
+    },
+    "type": "other",
+    "owner": "SE5561386532",
+    "alias": [
+      "Egna uppgifter i regionen (lustgas) och Apoteket (övriga gaser)"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "statisticon": {
+    "id": "statisticon",
+    "label": {
+      "sv": "Statisticon"
+    },
+    "type": "other",
+    "owner": "SE5565582185",
+    "alias": [
+      "SCB (tidigare Statisticon AB)",
+      "Statisticon"
+    ],
+    "seen_in": [
+      "kolada",
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120001850",
+      "SE2220000315"
+    ]
+  },
+  "sweco": {
+    "id": "sweco",
+    "label": {
+      "sv": "Sweco"
+    },
+    "type": "other",
+    "owner": "SE5567679849",
+    "alias": [
+      "SCB och Karlstads kommun/Sweco"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120001850"
+    ]
+  },
+  "wingarc": {
+    "id": "wingarc",
+    "label": {
+      "sv": "WingArc"
+    },
+    "type": "other",
+    "owner": null,
+    "alias": [
+      "WingArc Australia"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120001850"
+    ]
+  },
+  "egen-undersokning": {
+    "id": "egen-undersokning",
+    "label": {
+      "sv": "Egen undersökning i kommunen eller regionen"
+    },
+    "type": "survey",
+    "owner": null,
+    "alias": [
+      "Egen insamling i kommunen",
+      "Egen undersökning i kommunen",
+      "Egen undersökning i kommunen (insamlingen Kommunal arbetsmarknadsstatistik)",
+      "Egen undersökning i kommunen och NVBD",
+      "Egen undersökning i regionen",
+      "Egen undersökning i regionen inklusive kommuner och SCB",
+      "Egen undersökning i regionen inklusive kommuner och SCB (-2021), Socialstyrelsen och SCB (2022-)",
+      "Egen undersökning i regionen inklusive kommuner och SCB (-2021), Socialstyrelsen och SCB (2022-). Jämförelser mellan 202",
+      "Egen undersökning i regionen och SCB (-2021), Socialstyrelsen och SCB (2022-)",
+      "Egen undersökning i regionen och SCB (-2021), Socialstyrelsen och SCB (2022-). Jämförelser mellan 2022 och tidigare år b",
+      "Egna uppgifter från regionen, sammanställt av SKR",
+      "Egna uppgifter i kommunens årsredovisning (den obligatoriska sjukfrånvaroredovisningen), sammanställt av SKR",
+      "Egna uppgifter i regionen",
+      "Egna uppgifter i regionen (lustgas) och Apoteket (övriga gaser)",
+      "Egna uppgifter i regionens årsredovisning (den obligatoriska sjukfrånvaroredovisningen), sammanställt av SKR",
+      "Gatustatistik (Egen undersökning i kommunen) och NVDB",
+      "SKR och egen undersökning i kommunen",
+      "Uppgifter från respektive region/region"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "kommunens-arsredovisning": {
+    "id": "kommunens-arsredovisning",
+    "label": {
+      "sv": "Kommunens eller regionens årsredovisning"
+    },
+    "type": "publication",
+    "owner": null,
+    "alias": [
+      "Egna uppgifter i kommunens årsredovisning (den obligatoriska sjukfrånvaroredovisningen), sammanställt av SKR",
+      "Egna uppgifter i regionens årsredovisning (den obligatoriska sjukfrånvaroredovisningen), sammanställt av SKR"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "kungliga-bostadsstyrelsen": {
+    "id": "kungliga-bostadsstyrelsen",
+    "label": {
+      "sv": "Kungliga Bostadsstyrelsen (historisk)"
+    },
+    "type": "other",
+    "owner": null,
+    "alias": [
+      "Statistiska Centralbyrån (SCB), Kungliga Bostadsstyrelsen.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+      "Statistiska Centralbyrån (SCB), Kungliga Socialstyrelsen, Kungliga Bostadsstyrelsen.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun."
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120000449"
+    ]
+  },
+  "sika": {
+    "id": "sika",
+    "label": {
+      "sv": "SIKA (historisk, ersatt av Trafikanalys)"
+    },
+    "type": "other",
+    "owner": "SE2021006305",
+    "alias": [
+      "SCB, Linköpings kommun, SIKA, Trafikanalys.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun."
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2120000449"
+    ]
+  },
+  "kommunal-gatustatistik": {
+    "id": "kommunal-gatustatistik",
+    "label": {
+      "sv": "Kommunens gatustatistik"
+    },
+    "type": "statistical_product",
+    "owner": null,
+    "alias": [
+      "Gatustatistik",
+      "Gatustatistik (Egen undersökning i kommunen) och NVDB",
+      "Gatustatistik och NVDB"
+    ],
+    "seen_in": [
+      "kolada"
+    ],
+    "cited_by": [
+      "SE2220000315"
+    ]
+  },
+  "slu-svensk-fageltaxering": {
+    "id": "slu-svensk-fageltaxering",
+    "label": {
+      "sv": "Svensk Fågeltaxering"
+    },
+    "type": "survey",
+    "owner": "SE2021002817",
+    "alias": [
+      "Populationsutvecklingen har analyserats baserat på data från Svensk Fågeltaxerings standardrutter för åren 2002-2024.  https://www.fageltaxering.lu.se"
+    ],
+    "seen_in": [
+      "pxweb_v1"
+    ],
+    "cited_by": [
+      "SE2021005612"
+    ]
+  }
+}

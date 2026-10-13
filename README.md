@@ -10,6 +10,7 @@ registers. No API keys, standard library only.
 - `data_sources.json` is the companion list of surveys, registers, databases
   and products that metadata cites as the origin of data, tied to the
   organisation that runs them.
+- `dist/` holds both products as JSON and CSV.
 - `edits/organisations.json` is the one file you edit.
 
 [GUIDE.md](GUIDE.md) explains every file and field and how to edit. Schemas are

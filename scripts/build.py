@@ -18,6 +18,8 @@ from datetime import date
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
+
+import export  # noqa: E402
 from sources import data_europa, dataportal, myndighetsregistret, scb_bulk, statskontoret, wikidata  # noqa: E402
 from sources.common import org_id, orgnr  # noqa: E402
 
@@ -322,6 +324,7 @@ def main():
     # "generated" is the date of the last content change, so an unchanged registry stays byte-identical.
     generated = previous_output.get("generated", report["date"]) if orgs == previous else report["date"]
     dump(OUTPUT, {"generated": generated, "count": len(orgs), "organisation": orgs})
+    export.export(OUTPUT, ROOT / "data_sources.json")
     dump(ROOT / "links" / "dataportal.json", dict(sorted(links_portal.items())))
     dump(ROOT / "links" / "data-europa.json", dict(sorted(links_europa.items())))
     dump(ROOT / "links" / "wikidata.json", dict(sorted(links_wd.items())))
