@@ -21,7 +21,7 @@ The fields, in the order you will use them:
 | `label` | official name by language, `sv` always, `en` where published | Statskontoret (sv), dataportal, Myndighetsregistret, Wikidata, edits |
 | `registered_label` | the name exactly as registered with SCB | SCB bulk file |
 | `slug` | our short code; one per organisation | edits |
-| `alias` | strings seen in source metadata that mean this organisation, every earlier name and abbreviation of a state body, former official and alternative names from Wikidata, and register names that lost to the label | Statskontoret, Wikidata, dataportal, Myndighetsregistret, edits |
+| `alias` | other names for this organisation as source metadata writes them (abbreviations, English names, spelling variants), every earlier name of a state body, former official and alternative names from Wikidata, and register names that lost to the label. Never a citation that names a data source ("SCB, AKU"): that string belongs in `data_sources.json`, whose `owner` gives the organisation | Statskontoret, Wikidata, dataportal, Myndighetsregistret, edits |
 | `status` | `active`, `deregistered`, `unknown` | SCB, Wikidata |
 | `organisation_type` | ADMS publisher type, the vocabulary both data portals use | legal type, dataportal, edits |
 | `legal_type` | Skatteverket's two-digit juridisk form with label; the authority for what a body is | SCB |

@@ -2,7 +2,6 @@
   "http://arsenalen.se/": {
     "homepage": "http://arsenalen.se/",
     "names": {
-      "en": "",
       "sv": "Arsenalen"
     },
     "roles": [
@@ -80,8 +79,8 @@
       "sv": "Sveriges meteorologiska och hydrologiska institut"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://catalog.sodertalje.se/store/9/resource/6",
@@ -129,8 +128,8 @@
       "sv": "Statistikmyndigheten SCB - Statistiska centralbyrån"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://bolagsverket.se/vardefulla-datamangder-api/dataset/scb",
@@ -253,8 +252,8 @@
       "sv": "Naturvårdsverket"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
@@ -351,8 +350,8 @@
       "sv": "Sveriges geologiska undersökning"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://metadata.havochvatten.se/store/1/resource/51"
@@ -366,8 +365,8 @@
       "sv": "Riksdagsförvaltningen"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
@@ -378,8 +377,8 @@
       "sv": "Sveriges riksbank"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://free.entryscape.com/store/507/resource/1"
@@ -392,8 +391,8 @@
       "sv": "Domstolsverket"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://www.domstol.se/domstolsverket"
@@ -411,7 +410,7 @@
     "same_as": [
       "https://admin.dataportal.se/store/818/resource/7a304d752476b2c8e9ed2619e4376e18"
     ],
-    "type": "http://purl.org/adms/publishertype/NationalAuthority"
+    "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
   },
   "http://dataportal.se/organisation/SE2021002841": {
     "identifier": "2021002841",
@@ -675,8 +674,8 @@
       "sv": "Läkemedelsverket"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://catalog.lakemedelsverket.se/store/1/resource/1",
@@ -702,8 +701,8 @@
       "sv": "Skolverket"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "http://dataportal.se/organisation/SE202100-4185"
@@ -832,8 +831,8 @@
       "sv": "Statens energimyndighet"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
@@ -884,8 +883,8 @@
       "sv": "Skatteverket"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://skatteverket.entryscape.net/store/29/resource/1",
@@ -900,8 +899,8 @@
       "sv": "Bolagsverket"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://bolagsverket.se/apierochoppnadata/apiforatthamtaforetagsinformation/dataset#creator",
@@ -944,8 +943,8 @@
       "sv": "Kronofogdemyndigheten"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://kronofogden.entryscape.net/store/2/resource/1"
@@ -1045,8 +1044,8 @@
       "sv": "Trafikverket"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://catalog.sodertalje.se/store/9/resource/1851",
@@ -1071,8 +1070,8 @@
       "sv": "Havs- och Vattenmyndigheten"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://metadata.havochvatten.se/store/1/resource/1"
@@ -1087,8 +1086,8 @@
       "sv": "Universitets- och högskolerådet"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "http://dataportal.se/organisation/SE202100-6487"
@@ -1150,8 +1149,8 @@
       "sv": "Upphandlingsmyndigheten"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://catalog.upphandlingsmyndigheten.se/store/1/resource/1",
@@ -1217,8 +1216,8 @@
       "sv": "Haninge kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://haninge.entryscape.net/store/7/resource/3"
@@ -1244,8 +1243,8 @@
       "sv": "Södertälje kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://catalog.sodertalje.se/store/9/resource/1"
@@ -1259,8 +1258,8 @@
       "sv": "Håbo kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
@@ -1293,8 +1292,8 @@
       "sv": "Vingåkers kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://free.entryscape.com/store/510/resource/3"
@@ -1318,8 +1317,8 @@
       "sv": "Katrineholms kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://www.katrineholm.se"
@@ -1332,8 +1331,8 @@
       "sv": "Eskilstuna kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://eskilstuna.entryscape.net/store/1/resource/1",
@@ -1436,8 +1435,8 @@
       "sv": "Tomelilla kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://data.tomelilla.se/store/1/resource/6"
@@ -1463,8 +1462,8 @@
       "sv": "Lomma kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://catalog.lomma.se/store/1/resource/1"
@@ -1681,8 +1680,8 @@
       "sv": "Trollhättans stad"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://catalog.trollhattan.se/store/1/resource/1"
@@ -1708,8 +1707,8 @@
       "sv": "Borås stad"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://catalog.boras.se/store/1/resource/1"
@@ -1842,8 +1841,8 @@
       "sv": "Skara kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://catalog.skara.se/store/1/resource/1"
@@ -1856,8 +1855,8 @@
       "sv": "Skövde kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://skovde.entryscape.net/store/1/resource/1"
@@ -1872,8 +1871,8 @@
       "sv": "Hjo kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://catalog.hjo.se/store/2/resource/1"
@@ -1916,8 +1915,8 @@
       "sv": "Karlstads Kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://datakatalog.karlstad.se/store/1/resource/1"
@@ -2004,8 +2003,8 @@
       "sv": "Botkyrka kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://data.botkyrka.se/store/4/resource/1"
@@ -2031,8 +2030,8 @@
       "sv": "Vara kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://catalog.vara.se/store/1/resource/1"
@@ -2095,8 +2094,8 @@
       "sv": "Västra Götalandsregionen"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "http://dataportal.se/organisation/vgr",
@@ -2132,8 +2131,8 @@
       "sv": "Region Skåne"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [
       "https://oppnadata.skane.se/store/1/resource/1"
@@ -2428,7 +2427,6 @@
   "http://enkoping.se/underwebbar/enkopings-museum.html": {
     "homepage": "http://enkoping.se/underwebbar/enkopings-museum.html",
     "names": {
-      "en": "",
       "sv": "Enköpings museum"
     },
     "roles": [
@@ -2452,7 +2450,6 @@
   "http://halsinglandsmuseum.se/": {
     "homepage": "http://halsinglandsmuseum.se/",
     "names": {
-      "en": "",
       "sv": "Hälsinglands Museum"
     },
     "roles": [
@@ -2464,7 +2461,6 @@
   "http://malmo.se/Kultur--fritid/Kultur--noje/Museer--utstallningar/Malmo-Museer.html": {
     "homepage": "http://malmo.se/Kultur--fritid/Kultur--noje/Museer--utstallningar/Malmo-Museer.html",
     "names": {
-      "en": "",
       "sv": "Malmö museer"
     },
     "roles": [
@@ -2476,7 +2472,6 @@
   "http://stockholmslansmuseum.se/": {
     "homepage": "http://stockholmslansmuseum.se/",
     "names": {
-      "en": "",
       "sv": "Stockholms läns museum"
     },
     "roles": [
@@ -2521,8 +2516,7 @@
   "http://vastergotlandsmuseum.se/": {
     "homepage": "http://vastergotlandsmuseum.se/",
     "names": {
-      "en": "",
-      "sv": "Västergötlands museum GAMMAL"
+      "sv": "Västergötlands museum"
     },
     "roles": [
       "publisher"
@@ -2533,7 +2527,6 @@
   "http://www.aeroseum.se/": {
     "homepage": "http://www.aeroseum.se/",
     "names": {
-      "en": "",
       "sv": "Aeroseum"
     },
     "roles": [
@@ -2557,7 +2550,6 @@
   "http://www.arkdes.se/": {
     "homepage": "http://www.arkdes.se/",
     "names": {
-      "en": "",
       "sv": "Arkitektur- och designcentrum"
     },
     "roles": [
@@ -2593,7 +2585,6 @@
   "http://www.bohuslansmuseum.se/": {
     "homepage": "http://www.bohuslansmuseum.se/",
     "names": {
-      "en": "",
       "sv": "Bohusläns museum"
     },
     "roles": [
@@ -2605,7 +2596,6 @@
   "http://www.dramawebben.se/": {
     "homepage": "http://www.dramawebben.se/",
     "names": {
-      "en": "",
       "sv": "Dramawebben"
     },
     "roles": [
@@ -2629,7 +2619,6 @@
   "http://www.falkoping.se/museet": {
     "homepage": "http://www.falkoping.se/museet",
     "names": {
-      "en": "",
       "sv": "Falbygdens museum"
     },
     "roles": [
@@ -2641,7 +2630,6 @@
   "http://www.fastningsmuseet.se/": {
     "homepage": "http://www.fastningsmuseet.se/",
     "names": {
-      "en": "",
       "sv": "Karlsborgs fästningsmuseum"
     },
     "roles": [
@@ -2653,7 +2641,6 @@
   "http://www.flygvapenmuseum.se/": {
     "homepage": "http://www.flygvapenmuseum.se/",
     "names": {
-      "en": "",
       "sv": "Flygvapenmuseum"
     },
     "roles": [
@@ -2665,7 +2652,6 @@
   "http://www.gnm.se/": {
     "homepage": "http://www.gnm.se/",
     "names": {
-      "en": "",
       "sv": "Göteborgs naturhistoriska museum"
     },
     "roles": [
@@ -2677,7 +2663,6 @@
   "http://www.gotlandsforsvarsmuseum.se/": {
     "homepage": "http://www.gotlandsforsvarsmuseum.se/",
     "names": {
-      "en": "",
       "sv": "Gotlands försvarsmuseum"
     },
     "roles": [
@@ -2689,7 +2674,6 @@
   "http://www.grennamuseum.se/": {
     "homepage": "http://www.grennamuseum.se/",
     "names": {
-      "en": "",
       "sv": "Grenna museum"
     },
     "roles": [
@@ -2701,7 +2685,6 @@
   "http://www.hemslojden.org/": {
     "homepage": "http://www.hemslojden.org/",
     "names": {
-      "en": "",
       "sv": "Hemslöjden"
     },
     "roles": [
@@ -2713,7 +2696,6 @@
   "http://www.hemsofastning.se/": {
     "homepage": "http://www.hemsofastning.se/",
     "names": {
-      "en": "",
       "sv": "Hemsö fästning"
     },
     "roles": [
@@ -2737,7 +2719,6 @@
   "http://www.kulturparkensmaland.se/": {
     "homepage": "http://www.kulturparkensmaland.se/",
     "names": {
-      "en": "",
       "sv": "Kulturparken Småland"
     },
     "roles": [
@@ -2749,7 +2730,6 @@
   "http://www.litografiskamuseet.se/": {
     "homepage": "http://www.litografiskamuseet.se/",
     "names": {
-      "en": "",
       "sv": "Litografiska Museet"
     },
     "roles": [
@@ -2797,7 +2777,6 @@
   "http://www.postmuseum.se/": {
     "homepage": "http://www.postmuseum.se/",
     "names": {
-      "en": "",
       "sv": "Postmuseum"
     },
     "roles": [
@@ -2821,7 +2800,6 @@
   "http://www.rkcmalmo.se/": {
     "homepage": "http://www.rkcmalmo.se/",
     "names": {
-      "en": "",
       "sv": "Romska kulturcentret"
     },
     "roles": [
@@ -2845,7 +2823,6 @@
   "http://www.shfa.se/": {
     "homepage": "http://www.shfa.se/",
     "names": {
-      "en": "",
       "sv": "Svenskt HällristningsForskningsArkiv"
     },
     "roles": [
@@ -2857,7 +2834,6 @@
   "http://www.simrishamn.se/museum": {
     "homepage": "http://www.simrishamn.se/museum",
     "names": {
-      "en": "",
       "sv": "Österlens museum"
     },
     "roles": [
@@ -2869,7 +2845,6 @@
   "http://www.skansen.se/": {
     "homepage": "http://www.skansen.se/",
     "names": {
-      "en": "",
       "sv": "Skansen"
     },
     "roles": [
@@ -2893,7 +2868,6 @@
   "http://www.smha.se/vara-museer/forsvarsmuseum/": {
     "homepage": "http://www.smha.se/vara-museer/forsvarsmuseum/",
     "names": {
-      "en": "",
       "sv": "Försvarsmuseum Boden"
     },
     "roles": [
@@ -2941,7 +2915,6 @@
   "http://www.unstraight.org/": {
     "homepage": "http://www.unstraight.org/",
     "names": {
-      "en": "",
       "sv": "The Unstraight Museum"
     },
     "roles": [
@@ -2965,7 +2938,6 @@
   "http://www.vaggeryd.se/uppleva-och-gora/kultur/miliseum.html": {
     "homepage": "http://www.vaggeryd.se/uppleva-och-gora/kultur/miliseum.html",
     "names": {
-      "en": "",
       "sv": "Miliseum"
     },
     "roles": [
@@ -2989,7 +2961,6 @@
   "http://www.varldskulturmuseerna.se/ostasiatiskamuseet/": {
     "homepage": "http://www.varldskulturmuseerna.se/ostasiatiskamuseet/",
     "names": {
-      "en": "",
       "sv": "Östasiatiska museet"
     },
     "roles": [
@@ -3013,7 +2984,6 @@
   "http://www.vastarvet.se/": {
     "homepage": "http://www.vastarvet.se/",
     "names": {
-      "en": "",
       "sv": "Västarvet"
     },
     "roles": [
@@ -3025,7 +2995,6 @@
   "http://www.vaxholmsfastning.se/": {
     "homepage": "http://www.vaxholmsfastning.se/",
     "names": {
-      "en": "",
       "sv": "Vaxholms Fästnings Museum"
     },
     "roles": [
@@ -3179,8 +3148,8 @@
       "sv": "Göteborgs Stad Stadsmiljöförvaltningen"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
@@ -3190,8 +3159,8 @@
       "sv": "Göteborgs Stad Stadsledningskontoret"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
@@ -3212,8 +3181,8 @@
       "sv": "Göteborg & Co"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
@@ -3224,8 +3193,8 @@
       "sv": "Göteborgs stad Kretslopp och vatten"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
@@ -3235,8 +3204,8 @@
       "sv": "Göteborg Stad Kulturförvaltningen"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": []
   },
@@ -3283,8 +3252,8 @@
       "sv": "Kommunstyrelsens kontor"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
@@ -3370,8 +3339,8 @@
       "sv": "Trelleborgs Kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": []
   },
@@ -3456,8 +3425,8 @@
       "sv": "Svenska kraftnät"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
@@ -3485,9 +3454,7 @@
     "same_as": []
   },
   "https://extgeodataportal.orebro.se/organization/4bcf9f31-2c3a-4770-9950-858258a37d5c": {
-    "names": {
-      "und": ""
-    },
+    "names": {},
     "roles": [
       "publisher"
     ],
@@ -3765,8 +3732,8 @@
       "sv": "Folkhälsomyndigheten"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": []
   },
@@ -4011,8 +3978,8 @@
       "sv": "Open Knowledge Sverige"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
@@ -4034,8 +4001,8 @@
       "no": "Beneficial Apps AS"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/Company"
@@ -4056,8 +4023,8 @@
       "sv": "Digidel"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/NonGovernmentalOrganisation"
@@ -4067,8 +4034,8 @@
       "sv": "Skjutsgruppen ideell förening"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": []
   },
@@ -4089,8 +4056,8 @@
       "sv": "Svenska rådet för hjärt-lungräddning HLR-rådet"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": []
   },
@@ -4126,7 +4093,6 @@
   "https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/": {
     "homepage": "https://helsingborg.se/uppleva-och-gora/kultur-och-museer/kulturmagasinet/",
     "names": {
-      "en": "",
       "sv": "Kulturmagasinet, Helsingborgs museer"
     },
     "roles": [
@@ -4168,7 +4134,6 @@
   "https://koping.se/kultur-fritid--turism/kultur/kopings-museum.html": {
     "homepage": "https://koping.se/kultur-fritid--turism/kultur/kopings-museum.html",
     "names": {
-      "en": "",
       "sv": "Köpings museum"
     },
     "roles": [
@@ -4180,7 +4145,6 @@
   "https://lansmuseetgavleborg.se/": {
     "homepage": "https://lansmuseetgavleborg.se/",
     "names": {
-      "en": "",
       "sv": "Länsmuseet Gävleborg"
     },
     "roles": [
@@ -4205,8 +4169,8 @@
       "sv": "Sveriges Lantbruksuniversitet (SLU)"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/Academia-ScientificOrganisation"
@@ -4218,8 +4182,8 @@
       "sv": "Lidingö stad"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
@@ -4769,14 +4733,14 @@
       "und": "STUNS Energi"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/NonProfitOrganisation"
   },
   "https://stuns.entryscape.net/store/1/resource/399": {
-    "homepage": "https://uppsalaparkering.se/om-oss-2/projekt/",
+    "homepage": "https://uppsalaparkering.se/",
     "names": {
       "sv": "Uppsala Parkering"
     },
@@ -4799,7 +4763,6 @@
   "https://teknikland.se/": {
     "homepage": "https://teknikland.se/",
     "names": {
-      "en": "",
       "sv": "Teknikland"
     },
     "roles": [
@@ -4811,7 +4774,6 @@
   "https://teleseum.se/": {
     "homepage": "https://teleseum.se/",
     "names": {
-      "en": "",
       "sv": "Teleseum"
     },
     "roles": [
@@ -4833,7 +4795,6 @@
   "https://varmlandsmuseum.se/": {
     "homepage": "https://varmlandsmuseum.se/",
     "names": {
-      "en": "",
       "sv": "Värmlands museum"
     },
     "roles": [
@@ -4896,7 +4857,6 @@
   "https://www.dalarnasmuseum.se/": {
     "homepage": "https://www.dalarnasmuseum.se/",
     "names": {
-      "en": "",
       "sv": "Dalarnas museum"
     },
     "roles": [
@@ -4911,8 +4871,8 @@
       "und": "Ängelholms kommun"
     },
     "roles": [
-      "publisher",
-      "creator"
+      "creator",
+      "publisher"
     ],
     "same_as": [],
     "type": "http://purl.org/adms/publishertype/LocalAuthority"
@@ -4920,7 +4880,6 @@
   "https://www.gamlalinkoping.se/": {
     "homepage": "https://www.gamlalinkoping.se/",
     "names": {
-      "en": "",
       "sv": "Gamla Linköping"
     },
     "roles": [
@@ -4966,7 +4925,6 @@
   "https://www.jamtli.com/": {
     "homepage": "https://www.jamtli.com/",
     "names": {
-      "en": "",
       "sv": "Jamtli"
     },
     "roles": [
@@ -4978,7 +4936,6 @@
   "https://www.jarnvagsmuseet.se/": {
     "homepage": "https://www.jarnvagsmuseet.se/",
     "names": {
-      "en": "",
       "sv": "Järnvägsmuseet"
     },
     "roles": [
@@ -5012,7 +4969,6 @@
   "https://www.kulturen.com/": {
     "homepage": "https://www.kulturen.com/",
     "names": {
-      "en": "",
       "sv": "Kulturen"
     },
     "roles": [
@@ -5024,7 +4980,6 @@
   "https://www.kulturen.com/samlingar/sok-i-samlingarna/": {
     "homepage": "https://www.kulturen.com/samlingar/sok-i-samlingarna/",
     "names": {
-      "en": "",
       "sv": "Region Skånes medicinhistoriska samlingar"
     },
     "roles": [
@@ -5036,7 +4991,6 @@
   "https://www.linkoping.se/uppleva-och-gora/Arkiv/bild-linkoping/": {
     "homepage": "https://www.linkoping.se/uppleva-och-gora/Arkiv/bild-linkoping/",
     "names": {
-      "en": "",
       "sv": "Bild Linköping"
     },
     "roles": [
@@ -5048,7 +5002,6 @@
   "https://www.marinmuseum.se/": {
     "homepage": "https://www.marinmuseum.se/",
     "names": {
-      "en": "",
       "sv": "Marinmuseum"
     },
     "roles": [
@@ -5071,7 +5024,6 @@
   "https://www.nordiskamuseet.se/": {
     "homepage": "https://www.nordiskamuseet.se/",
     "names": {
-      "en": "",
       "sv": "Stiftelsen Nordiska museet"
     },
     "roles": [
@@ -5116,7 +5068,6 @@
   "https://www.sjohistoriska.se/": {
     "homepage": "https://www.sjohistoriska.se/",
     "names": {
-      "en": "",
       "sv": "Sjöhistoriska museet"
     },
     "roles": [
@@ -5126,9 +5077,7 @@
     "type": "http://purl.org/adms/publishertype/NationalAuthority"
   },
   "https://www.slu.se/centrumbildningar-och-projekt/riksskogstaxeringen/statistik-om-skog/senaste-statistiken": {
-    "names": {
-      "und": ""
-    },
+    "names": {},
     "roles": [
       "creator"
     ],
@@ -5148,7 +5097,6 @@
   "https://www.smtm.se/museer-och-samlingar/arlanda-flygsamlingar": {
     "homepage": "https://www.smtm.se/museer-och-samlingar/arlanda-flygsamlingar",
     "names": {
-      "en": "",
       "sv": "Arlanda flygsamlingar"
     },
     "roles": [
@@ -5160,8 +5108,7 @@
   "https://www.smtm.se/museer-och-samlingar/vaghistoriska-samlingen": {
     "homepage": "https://www.smtm.se/museer-och-samlingar/vaghistoriska-samlingen",
     "names": {
-      "en": "",
-      "sv": "Väg- och trafikhistoriska samlingen "
+      "sv": "Väg- och trafikhistoriska samlingen"
     },
     "roles": [
       "publisher"
@@ -5172,7 +5119,6 @@
   "https://www.snusochtandsticksmuseum.se/": {
     "homepage": "https://www.snusochtandsticksmuseum.se/",
     "names": {
-      "en": "",
       "sv": "Snus- och Tändsticksmuseum"
     },
     "roles": [
@@ -5239,7 +5185,6 @@
   "https://www.trelleborg.se/uppleva-gora/kultur/trelleborgs-museum/": {
     "homepage": "https://www.trelleborg.se/uppleva-gora/kultur/trelleborgs-museum/",
     "names": {
-      "en": "",
       "sv": "Trelleborgs museum"
     },
     "roles": [
@@ -5251,7 +5196,6 @@
   "https://www.vanermuseet.se/": {
     "homepage": "https://www.vanermuseet.se/",
     "names": {
-      "en": "",
       "sv": "Vänermuseet"
     },
     "roles": [
@@ -5263,7 +5207,6 @@
   "https://www.vasamuseet.se/": {
     "homepage": "https://www.vasamuseet.se/",
     "names": {
-      "en": "",
       "sv": "Vasamuseet"
     },
     "roles": [
@@ -5275,7 +5218,6 @@
   "https://www.vastmanlandslansmuseum.se/": {
     "homepage": "https://www.vastmanlandslansmuseum.se/",
     "names": {
-      "en": "",
       "sv": "Västmanlands läns museum"
     },
     "roles": [
