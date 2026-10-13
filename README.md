@@ -12,9 +12,19 @@ sources; no API keys, no accounts.
 | `slugs.json` | hand | our short codes, slug → organisation id. Slugs may change; ids never do |
 | `aliases.json` | hand (seeded) | free-text strings seen in source metadata → organisation id, or `null` for strings that are not organisations |
 | `manual.json` | hand | per-organisation overrides and additions merged last |
+| `data_sources.json` | hand (seeded) | surveys, registers, databases, statistical products and units that source metadata names as the origin of data, with `owner` set to an organisation id where known and `cited_by` listing the organisations whose datasets cite them; see `schema/data_source.schema.json` |
 | `links/dataportal.json` | generated | dataportal.se agent URI → organisation id (`null` when the URI carries no organisationsnummer) |
 | `links/data-europa.json` | generated | data.europa.eu publisher and creator URI → organisation id |
 | `links/wikidata.json` | generated | Wikidata Q-id → organisation id |
+
+A data source is not an organisation: Kolada's "Källa" is organisation plus
+survey or register name, PxWeb sources name databases and departments. The
+organisation part resolves through `aliases.json`; the remainder resolves through
+`data_sources.json`, which ties the product to the organisation that runs it. The
+seeded owners came from the organisation named in the same source string, which
+is right for "SKR:s personalstatistik" and wrong for "Patientregistret,
+Socialstyrelsen"-style citations where the named organisation is the user, not
+the keeper; those need hand correction.
 
 Organisation ids are `SE` + the 10-digit organisationsnummer. dataportal.se's
 agreed suffix form is kept as its own id, e.g. `SE2021002361-LST` for the county

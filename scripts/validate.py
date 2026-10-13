@@ -45,7 +45,28 @@ for slug in slugs:
     if not re.fullmatch(r"[a-z][a-z0-9_]*", slug):
         errors.append(f"slugs.json: bad slug {slug!r}")
 
+ds_schema = json.loads((ROOT / "schema" / "data_source.schema.json").read_text(encoding="utf-8"))
+KINDS = set(ds_schema["properties"]["kind"]["enum"])
+DS_FIELDS = set(ds_schema["properties"])
+sources = json.loads((ROOT / "data_sources.json").read_text(encoding="utf-8"))
+aliases = json.loads((ROOT / "aliases.json").read_text(encoding="utf-8"))
+seen_alias = {}
+for key, ds in sources.items():
+    if key != ds.get("id") or not re.fullmatch(ds_schema["properties"]["id"]["pattern"], key):
+        errors.append(f"data_sources.json: bad id {key!r}")
+    if ds.get("kind") not in KINDS:
+        errors.append(f"data_sources.json: {key}: kind {ds.get('kind')}")
+    if extra := set(ds) - DS_FIELDS:
+        errors.append(f"data_sources.json: {key}: unknown fields {sorted(extra)}")
+    for ref in ([ds["owner"]] if ds.get("owner") else []) + ds.get("cited_by", []):
+        if ref not in orgs:
+            errors.append(f"data_sources.json: {key}: organisation {ref} not in registry")
+    for a in ds.get("aliases", []):
+        if a in seen_alias:
+            errors.append(f"data_sources.json: alias {a!r} in both {seen_alias[a]} and {key}")
+        seen_alias[a] = key
+
 for line in errors:
     print(line, file=sys.stderr)
-print(f"{len(orgs)} organisations, {len(slugs)} slugs, {len(errors)} errors", file=sys.stderr)
+print(f"{len(orgs)} organisations, {len(slugs)} slugs, {len(sources)} data sources, {len(errors)} errors", file=sys.stderr)
 sys.exit(1 if errors else 0)
