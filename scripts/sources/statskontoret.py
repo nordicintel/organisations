@@ -38,6 +38,9 @@ LIST_PAGE = "https://www.statskontoret.se/analys-och-statistik/oppna-data/myndig
 # The folder hash and year change with every edition, so the link is read off the page.
 LIST_LINK = re.compile(r"contentassets/[0-9a-f]+/statskontorets-myndighetsforteckning-(\d{4})\.xlsx[^\"']*")
 HEADERS = {"Accept-Encoding": "gzip"}
+# statskontoret.se does not answer from GitHub runners or cloud sessions (the TCP
+# connect times out), so give up quickly there and fall back to the snapshot.
+TIMEOUT = 30
 NS = {"m": "http://schemas.openxmlformats.org/spreadsheetml/2006/main",
       "r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships"}
 # "the activity moves to X": every phrasing seen in the comments 1999-2026.
@@ -154,7 +157,7 @@ def fetch(cache: Path):
 def register(cache: Path):
     # The server answers 404 to any request that sends "Accept-Encoding: identity",
     # which urllib does by default; asking for gzip is what makes the export work.
-    data = cached(cache, "statskontoret.xlsx", lambda: http(URL, headers=HEADERS)).read_bytes()
+    data = cached(cache, "statskontoret.xlsx", lambda: http(URL, headers=HEADERS, timeout=TIMEOUT)).read_bytes()
     out = {}
     for name, rows in sheets(data):
         if not name.isdigit():
@@ -187,7 +190,7 @@ def register(cache: Path):
 
 
 def _list_url():
-    page = http(LIST_PAGE, headers=HEADERS).decode("utf-8", "replace")
+    page = http(LIST_PAGE, headers=HEADERS, timeout=TIMEOUT).decode("utf-8", "replace")
     links = list(LIST_LINK.finditer(page))
     if not links:
         raise ValueError("no myndighetsforteckning link on the page")
@@ -195,7 +198,7 @@ def _list_url():
 
 
 def listing(cache: Path):
-    data = cached(cache, "myndighetsforteckning.xlsx", lambda: http(_list_url(), headers=HEADERS)).read_bytes()
+    data = cached(cache, "myndighetsforteckning.xlsx", lambda: http(_list_url(), headers=HEADERS, timeout=TIMEOUT)).read_bytes()
     current = max((n for n, _ in sheets(data) if n.startswith("Förteckning ") and n[-4:].isdigit()), default="")
     rows = next((rows for name, rows in sheets(data) if name == current), [])
     # Courts all carry Domstolsverket's number; a number used by several rows names none of them.
