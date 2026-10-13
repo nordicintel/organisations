@@ -1300,6 +1300,18 @@
       ],
       "type": "Academia-ScientificOrganisation"
     },
+    "SE8020068741": {
+      "label": {
+        "sv": "Sophiahemmet högskola",
+        "en": "Sophiahemmet University College"
+      },
+      "alias": [
+        "Sophiahemmet",
+        "Sophiahemmet ideell förening"
+      ],
+      "type": "Academia-ScientificOrganisation",
+      "note": "The association runs Sophiahemmet högskola and the hospital."
+    },
     "SE8024041769": {
       "label": {
         "sv": "Ekomatcentrum"

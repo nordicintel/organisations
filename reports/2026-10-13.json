@@ -1,13 +1,15 @@
 {
-  "added": [],
-  "changed": 9,
-  "count": 898,
+  "added": [
+    "SE8020068741"
+  ],
+  "changed": 0,
+  "count": 899,
   "date": "2026-10-13",
   "legal_type": {
     "49": 32,
     "51": 3,
     "55": 1,
-    "61": 12,
+    "61": 13,
     "63": 1,
     "72": 19,
     "81": 256,
@@ -32,7 +34,7 @@
       "status": "fetched"
     },
     "scb_bulk": {
-      "rows": 861,
+      "rows": 862,
       "status": "fetched"
     },
     "statskontoret": {

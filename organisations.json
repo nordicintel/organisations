@@ -1,5 +1,5 @@
 {
-  "count": 898,
+  "count": 899,
   "generated": "2026-10-13",
   "organisation": {
     "SE0123456789": {
@@ -25071,6 +25071,33 @@
         "label": "Övrig stiftelse"
       },
       "registered_label": "STIFTELSEN STOCKHOLMS INTERNATIONELLA FREDSFORSKNINGSINSTITUT (SIPRI)",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Academia-ScientificOrganisation"
+    },
+    "SE8020068741": {
+      "alias": [
+        "Sophiahemmet",
+        "Sophiahemmet ideell förening"
+      ],
+      "established": "1977-01-01",
+      "id": "SE8020068741",
+      "identifier": {
+        "orgnr": "8020068741"
+      },
+      "label": {
+        "en": "Sophiahemmet University College",
+        "sv": "Sophiahemmet högskola"
+      },
+      "legal_type": {
+        "code": "61",
+        "label": "Ideell förening"
+      },
+      "note": "The association runs Sophiahemmet högskola and the hospital.",
+      "registered_label": "SOPHIAHEMMET IDEELL FÖRENING",
       "source": [
         "edits",
         "scb_bulk"
