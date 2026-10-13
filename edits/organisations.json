@@ -191,17 +191,6 @@
         "Förvaltningsrätten i Malmö och Migrationsdomstol"
       ]
     },
-    "SE2021002742-HALSINGLANDS-TINGSRATT": {
-      "alias": [
-        "Hudiksvalls tingsrätt"
-      ]
-    },
-    "SE2021002742-SVEA-HOVRATT": {
-      "alias": [
-        "Svea Hovrätt",
-        "Svea hovrätt"
-      ]
-    },
     "SE2021002817": {
       "slug": "slu",
       "alias": [
@@ -234,6 +223,10 @@
       ]
     },
     "SE2021003211": {},
+    "SE2021003591": {
+      "homepage": "https://www.mtm.se",
+      "note": "Myndighetsregistret lists www.msb.se as its web address, which is Myndigheten för civilt försvar's old domain; dataportal.se has mtm.se."
+    },
     "SE2021003831": {
       "alias": [
         "Finansdepartementet",

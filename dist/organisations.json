@@ -3528,7 +3528,6 @@
       "part_of": "SE2021002742",
       "sfs": "1988:317",
       "source": [
-        "edits",
         "myndighetsregistret",
         "wikidata"
       ],
@@ -4484,8 +4483,6 @@
     },
     "SE2021002742-SVEA-HOVRATT": {
       "alias": [
-        "Svea Hovrätt",
-        "Svea hovrätt",
         "Svea Hovrätt o Mark o Miljö och Patent"
       ],
       "email": "svea.hovratt@dom.se",
@@ -4503,7 +4500,6 @@
       "part_of": "SE2021002742",
       "sfs": "1988:317",
       "source": [
-        "edits",
         "myndighetsregistret",
         "wikidata"
       ],
@@ -5904,7 +5900,7 @@
       "department": "Kulturdepartementet",
       "email": "info@mtm.se",
       "established": "1980-01-01",
-      "homepage": "https://www.msb.se",
+      "homepage": "https://www.mtm.se",
       "id": "SE2021003591",
       "identifier": {
         "dataportal": "http://dataportal.se/organisation/SE2021003591",
@@ -5919,11 +5915,13 @@
         "code": "81",
         "label": "Statlig enhet"
       },
+      "note": "Myndighetsregistret lists www.msb.se as its web address, which is Myndigheten för civilt försvar's old domain; dataportal.se has mtm.se.",
       "organisation_type": "NationalAuthority",
       "registered_label": "Myndigheten för tillgängliga medier",
       "sfs": "2010:769",
       "source": [
         "dataportal",
+        "edits",
         "myndighetsregistret",
         "scb_bulk",
         "statskontoret",
