@@ -998,7 +998,7 @@
         "sv": "Sveriges Kommuner och Regioner",
         "en": "Swedish Association of Local Authorities and Regions"
       },
-      "note": "The portals also publish Kolada (Rådet för främjande av kommunala analyser, RKA) under this number.",
+      "note": "Member and co-owner of RKA (SE8024305370), which runs Kolada.",
       "slug": "skr",
       "alias": [
         "Beräkningar av RKA baserat på uppgifter från Vården i siffror och väntetider i vården",
@@ -1331,6 +1331,19 @@
       "label": {
         "sv": "Handelsrådet"
       }
+    },
+    "SE8024305370": {
+      "label": {
+        "sv": "Rådet för främjande av kommunala analyser",
+        "en": "Council for the Promotion of Municipal Analyses"
+      },
+      "slug": "rka",
+      "alias": [
+        "RKA",
+        "Kolada"
+      ],
+      "type": "NonProfitOrganisation",
+      "note": "Runs Kolada. An association of the state and SKR with its own number."
     },
     "SE8176021825": {
       "label": {

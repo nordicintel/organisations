@@ -1,5 +1,5 @@
 {
-  "count": 1029,
+  "count": 1030,
   "generated": "2026-10-13",
   "organisation": {
     "SE0123456789": {
@@ -21541,7 +21541,7 @@
         "code": "61",
         "label": "Ideell förening"
       },
-      "note": "The portals also publish Kolada (Rådet för främjande av kommunala analyser, RKA) under this number.",
+      "note": "Member and co-owner of RKA (SE8024305370), which runs Kolada.",
       "registered_label": "SVERIGES KOMMUNER OCH REGIONER",
       "same_as": [
         "http://dataportal.se/organisation/2220000315",
@@ -27952,6 +27952,34 @@
       "registered_label": "FÖRENINGEN SAMBRUK",
       "source": [
         "dataportal",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "NonProfitOrganisation"
+    },
+    "SE8024305370": {
+      "alias": [
+        "Kolada",
+        "RKA"
+      ],
+      "established": "2006-01-27",
+      "id": "SE8024305370",
+      "identifier": {
+        "orgnr": "8024305370"
+      },
+      "label": {
+        "en": "Council for the Promotion of Municipal Analyses",
+        "sv": "Rådet för främjande av kommunala analyser"
+      },
+      "legal_type": {
+        "code": "61",
+        "label": "Ideell förening"
+      },
+      "note": "Runs Kolada. An association of the state and SKR with its own number.",
+      "registered_label": "RÅDET FÖR FRÄMJANDE AV KOMMUNALA ANALYSER",
+      "slug": "rka",
+      "source": [
+        "edits",
         "scb_bulk"
       ],
       "status": "active",
