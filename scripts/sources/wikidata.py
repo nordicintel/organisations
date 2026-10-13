@@ -1,7 +1,12 @@
 """Wikidata: public bodies with organisationsnummer, codes, dates and succession, and every
 name they have carried (official names, P1448, and alternative names, in Swedish) as
 aliases (CC0). Names are a query of their own per kind: joined into the main query they
-push the kommun and myndighet queries past the endpoint's 60 s limit."""
+push the kommun and myndighet queries past the endpoint's 60 s limit.
+
+The courts (kind ``domstol``) carry no organisationsnummer of their own on Wikidata, since
+they all share Domstolsverket's; they are matched to the register's court rows by name in
+the build. Wikidata is the one source that writes their names in full and in proper case,
+where Myndighetsregistret cuts at 48 characters and Statskontoret lists them as groups."""
 import json
 from pathlib import Path
 
@@ -31,13 +36,20 @@ SELECT ?item ?label ?label_en ?orgnr ?inception ?dissolved ?replacedBy ?departme
   OPTIONAL { ?item wdt:P14316 ?riksarkivet }
   ?item rdfs:label ?label FILTER(LANG(?label)="sv")
   OPTIONAL { ?item rdfs:label ?label_en FILTER(LANG(?label_en)="en") } }""",
+    "domstol": """
+SELECT ?item ?label ?label_en ?orgnr ?inception WHERE {
+  ?item wdt:P31/wdt:P279* wd:Q41487 ; wdt:P17 wd:Q34 . FILTER NOT EXISTS { ?item wdt:P576 [] }
+  OPTIONAL { ?item wdt:P6460 ?orgnr } OPTIONAL { ?item wdt:P571 ?inception }
+  ?item rdfs:label ?label FILTER(LANG(?label)="sv")
+  OPTIONAL { ?item rdfs:label ?label_en FILTER(LANG(?label_en)="en") } }""",
 }
 NAMES = """
 SELECT ?item ?official ?alt WHERE { ?item %s .
   OPTIONAL { ?item p:P1448/ps:P1448 ?official FILTER(LANG(?official)="sv") }
   OPTIONAL { ?item skos:altLabel ?alt FILTER(LANG(?alt)="sv") } }"""
 NAME_QUERIES = {"kommun": NAMES % "wdt:P31 wd:Q127448", "region": NAMES % "wdt:P31 wd:Q1754161",
-                "myndighet": NAMES % "wdt:P31/wdt:P279* wd:Q68295960"}
+                "myndighet": NAMES % "wdt:P31/wdt:P279* wd:Q68295960",
+                "domstol": NAMES % "wdt:P31/wdt:P279* wd:Q41487 ; wdt:P17 wd:Q34"}
 
 
 def _rows(cache, name, query):

@@ -41,7 +41,10 @@ predecessor of the same name, like Skogsstyrelsen before and after 2006), take t
 one without `succeeded_by`. For state bodies Statskontoret's name wins the Swedish label:
 it is the current name as the body writes it ("Kungl. biblioteket",
 "Integritetsskyddsmyndigheten"), where dataportal.se is often stale and
-Myndighetsregistret is upper case. English names come from Wikidata. Every name a
+Myndighetsregistret is upper case. For the courts, which share Domstolsverket's number,
+Wikidata's court items are matched to the register rows by name and give the full, cased
+name ("Svea hovrätt" for the register's "SVEA HOVRÄTT O MARK O MILJÖ OCH PATENT"), the
+English name and the aliases; the register name becomes an alias. English names come from Wikidata. Every name a
 number has carried since 2007 in Statskontoret's list is an alias, as are the
 abbreviations and former names its own column gives. Succession (`succeeded_by`)
 comes from Wikidata. Resolve a portal URI through `identifier.dataportal`,

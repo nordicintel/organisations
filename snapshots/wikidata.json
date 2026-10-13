@@ -8,6 +8,14 @@
     "orgnr": "2021006933",
     "replaced_by": []
   },
+  "Q10405300": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Alingsås tingsrätt",
+    "label_en": "Alingsås tingsrätt",
+    "names": [],
+    "replaced_by": []
+  },
   "Q10405389": {
     "department": "Socialdepartementet",
     "kind": "myndighet",
@@ -63,6 +71,14 @@
     "orgnr": "2021002148",
     "replaced_by": []
   },
+  "Q10422213": {
+    "inception": "2007-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Attunda tingsrätt",
+    "label_en": "Attunda District Court",
+    "names": [],
+    "replaced_by": []
+  },
   "Q10423644": {
     "dissolved": "2008-01-01T00:00:00Z",
     "kind": "myndighet",
@@ -79,6 +95,14 @@
     "names": [],
     "replaced_by": []
   },
+  "Q10431242": {
+    "inception": "2001-07-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Blekinge tingsrätt",
+    "label_en": "Blekinge District Court",
+    "names": [],
+    "replaced_by": []
+  },
   "Q10432198": {
     "department": "Finansdepartementet",
     "kind": "myndighet",
@@ -86,6 +110,14 @@
     "label_en": "Swedish Accounting Standards Board",
     "names": [],
     "orgnr": "2021003278",
+    "replaced_by": []
+  },
+  "Q10433405": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Borås tingsrätt",
+    "label_en": "Borås tingsrätt",
+    "names": [],
     "replaced_by": []
   },
   "Q10436166": {
@@ -157,6 +189,14 @@
     "names": [],
     "replaced_by": []
   },
+  "Q10480779": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Eksjö tingsrätt",
+    "label_en": "Eksjö District Court",
+    "names": [],
+    "replaced_by": []
+  },
   "Q10482004": {
     "department": "Infrastrukturdepartementet",
     "inception": "1993-01-01T00:00:00Z",
@@ -201,6 +241,22 @@
     "replaced_by": [
       "Q1252909"
     ]
+  },
+  "Q10489099": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Eskilstuna tingsrätt",
+    "label_en": "Eskilstuna District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10493897": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Falu tingsrätt",
+    "label_en": "Falun District Court",
+    "names": [],
+    "replaced_by": []
   },
   "Q10494944": {
     "department": "Justitiedepartementet",
@@ -296,11 +352,91 @@
     ],
     "replaced_by": []
   },
+  "Q10501617": {
+    "kind": "domstol",
+    "label": "Försvarsunderrättelsedomstolen",
+    "label_en": "Swedish Foreign Intelligence Court",
+    "names": [],
+    "orgnr": "2021006313",
+    "replaced_by": []
+  },
   "Q10501643": {
     "dissolved": "1991-01-01T00:00:00Z",
     "inception": "1903-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Försäkringsinspektionen",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10501710": {
+    "kind": "domstol",
+    "label": "Förvaltningsrätten i Falun",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10501711": {
+    "kind": "domstol",
+    "label": "Förvaltningsrätten i Göteborg",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10501712": {
+    "kind": "domstol",
+    "label": "Förvaltningsrätten i Härnösand",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10501713": {
+    "kind": "domstol",
+    "label": "Förvaltningsrätten i Jönköping",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10501714": {
+    "kind": "domstol",
+    "label": "Förvaltningsrätten i Karlstad",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10501715": {
+    "kind": "domstol",
+    "label": "Förvaltningsrätten i Linköping",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10501716": {
+    "kind": "domstol",
+    "label": "Förvaltningsrätten i Luleå",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10501717": {
+    "kind": "domstol",
+    "label": "Förvaltningsrätten i Malmö",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10501718": {
+    "kind": "domstol",
+    "label": "Förvaltningsrätten i Stockholm",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10501719": {
+    "kind": "domstol",
+    "label": "Förvaltningsrätten i Umeå",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10501720": {
+    "kind": "domstol",
+    "label": "Förvaltningsrätten i Uppsala",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10501721": {
+    "kind": "domstol",
+    "label": "Förvaltningsrätten i Växjö",
     "names": [],
     "replaced_by": []
   },
@@ -330,6 +466,14 @@
     "names": [],
     "replaced_by": []
   },
+  "Q10507703": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Gotlands tingsrätt",
+    "label_en": "Gotland District Court",
+    "names": [],
+    "replaced_by": []
+  },
   "Q10511124": {
     "dissolved": "1973-12-31T00:00:00Z",
     "inception": "1863-01-01T00:00:00Z",
@@ -344,6 +488,51 @@
       "Q511407"
     ]
   },
+  "Q10512316": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Gällivare tingsrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10512455": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Gävle tingsrätt",
+    "label_en": "Gävle District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10512905": {
+    "kind": "domstol",
+    "label": "Göteborgs rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10512917": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Göteborgs tingsrätt",
+    "label_en": "Göteborgs tingsrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10516522": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Halmstads tingsrätt",
+    "label_en": "Halmstads tingsrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10517578": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Haparanda tingsrätt",
+    "label_en": "Haparanda District Court",
+    "names": [],
+    "replaced_by": []
+  },
   "Q10518645": {
     "department": "Miljödepartementet",
     "inception": "2011-01-01T00:00:00Z",
@@ -355,6 +544,48 @@
       "Havs- och Vattenmyndigheten"
     ],
     "orgnr": "2021006420",
+    "replaced_by": []
+  },
+  "Q10520566": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Helsingborgs tingsrätt",
+    "label_en": "Helsingborgs tingsrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10526699": {
+    "inception": "1948-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Hovrätten för Västra Sverige",
+    "label_en": "Court of Appeal for Western Sweden",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10526700": {
+    "inception": "1948-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Hovrätten för Nedre Norrland",
+    "label_en": "Court of Appeal for Southern Norrland",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10526701": {
+    "inception": "1936-12-16T00:00:00Z",
+    "kind": "domstol",
+    "label": "Hovrätten för Övre Norrland",
+    "label_en": "Court of Appeal for Northern Norrland",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10526865": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Hälsinglands tingsrätt",
+    "label_en": "Hälsingland District Court",
+    "names": [
+      "Hudiksvalls tingsrätt"
+    ],
     "replaced_by": []
   },
   "Q10527033": {
@@ -378,6 +609,14 @@
       "Hälso- & sjukvårdens ansvarsnämnd"
     ],
     "orgnr": "2021003765",
+    "replaced_by": []
+  },
+  "Q10531831": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Hässleholms tingsrätt",
+    "label_en": "Hässleholm District Court",
+    "names": [],
     "replaced_by": []
   },
   "Q10536052": {
@@ -487,6 +726,54 @@
     "names": [],
     "replaced_by": []
   },
+  "Q10542135": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Jönköpings tingsrätt",
+    "label_en": "Jönköping District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10542874": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Kalmar tingsrätt",
+    "label_en": "Kalmar District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10543164": {
+    "inception": "1972-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Kammarrätten i Göteborg",
+    "label_en": "administrative court of appeal in Gothenburg",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10543165": {
+    "inception": "1977-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Kammarrätten i Jönköping",
+    "label_en": "administrative court of appeal in Jönköping",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10543166": {
+    "inception": "1695-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Kammarrätten i Stockholm",
+    "label_en": "administrative court of appeal in Stockholm",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10543167": {
+    "inception": "1974-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Kammarrätten i Sundsvall",
+    "label_en": "administrative court of appeal in Sundsvall",
+    "names": [],
+    "replaced_by": []
+  },
   "Q10544771": {
     "department": "Miljödepartementet",
     "kind": "myndighet",
@@ -570,6 +857,14 @@
     "orgnr": "2021004904",
     "replaced_by": []
   },
+  "Q10562812": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Linköpings tingsrätt",
+    "label_en": "Linköping District Court",
+    "names": [],
+    "replaced_by": []
+  },
   "Q10568223": {
     "dissolved": "2018-01-01T00:00:00Z",
     "inception": "1978-07-01T00:00:00Z",
@@ -600,6 +895,30 @@
     "orgnr": "2021003310",
     "replaced_by": []
   },
+  "Q10570645": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Luleå tingsrätt",
+    "label_en": "Luleå District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10570852": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Lunds tingsrätt",
+    "label_en": "Lund District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10571252": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Lycksele tingsrätt",
+    "label_en": "Lycksele District Court",
+    "names": [],
+    "replaced_by": []
+  },
   "Q10571982": {
     "department": "Finansdepartementet",
     "kind": "myndighet",
@@ -607,6 +926,14 @@
     "label_en": "Östergötland County Administrative Board",
     "names": [],
     "orgnr": "2021002270",
+    "replaced_by": []
+  },
+  "Q10577507": {
+    "inception": "2011-05-02T00:00:00Z",
+    "kind": "domstol",
+    "label": "Mark- och miljööverdomstolen",
+    "label_en": "Land and Environment Court of Appeal",
+    "names": [],
     "replaced_by": []
   },
   "Q10579209": {
@@ -628,6 +955,14 @@
     "label_en": "National Mediation Office",
     "names": [],
     "orgnr": "2021005174",
+    "replaced_by": []
+  },
+  "Q10588915": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Mora tingsrätt",
+    "label_en": "Mora District Court",
+    "names": [],
     "replaced_by": []
   },
   "Q10591748": {
@@ -720,11 +1055,46 @@
     "orgnr": "2021006230",
     "replaced_by": []
   },
+  "Q10593934": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Nacka tingsrätt",
+    "label_en": "Nacka District Court",
+    "names": [
+      "Södertörns tingsrätt"
+    ],
+    "replaced_by": []
+  },
   "Q10595010": {
     "dissolved": "2000-01-01T00:00:00Z",
     "inception": "1946-01-01T00:00:00Z",
     "kind": "myndighet",
     "label": "Naturvetenskapliga forskningsrådet",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10602745": {
+    "kind": "domstol",
+    "label": "Norrby stenar",
+    "label_en": "Norrby stenar",
+    "names": [
+      "Hallsberg 102:1"
+    ],
+    "replaced_by": []
+  },
+  "Q10602829": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Norrköpings tingsrätt",
+    "label_en": "Norrköping District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10602970": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Norrtälje tingsrätt",
+    "label_en": "Norrtälje District Court",
     "names": [],
     "replaced_by": []
   },
@@ -735,6 +1105,14 @@
     "label_en": "Law Clerks Board",
     "names": [],
     "orgnr": "2021006032",
+    "replaced_by": []
+  },
+  "Q10604763": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Nyköpings tingsrätt",
+    "label_en": "Nyköping District Court",
+    "names": [],
     "replaced_by": []
   },
   "Q10605067": {
@@ -897,6 +1275,15 @@
     ],
     "replaced_by": []
   },
+  "Q10649627": {
+    "kind": "domstol",
+    "label": "Rannarveskeppen",
+    "label_en": "Rannarve grave field",
+    "names": [
+      "Klinte 86:1"
+    ],
+    "replaced_by": []
+  },
   "Q10650489": {
     "department": "Sveriges regering",
     "inception": "1975-01-01T00:00:00Z",
@@ -1009,6 +1396,14 @@
       "Q10501617"
     ]
   },
+  "Q10669780": {
+    "inception": "2009-01-12T00:00:00Z",
+    "kind": "domstol",
+    "label": "Skaraborgs tingsrätt",
+    "label_en": "Skaraborg District Court",
+    "names": [],
+    "replaced_by": []
+  },
   "Q10669859": {
     "department": "Finansdepartementet",
     "kind": "myndighet",
@@ -1016,6 +1411,14 @@
     "label_en": "Skatterättsnämnden",
     "names": [],
     "orgnr": "2021005901",
+    "replaced_by": []
+  },
+  "Q10670001": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Skellefteå tingsrätt",
+    "label_en": "Skellefteå District Court",
+    "names": [],
     "replaced_by": []
   },
   "Q10670160": {
@@ -1084,6 +1487,14 @@
     "names": [
       "SFR"
     ],
+    "replaced_by": []
+  },
+  "Q10673315": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Solna tingsrätt",
+    "label_en": "Solna District Court",
+    "names": [],
     "replaced_by": []
   },
   "Q10674564": {
@@ -1416,6 +1827,21 @@
     "orgnr": "2021000852",
     "replaced_by": []
   },
+  "Q10680634": {
+    "kind": "domstol",
+    "label": "Stockholms rådhusrätt",
+    "label_en": "Stockholm City Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10680671": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Stockholms tingsrätt",
+    "label_en": "Stockholm District Court",
+    "names": [],
+    "replaced_by": []
+  },
   "Q10682790": {
     "dissolved": "2008-01-01T00:00:00Z",
     "inception": "1985-07-01T00:00:00Z",
@@ -1426,6 +1852,14 @@
     "replaced_by": [
       "Q3430725"
     ]
+  },
+  "Q10683855": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Sundsvalls tingsrätt",
+    "label_en": "Sundsvall District Court",
+    "names": [],
+    "replaced_by": []
   },
   "Q10685405": {
     "department": "Statsrådsberedningen",
@@ -1449,6 +1883,22 @@
       "Säkerhets- och integritetsskyddsnämnden"
     ],
     "orgnr": "2021005703",
+    "replaced_by": []
+  },
+  "Q10688816": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Södertälje tingsrätt",
+    "label_en": "Södertälje District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10688835": {
+    "inception": "2007-04-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Södertörns tingsrätt",
+    "label_en": "Södertörn District Court",
+    "names": [],
     "replaced_by": []
   },
   "Q10690203": {
@@ -1522,6 +1972,22 @@
     ],
     "replaced_by": []
   },
+  "Q10708427": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Uddevalla tingsrätt",
+    "label_en": "Uddevalla district court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10709206": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Umeå tingsrätt",
+    "label_en": "Umeå District Court",
+    "names": [],
+    "replaced_by": []
+  },
   "Q10709560": {
     "department": "Utbildningsdepartementet",
     "inception": "1994-01-01T00:00:00Z",
@@ -1544,6 +2010,22 @@
       "UHR"
     ],
     "orgnr": "2021006487",
+    "replaced_by": []
+  },
+  "Q10710259": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Uppsala tingsrätt",
+    "label_en": "Uppsala District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10712935": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Varbergs tingsrätt",
+    "label_en": "Varberg District Court",
+    "names": [],
     "replaced_by": []
   },
   "Q10714170": {
@@ -1594,6 +2076,70 @@
       "Q508125"
     ]
   },
+  "Q10717357": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Vänersborgs tingsrätt",
+    "label_en": "Vänersborg District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10717670": {
+    "inception": "2005-02-07T00:00:00Z",
+    "kind": "domstol",
+    "label": "Värmlands tingsrätt",
+    "label_en": "Värmland District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10718192": {
+    "inception": "2001-04-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Västmanlands tingsrätt",
+    "label_en": "Västmanland District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10723797": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Ystads tingsrätt",
+    "label_en": "Ystad District Court",
+    "names": [
+      "Ystads tingshus"
+    ],
+    "replaced_by": []
+  },
+  "Q10726549": {
+    "inception": "2002-02-25T00:00:00Z",
+    "kind": "domstol",
+    "label": "Ångermanlands tingsrätt",
+    "label_en": "Ångermanland District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10727496": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Örebro tingsrätt",
+    "label_en": "Örebro rättscentrum",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10728135": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Östersunds tingsrätt",
+    "label_en": "Östersund District Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q10728203": {
+    "kind": "domstol",
+    "label": "Östgöta bergslag",
+    "names": [],
+    "replaced_by": []
+  },
   "Q10728568": {
     "dissolved": "1982-01-01T00:00:00Z",
     "kind": "myndighet",
@@ -1618,6 +2164,56 @@
     "label_en": "The National Board of Appeal for Student Aid",
     "names": [],
     "orgnr": "2021005273",
+    "replaced_by": []
+  },
+  "Q108045099": {
+    "kind": "domstol",
+    "label": "Hyresnämnden i Göteborg",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q108045100": {
+    "kind": "domstol",
+    "label": "Hyresnämnden i Jönköping",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q108045101": {
+    "kind": "domstol",
+    "label": "Hyresnämnden i Linköping",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q108045102": {
+    "kind": "domstol",
+    "label": "Hyresnämnden i Malmö",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q108045103": {
+    "kind": "domstol",
+    "label": "Hyresnämnden i Stockholm",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q108045104": {
+    "kind": "domstol",
+    "label": "Hyresnämnden i Sundsvall",
+    "names": [
+      "Hyres- och arrendenämnden i Sundsvall"
+    ],
+    "replaced_by": []
+  },
+  "Q108045105": {
+    "kind": "domstol",
+    "label": "Hyresnämnden i Umeå",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q108045106": {
+    "kind": "domstol",
+    "label": "Hyresnämnden i Västerås",
+    "names": [],
     "replaced_by": []
   },
   "Q108217407": {
@@ -1998,6 +2594,12 @@
     "names": [],
     "replaced_by": [],
     "riksarkivet": "agent/2hep13ntgqoC7EXz5jcw07"
+  },
+  "Q124293252": {
+    "kind": "domstol",
+    "label": "Lerbäcks bergslag",
+    "names": [],
+    "replaced_by": []
   },
   "Q125222": {
     "inception": "1971-01-01T00:00:00Z",
@@ -2463,6 +3065,14 @@
       "Q505259"
     ]
   },
+  "Q15206400": {
+    "inception": "1929-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Arbetsdomstolen",
+    "label_en": "Labour Court",
+    "names": [],
+    "replaced_by": []
+  },
   "Q15209927": {
     "department": "Näringsdepartementet",
     "inception": "1992-01-01T00:00:00Z",
@@ -2518,6 +3128,15 @@
       "Mälardalens högskola"
     ],
     "orgnr": "2021002916",
+    "replaced_by": []
+  },
+  "Q1551366": {
+    "kind": "domstol",
+    "label": "Domarringarna Smålandsstenar",
+    "label_en": "Smålandsstenar stone circles",
+    "names": [
+      "Smålands stenar"
+    ],
     "replaced_by": []
   },
   "Q1558323": {
@@ -2809,6 +3428,13 @@
     "orgnr": "2021006867",
     "replaced_by": []
   },
+  "Q18291386": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Kristianstads tingsrätt",
+    "names": [],
+    "replaced_by": []
+  },
   "Q18292430": {
     "department": "Socialdepartementet",
     "inception": "2014-05-01T00:00:00Z",
@@ -2819,6 +3445,14 @@
       "MFD"
     ],
     "orgnr": "2021005588",
+    "replaced_by": []
+  },
+  "Q18335025": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Växjö tingsrätt",
+    "label_en": "Växjö District Court",
+    "names": [],
     "replaced_by": []
   },
   "Q18386866": {
@@ -3972,6 +4606,20 @@
       "Q52912"
     ]
   },
+  "Q31897559": {
+    "kind": "domstol",
+    "label": "Patent- och marknadsdomstolen",
+    "label_en": "Patent and Market Court",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q31897565": {
+    "kind": "domstol",
+    "label": "Patent- och marknadsöverdomstolen",
+    "label_en": "Patent and Market Court of Appeal",
+    "names": [],
+    "replaced_by": []
+  },
   "Q3231208": {
     "inception": "1863-01-01T00:00:00Z",
     "kind": "region",
@@ -4231,6 +4879,14 @@
     "orgnr": "2021003260",
     "replaced_by": []
   },
+  "Q3364776": {
+    "inception": "1634-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Göta hovrätt",
+    "label_en": "Göta Court of Appeal",
+    "names": [],
+    "replaced_by": []
+  },
   "Q3370919": {
     "department": "Näringsdepartementet",
     "inception": "2009-04-01T00:00:00Z",
@@ -4452,6 +5108,14 @@
       "Bjurholm kommun"
     ],
     "orgnr": "2120002833",
+    "replaced_by": []
+  },
+  "Q3814567": {
+    "inception": "1821-07-04T00:00:00Z",
+    "kind": "domstol",
+    "label": "Hovrätten över Skåne och Blekinge",
+    "label_en": "Scania and Blekinge Court of Appeal",
+    "names": [],
     "replaced_by": []
   },
   "Q382808": {
@@ -7641,6 +8305,540 @@
       "Q507644"
     ]
   },
+  "Q62131518": {
+    "kind": "domstol",
+    "label": "Alingsås rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131573": {
+    "kind": "domstol",
+    "label": "Arboga rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131575": {
+    "kind": "domstol",
+    "label": "Askersunds rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131576": {
+    "kind": "domstol",
+    "label": "Borås rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131577": {
+    "kind": "domstol",
+    "label": "Eksjö rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131578": {
+    "kind": "domstol",
+    "label": "Enköpings rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131580": {
+    "kind": "domstol",
+    "label": "Eskilstuna rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131581": {
+    "kind": "domstol",
+    "label": "Falkenbergs rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131582": {
+    "kind": "domstol",
+    "label": "Falköpings rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131583": {
+    "kind": "domstol",
+    "label": "Falu rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131584": {
+    "kind": "domstol",
+    "label": "Filipstads rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131586": {
+    "kind": "domstol",
+    "label": "Gränna rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131587": {
+    "kind": "domstol",
+    "label": "Gävle rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131590": {
+    "kind": "domstol",
+    "label": "Halmstads rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131591": {
+    "kind": "domstol",
+    "label": "Hedemora rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131592": {
+    "kind": "domstol",
+    "label": "Helsingborgs rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131594": {
+    "kind": "domstol",
+    "label": "Hjo rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131596": {
+    "kind": "domstol",
+    "label": "Hudiksvalls rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131597": {
+    "kind": "domstol",
+    "label": "Härnösands rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131598": {
+    "kind": "domstol",
+    "label": "Jönköpings rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131599": {
+    "kind": "domstol",
+    "label": "Kalmar rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131600": {
+    "kind": "domstol",
+    "label": "Karlshamns rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131602": {
+    "kind": "domstol",
+    "label": "Karlskrona rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131603": {
+    "kind": "domstol",
+    "label": "Karlstads rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131605": {
+    "kind": "domstol",
+    "label": "Kristianstads rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131606": {
+    "kind": "domstol",
+    "label": "Kristinehamns rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131607": {
+    "kind": "domstol",
+    "label": "Kungsbacka rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131610": {
+    "kind": "domstol",
+    "label": "Kungälvs rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131611": {
+    "kind": "domstol",
+    "label": "Köpings rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131612": {
+    "kind": "domstol",
+    "label": "Laholms rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131613": {
+    "kind": "domstol",
+    "label": "Landskrona rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131615": {
+    "kind": "domstol",
+    "label": "Lidköpings rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131616": {
+    "kind": "domstol",
+    "label": "Lindesbergs rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131617": {
+    "kind": "domstol",
+    "label": "Linköpings rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131619": {
+    "kind": "domstol",
+    "label": "Luleå rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131621": {
+    "kind": "domstol",
+    "label": "Lunds rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131623": {
+    "kind": "domstol",
+    "label": "Lysekils rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131624": {
+    "kind": "domstol",
+    "label": "Malmö rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131625": {
+    "kind": "domstol",
+    "label": "Mariefreds rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131626": {
+    "kind": "domstol",
+    "label": "Mariestads rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131628": {
+    "kind": "domstol",
+    "label": "Marstrands rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131629": {
+    "kind": "domstol",
+    "label": "Motala rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131630": {
+    "kind": "domstol",
+    "label": "Nora rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131631": {
+    "kind": "domstol",
+    "label": "Norrköpings rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131632": {
+    "kind": "domstol",
+    "label": "Norrtälje rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131633": {
+    "kind": "domstol",
+    "label": "Nyköpings rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131635": {
+    "kind": "domstol",
+    "label": "Oskarshamns rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131636": {
+    "kind": "domstol",
+    "label": "Piteå rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131637": {
+    "kind": "domstol",
+    "label": "Ronneby rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131638": {
+    "kind": "domstol",
+    "label": "Sala rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131640": {
+    "kind": "domstol",
+    "label": "Sigtuna rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131642": {
+    "kind": "domstol",
+    "label": "Simrishamns rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131643": {
+    "kind": "domstol",
+    "label": "Skanör med Falsterbo rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131644": {
+    "kind": "domstol",
+    "label": "Skara rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131645": {
+    "kind": "domstol",
+    "label": "Skellefteå rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131646": {
+    "kind": "domstol",
+    "label": "Skänninge rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131648": {
+    "kind": "domstol",
+    "label": "Skövde rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131650": {
+    "kind": "domstol",
+    "label": "Strängnäs rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131651": {
+    "kind": "domstol",
+    "label": "Strömstads rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131652": {
+    "kind": "domstol",
+    "label": "Sundsvalls rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131653": {
+    "kind": "domstol",
+    "label": "Säters rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131654": {
+    "kind": "domstol",
+    "label": "Söderhamns rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131657": {
+    "kind": "domstol",
+    "label": "Söderköpings rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131658": {
+    "kind": "domstol",
+    "label": "Södertälje rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131659": {
+    "kind": "domstol",
+    "label": "Sölvesborgs rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131660": {
+    "kind": "domstol",
+    "label": "Torshälla rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131661": {
+    "kind": "domstol",
+    "label": "Trelleborgs rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131662": {
+    "kind": "domstol",
+    "label": "Trosa rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131664": {
+    "kind": "domstol",
+    "label": "Uddevalla rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131665": {
+    "kind": "domstol",
+    "label": "Ulricehamns rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131666": {
+    "kind": "domstol",
+    "label": "Umeå rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131667": {
+    "kind": "domstol",
+    "label": "Uppsala rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131669": {
+    "kind": "domstol",
+    "label": "Vadstena rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131670": {
+    "kind": "domstol",
+    "label": "Varbergs rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131672": {
+    "kind": "domstol",
+    "label": "Vaxholms rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131673": {
+    "kind": "domstol",
+    "label": "Vimmerby rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131675": {
+    "kind": "domstol",
+    "label": "Visby rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131676": {
+    "kind": "domstol",
+    "label": "Vänersborgs rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131677": {
+    "kind": "domstol",
+    "label": "Västerviks rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131678": {
+    "kind": "domstol",
+    "label": "Västerås rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131680": {
+    "kind": "domstol",
+    "label": "Växjö rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131681": {
+    "kind": "domstol",
+    "label": "Ystads rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131682": {
+    "kind": "domstol",
+    "label": "Ängelholms rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131683": {
+    "kind": "domstol",
+    "label": "Åmåls rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131684": {
+    "kind": "domstol",
+    "label": "Örebro rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131686": {
+    "kind": "domstol",
+    "label": "Öregrunds rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131687": {
+    "kind": "domstol",
+    "label": "Örnsköldsviks rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131688": {
+    "kind": "domstol",
+    "label": "Östersunds rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q62131689": {
+    "kind": "domstol",
+    "label": "Östhammars rådhusrätt",
+    "names": [],
+    "replaced_by": []
+  },
   "Q62464": {
     "inception": "1971-01-01T00:00:00Z",
     "kind": "kommun",
@@ -7701,6 +8899,14 @@
     "label_en": "Swedish Climate Policy Council",
     "names": [],
     "orgnr": "2021006719",
+    "replaced_by": []
+  },
+  "Q6744411": {
+    "inception": "1971-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Malmö tingsrätt",
+    "label_en": "Malmö District Court",
+    "names": [],
     "replaced_by": []
   },
   "Q6970210": {
@@ -7797,6 +9003,14 @@
     "orgnr": "2021000035",
     "replaced_by": []
   },
+  "Q731427": {
+    "inception": "1614-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Svea hovrätt",
+    "label_en": "Svea Court of Appeal",
+    "names": [],
+    "replaced_by": []
+  },
   "Q7395171": {
     "department": "Utrikesdepartementet",
     "kind": "myndighet",
@@ -7806,6 +9020,30 @@
       "SWEDAC"
     ],
     "orgnr": "2021003815",
+    "replaced_by": []
+  },
+  "Q741421": {
+    "inception": "1789-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Högsta domstolen",
+    "label_en": "Supreme Court of Sweden",
+    "names": [
+      "HD",
+      "Sveriges högsta domstol"
+    ],
+    "replaced_by": []
+  },
+  "Q750632": {
+    "inception": "1909-01-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Högsta förvaltningsdomstolen",
+    "label_en": "Supreme Administrative Court of Sweden",
+    "names": [
+      "Kungliga Majestäts regeringsrätt",
+      "Regeringsrätt",
+      "Regeringsrätten",
+      "Regeringsrättens årsbok"
+    ],
     "replaced_by": []
   },
   "Q7654606": {
@@ -8342,6 +9580,41 @@
     "orgnr": "2021001710",
     "replaced_by": []
   },
+  "Q97143436": {
+    "kind": "domstol",
+    "label": "Migrationsöverdomstolen",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q97143441": {
+    "inception": "2006-03-31T00:00:00Z",
+    "kind": "domstol",
+    "label": "Migrationsdomstolen i Göteborg",
+    "label_en": "Migration Court in Gothenburg",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q97143442": {
+    "inception": "2006-10-01T00:00:00Z",
+    "kind": "domstol",
+    "label": "Migrationsdomstolen i Luleå",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q97143443": {
+    "inception": "2006-03-31T00:00:00Z",
+    "kind": "domstol",
+    "label": "Migrationsdomstolen i Malmö",
+    "names": [],
+    "replaced_by": []
+  },
+  "Q97143444": {
+    "inception": "2006-03-31T00:00:00Z",
+    "kind": "domstol",
+    "label": "Migrationsdomstolen i Stockholm",
+    "names": [],
+    "replaced_by": []
+  },
   "Q972564": {
     "inception": "1971-01-01T00:00:00Z",
     "kind": "kommun",
@@ -8367,6 +9640,12 @@
       "Mau"
     ],
     "orgnr": "2021004920",
+    "replaced_by": []
+  },
+  "Q99386366": {
+    "kind": "domstol",
+    "label": "Vikabergs bergslag",
+    "names": [],
     "replaced_by": []
   }
 }

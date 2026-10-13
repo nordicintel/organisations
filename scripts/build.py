@@ -307,10 +307,38 @@ def main():
             skip("data_europa", uri, error)
 
     qid_to_id = {qid: org_id(row["orgnr"]) for qid, row in wd.items() if row.get("orgnr")}
+
+    # The courts share Domstolsverket's number, so Wikidata's court items are matched to the
+    # suffixed records by name: equal, or one the start of the other, since Myndighetsregistret
+    # cuts at 48 characters and appends the divisions ("Svea Hovrätt o Mark o Miljö och Patent").
+    courts = {k: {v.casefold() for _, v in labels.get(k, {}).get("sv", [])}
+              for k, r in orgs.items() if "-" in k and r.get("state_body_group") == "domstol"}
+
+    def court_for(row):
+        # The label first; the other names only when it finds nothing (Nacka tingsrätt lists
+        # "Södertörns tingsrätt" among its alternative names and would otherwise hit both).
+        for names in ({row["label"].casefold()}, {n.casefold() for n in row.get("names", [])}):
+            hits = {k for k, known in courts.items() for a in known for b in names
+                    if a == b or a.startswith(b + " ") or b.startswith(a + " ")}
+            if hits:
+                return next(iter(hits)) if len(hits) == 1 else None
+        return None
+
     for qid, row in wd.items():
         try:
             links_wd[qid] = qid_to_id.get(qid)
             if not row.get("orgnr"):
+                court = court_for(row) if row["kind"] == "domstol" else None
+                if not court:
+                    continue
+                links_wd[qid] = court
+                r = orgs[court]
+                label(r, "sv", row["label"], "wikidata", LABEL_PRIORITY["statskontoret"])  # the one full, cased name
+                if row.get("label_en"):
+                    label(r, "en", row["label_en"], "wikidata")
+                r["identifier"]["wikidata"] = qid
+                alias(r, *row.get("names", []))
+                r["source"].append("wikidata")
                 continue
             r = rec(row["orgnr"])
             label(r, "sv", row["label"], "wikidata")

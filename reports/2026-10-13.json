@@ -1,6 +1,6 @@
 {
   "added": [],
-  "changed": 45,
+  "changed": 1,
   "count": 1037,
   "date": "2026-10-13",
   "legal_type": {
@@ -20,7 +20,7 @@
   },
   "register": {
     "data_europa": {
-      "rows": 460,
+      "rows": 522,
       "status": "fetched"
     },
     "dataportal": {
@@ -41,7 +41,7 @@
       "status": "fetched"
     },
     "wikidata": {
-      "rows": 718,
+      "rows": 905,
       "status": "fetched"
     }
   },
