@@ -1,3 +1,4 @@
+import gzip
 import json
 import re
 import sys
@@ -11,7 +12,8 @@ UA = "nordicintel-organisations/0.1 (+https://github.com/nordicintel/organisatio
 def http(url, *, data=None, headers=None, timeout=600):
     req = urllib.request.Request(url, data=data, headers={"User-Agent": UA, **(headers or {})})
     with urllib.request.urlopen(req, timeout=timeout) as resp:
-        return resp.read()
+        body = resp.read()
+        return gzip.decompress(body) if resp.headers.get("Content-Encoding") == "gzip" else body
 
 
 def cached(cache: Path, name: str, producer):

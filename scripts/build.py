@@ -31,7 +31,7 @@ LEGAL_TYPE_TO_TYPE = {
     "61": "NonProfitOrganisation", "63": "NonProfitOrganisation", "71": "NonProfitOrganisation",
     "72": "NonProfitOrganisation", "93": "Company", "95": "NonProfitOrganisation",
 }
-LABEL_PRIORITY = {"edits": 0, "dataportal": 1, "myndighetsregistret": 2, "statskontoret": 3, "wikidata": 4,
+LABEL_PRIORITY = {"edits": 0, "statskontoret": 1, "dataportal": 2, "myndighetsregistret": 3, "wikidata": 4,
                   "data_europa": 5, "scb_bulk": 6}
 
 
@@ -50,7 +50,7 @@ def fetch(name, producer, report):
     try:
         data = producer()
         dump(path, data)
-        rows = sum(len(v) for v in data.values()) if name == "dataportal" else len(data)
+        rows = sum(len(v) for v in data.values()) if name in ("dataportal", "statskontoret") else len(data)
         report[name] = {"status": "fetched", "rows": rows}
         return data
     except Exception as error:  # noqa: BLE001 - any failure must not stop the build
@@ -88,9 +88,10 @@ def main():
     europa = fetch("data_europa", lambda: data_europa.fetch(cache), registers)
     wd = fetch("wikidata", lambda: wikidata.fetch(cache), registers)
     state = fetch("myndighetsregistret", lambda: myndighetsregistret.fetch(cache), registers)
-    history = fetch("statskontoret", lambda: statskontoret.fetch(cache), registers)
+    statskontoret_data = fetch("statskontoret", lambda: statskontoret.fetch(cache), registers)
+    history, listing = statskontoret_data.get("register", {}), statskontoret_data.get("list", {})
 
-    wanted = set(state) | {n for entry in history.values() for n in entry["orgnr"]}
+    wanted = set(state) | set(listing) | {n for entry in history.values() for n in entry["orgnr"]}
     for uri, row in list(portal.get("registry", {}).items()) + list(portal.get("publishers", {}).items()) + list(europa.items()):
         for value in (uri, row.get("identifier")):
             if (n := orgnr(value)):
@@ -144,28 +145,69 @@ def main():
             r.setdefault("email", row["email"])
         r["source"].append("myndighetsregistret")
 
-    # Statskontoret: every name an agency has carried, and where a wound-up agency went.
-    by_name, latest_name = {}, {}
+    # Statskontoret: every name a state body has carried under each of its numbers,
+    # the number that replaced an earlier one, and where a wound-up body went.
+    current_year = max((entry["last_year"] for entry in history.values()), default=0)
+    by_name, by_id, owner = {}, {}, {}
     for lopnr, entry in history.items():
         for name in entry["name"].values():
             by_name[name.casefold()] = lopnr
+        for ident in entry["id"]:
+            by_id[ident] = lopnr
+        for number, (first, last) in entry["orgnr"].items():
+            # A number used by several running numbers (Polisen and Säkerhetspolisen shared
+            # one until 2005) belongs to the one that used it last; the others only add aliases.
+            if last >= owner.get(number, (0, ""))[0]:
+                owner[number] = (last, lopnr)
+
+    def heir(target, year):
+        """The target's number in use in ``year``, else its latest number."""
+        spans = history[target]["orgnr"]
+        return next((n for n, (first, last) in spans.items() if first <= year <= last), max(spans, key=spans.get))
+
     for lopnr, entry in history.items():
-        latest = entry["name"][max(entry["name"])]
-        for number in entry["orgnr"]:
+        numbers = list(entry["orgnr"])
+        for position, (number, (first, last)) in enumerate(entry["orgnr"].items()):
             r = rec(number)
-            label(r, "sv", latest, "statskontoret")
-            alias(r, *(n for n in entry["name"].values() if n != latest))
-            latest_name[r["id"]] = latest
+            names = [n for y, n in entry["name"].items() if first <= int(y) <= last]
+            if owner[number][1] != lopnr:
+                # Names from a borrowed number are aliases only when this body never
+                # moved on to a number of its own (Säkerhetspolisen did; MIA did not).
+                if number == numbers[-1]:
+                    alias(r, *names)
+                continue
+            label(r, "sv", names[-1], "statskontoret")
+            alias(r, *(n for n in names[:-1] if n != names[-1]))
+            if position + 1 < len(numbers):
+                r["succeeded_by"] = sorted(set(r.get("succeeded_by", [])) | {org_id(numbers[position + 1])})
+            elif last == entry["last_year"]:
+                if entry["en"]:
+                    label(r, "en", entry["en"], "statskontoret")
+                if entry["email"]:
+                    r.setdefault("email", entry["email"])
+                if entry["department"] and last == current_year:
+                    r["department"] = entry["department"]
             r["source"].append("statskontoret")
-        if not entry["successor"] or not entry["orgnr"]:
+        if not entry["successor"] or not numbers or owner[numbers[-1]][1] != lopnr:
             continue
-        key = entry["successor"].casefold()
-        match = key if key in by_name else next(iter(difflib.get_close_matches(key, by_name, 1, 0.88)), None)
-        heirs = [n for n in history[by_name[match]]["orgnr"] if n not in entry["orgnr"]] if match else []
-        for number in entry["orgnr"]:
-            r = rec(number)
-            if heirs:
-                r["succeeded_by"] = sorted(set(r.get("succeeded_by", [])) | {org_id(n) for n in heirs})
+        heirs = {heir(target, entry["last_year"]) for target in statskontoret.resolve(entry["successor"], by_name, by_id)}
+        heirs -= set(numbers)
+        if heirs:
+            r = rec(numbers[-1])
+            r["succeeded_by"] = sorted(set(r.get("succeeded_by", [])) | {org_id(n) for n in heirs})
+
+    # Statskontoret's yearly list: abbreviation or former name, instruction and department
+    # for every current state body that is its own legal unit.
+    for number, row in listing.items():
+        r = rec(number)
+        label(r, "sv", row["name"], "statskontoret")
+        alias(r, *row["alias"])
+        if row["sfs"]:
+            r.setdefault("sfs", row["sfs"])
+        if row["department"]:
+            r.setdefault("department", row["department"])
+        if "statskontoret" not in r["source"]:
+            r["source"].append("statskontoret")
 
     links_portal, links_europa, links_wd = {}, {}, {}
     for uri, row in portal.get("registry", {}).items():
@@ -227,7 +269,7 @@ def main():
         if row.get("kommunkod"):
             r["code"] = {"kommun": row["kommunkod"], "lan": row["kommunkod"][:2]}
         if row.get("department"):
-            r["department"] = row["department"]
+            r.setdefault("department", row["department"])
         if row.get("inception"):
             r.setdefault("established", row["inception"][:10])
         if row.get("dissolved"):
@@ -264,8 +306,10 @@ def main():
             r["label"].setdefault(lang, min(candidates)[1])
         if not r["label"]:
             r["label"]["sv"] = r.get("registered_label") or r["id"]
-        if r["id"] in latest_name and latest_name[r["id"]] not in r["label"].values():
-            alias(r, latest_name[r["id"]])
+        losers = {v.strip() for p, v in labels.get(r["id"], {}).get("sv", [])
+                  if p <= LABEL_PRIORITY["myndighetsregistret"] and v.strip().casefold() != r["label"]["sv"].casefold()}
+        if losers:
+            alias(r, *losers)
         if "-" in r["id"] and "part_of" not in r:
             r["part_of"] = r["id"].split("-")[0]
 

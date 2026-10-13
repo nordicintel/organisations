@@ -1,9 +1,7 @@
 {
-  "added": [
-    "SE8020068741"
-  ],
-  "changed": 0,
-  "count": 899,
+  "added": [],
+  "changed": 1,
+  "count": 1029,
   "date": "2026-10-13",
   "legal_type": {
     "49": 32,
@@ -18,7 +16,7 @@
     "84": 20,
     "87": 48,
     "88": 1,
-    "none": 37
+    "none": 167
   },
   "register": {
     "data_europa": {
@@ -38,9 +36,8 @@
       "status": "fetched"
     },
     "statskontoret": {
-      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>",
-      "rows": 0,
-      "status": "failed"
+      "rows": 575,
+      "status": "fetched"
     },
     "wikidata": {
       "rows": 718,

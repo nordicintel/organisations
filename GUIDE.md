@@ -9,7 +9,7 @@ Two files are the product. Everything else either feeds them or is derived from 
 Generated. Never edit by hand; the next build overwrites it.
 
 ```json
-{"generated": "2026-10-13", "count": 877, "organisation": {"SE2021000837": {…}, …}}
+{"generated": "2026-10-13", "count": 1029, "organisation": {"SE2021000837": {…}, …}}
 ```
 
 One object per organisation, keyed by id, following `schema/organisation.schema.json`.
@@ -18,16 +18,16 @@ The fields, in the order you will use them:
 | field | meaning | from |
 |---|---|---|
 | `id` | `SE` + organisationsnummer; `SE…-LST` style for dataportal.se's agreed suffixes; `wikidata:Q…` for bodies with no Swedish number | registers, edits |
-| `label` | official name by language, `sv` always, `en` where published | dataportal, Myndighetsregistret, Statskontoret, Wikidata, edits |
+| `label` | official name by language, `sv` always, `en` where published | Statskontoret, dataportal, Myndighetsregistret, Wikidata, edits |
 | `registered_label` | the name exactly as registered with SCB | SCB bulk file |
 | `slug` | our short code; one per organisation | edits |
-| `alias` | strings seen in source metadata that mean this organisation, and every earlier name of a state body | Statskontoret, edits |
+| `alias` | strings seen in source metadata that mean this organisation, every earlier name and abbreviation of a state body, and register names that lost to the label | Statskontoret, dataportal, Myndighetsregistret, edits |
 | `status` | `active`, `deregistered`, `unknown` | SCB, Wikidata |
 | `type` | ADMS publisher type, the vocabulary both data portals use | legal type, dataportal, edits |
 | `legal_type` | Skatteverket's two-digit juridisk form with label; the authority for what a body is | SCB |
-| `state_body_group`, `sfs`, `department` | state bodies only | Myndighetsregistret, Wikidata |
+| `state_body_group`, `sfs`, `department` | state bodies only | Myndighetsregistret, Statskontoret, Wikidata |
 | `code` | `kommun` and `lan` codes for municipalities | Wikidata |
-| `homepage`, `email` | | dataportal, Myndighetsregistret |
+| `homepage`, `email` | | dataportal, Myndighetsregistret, Statskontoret |
 | `established`, `dissolved`, `succeeded_by` | history; `succeeded_by` lists organisation ids | SCB, Wikidata, Statskontoret |
 | `part_of` | parent id, e.g. the base number behind a suffixed id | derived |
 | `identifier` | one canonical value per external system: `orgnr`, `dataportal`, `wikidata`, `ror`, `riksarkivet` | registers |
@@ -36,7 +36,12 @@ The fields, in the order you will use them:
 | `note` | free text | edits |
 
 Resolve a name to an organisation by `alias` first, then `label` and
-`registered_label`. Resolve a portal URI through `identifier.dataportal`,
+`registered_label`. For state bodies Statskontoret's name wins the Swedish label:
+it is the current name as the body writes it ("Kungl. biblioteket",
+"Integritetsskyddsmyndigheten"), where dataportal.se is often stale and
+Myndighetsregistret is upper case. Statskontoret also writes which earlier
+number a body had (`succeeded_by` from the old number to the new one) and which
+body a wound-up one went into, read from the register's comment. Resolve a portal URI through `identifier.dataportal`,
 `same_as`, or the `links/` files.
 
 ### `data_sources.json`
@@ -107,3 +112,9 @@ python scripts/validate.py  # schemas and references across all files; run befor
 A register that cannot be fetched is replaced by its snapshot and reported as
 `stale`; only when every register fails does the build exit non-zero. Builds are
 deterministic, so a diff means a register or an edit changed.
+
+statskontoret.se cannot be reached from GitHub-hosted runners or cloud sessions,
+so that register is always `stale` in the workflow and lives on its committed
+snapshot; its snapshot only changes when Statskontoret publishes a new year, so
+run `python scripts/build.py` from a machine in Sweden once a year, or whenever
+the report has said `stale` for a long time, and commit the result.
