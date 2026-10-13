@@ -1,11 +1,25 @@
 {
   "SE2220000315": {
-    "names": {"sv": "Sveriges Kommuner och Regioner", "en": "Swedish Association of Local Authorities and Regions"},
+    "names": {
+      "sv": "Sveriges Kommuner och Regioner",
+      "en": "Swedish Association of Local Authorities and Regions"
+    },
     "note": "The portals also publish Kolada (Rådet för främjande av kommunala analyser, RKA) under this number."
   },
   "SE2021002361-LST": {
-    "names": {"sv": "Länsstyrelserna gemensamt", "en": "The County Administrative Boards jointly"},
+    "names": {
+      "sv": "Länsstyrelserna gemensamt",
+      "en": "The County Administrative Boards jointly"
+    },
     "publisher_type": "NationalAuthority",
     "note": "Joint publisher id used on dataportal.se for all 21 county administrative boards; the base number is Länsstyrelsen i Västra Götalands län."
+  },
+  "SE2021006545": {
+    "identifiers": {
+      "data_europa": [
+        "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1669"
+      ]
+    },
+    "note": "Folkhälsomyndigheten publishes Folkhälsodata under its own organisation URI rather than the SE-number form."
   }
 }

@@ -8047,7 +8047,8 @@
       "id": "SE2021006545",
       "identifiers": {
         "data_europa": [
-          "http://dataportal.se/organisation/SE2021006545"
+          "http://dataportal.se/organisation/SE2021006545",
+          "https://fohm-app.folkhalsomyndigheten.se/Folkhalsodata/organization/1669"
         ],
         "dataportal": [
           "http://dataportal.se/organisation/SE2021006545"
@@ -8065,12 +8066,14 @@
       "names": {
         "sv": "Folkhälsomyndigheten"
       },
+      "note": "Folkhälsomyndigheten publishes Folkhälsodata under its own organisation URI rather than the SE-number form.",
       "publisher_type": "NationalAuthority",
       "registered_name": "Folkhälsomyndigheten",
       "sfs": "2021:248",
       "sources": [
         "data_europa",
         "dataportal",
+        "manual",
         "myndighetsregistret",
         "scb_bulk",
         "wikidata"

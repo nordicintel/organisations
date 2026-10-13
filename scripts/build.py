@@ -182,6 +182,16 @@ def main():
             if field == "names":
                 for lang, v in value.items():
                     name(r, lang, v, "manual")
+            elif field == "identifiers":
+                for system, ids in value.items():
+                    if isinstance(ids, list):
+                        r["identifiers"][system] = sorted(set(r["identifiers"].get(system, [])) | set(ids))
+                        for uri in ids:
+                            {"dataportal": links_portal, "data_europa": links_europa}.get(system, {}).setdefault(uri, key)
+                            if system in ("dataportal", "data_europa"):
+                                {"dataportal": links_portal, "data_europa": links_europa}[system][uri] = key
+                    else:
+                        r["identifiers"][system] = ids
             elif isinstance(value, dict):
                 r.setdefault(field, {}).update(value)
             else:
