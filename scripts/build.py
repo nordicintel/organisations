@@ -337,7 +337,8 @@ def main():
                 if row.get("label_en"):
                     label(r, "en", row["label_en"], "wikidata")
                 r["identifier"]["wikidata"] = qid
-                alias(r, *row.get("names", []))
+                # An alternative name that is another court's name (Nacka lists "Södertörns tingsrätt") stays out.
+                alias(r, *(n for n in row.get("names", []) if court_for({"label": n}) in (court, None)))
                 r["source"].append("wikidata")
                 continue
             r = rec(row["orgnr"])
