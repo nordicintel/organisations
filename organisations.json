@@ -119,6 +119,10 @@
         "Brottsförebyggande rådet (Brå)",
         "BRÅ",
         "Brå",
+        "BRÅs nationella trygghetsundersökning",
+        "BRÅs nationella trygghetsundersökning 2021 slås ihop och det gemensamma resultatet publiceras under åren 2020 och 2021 i",
+        "BRÅs nationella trygghetsundersökning 2021 slås ihop och det gemensamma resultatet publiceras under åren 2020 och 2021 i Kolada",
+        "Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå)",
         "The Swedish National Council for Crime Prevention (Brå)"
       ],
       "department": "Justitiedepartementet",
@@ -371,9 +375,68 @@
     },
     "SE2021000555": {
       "alias": [
+        "Dödsorsaksregistret och Läkemedelsregistret, Socialstyrelsen",
+        "Dödsorsaksregistret, Socialstyrelsen",
+        "Dödsorsaksregistret, Socialstyrelsen.",
+        "Enhetsundersökningen om äldreomsorg och kommunal hälso- och sjukvård. 2025. Socialstyrelsen.",
+        "Källa: Patientregistret, Socialstyrelsen via Vården i Siffror",
+        "Källa: Socialstyrelsens kommunenkät ÖJ socialtjänst",
+        "Läkemedelsregistret och Registret över insatser inom kommunal hälso- och sjukvård, Socialstyrelsen",
+        "Läkemedelsregistret och Registret över insatser till äldre och personer med funktionsnedsättning, Socialstyrelsen",
+        "Läkemedelsregistret och registret över socialtjänstinsatser till äldre och personer med funktionsnedsättning via Socialstyrelsen",
+        "Läkemedelsregistret och registret över socialtjänstinsatser till äldre och personer med funktionsnedsättning, Socialstyrelsen",
+        "Läkemedelsregistret, Socialstyrelsen",
+        "Medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreo",
+        "medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreo",
+        "Medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreomsorgen)",
+        "medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreomsorgen)",
+        "Medicinska födelseregistret, Patientregistret, Socialstyrelsen",
+        "Medicinska födelseregistret, Socialstyrelsen",
+        "Medicinska födelseregistret, Socialstyrelsen.",
+        "Nationella diabetesregistret och Socialstyrelsen",
+        "Patientregistret och Dödsorsaksregistret, Socialstyrelsen",
+        "Patientregistret och dödsorsaksregistret, Socialstyrelsen",
+        "Patientregistret och Dödsorsaksregistret, Socialstyrelsen.",
+        "Patientregistret och Läkemedelsregistret, Socialstyrelsen",
+        "Patientregistret och Registret över insatser inom kommunal hälso- och sjukvård, Socialstyrelsen",
+        "Patientregistret och Registret över insatser till äldre och personer med funktionsnedsättning, Socialstyrelsen",
+        "Patientregistret, Socialstyrelsen",
+        "Patientregistret, Socialstyrelsen via Vården i Siffror",
+        "SCB-Räkenskapssammandraget och Socialstyrelsens individstatistik",
+        "Senior alert via Socialstyrelsen",
         "Socialstyrelsen",
         "Socialstyrelsen (SoS)",
-        "The National Board of Health and Welfare"
+        "Socialstyrelsen (ÖJ ekonomiskt bistånd)",
+        "Socialstyrelsen Patientregistret",
+        "Socialstyrelsen via Vården i Siffror",
+        "Socialstyrelsen Äldreguiden",
+        "Socialstyrelsen,  Enhetsundersökningen om äldreomsorg och kommunal hälso- och sjukvård",
+        "Socialstyrelsen, Dödsorsaksregistret",
+        "Socialstyrelsen, enkät om utvecklingen av e-hälsa och välfärdsteknik i kommunerna",
+        "Socialstyrelsen, enkät om utvecklingen av e-hälsa och välfärdsteknik i kommunerna. Källa: Socialstyrelsen, enkät om utve",
+        "Socialstyrelsen, enkät om utvecklingen av och välfärdsteknik i kommunerna",
+        "Socialstyrelsen, Medicinska födelseregistret",
+        "Socialstyrelsen, patientregistret och dödsorsaksregistret.",
+        "Socialstyrelsen, Socialstyrelsen",
+        "Socialstyrelsen. Källa: Socialstyrelsen",
+        "Socialstyrelsens cancerregister",
+        "Socialstyrelsens enhetsundersökning",
+        "Socialstyrelsens Enhetsundersökning LSS",
+        "Socialstyrelsens individstatistik",
+        "Socialstyrelsens kommun- och enhetsundersökning",
+        "Socialstyrelsens kommunenkät ÖJ socialtjänst",
+        "Socialstyrelsens register över ekonomiskt bistånd",
+        "Socialstyrelsens register över ekonomiskt bistånd samt Registret över totalbefolkningen (RTB)",
+        "Socialstyrelsens statistikdatabas",
+        "Socialstyrelsens tandhälsoregister",
+        "Socialstyrelsens Äldreguiden",
+        "Socialstyrelsens Öppna Jämförelser av ekonomiskt bistånd",
+        "Tandhälsoregistret, Socialstyrelsen",
+        "The National Board of Health and Welfare",
+        "The National Board of Health and Welfare, The National Board of Health and Welfare",
+        "Undersökningen av äldres uppfattning om kvaliteten i hemtjänst och äldreboenden, Socialstyrelsen",
+        "Vad tycker de äldre om äldreomsorgen? Socialstyrelsen",
+        "Öppna jämförelser. Enkät till kommunal hälso- och sjukvård och socialtjänsten, kommunundersökning. Socialstyrelsen"
       ],
       "department": "Socialdepartementet",
       "email": "socialstyrelsen@socialstyrelsen.se",
@@ -471,7 +534,8 @@
     },
     "SE2021000696": {
       "alias": [
-        "SMHI"
+        "SMHI",
+        "SMHI, Nationella emissionsdatabasen"
       ],
       "department": "Klimat- och näringslivsdepartementet",
       "email": "smhi@smhi.se",
@@ -650,12 +714,90 @@
     },
     "SE2021000837": {
       "alias": [
+        "1984-2007: Västfolket. Från 2008 och framåt:SCB",
+        "1985-2008: Västfolket. Från 2009 och framåt:SCB",
+        "<ul> <li>Hälsoräkenskaperna (HC.0 - HC.7 ”Totala löpande hälso- och sjukvårdsutgifter” samt ”HC.3ADL - därav ADL”), Statistiska centralbyrån.</li> <li>Folkmängd per 31 december per år, Statistiska centralbyrån.</li> <li>Ett konsumtionsprisindex för hälso- och sjukvård för regioner, Statistiska centralbyrån.</li> </ul>",
+        "Bredbandskollen via Internetstiftelsen och SCB",
+        "Fastighetstaxeringsregistret (FTR) och SCB",
+        "Folkbildningsrådet och SCB",
+        "FRIDA (FöretagsRegister och IndividDAtabas), SCB",
+        "Interreg- projekt KUSK, SSB, SCB",
+        "Interreg-projekt KUSK, SSB, SCB",
+        "Interreg-projekt KUSK, SSB,SCB",
         "Kungliga Statistiska centralbyrån",
+        "Källa: SCB  Sammanställd av Statistik & Utredningar",
+        "Källa: SCB  Sammanställning:Statistik & Utredningar",
+        "Källa: SCB  Uppdaterad och sammanställd av Statistik & Utredningar",
+        "Källa: SCB, sammanställning Statistik & Utredningar",
+        "Läkemedelsregistret (LMED), Socialstyrelsen. Befolkningsstatistik från Statistiska Centralbyrån (SCB).",
+        "Nationella emissionsdatabasen och SCB",
+        "Nationella emissionsdatabasen och SCB\\n",
+        "NVDB och SCB",
+        "Patientregistret (PAR) och dödsorsaksregistret, Socialstyrelsen. Befolkningsstatistik från Statistiska Centralbyrån (SCB).",
+        "Patientregistret (PAR), Socialstyrelsen. Befolkningsstatistik från Statistiska Centralbyrån (SCB).",
+        "Projekt KUSK, SCB, SSB",
+        "Riksidrottsförbundet och SCB",
         "SCB",
+        "SCB (LISA)",
+        "SCB (Regiondatabasen)",
+        "SCB (RS) och Kulturrådet",
+        "SCB (SSD).",
+        "SCB (tidigare Statisticon AB)",
+        "SCB - Befolkningens arbetsmarknadsstatus (BAS)",
+        "SCB - Befolkningens arbetsmarknadsstatus (BAS).\\n",
+        "SCB - STATIV",
+        "SCB medborgarundersökning",
+        "SCB och Kulturrådet",
+        "SCB RAMS -2021, 2022- SCB Befolkningens arbetsmarknadsstatus (BAS)",
+        "SCB Räkenskapssammandraget",
+        "SCB Räkenskapssammandraget\\n",
+        "SCB – Befolkningens arbetsmarknadsstatus (BAS)",
+        "SCB, AKU",
+        "SCB, Arbetskraftsundersökningarna (AKU)",
+        "SCB, Befolkningsstatistik",
+        "SCB, Inkomst och Taxeringsregistret (IoT)",
+        "SCB, Inkomst- och taxeringsregistret, (IoT)",
+        "SCB, Lägenhetsregistret",
+        "SCB, OSDB",
+        "SCB, OSDB, Bil06",
+        "SCB, OSDB, BILPAK BIL07HH",
+        "SCB, Registerbaserad arbetsmarknadsstatistik(RAMS)",
+        "SCB, Räkenskapssammandraget",
+        "SCB, Totalräknad inkomst- och förmögenhetsstatistik",
+        "SCB, Totalräknad inkomstfördelningsstatistik (TRIF)",
+        "SCB, ULF",
+        "SCB, ULF/SILC",
+        "SCB. Källa: SCB",
+        "SCB.\\n",
+        "SCB.Extraordinära poster region, mnkr dividerat med Antal invånare totalt 31/12 år T",
+        "SCB.Extraordinära poster region, mnkr dividerat med Antal invånare totalt 31/12 år T. Källa: SCB",
+        "SCB: räkenskapssammandrag för kommuner och region",
+        "SCB:s Fastighetsprisregister",
+        "SCB:s Fastighetsprisregister\\n",
+        "SCB:s medborgarundersökning",
+        "SCB:s medborgarundersökningar",
+        "SCB:s Räkenskapssammandrag",
+        "SCB:s räkenskapssammandrag",
+        "SCB:s Räkenskapssammandrag och befolkningsstatistik",
+        "SCB:s räkenskapssammandrag och SCB:s befolkningsstatistik",
+        "SCB:s Räkenskapssammandrag.. Källa: SCB:s Räkenskapssammandrag",
+        "SCB:s Räkneskapssammandrag",
+        "SCB:s STATIV",
+        "SCB:s valdeltagandeundersökning",
+        "SCB:s valdeltagandeundersökning.\\n",
+        "SCB:s valdeltagandeundersökning\\n",
         "SCB\\n",
+        "SCBs medborgarundersökning",
+        "SCBs registerbaserade arbetsmarknadsstatistik (RAMS)",
+        "SCBs räkenskapssammandrag",
+        "SCBs Räkenskapssammandrag och SCB:s befolkningsstatistik",
+        "SSB & SCB.",
+        "SSB,SCB",
         "Staistikmyndigheten SCB",
         "Statistics Sweden",
         "Statistics Sweden (SCB)",
+        "Statistics Sweden, Labour Force Survey",
+        "Statistics Sweden, Structural Business Statistics",
         "Statistikmyndigheten",
         "Statistikmyndigheten SCB",
         "Statistikmyndigheten SCB - Statistiska centralbyrån",
@@ -663,8 +805,17 @@
         "Statistiska Centralbyrån (SCB)",
         "Statistiska centralbyrån (SCB)",
         "Statistiska centralbyrån (Scb)",
+        "Statistiska centralbyrån (SCB), RAMS, BAS",
+        "Statistiska centralbyrån (SCB), RAMS/BAS",
+        "Statistiska centralbyrån (SCB), tab NST 1.3",
+        "Statistiska centralbyrån (SCB), tab NST 2.3",
         "Statistiska centralbyrån SCB",
-        "Statistiska centralbyrån, SCB"
+        "Statistiska Centralbyrån, Företagens ekonomi",
+        "Statistiska centralbyrån, SCB",
+        "STATIV från SCB",
+        "STRADA och SCB",
+        "Swedish Alcohol Retail Monopoly, The Public Health Agency of Sweden, Statistics Sweden (SCB)",
+        "Väntetider i Vården och SCB"
       ],
       "department": "Finansdepartementet",
       "email": "scb@scb.se",
@@ -711,7 +862,9 @@
       "alias": [
         "Konjunkturinstitutet",
         "National Institute of Economic Research",
-        "National institute of economic research"
+        "National institute of economic research",
+        "Swedish Agency for Financial and Public Management and National Institute of Economic Research",
+        "Swedish Pensions Agency and National Institute of Economic Research"
       ],
       "department": "Finansdepartementet",
       "email": "registrator@konj.se",
@@ -1414,6 +1567,7 @@
       "alias": [
         "Centrala studiestödsnämnden (CSN)",
         "Centrala studiestödsnämnden, CSN",
+        "Centrala studiestödsnämnden, CSN.",
         "CSN"
       ],
       "department": "Utbildningsdepartementet",
@@ -1546,8 +1700,10 @@
     },
     "SE2021001975": {
       "alias": [
+        "IVL Svenska Miljöinstitutet och Naturvårdsverket",
         "Naturvårdsverket",
-        "Swedish Environmental Protection Agency"
+        "Swedish Environmental Protection Agency",
+        "Swedish National Forest Inventory and the Swedish Environmental Protection Agency (protected areas)"
       ],
       "department": "Klimat- och näringslivsdepartementet",
       "email": "registrator@naturvardsverket.se",
@@ -1826,6 +1982,7 @@
       "alias": [
         "Arbetsmiljöverket",
         "Arbetsmiljöverket (AV)",
+        "Arbetsmiljöverket, Anmälda arbetsskador",
         "The Swedish Work Environment Authority"
       ],
       "department": "Arbetsmarknadsdepartementet",
@@ -2727,7 +2884,8 @@
     "SE2021002627": {
       "alias": [
         "Riksdagen",
-        "Sveriges riksdag"
+        "Sveriges riksdag",
+        "Sveriges Riksdagens"
       ],
       "email": "registrator.riksdagsforvaltningen@riksdagen.se",
       "established": "1975-01-01",
@@ -2828,6 +2986,7 @@
     },
     "SE2021002684": {
       "alias": [
+        "Nasdaq; Sveriges Riksbank",
         "Riksbanken",
         "Sveriges Riksbank",
         "Sveriges riksbank",
@@ -2899,6 +3058,7 @@
     },
     "SE2021002742": {
       "alias": [
+        "-     The Swedish National Courts Administration",
         "Domstolsverket",
         "The Swedish National Court Administration",
         "The Swedish National Courts Administration"
@@ -4713,10 +4873,13 @@
     "SE2021002817": {
       "alias": [
         "Artdatabanken",
+        "Riksskogstaxeringen, Sveriges lantbruksuniversitet.##Framtaget för länsstyrelsernas delprogram Miljötillståndet i skogslandskapet inom den regionala miljöövervakningen.",
         "SBDI",
         "SITES",
         "SLU",
         "SLU Artdatabanken",
+        "SLU ArtDatabanken Rödlista 2025",
+        "SLU Riksskogstaxeringen",
         "Swedish Biodiversity Data Infrastructure",
         "Swedish Infrastructure for Ecosystem Science",
         "Swedish University of Agricultural Sciences"
@@ -5522,6 +5685,8 @@
     "SE2021003211": {
       "alias": [
         "Academia Conciliatrix",
+        "Avverkningsanmälningar, grotuttag och askåterföring: Skogsstyrelsen. Övrigt beräkningar av Lunds Universitet.",
+        "Beräkningar av Lunds Universitet.",
         "Regia Academia Carolina",
         "Universitetet i Lund"
       ],
@@ -6275,7 +6440,8 @@
     },
     "SE2021003989": {
       "alias": [
-        "Boverket"
+        "Boverket",
+        "Boverket (miljömålsenkäten)"
       ],
       "department": "Landsbygds- och infrastrukturdepartementet",
       "email": "registraturen@boverket.se",
@@ -6567,6 +6733,7 @@
     "SE2021004151": {
       "alias": [
         "Jordbruksverket",
+        "Jordbruksverkets slaktdatabas",
         "SJV_Jordbruksverket",
         "Statens jordbruksverk",
         "Swedish Board of Agriculture"
@@ -6644,8 +6811,14 @@
     },
     "SE2021004185": {
       "alias": [
+        ". Skolverket",
+        "Jämförelsetal - Skolverket",
         "Lärarnas ansvarsnämnd",
+        "Skolverke",
         "Skolverket",
+        "Skolverket (Jämförelsetal)",
+        "Skolverket (SALSA)",
+        "Skolverket (Siris)",
         "Statens skolverk"
       ],
       "department": "Utbildningsdepartementet",
@@ -6937,6 +7110,7 @@
     },
     "SE2021004359": {
       "alias": [
+        "Post- och telestyrelsen, PTS Bredbandskartläggning",
         "PTS"
       ],
       "department": "Finansdepartementet",
@@ -7726,7 +7900,8 @@
         "Lantmäteriverket",
         "LM",
         "Statens lantmäteriverk",
-        "Swedish Mapping, Cadastral and Land Registration Authority"
+        "Swedish Mapping, Cadastral and Land Registration Authority",
+        "Swedish Mapping, Cadastral and Land Registration Authority (hosted in Arctic SDI cloud environment by Norwegian Mapping Authority)"
       ],
       "department": "Landsbygds- och infrastrukturdepartementet",
       "email": "lantmateriet@lm.se",
@@ -8089,12 +8264,14 @@
     "SE2021005000": {
       "alias": [
         "Energimyndigheten",
+        "Energimyndigheten/Nobil",
         "Statens Energimyndighet",
         "Statens energimyndighet",
         "Sweden Energy Agency",
         "Sweden energy agency",
         "Swedish Energy Administration",
-        "Swedish Energy Agency"
+        "Swedish Energy Agency",
+        "Trafikhuvudmännen (drivmedelsvolymer) och Energimyndigheten (omräkningsfaktorer)"
       ],
       "department": "Klimat- och näringslivsdepartementet",
       "email": "registrator@energimyndigheten.se",
@@ -8662,6 +8839,9 @@
     },
     "SE2021005281": {
       "alias": [
+        "Källa: Valmyndigheten, Sammanställd av Ao Statistik & Utredningar",
+        "Källa: Valmyndigheten, Sammanställd av Statistik & Utredningar",
+        "Källa: Valmyndigheten; Sammanställd av Ao Statistik & Utredningar",
         "Valmyndigheten"
       ],
       "department": "kulturdepartementet",
@@ -8997,6 +9177,7 @@
     "SE2021005448": {
       "alias": [
         "Riksskatteverket",
+        "SCB:s insamlade KU55 blanketter från Skatteverket",
         "Skattekontor",
         "Skattemyndigheten",
         "Skatteverket",
@@ -9165,7 +9346,9 @@
     "SE2021005521": {
       "alias": [
         "FK",
-        "Försäkringskassan"
+        "Försäkringskassan",
+        "Försäkringskassan, Statistikenheten",
+        "Försäkringskassans tandvårdsregister"
       ],
       "department": "Socialdepartementet",
       "email": "huvudkontoret@forsakringskassan.se",
@@ -9278,10 +9461,35 @@
     },
     "SE2021005612": {
       "alias": [
+        "Biometria (SDC) and Swedish Forest Agency",
+        "Biometria (SDC) and Swedish Forest Agency until 2024, from 2025 Swedish Forest Agency",
+        "Biometria (SDC) och Skogsstyrelsen",
+        "Biometria (SDC) och Skogsstyrelsen till och med 2024, därefter Skogsstyrelsen",
+        "Biometria and Swedish forest Agency",
+        "Biometria and Swedish Forest Agency 2019-2024. Swedish Forest Agency 2025-",
+        "Biometria och Skogsstyrelsen",
+        "Biometria och Skogsstyrelsen 2019-2024. Skogsstyrelsen 2025-",
+        "Indikatorn beräknas av Lunds universtet, med data från och i samarbete med Skogsstyrelsen.",
         "Skogsstyrelsen",
+        "Skogsstyrelsen och Skogforsk",
+        "Skogsstyrelsen och Skogsindustrierna",
+        "Skogsstyrelsen, bearbetning av flera statistikkällor.",
+        "Skogsstyrelsen, SKA22",
+        "Skogsstyrelsen. Älgbetesinventering (Äbin).",
+        "Skogsstyrelsen; bearbetning av flera statistikkällor.",
+        "Skogsstyrelsens",
+        "Skogsstyrelsens administrativa register Navet.",
+        "Skogsstyrelsens register över avverkningsanmälningar.",
+        "Skogsstyrelsens undersökningar Miljöhänsyn vid föryngringsavverkning och Kulturmiljöhänsyn vid föryngringsavverkning",
         "Skogstyrelsen",
         "Swedish Forest Agency",
-        "Swedish Forest Agency (Skogsstyrelsen) and Forestry Research Institute of Sweden (Skogforsk)"
+        "Swedish Forest Agency (Skogsstyrelsen) and Forestry Research Institute of Sweden (Skogforsk)",
+        "Swedish Forest Agency and Skogforsk (The Forest Research Institute of Sweden)",
+        "Swedish Forest Agency and Skogforsk (The Foresty Research Institute of Sweden)",
+        "Swedish Forest Agency and The Swedish Forest Industries",
+        "Swedish Forest Agency, processing of multiple data sources",
+        "Swedish Forest Agency.",
+        "Swedish Forest Agency. Register of notified areas of felling."
       ],
       "department": "Landsbygds- och infrastrukturdepartementet",
       "email": "skogsstyrelsen@skogsstyrelsen.se",
@@ -10100,7 +10308,11 @@
     },
     "SE2021006065": {
       "alias": [
+        "RKA:s beräkningar baserade på uppgifter från Skolinspektionen",
         "Skolinspektionen",
+        "Skolinspektionens elevenkät",
+        "Skolinspektionens enkät Pedagogisk personal grundskola",
+        "Skolinspektionens enkät Pedagogisk personal gymnasieskola",
         "Statens skolinspektion"
       ],
       "department": "Utbildningsdepartementet",
@@ -10277,7 +10489,8 @@
       "alias": [
         "Regelrådet",
         "Swedish Agency for Economic and Regional Growth",
-        "Tillväxtverket"
+        "Tillväxtverket",
+        "Tillväxtverket/Pipos"
       ],
       "department": "Klimat- och näringslivsdepartementet",
       "email": "tillvaxtverket@tillvaxtverket.se",
@@ -10578,6 +10791,7 @@
     "SE2021006297": {
       "alias": [
         "Trafikverket",
+        "Trafikverket (NVDB)",
         "TRV"
       ],
       "department": "Landsbygds- och infrastrukturdepartementet",
@@ -10622,6 +10836,7 @@
         "Trafa",
         "Trafa (Trafikanalys)",
         "Trafikanalys",
+        "Trafikanalys Tabell 4 och 5",
         "Transport Analysis"
       ],
       "department": "Landsbygds- och infrastrukturdepartementet",
@@ -11138,9 +11353,31 @@
     },
     "SE2021006545": {
       "alias": [
+        "eHälsomyndighetens databas Concise via Folkhälsomyndigheten",
         "Folkhälsomyndigheten",
+        "Folkhälsomyndigheten (HLV)",
+        "Folkhälsomyndigheten samt Barnhälsovårdsenheterna i Stockholm, Göteborg och Malmö",
+        "Folkhälsomyndigheten, frivillig rapportering",
+        "Folkhälsomyndigheten, Hälsa på lika villkor (HLV)",
+        "Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH)",
+        "Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH).\\n",
+        "Folkhälsomyndigheten, Miljöhälsoenkäten barn",
+        "Folkhälsomyndigheten, Miljöhälsoenkäten barn.",
+        "Folkhälsomyndigheten, Nationella folkhälsoenkäten",
+        "Folkhälsomyndigheten, Nationella vaccinationsregistret (NVR)",
+        "Folkhälsomyndigheten, ResNet",
+        "Folkhälsomyndigheten, Skolbarns hälsovanor",
+        "Folkhälsomyndigheten, Sminet",
+        "Folkhälsomyndigheten, Svebar",
+        "Folkhälsomyndigheten, Swelogs",
+        "Folkhälsomyndigheten, Systembolaget",
         "Folkhälsomyndigheten. Deltagande i vardera kategori är genomsnittligt deltagande bland befolkning 16-84 år, perioden år",
+        "Folkhälsomyndigheten. Nationella vaccinationsregistret (NVR)",
+        "Källa: Folkhälsomyndigheten (HLV)",
+        "Nationella vaccinregistret (NVR) via Folkhälsomyndigheten",
+        "Patientregistret och dödsorsaksregistret via Folkhälsomyndigheten",
         "Public Health Agency of Sweden",
+        "RKA:s beräkningar baseras på uppgifter från Folkhälsomyndigheten Hälsa på lika villkor (HLV) samt Liv & hälsa (LH)",
         "The Public Health Agency of Sweden"
       ],
       "department": "Socialdepartementet",
@@ -13668,9 +13905,27 @@
     },
     "SE2120000449": {
       "alias": [
+        "DiMiOS.  Sammanställningt: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+        "Källa: Linköpings kommun, Statistik & Utredningar",
+        "Källa: Östgötadatabasen (SCB)  Sammanställning: Statistikgruppen, Linköpings kommun",
+        "KäÖstgötadatabasen (SCB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
         "Linköping kommun",
         "Linköpings kommun",
-        "Linköpings kommuns öppna data"
+        "Linköpings kommuns öppna data",
+        "Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+        "Statistikgruppen, Analys och Utredning, Linköpings kommun.",
+        "Tillväxtanalys (Statistikportalen).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+        "Östgötadatabasen (SCB)  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+        "Östgötadatabasen (SCB) RAKS / BAS.   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+        "Östgötadatabasen (SCB) RAKS / BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+        "Östgötadatabasen (SCB) RAKS/BAS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+        "Östgötadatabasen (SCB), RAMS.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+        "Östgötadatabasen (SCB).   Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+        "Östgötadatabasen (SCB).  Beräkning och sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+        "Östgötadatabasen (SCB).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning Linköpings kommun.",
+        "Östgötadatabasen (SCB).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
+        "Östgötadatabasen (SCB).  Sammanställning: Statistikgruppen, Analys & Utredning,  Linköpings kommun.",
+        "Östgötadatabasen (SCB).  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun."
       ],
       "code": {
         "kommun": "0580",
@@ -16120,7 +16375,9 @@
         "Helsingborg",
         "Helsingborg kommun",
         "Helsingborg stad",
-        "Helsingborgs stad"
+        "Helsingborgs stad",
+        "Helsingborgs stad, uttag genom Helsingborgs stads statistikdatabas",
+        "Sveriges statistiska databaser, uttag genom Helsingborgs stads statistikdatabas"
       ],
       "code": {
         "kommun": "1283",
@@ -16869,6 +17126,7 @@
     },
     "SE2120001355": {
       "alias": [
+        "Fastighetskontoret Göteborgs Stad",
         "Göteborg kommun",
         "Göteborg stad",
         "Göteborgs Stad",
@@ -18740,7 +18998,8 @@
       "alias": [
         "Karlstad",
         "Karlstad kommun",
-        "Karlstads kommun"
+        "Karlstads kommun",
+        "Statistikfunktionen Karlstads kommun"
       ],
       "code": {
         "kommun": "1780",
@@ -22857,14 +23116,74 @@
     },
     "SE2220000315": {
       "alias": [
+        "Beräkningar av RKA baserat på uppgifter från Vården i siffror och väntetider i vården",
+        "Egna uppgifter från regionen, sammanställt av SKR",
+        "Egna uppgifter i kommunens årsredovisning (den obligatoriska sjukfrånvaroredovisningen), sammanställt av SKR",
+        "Egna uppgifter i regionens årsredovisning (den obligatoriska sjukfrånvaroredovisningen), sammanställt av SKR",
+        "Hälso- och sjukvårdbarometern, Sveriges Kommuner och Regioner",
+        "Hälso- och sjukvårdsbarometern, Sveriges Kommuner och Regioner",
+        "Kolada",
+        "Nationell patientenkät, SKR",
+        "Nationell patientenkät, SKR\\n",
+        "Nationell patientenkät, Sveriges kommuner och regioner",
+        "Nationella patientenkäten, SKR",
+        "Patientregistret (Socialstyrelsen) via SKR:s verksamhetsstatistik",
+        "Patientsäkerhet, Sveriges kommuner och regioner via Vården i Siffror",
+        "RKA baserat på uppgifter från Nationell patientenkät, SKR",
+        "RKA har beräknat utsläpp med data från den Nationella emissionsdatabasen",
+        "RKA har beräknat utsläpp med data från den Nationella emissionsdatabasen. Uppgifter för olika undersektorer kan vara osä",
+        "RKA och SKR:s beräkningar baserat på uppgifter från SCB",
+        "RKA och SKR:s beräkningar baserat på uppgifter från SCB. (-2024)",
+        "RKA:s beräkningar",
+        "RKA:s beräkningar baserade på underlag från SCB och SKR",
+        "RKA:s beräkningar baserade på uppgifter från SKR",
+        "RKA:s beräkningar baserade på uppgifter från Vården i siffror",
+        "RKA:s beräkningar baserat på uppgifter från Vården i siffror",
+        "RKAs beräkningar",
+        "RKAs beräkningar av data från SCBs medborgarundersökning",
+        "Rådet för främjande av kommunala analyser",
         "SKR",
+        "SKR Förskollärarenkät",
+        "SKR Förskollärarenkät Förskollärarenkät",
+        "SKR huvudmannaenkät",
+        "SKR och Brilliant Future",
+        "SKR och MSB",
+        "SKR personal- och lönestatistik (novemberstatistiken)",
+        "SKR via Vården i siffror",
+        "SKR, Huvudmannaenkäten",
         "SKR.\\n",
+        "SKR:s Anläggningsenkät",
+        "SKR:s anläggningsenkät",
+        "SKR:s databas Ansvarsprövningsbanken",
         "SKR:s datakatalog",
+        "SKR:s enkät till regionerna",
+        "SKR:s Nationella patientenkät",
+        "SKR:s Nationella patientenkät\\n",
+        "SKR:s personal- och lönestatistik (novemberstatistiken)",
+        "SKR:s personal- och lönestatistik (novemberstatistiken).SKR",
+        "SKR:s personalstatistik (novemberstatistiken)",
+        "SKR:s personalstatistik (novemberstatistiken).\\n",
+        "SKR:s personalstatistik (novemberstatistiken).SKR",
+        "SKR:s personalstatistik (novemberstatistiken)\\n",
+        "SKR:s undersökning om brukarens uppfattning av kvalitet inom verksamheter för boende för barn och unga",
+        "SKR:s undersökning om brukares uppfattning av kvalitet inom individ- och familjeomsorg",
+        "SKR:s undersökning om brukares uppfattning av kvalitet inom verksamheter för boende för barn och unga",
+        "SKR:s undersökning om brukares uppfattning av kvalitet inom verksamheter för personer med funktionsnedsättning",
+        "SKR:s undersökning om brukares uppfattning av kvalitet inom öppna insatser, omsorgspersoner till unga 0-18 år",
+        "SKR:s undersökning om brukares uppfattning av kvalitet inom öppna insatser, ungdomar 13-18 år",
+        "SKR:s undersökning om brukares uppfattning av kvalitet vid myndighetskontakt inom funktionshinderområdet",
+        "SKR:s verksamhetsstatistik",
         "SKR\\n",
         "Sveriges Kommuner och Regioner",
         "Sveriges kommuner och regioner",
         "Sveriges Kommuner och Regioner (SKR)",
-        "Sveriges kommuner och regioner (SKR)"
+        "Sveriges kommuner och regioner (SKR)",
+        "Sveriges kommuner och regioner via Vården i Siffror",
+        "Väntetider i vården, SKR",
+        "Väntetider i vården, Sveriges Kommuner och Regioner",
+        "Väntetider i vården, Sveriges kommuner och regioner via Vården i Siffror",
+        "Väntetidsdatabasen, Sveriges Kommuner och Regioner",
+        "Vårdförloppsuppföljning vid cancer, SKR via Vården i siffror"
       ],
       "email": "info@skr.se",
       "established": "1976-01-01",
@@ -26612,6 +26931,7 @@
     "SE2321000131": {
       "alias": [
         "Region Västra Götaland",
+        "SCB bearbetat av Västra Götalandsregionen",
         "VGR",
         "Västra Götalands läns landsting",
         "Västra Götalandsregionen",
@@ -29388,6 +29708,7 @@
     },
     "SE8024305370": {
       "alias": [
+        "Kolada",
         "RKA"
       ],
       "established": "2006-01-27",
