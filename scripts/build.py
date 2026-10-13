@@ -287,9 +287,21 @@ def main():
         except Exception as error:  # noqa: BLE001 - one bad row must not cost the register
             skip("dataportal", uri, error)
 
+    # Geodataportalen's contacts carry no number, only a mailbox; its domain names the body when
+    # exactly one organisation uses that domain for its own mail or web address.
+    by_domain = {}
+    for k, r in orgs.items():
+        for dom in (r.get("email", "").rpartition("@")[2], re.sub(r"^https?://(www.)?", "", r.get("homepage", "")).split("/")[0]):
+            if dom:
+                by_domain.setdefault(dom.lower(), set()).add(k)
+    by_domain = {d: next(iter(ks)) for d, ks in by_domain.items() if len(ks) == 1}
+
     for uri, row in europa.items():
         try:
             number = orgnr(uri) or orgnr(row.get("identifier"))
+            if uri.startswith("mailto:"):
+                links_europa[uri] = by_domain.get(uri.rpartition("@")[2].lower())
+                continue
             links_europa[uri] = (org_id(number) + suffix_of(uri)) if number else None
             if not number:
                 continue
