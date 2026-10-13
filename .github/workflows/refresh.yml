@@ -27,4 +27,5 @@ jobs:
           git add data links
           git diff --cached --quiet && echo "no changes" && exit 0
           git commit -m "Refresh registry $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
