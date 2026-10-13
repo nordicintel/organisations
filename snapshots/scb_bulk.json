@@ -5959,6 +5959,14 @@
     "postort": "KRISTIANSTAD",
     "registered": "1998-12-10"
   },
+  "2520026135": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "63",
+    "name": "TROSSAMFUNDET SVENSKA KYRKAN",
+    "postort": "UPPSALA",
+    "registered": "1999-11-26"
+  },
   "2620000022": {
     "ftgstat": "1",
     "jestat": "1",
@@ -6359,6 +6367,22 @@
     "postort": "STOCKHOLM",
     "registered": "1972-01-01"
   },
+  "5560706060": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "E.ON Energidistribution Aktiebolag",
+    "postort": "MALMÖ",
+    "registered": "1972-01-01"
+  },
+  "5561009852": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Kraftringen Energi AB (publ)",
+    "postort": "LUND",
+    "registered": "1972-01-01"
+  },
   "5561162446": {
     "ftgstat": "1",
     "jestat": "1",
@@ -6399,6 +6423,14 @@
     "postort": "UPPLANDS VÄSBY",
     "registered": "1987-11-12"
   },
+  "5563626794": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Göteborg Energi Aktiebolag",
+    "postort": "GÖTEBORG",
+    "registered": "1989-06-11"
+  },
   "5564193232": {
     "ftgstat": "1",
     "jestat": "1",
@@ -6414,6 +6446,14 @@
     "name": "RISE Research Institutes of Sweden AB",
     "postort": "BORÅS",
     "registered": "1993-03-19"
+  },
+  "5564677598": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "SAMTRAFIKEN I SVERIGE AKTIEBOLAG",
+    "postort": "STOCKHOLM",
+    "registered": "1993-05-21"
   },
   "5564795598": {
     "ftgstat": "1",
@@ -6431,6 +6471,22 @@
     "postort": "STOCKHOLM",
     "registered": "1994-12-03"
   },
+  "5565506309": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Sokigo AB",
+    "postort": "KÖPING",
+    "registered": "1998-01-15"
+  },
+  "5565581757": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Telge Nät AB",
+    "postort": "SÖDERTÄLJE",
+    "registered": "1998-10-01"
+  },
   "5565582185": {
     "ftgstat": "1",
     "jestat": "1",
@@ -6438,6 +6494,30 @@
     "name": "STATISTICON AB",
     "postort": "UPPSALA",
     "registered": "1998-08-13"
+  },
+  "5565585873": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "VÄSTTRAFIK AB",
+    "postort": "SKÖVDE",
+    "registered": "1998-08-27"
+  },
+  "5565656864": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "VÄSTERBERGSLAGENS ELNÄT AKTIEBOLAG",
+    "postort": "LUDVIKA",
+    "registered": "1999-02-19"
+  },
+  "5566885280": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Marie Cederschiöld högskola AB",
+    "postort": "STOCKHOLM",
+    "registered": "2005-10-27"
   },
   "5567409817": {
     "ftgstat": "1",
@@ -6455,6 +6535,14 @@
     "postort": "STOCKHOLM",
     "registered": "2008-10-23"
   },
+  "5567992242": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Metria AB",
+    "postort": "STOCKHOLM",
+    "registered": "2010-01-14"
+  },
   "5568540701": {
     "ftgstat": "1",
     "jestat": "1",
@@ -6470,6 +6558,22 @@
     "name": "Enskilda Högskolan Stockholm AB",
     "postort": "BROMMA",
     "registered": "2013-11-07"
+  },
+  "5569905747": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Greensway AB",
+    "postort": "UPPSALA",
+    "registered": "2014-11-20"
+  },
+  "5590672142": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "IT kommuner i Skåne Aktiebolag",
+    "postort": "HÖRBY",
+    "registered": "2016-06-23"
   },
   "5590719547": {
     "ftgstat": "1",
@@ -6487,6 +6591,30 @@
     "postort": "STOCKHOLM",
     "registered": "2019-05-03"
   },
+  "5592526700": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Greensway Digital AB",
+    "postort": "UPPSALA",
+    "registered": "2020-04-24"
+  },
+  "5594650037": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "49",
+    "name": "Varberg Energi AB",
+    "postort": "VARBERG",
+    "registered": "2023-12-22"
+  },
+  "7682000018": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "55",
+    "name": "European Spallation Source ERIC",
+    "postort": "LUND",
+    "registered": "2015-09-03"
+  },
   "7696046924": {
     "ftgstat": "1",
     "jestat": "1",
@@ -6503,6 +6631,14 @@
     "postort": "VÄXJÖ",
     "registered": "2002-03-04"
   },
+  "7696282735": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "51",
+    "name": "ElectriCITY Innovation ekonomisk förening",
+    "postort": "STOCKHOLM",
+    "registered": "2014-06-12"
+  },
   "8020005461": {
     "ftgstat": "1",
     "jestat": "1",
@@ -6516,6 +6652,14 @@
     "jestat": "1",
     "legal_form": "61",
     "name": "SVENSK KOLLEKTIVTRAFIK",
+    "postort": "STOCKHOLM",
+    "registered": "1971-01-01"
+  },
+  "8020024686": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "NORDISKA MUSEET",
     "postort": "STOCKHOLM",
     "registered": "1971-01-01"
   },
@@ -6565,6 +6709,14 @@
     "legal_form": "61",
     "name": "HANDELSHÖGSKOLAN I STOCKHOLM",
     "postort": "STOCKHOLM",
+    "registered": "1975-01-01"
+  },
+  "8020062660": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "STIFTELSEN STOCKHOLMS INTERNATIONELLA FREDSFORSKNINGSINSTITUT (SIPRI)",
+    "postort": "SOLNA",
     "registered": "1975-01-01"
   },
   "8020120948": {
@@ -6647,6 +6799,14 @@
     "postort": "KUNGSÖR",
     "registered": "2005-08-01"
   },
+  "8176021825": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "72",
+    "name": "STUNS STIFT F SAMV MEL UNIV I U-A NÄRINGSL O SAM",
+    "postort": "UPPSALA",
+    "registered": "1984-11-25"
+  },
   "8176029786": {
     "ftgstat": "1",
     "jestat": "1",
@@ -6694,6 +6854,14 @@
     "name": "AVFALL SVERIGE",
     "postort": "MALMÖ",
     "registered": "1971-01-01"
+  },
+  "8460024832": {
+    "ftgstat": "1",
+    "jestat": "1",
+    "legal_form": "61",
+    "name": "THE WORLD MARITIME UNIVERSITY",
+    "postort": "MALMÖ",
+    "registered": "1983-04-23"
   },
   "8551040721": {
     "ftgstat": "1",

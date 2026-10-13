@@ -220,6 +220,12 @@
         "Riksantikvarieämbetets öppna data"
       ]
     },
+    "SE2021001124": {
+      "alias": [
+        "GBIF Sweden",
+        "GBIF-Sweden"
+      ]
+    },
     "SE2021001173": {
       "alias": [
         "Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF)",
@@ -295,12 +301,22 @@
       },
       "type": "NationalAuthority",
       "note": "Joint publisher id used on dataportal.se for all 21 county administrative boards; the base number is Länsstyrelsen i Västra Götalands län.",
-      "slug": "lansstyr"
+      "slug": "lansstyr",
+      "alias": [
+        "Länsstyrelser"
+      ]
     },
     "SE2021002528": {
       "alias": [
         "SGU",
         "Sveriges geologiska undersökning (SGU)"
+      ]
+    },
+    "SE2021002627": {
+      "alias": [
+        "Riksdagen",
+        "Sveriges riksdag",
+        "Sveriges Riksdagens"
       ]
     },
     "SE2021002635": {
@@ -332,10 +348,35 @@
     "SE2021002817": {
       "slug": "slu",
       "alias": [
+        "Artdatabanken",
         "Riksskogstaxeringen, Sveriges lantbruksuniversitet.##Framtaget för länsstyrelsernas delprogram Miljötillståndet i skogslandskapet inom den regionala miljöövervakningen.",
+        "SBDI",
+        "SITES",
+        "SLU Artdatabanken",
         "SLU ArtDatabanken Rödlista 2025",
         "SLU Riksskogstaxeringen",
+        "Swedish Biodiversity Data Infrastructure",
+        "Swedish Infrastructure for Ecosystem Science",
         "Swedish University of Agricultural Sciences"
+      ]
+    },
+    "SE2021002932": {
+      "alias": [
+        "National Bioinformatics Infrastructure Sweden (NBIS)",
+        "NBIS",
+        "Uppsala University Library"
+      ]
+    },
+    "SE2021003062": {
+      "alias": [
+        "Nordita"
+      ]
+    },
+    "SE2021003153": {
+      "alias": [
+        "SND",
+        "Svensk nationell datatjänst",
+        "Swedish National Data Service (SND)"
       ]
     },
     "SE2021003211": {
@@ -393,6 +434,17 @@
     "SE2021004359": {
       "alias": [
         "Post- och telestyrelsen, PTS Bredbandskartläggning"
+      ]
+    },
+    "SE2021004730": {
+      "alias": [
+        "Swedish Defence University"
+      ]
+    },
+    "SE2021004888": {
+      "alias": [
+        "Swedish Mapping, Cadastral and Land Registration Authority",
+        "Swedish Mapping, Cadastral and Land Registration Authority (hosted in Arctic SDI cloud environment by Norwegian Mapping Authority)"
       ]
     },
     "SE2021005000": {
@@ -935,6 +987,12 @@
         "Vara kommuns öppna data"
       ]
     },
+    "SE2220000265": {
+      "alias": [
+        "GR",
+        "Göteborgsregionen"
+      ]
+    },
     "SE2220000315": {
       "label": {
         "sv": "Sveriges Kommuner och Regioner",
@@ -1025,11 +1083,41 @@
         "Västra Götalandsregionens öppna data"
       ]
     },
+    "SE2321000255": {
+      "alias": [
+        "Skånetrafiken"
+      ]
+    },
+    "SE2520026135": {
+      "label": {
+        "sv": "Svenska kyrkan",
+        "en": "Church of Sweden"
+      },
+      "alias": [
+        "Svenska kyrkan (Church of Sweden)",
+        "Trossamfundet Svenska kyrkan"
+      ]
+    },
     "SE5560599473": {
       "label": {
         "sv": "Systembolaget",
         "en": "Swedish Alcohol Retail Monopoly"
       }
+    },
+    "SE5560706060": {
+      "alias": [
+        "E.ON",
+        "E.ON Energidistribution"
+      ],
+      "label": {
+        "sv": "E.ON Energidistribution AB"
+      }
+    },
+    "SE5561009852": {
+      "alias": [
+        "Kraftringen",
+        "Kraftringen Energi"
+      ]
     },
     "SE5561162446": {
       "label": {
@@ -1047,9 +1135,69 @@
         "sv": "SOS Alarm"
       }
     },
+    "SE5563626794": {
+      "alias": [
+        "Göteborg Energi"
+      ],
+      "label": {
+        "sv": "Göteborg Energi AB"
+      }
+    },
+    "SE5564646874": {
+      "alias": [
+        "RISE",
+        "RISE Research Institutes of Sweden"
+      ]
+    },
+    "SE5564677598": {
+      "alias": [
+        "Samtrafiken",
+        "Trafiklab"
+      ],
+      "label": {
+        "sv": "Samtrafiken i Sverige AB"
+      }
+    },
+    "SE5565506309": {
+      "alias": [
+        "Sokigo"
+      ]
+    },
+    "SE5565581757": {
+      "alias": [
+        "Telge Nät"
+      ]
+    },
     "SE5565582185": {
       "label": {
         "sv": "Statisticon"
+      }
+    },
+    "SE5565585873": {
+      "alias": [
+        "Västtrafik"
+      ],
+      "label": {
+        "sv": "Västtrafik AB"
+      }
+    },
+    "SE5565656864": {
+      "alias": [
+        "VB Elnät",
+        "Västerbergslagens Elnät"
+      ],
+      "label": {
+        "sv": "Västerbergslagens Elnät AB"
+      }
+    },
+    "SE5566885280": {
+      "alias": [
+        "Ersta Sköndal Bräcke högskola"
+      ],
+      "type": "Academia-ScientificOrganisation",
+      "label": {
+        "sv": "Marie Cederschiöld högskola",
+        "en": "Marie Cederschiöld University"
       }
     },
     "SE5567409817": {
@@ -1062,6 +1210,37 @@
         "sv": "Sweco Sverige"
       }
     },
+    "SE5567992242": {
+      "alias": [
+        "Metria"
+      ]
+    },
+    "SE5569905747": {},
+    "SE5590672142": {
+      "alias": [
+        "IT Kommuner i Skåne AB",
+        "Unikom"
+      ],
+      "label": {
+        "sv": "IT kommuner i Skåne AB"
+      }
+    },
+    "SE5592526700": {},
+    "SE5594650037": {
+      "alias": [
+        "Varberg Energi"
+      ]
+    },
+    "SE7682000018": {
+      "alias": [
+        "ESS"
+      ],
+      "type": "Academia-ScientificOrganisation",
+      "label": {
+        "sv": "European Spallation Source ERIC",
+        "en": "European Spallation Source ERIC"
+      }
+    },
     "SE7696046924": {
       "label": {
         "sv": "Biometria"
@@ -1072,6 +1251,12 @@
       "label": {
         "sv": "Miljöfordon Sverige"
       }
+    },
+    "SE7696282735": {
+      "alias": [
+        "ElectriCITY",
+        "ElectriCITY Innovation"
+      ]
     },
     "SE8020005461": {
       "label": {
@@ -1089,11 +1274,31 @@
       },
       "note": "Runs Kollektivtrafikbarometern."
     },
+    "SE8020024686": {
+      "alias": [
+        "Stiftelsen Nordiska museet"
+      ],
+      "type": "NonProfitOrganisation",
+      "label": {
+        "sv": "Nordiska museet",
+        "en": "Nordic Museum"
+      }
+    },
     "SE8020028166": {
       "label": {
         "sv": "Riksidrottsförbundet",
         "en": "Swedish Sports Confederation"
       }
+    },
+    "SE8020062660": {
+      "label": {
+        "sv": "Stockholms internationella fredsforskningsinstitut",
+        "en": "Stockholm International Peace Research Institute"
+      },
+      "alias": [
+        "SIPRI"
+      ],
+      "type": "Academia-ScientificOrganisation"
     },
     "SE8024041769": {
       "label": {
@@ -1115,6 +1320,16 @@
         "sv": "Handelsrådet"
       }
     },
+    "SE8176021825": {
+      "label": {
+        "sv": "STUNS",
+        "en": "STUNS"
+      },
+      "alias": [
+        "Stiftelsen för samverkan mellan universiteten i Uppsala, näringsliv och samhälle",
+        "STUNS Energi"
+      ]
+    },
     "SE8176029786": {
       "label": {
         "sv": "Skogforsk",
@@ -1123,6 +1338,16 @@
     },
     "SE8460010161": {
       "note": "Avfall Sverige, branch association for waste management; cited as a data source by Kolada."
+    },
+    "SE8460024832": {
+      "label": {
+        "sv": "World Maritime University",
+        "en": "World Maritime University"
+      },
+      "alias": [
+        "WMU"
+      ],
+      "type": "Academia-ScientificOrganisation"
     },
     "wikidata:Q1472929": {
       "label": {

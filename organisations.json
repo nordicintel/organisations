@@ -1,5 +1,5 @@
 {
-  "count": 877,
+  "count": 898,
   "generated": "2026-10-13",
   "organisation": {
     "SE0123456789": {
@@ -1096,6 +1096,10 @@
       "type": "NationalAuthority"
     },
     "SE2021001124": {
+      "alias": [
+        "GBIF Sweden",
+        "GBIF-Sweden"
+      ],
       "department": "kulturdepartementet",
       "email": "registrator@nrm.se",
       "established": "1975-01-01",
@@ -1119,6 +1123,7 @@
       "source": [
         "data_europa",
         "dataportal",
+        "edits",
         "myndighetsregistret",
         "scb_bulk",
         "wikidata"
@@ -2171,6 +2176,9 @@
       "type": "NationalAuthority"
     },
     "SE2021002361-LST": {
+      "alias": [
+        "Länsstyrelser"
+      ],
       "email": "oppnadata@lansstyrelsen.se",
       "homepage": "https://lansstyrelsen.se",
       "id": "SE2021002361-LST",
@@ -2551,6 +2559,11 @@
       "type": "NationalAuthority"
     },
     "SE2021002627": {
+      "alias": [
+        "Riksdagen",
+        "Sveriges riksdag",
+        "Sveriges Riksdagens"
+      ],
       "email": "registrator.riksdagsforvaltningen@riksdagen.se",
       "established": "1975-01-01",
       "homepage": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/riksdagsforvaltningen",
@@ -2571,6 +2584,7 @@
       "source": [
         "data_europa",
         "dataportal",
+        "edits",
         "myndighetsregistret",
         "scb_bulk"
       ],
@@ -2758,9 +2772,15 @@
     },
     "SE2021002817": {
       "alias": [
+        "Artdatabanken",
         "Riksskogstaxeringen, Sveriges lantbruksuniversitet.##Framtaget för länsstyrelsernas delprogram Miljötillståndet i skogslandskapet inom den regionala miljöövervakningen.",
+        "SBDI",
+        "SITES",
+        "SLU Artdatabanken",
         "SLU ArtDatabanken Rödlista 2025",
         "SLU Riksskogstaxeringen",
+        "Swedish Biodiversity Data Infrastructure",
+        "Swedish Infrastructure for Ecosystem Science",
         "Swedish University of Agricultural Sciences"
       ],
       "department": "Näringsdepartementet",
@@ -2991,6 +3011,11 @@
       "type": "NationalAuthority"
     },
     "SE2021002932": {
+      "alias": [
+        "National Bioinformatics Infrastructure Sweden (NBIS)",
+        "NBIS",
+        "Uppsala University Library"
+      ],
       "department": "Utbildningsdepartementet",
       "email": "registrator@uu.se",
       "established": "1977-01-01",
@@ -3017,6 +3042,7 @@
       "source": [
         "data_europa",
         "dataportal",
+        "edits",
         "myndighetsregistret",
         "scb_bulk",
         "wikidata"
@@ -3121,6 +3147,9 @@
       "type": "NationalAuthority"
     },
     "SE2021003062": {
+      "alias": [
+        "Nordita"
+      ],
       "department": "Utbildningsdepartementet",
       "email": "registrator@su.se",
       "established": "1978-01-01",
@@ -3145,6 +3174,7 @@
       "source": [
         "data_europa",
         "dataportal",
+        "edits",
         "myndighetsregistret",
         "scb_bulk",
         "wikidata"
@@ -3281,6 +3311,11 @@
       "type": "NationalAuthority"
     },
     "SE2021003153": {
+      "alias": [
+        "SND",
+        "Svensk nationell datatjänst",
+        "Swedish National Data Service (SND)"
+      ],
       "department": "Utbildningsdepartementet",
       "email": "registrator@gu.se",
       "established": "1977-01-01",
@@ -3308,6 +3343,7 @@
       "source": [
         "data_europa",
         "dataportal",
+        "edits",
         "myndighetsregistret",
         "scb_bulk",
         "wikidata"
@@ -4914,6 +4950,9 @@
       "type": "NationalAuthority"
     },
     "SE2021004730": {
+      "alias": [
+        "Swedish Defence University"
+      ],
       "email": "registrator@fhs.se",
       "established": "1994-06-18",
       "homepage": "https://www.fra.se",
@@ -4934,6 +4973,7 @@
       "source": [
         "data_europa",
         "dataportal",
+        "edits",
         "myndighetsregistret",
         "scb_bulk"
       ],
@@ -5139,6 +5179,10 @@
       "type": "NationalAuthority"
     },
     "SE2021004888": {
+      "alias": [
+        "Swedish Mapping, Cadastral and Land Registration Authority",
+        "Swedish Mapping, Cadastral and Land Registration Authority (hosted in Arctic SDI cloud environment by Norwegian Mapping Authority)"
+      ],
       "department": "Finansdepartementet",
       "email": "lantmateriet@lm.se",
       "established": "1996-01-22",
@@ -5165,6 +5209,7 @@
       "source": [
         "data_europa",
         "dataportal",
+        "edits",
         "myndighetsregistret",
         "scb_bulk",
         "wikidata"
@@ -18745,6 +18790,10 @@
       "type": "LocalAuthority"
     },
     "SE2220000265": {
+      "alias": [
+        "GR",
+        "Göteborgsregionen"
+      ],
       "established": "1975-01-01",
       "id": "SE2220000265",
       "identifier": {
@@ -18759,6 +18808,7 @@
       },
       "registered_label": "GÖTEBORGSREGIONENS KOMMUNALFÖRBUND",
       "source": [
+        "edits",
         "scb_bulk"
       ],
       "status": "active",
@@ -22871,6 +22921,9 @@
       "type": "RegionalAuthority"
     },
     "SE2321000255": {
+      "alias": [
+        "Skånetrafiken"
+      ],
       "email": "oppna.data@skane.se",
       "established": "1998-12-10",
       "homepage": "https://www.skane.se",
@@ -22895,11 +22948,38 @@
       "source": [
         "data_europa",
         "dataportal",
+        "edits",
         "scb_bulk",
         "wikidata"
       ],
       "status": "active",
       "type": "RegionalAuthority"
+    },
+    "SE2520026135": {
+      "alias": [
+        "Svenska kyrkan (Church of Sweden)",
+        "Trossamfundet Svenska kyrkan"
+      ],
+      "established": "1999-11-26",
+      "id": "SE2520026135",
+      "identifier": {
+        "orgnr": "2520026135"
+      },
+      "label": {
+        "en": "Church of Sweden",
+        "sv": "Svenska kyrkan"
+      },
+      "legal_type": {
+        "code": "63",
+        "label": "Registrerat trossamfund"
+      },
+      "registered_label": "TROSSAMFUNDET SVENSKA KYRKAN",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "NonProfitOrganisation"
     },
     "SE2620000022": {
       "established": "1975-01-01",
@@ -23913,6 +23993,56 @@
       "status": "active",
       "type": "Company"
     },
+    "SE5560706060": {
+      "alias": [
+        "E.ON",
+        "E.ON Energidistribution"
+      ],
+      "established": "1972-01-01",
+      "id": "SE5560706060",
+      "identifier": {
+        "orgnr": "5560706060"
+      },
+      "label": {
+        "sv": "E.ON Energidistribution AB"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "E.ON Energidistribution Aktiebolag",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Company"
+    },
+    "SE5561009852": {
+      "alias": [
+        "Kraftringen",
+        "Kraftringen Energi"
+      ],
+      "established": "1972-01-01",
+      "id": "SE5561009852",
+      "identifier": {
+        "orgnr": "5561009852"
+      },
+      "label": {
+        "sv": "Kraftringen Energi AB (publ)"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "Kraftringen Energi AB (publ)",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Company"
+    },
     "SE5561162446": {
       "established": "1972-01-01",
       "homepage": "https://www.ivl.se",
@@ -24049,6 +24179,30 @@
       "status": "active",
       "type": "Company"
     },
+    "SE5563626794": {
+      "alias": [
+        "Göteborg Energi"
+      ],
+      "established": "1989-06-11",
+      "id": "SE5563626794",
+      "identifier": {
+        "orgnr": "5563626794"
+      },
+      "label": {
+        "sv": "Göteborg Energi AB"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "Göteborg Energi Aktiebolag",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Company"
+    },
     "SE5564193232": {
       "established": "1991-02-12",
       "id": "SE5564193232",
@@ -24074,6 +24228,10 @@
       "type": "Company"
     },
     "SE5564646874": {
+      "alias": [
+        "RISE",
+        "RISE Research Institutes of Sweden"
+      ],
       "email": "info@ri.se",
       "established": "1993-03-19",
       "homepage": "https://www.ri.se/",
@@ -24093,6 +24251,32 @@
       "source": [
         "data_europa",
         "dataportal",
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Company"
+    },
+    "SE5564677598": {
+      "alias": [
+        "Samtrafiken",
+        "Trafiklab"
+      ],
+      "established": "1993-05-21",
+      "id": "SE5564677598",
+      "identifier": {
+        "orgnr": "5564677598"
+      },
+      "label": {
+        "sv": "Samtrafiken i Sverige AB"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "SAMTRAFIKEN I SVERIGE AKTIEBOLAG",
+      "source": [
+        "edits",
         "scb_bulk"
       ],
       "status": "active",
@@ -24151,6 +24335,54 @@
       "status": "active",
       "type": "Company"
     },
+    "SE5565506309": {
+      "alias": [
+        "Sokigo"
+      ],
+      "established": "1998-01-15",
+      "id": "SE5565506309",
+      "identifier": {
+        "orgnr": "5565506309"
+      },
+      "label": {
+        "sv": "Sokigo AB"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "Sokigo AB",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Company"
+    },
+    "SE5565581757": {
+      "alias": [
+        "Telge Nät"
+      ],
+      "established": "1998-10-01",
+      "id": "SE5565581757",
+      "identifier": {
+        "orgnr": "5565581757"
+      },
+      "label": {
+        "sv": "Telge Nät AB"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "Telge Nät AB",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Company"
+    },
     "SE5565582185": {
       "established": "1998-08-13",
       "id": "SE5565582185",
@@ -24171,6 +24403,80 @@
       ],
       "status": "active",
       "type": "Company"
+    },
+    "SE5565585873": {
+      "alias": [
+        "Västtrafik"
+      ],
+      "established": "1998-08-27",
+      "id": "SE5565585873",
+      "identifier": {
+        "orgnr": "5565585873"
+      },
+      "label": {
+        "sv": "Västtrafik AB"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "VÄSTTRAFIK AB",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Company"
+    },
+    "SE5565656864": {
+      "alias": [
+        "VB Elnät",
+        "Västerbergslagens Elnät"
+      ],
+      "established": "1999-02-19",
+      "id": "SE5565656864",
+      "identifier": {
+        "orgnr": "5565656864"
+      },
+      "label": {
+        "sv": "Västerbergslagens Elnät AB"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "VÄSTERBERGSLAGENS ELNÄT AKTIEBOLAG",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Company"
+    },
+    "SE5566885280": {
+      "alias": [
+        "Ersta Sköndal Bräcke högskola"
+      ],
+      "established": "2005-10-27",
+      "id": "SE5566885280",
+      "identifier": {
+        "orgnr": "5566885280"
+      },
+      "label": {
+        "en": "Marie Cederschiöld University",
+        "sv": "Marie Cederschiöld högskola"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "Marie Cederschiöld högskola AB",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Academia-ScientificOrganisation"
     },
     "SE5567409817": {
       "established": "2007-10-25",
@@ -24207,6 +24513,30 @@
         "label": "Övriga aktiebolag"
       },
       "registered_label": "SWECO Sverige AB",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Company"
+    },
+    "SE5567992242": {
+      "alias": [
+        "Metria"
+      ],
+      "established": "2010-01-14",
+      "id": "SE5567992242",
+      "identifier": {
+        "orgnr": "5567992242"
+      },
+      "label": {
+        "sv": "Metria AB"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "Metria AB",
       "source": [
         "edits",
         "scb_bulk"
@@ -24258,6 +24588,52 @@
       "source": [
         "data_europa",
         "dataportal",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Company"
+    },
+    "SE5569905747": {
+      "established": "2014-11-20",
+      "id": "SE5569905747",
+      "identifier": {
+        "orgnr": "5569905747"
+      },
+      "label": {
+        "sv": "Greensway AB"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "Greensway AB",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Company"
+    },
+    "SE5590672142": {
+      "alias": [
+        "IT Kommuner i Skåne AB",
+        "Unikom"
+      ],
+      "established": "2016-06-23",
+      "id": "SE5590672142",
+      "identifier": {
+        "orgnr": "5590672142"
+      },
+      "label": {
+        "sv": "IT kommuner i Skåne AB"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "IT kommuner i Skåne Aktiebolag",
+      "source": [
+        "edits",
         "scb_bulk"
       ],
       "status": "active",
@@ -24315,6 +24691,76 @@
       "status": "active",
       "type": "Company"
     },
+    "SE5592526700": {
+      "established": "2020-04-24",
+      "id": "SE5592526700",
+      "identifier": {
+        "orgnr": "5592526700"
+      },
+      "label": {
+        "sv": "Greensway Digital AB"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "Greensway Digital AB",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Company"
+    },
+    "SE5594650037": {
+      "alias": [
+        "Varberg Energi"
+      ],
+      "established": "2023-12-22",
+      "id": "SE5594650037",
+      "identifier": {
+        "orgnr": "5594650037"
+      },
+      "label": {
+        "sv": "Varberg Energi AB"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "registered_label": "Varberg Energi AB",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Company"
+    },
+    "SE7682000018": {
+      "alias": [
+        "ESS"
+      ],
+      "established": "2015-09-03",
+      "id": "SE7682000018",
+      "identifier": {
+        "orgnr": "7682000018"
+      },
+      "label": {
+        "en": "European Spallation Source ERIC",
+        "sv": "European Spallation Source ERIC"
+      },
+      "legal_type": {
+        "code": "55",
+        "label": "Europakooperativ"
+      },
+      "registered_label": "European Spallation Source ERIC",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Academia-ScientificOrganisation"
+    },
     "SE7696046924": {
       "established": "1999-09-03",
       "id": "SE7696046924",
@@ -24351,6 +24797,31 @@
         "label": "Ekonomisk förening"
       },
       "registered_label": "Miljöfordon Sverige, ekonomisk förening",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "NonProfitOrganisation"
+    },
+    "SE7696282735": {
+      "alias": [
+        "ElectriCITY",
+        "ElectriCITY Innovation"
+      ],
+      "established": "2014-06-12",
+      "id": "SE7696282735",
+      "identifier": {
+        "orgnr": "7696282735"
+      },
+      "label": {
+        "sv": "ElectriCITY Innovation ekonomisk förening"
+      },
+      "legal_type": {
+        "code": "51",
+        "label": "Ekonomisk förening"
+      },
+      "registered_label": "ElectriCITY Innovation ekonomisk förening",
       "source": [
         "edits",
         "scb_bulk"
@@ -24404,6 +24875,31 @@
       },
       "note": "Runs Kollektivtrafikbarometern.",
       "registered_label": "SVENSK KOLLEKTIVTRAFIK",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "NonProfitOrganisation"
+    },
+    "SE8020024686": {
+      "alias": [
+        "Stiftelsen Nordiska museet"
+      ],
+      "established": "1971-01-01",
+      "id": "SE8020024686",
+      "identifier": {
+        "orgnr": "8020024686"
+      },
+      "label": {
+        "en": "Nordic Museum",
+        "sv": "Nordiska museet"
+      },
+      "legal_type": {
+        "code": "72",
+        "label": "Övrig stiftelse"
+      },
+      "registered_label": "NORDISKA MUSEET",
       "source": [
         "edits",
         "scb_bulk"
@@ -24556,6 +25052,31 @@
       ],
       "status": "active",
       "type": "NonProfitOrganisation"
+    },
+    "SE8020062660": {
+      "alias": [
+        "SIPRI"
+      ],
+      "established": "1975-01-01",
+      "id": "SE8020062660",
+      "identifier": {
+        "orgnr": "8020062660"
+      },
+      "label": {
+        "en": "Stockholm International Peace Research Institute",
+        "sv": "Stockholms internationella fredsforskningsinstitut"
+      },
+      "legal_type": {
+        "code": "72",
+        "label": "Övrig stiftelse"
+      },
+      "registered_label": "STIFTELSEN STOCKHOLMS INTERNATIONELLA FREDSFORSKNINGSINSTITUT (SIPRI)",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Academia-ScientificOrganisation"
     },
     "SE8020120948": {
       "established": "1986-04-09",
@@ -24801,6 +25322,32 @@
       "status": "active",
       "type": "NonProfitOrganisation"
     },
+    "SE8176021825": {
+      "alias": [
+        "Stiftelsen för samverkan mellan universiteten i Uppsala, näringsliv och samhälle",
+        "STUNS Energi"
+      ],
+      "established": "1984-11-25",
+      "id": "SE8176021825",
+      "identifier": {
+        "orgnr": "8176021825"
+      },
+      "label": {
+        "en": "STUNS",
+        "sv": "STUNS"
+      },
+      "legal_type": {
+        "code": "72",
+        "label": "Övrig stiftelse"
+      },
+      "registered_label": "STUNS STIFT F SAMV MEL UNIV I U-A NÄRINGSL O SAM",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "NonProfitOrganisation"
+    },
     "SE8176029786": {
       "established": "1992-05-06",
       "id": "SE8176029786",
@@ -24939,6 +25486,31 @@
       ],
       "status": "active",
       "type": "NonProfitOrganisation"
+    },
+    "SE8460024832": {
+      "alias": [
+        "WMU"
+      ],
+      "established": "1983-04-23",
+      "id": "SE8460024832",
+      "identifier": {
+        "orgnr": "8460024832"
+      },
+      "label": {
+        "en": "World Maritime University",
+        "sv": "World Maritime University"
+      },
+      "legal_type": {
+        "code": "61",
+        "label": "Ideell förening"
+      },
+      "registered_label": "THE WORLD MARITIME UNIVERSITY",
+      "source": [
+        "edits",
+        "scb_bulk"
+      ],
+      "status": "active",
+      "type": "Academia-ScientificOrganisation"
     },
     "SE8551040721": {
       "email": "info@apfond6.se",
