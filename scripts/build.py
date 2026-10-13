@@ -48,7 +48,8 @@ def fetch(name, producer, report):
     try:
         data = producer()
         dump(path, data)
-        report[name] = {"status": "fetched", "rows": len(data)}
+        rows = sum(len(v) for v in data.values()) if name == "dataportal" else len(data)
+        report[name] = {"status": "fetched", "rows": rows}
         return data
     except Exception as error:  # noqa: BLE001 - any failure must not stop the build
         print(f"{name}: {error}", file=sys.stderr)
@@ -221,7 +222,7 @@ def main():
                     links_europa[uri] = key
                     links_portal.setdefault(uri, key)
             elif field == "alias":
-                r["alias"] = sorted(set(value), key=str.casefold)
+                r["alias"] = sorted(set(value), key=lambda v: (v.casefold(), v))
             else:
                 r[field] = value
         r["source"].append("edits")

@@ -344,8 +344,8 @@
         "Läkemedelsregistret och registret över socialtjänstinsatser till äldre och personer med funktionsnedsättning via Socialstyrelsen",
         "Läkemedelsregistret och registret över socialtjänstinsatser till äldre och personer med funktionsnedsättning, Socialstyrelsen",
         "Läkemedelsregistret, Socialstyrelsen",
-        "medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreo",
         "Medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreo",
+        "medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreo",
         "Medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreomsorgen)",
         "medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreomsorgen)",
         "Medicinska födelseregistret, Patientregistret, Socialstyrelsen",
@@ -714,9 +714,9 @@
         "Statistics Sweden, Structural Business Statistics",
         "Statistikmyndigheten SCB",
         "Statistiska centralbyrån",
-        "Statistiska centralbyrån (Scb)",
         "Statistiska Centralbyrån (SCB)",
         "Statistiska centralbyrån (SCB)",
+        "Statistiska centralbyrån (Scb)",
         "Statistiska centralbyrån (SCB), RAMS, BAS",
         "Statistiska centralbyrån (SCB), RAMS/BAS",
         "Statistiska centralbyrån (SCB), tab NST 1.3",
@@ -1160,8 +1160,8 @@
     },
     "SE2021001173": {
       "alias": [
-        "Myndigheten för ungdoms- och civilsamhällesfrågor (mucf)",
-        "Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF)"
+        "Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF)",
+        "Myndigheten för ungdoms- och civilsamhällesfrågor (mucf)"
       ],
       "department": "Utbildningsdepartementet",
       "email": "info@mucf.se",
@@ -5450,8 +5450,8 @@
         "Energimyndigheten/Nobil",
         "Statens Energimyndighet",
         "Statens energimyndighet",
-        "Sweden energy agency",
         "Sweden Energy Agency",
+        "Sweden energy agency",
         "Swedish Energy Administration",
         "Swedish Energy Agency",
         "Trafikhuvudmännen (drivmedelsvolymer) och Energimyndigheten (omräkningsfaktorer)"
@@ -18842,8 +18842,8 @@
         "SKR via Vården i siffror",
         "SKR, Huvudmannaenkäten",
         "SKR.\\n",
-        "SKR:s anläggningsenkät",
         "SKR:s Anläggningsenkät",
+        "SKR:s anläggningsenkät",
         "SKR:s databas Ansvarsprövningsbanken",
         "SKR:s datakatalog",
         "SKR:s enkät till regionerna",
