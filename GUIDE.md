@@ -39,7 +39,9 @@ Resolve a name to an organisation by `alias` first, then `label` and
 `registered_label`. For state bodies Statskontoret's name wins the Swedish label:
 it is the current name as the body writes it ("Kungl. biblioteket",
 "Integritetsskyddsmyndigheten"), where dataportal.se is often stale and
-Myndighetsregistret is upper case. Statskontoret also writes which earlier
+Myndighetsregistret is upper case. English names come from Wikidata first and
+Statskontoret only fills gaps, since its English column is old and uneven.
+Statskontoret also writes which earlier
 number a body had (`succeeded_by` from the old number to the new one) and which
 body a wound-up one went into, read from the register's comment. Resolve a portal URI through `identifier.dataportal`,
 `same_as`, or the `links/` files.

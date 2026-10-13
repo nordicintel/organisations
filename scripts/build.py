@@ -57,7 +57,8 @@ def fetch(name, producer, report):
         print(f"{name}: {error}", file=sys.stderr)
         traceback.print_exc()
         data = load(path, {})
-        report[name] = {"status": "stale" if data else "failed", "rows": len(data), "error": str(error)[:200]}
+        rows = sum(len(v) for v in data.values()) if name in ("dataportal", "statskontoret") else len(data)
+        report[name] = {"status": "stale" if data else "failed", "rows": rows, "error": str(error)[:200]}
         return data
 
 
@@ -106,9 +107,10 @@ def main():
         key = org_id(number) + suffix
         return orgs.setdefault(key, {"id": key, "label": {}, "status": "unknown", "identifier": {"orgnr": number}, "source": []})
 
-    def label(r, lang, value, source):
+    def label(r, lang, value, source, priority=None):
         if value:
-            labels.setdefault(r["id"], {}).setdefault(lang, []).append((LABEL_PRIORITY[source], value))
+            labels.setdefault(r["id"], {}).setdefault(lang, []).append(
+                (LABEL_PRIORITY[source] if priority is None else priority, value))
 
     def alias(r, *values):
         merged = set(r.get("alias", [])) | {v for v in values if v}
@@ -181,8 +183,9 @@ def main():
             if position + 1 < len(numbers):
                 r["succeeded_by"] = sorted(set(r.get("succeeded_by", [])) | {org_id(numbers[position + 1])})
             elif last == entry["last_year"]:
-                if entry["en"]:
-                    label(r, "en", entry["en"], "statskontoret")
+                if entry["en"] and entry["en"] != "?":
+                    # Their English names are old and uneven; only fill where Wikidata has none.
+                    label(r, "en", entry["en"], "statskontoret", priority=LABEL_PRIORITY["wikidata"] + 0.5)
                 if entry["email"]:
                     r.setdefault("email", entry["email"])
                 if entry["department"] and last == current_year:
@@ -276,7 +279,8 @@ def main():
             r["dissolved"] = row["dissolved"][:10]
             if r["status"] == "unknown":
                 r["status"] = "deregistered"
-        succ = [qid_to_id[q] for q in row["replaced_by"] if q in qid_to_id]
+        # "replaced by" on a body that still exists records a split-off, not a successor.
+        succ = [qid_to_id[q] for q in row["replaced_by"] if q in qid_to_id] if row.get("dissolved") or r["status"] == "deregistered" else []
         if succ:
             r["succeeded_by"] = sorted(set(r.get("succeeded_by", [])) | set(succ))
         r["source"].append("wikidata")

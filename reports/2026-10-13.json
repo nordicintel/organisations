@@ -36,8 +36,8 @@
       "status": "fetched"
     },
     "statskontoret": {
-      "error": "<urlopen error _ssl.c:1015: The handshake operation timed out>",
-      "rows": 2,
+      "error": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)>",
+      "rows": 575,
       "status": "stale"
     },
     "wikidata": {
