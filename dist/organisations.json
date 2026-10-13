@@ -1,5 +1,5 @@
 {
-  "count": 1110,
+  "count": 1037,
   "generated": "2026-10-13",
   "organisation": {
     "SE0123456789": {
@@ -158,12 +158,6 @@
       "status": "active"
     },
     "SE2021000076": {
-      "alias": [
-        "Polisorganisationen",
-        "Polisväsendet",
-        "Rikspolisstyrelsen",
-        "Rikspolisväsendet"
-      ],
       "department": "Justitiedepartementet",
       "email": "registrator.kansli@polisen.se",
       "established": "1978-01-01",
@@ -196,9 +190,6 @@
       "status": "active"
     },
     "SE2021000084": {
-      "alias": [
-        "Riksåklagaren"
-      ],
       "department": "Justitiedepartementet",
       "email": "registrator@aklagare.se",
       "established": "1975-01-01",
@@ -231,9 +222,6 @@
       "status": "active"
     },
     "SE2021000225": {
-      "alias": [
-        "Kriminalvårdsstyrelsen"
-      ],
       "department": "Justitiedepartementet",
       "email": "hk@kriminalvarden.se",
       "established": "1975-01-01",
@@ -264,19 +252,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021000233": {
-      "id": "SE2021000233",
-      "identifier": {
-        "orgnr": "2021000233"
-      },
-      "label": {
-        "sv": "Utrikesdepartementet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
     },
     "SE2021000340": {
       "alias": [
@@ -312,22 +287,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021000357": {
-      "id": "SE2021000357",
-      "identifier": {
-        "orgnr": "2021000357"
-      },
-      "label": {
-        "sv": "Försvarets forskningsanstalt"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005182"
-      ]
     },
     "SE2021000365": {
       "alias": [
@@ -397,38 +356,7 @@
         "orgnr": "2021000498"
       },
       "label": {
-        "en": "National Board of Psychological Defence",
         "sv": "Styrelsen för psykologiskt försvar"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2021000506": {
-      "id": "SE2021000506",
-      "identifier": {
-        "orgnr": "2021000506"
-      },
-      "label": {
-        "sv": "Flygtekniska försöksanstalten"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005182"
-      ]
-    },
-    "SE2021000548": {
-      "id": "SE2021000548",
-      "identifier": {
-        "orgnr": "2021000548"
-      },
-      "label": {
-        "en": "National Social Insurance Board",
-        "sv": "Riksförsäkringsverket"
       },
       "source": [
         "statskontoret"
@@ -544,16 +472,12 @@
         "orgnr": "2021000571"
       },
       "label": {
-        "en": "National Radiation Protection Authority",
         "sv": "Statens strålskyddsinstitut"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005760"
-      ]
+      "status": "unknown"
     },
     "SE2021000639": {
       "id": "SE2021000639",
@@ -561,21 +485,14 @@
         "orgnr": "2021000639"
       },
       "label": {
-        "en": "Swedish National Road Administration",
         "sv": "Vägverket"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006297"
-      ]
+      "status": "unknown"
     },
     "SE2021000654": {
-      "alias": [
-        "Sjöfartsverket, affärsverk"
-      ],
       "department": "Landsbygds- och infrastrukturdepartementet",
       "email": "sjofartsverket@sjofartsverket.se",
       "established": "1975-01-01",
@@ -586,7 +503,6 @@
         "orgnr": "2021000654"
       },
       "label": {
-        "en": "Swedish Maritime Administration",
         "sv": "Sjöfartsverket"
       },
       "legal_type": {
@@ -605,20 +521,6 @@
       ],
       "state_body_group": "affarsverk",
       "status": "active"
-    },
-    "SE2021000670": {
-      "id": "SE2021000670",
-      "identifier": {
-        "orgnr": "2021000670"
-      },
-      "label": {
-        "en": "Swedish Government Seamen´s Service",
-        "sv": "Handelsflottans kultur- och fritidsråd"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
     },
     "SE2021000696": {
       "alias": [
@@ -733,28 +635,9 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021000787": {
-      "alias": [
-        "Affärsverket Statens järnvägar",
-        "Statens järnvägar, affärsverk"
-      ],
-      "id": "SE2021000787",
-      "identifier": {
-        "orgnr": "2021000787"
-      },
-      "label": {
-        "en": "Swedish State Railways",
-        "sv": "Statens järnvägar"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021000795": {
       "alias": [
-        "LFV",
-        "Luftfartsverket, affärsverk"
+        "LFV"
       ],
       "department": "Landsbygds- och infrastrukturdepartementet",
       "email": "lfv@lfv.se",
@@ -766,7 +649,6 @@
         "orgnr": "2021000795"
       },
       "label": {
-        "en": "Swedish Airports and Air Navigation Services",
         "sv": "Luftfartsverket"
       },
       "legal_type": {
@@ -1032,19 +914,6 @@
         "SE2021005026"
       ]
     },
-    "SE2021000878": {
-      "id": "SE2021000878",
-      "identifier": {
-        "orgnr": "2021000878"
-      },
-      "label": {
-        "sv": "Riksrevisionsverket"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021000928": {
       "alias": [
         "Statens pensionsverk"
@@ -1112,22 +981,6 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021000985": {
-      "id": "SE2021000985",
-      "identifier": {
-        "orgnr": "2021000985"
-      },
-      "label": {
-        "sv": "Riksskatteverket"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005448"
-      ]
-    },
     "SE2021001033": {
       "department": "kulturdepartementet",
       "dissolved": "2026-01-01",
@@ -1153,10 +1006,7 @@
         "statskontoret",
         "wikidata"
       ],
-      "status": "deregistered",
-      "succeeded_by": [
-        "SE2021005091"
-      ]
+      "status": "deregistered"
     },
     "SE2021001041": {
       "dissolved": "2010-12-31",
@@ -1175,10 +1025,7 @@
         "statskontoret",
         "wikidata"
       ],
-      "status": "deregistered",
-      "succeeded_by": [
-        "SE2021006396"
-      ]
+      "status": "deregistered"
     },
     "SE2021001074": {
       "alias": [
@@ -1223,9 +1070,6 @@
       "status": "active"
     },
     "SE2021001082": {
-      "alias": [
-        "Språk- och folkminnesinstitutet"
-      ],
       "department": "Kulturdepartementet",
       "email": "registrator@isof.se",
       "established": "1975-01-01",
@@ -1309,8 +1153,7 @@
     },
     "SE2021001108": {
       "alias": [
-        "Nationalmuseum med Prins Eugens Waldemarsudde",
-        "Nationalmuseum med prins Eugens Waldemarsudde"
+        "Nationalmuseum med Prins Eugens Waldemarsudde"
       ],
       "department": "Kulturdepartementet",
       "email": "registrator@nationalmuseum.se",
@@ -1386,8 +1229,7 @@
         "SMMTF",
         "Statens maritima museer",
         "Statens maritima och transporthistoriska museer",
-        "Statens Museer för Maritim, Transport- och Försvarshistoria",
-        "Statens sjöhistoriska museer"
+        "Statens Museer för Maritim, Transport- och Försvarshistoria"
       ],
       "department": "Kulturdepartementet",
       "email": "registrator@smtm.se",
@@ -1426,7 +1268,6 @@
         "orgnr": "2021001165"
       },
       "label": {
-        "en": "Dictionary of Swedish National Biography",
         "sv": "Svenskt biografiskt lexikon"
       },
       "source": [
@@ -1509,8 +1350,7 @@
     "SE2021001215": {
       "alias": [
         "KMH",
-        "Kungliga Musikhögskolan",
-        "Kungliga Musikhögskolan i Stockholm"
+        "Kungliga Musikhögskolan"
       ],
       "department": "Utbildningsdepartementet",
       "email": "registrator@kmh.se",
@@ -1549,16 +1389,12 @@
         "orgnr": "2021001249"
       },
       "label": {
-        "en": "NATIONAL ACADEMY OF MIME AND ACTING",
         "sv": "Teaterhögskolan i Stockholm"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006388"
-      ]
+      "status": "unknown"
     },
     "SE2021001280": {
       "alias": [
@@ -1606,16 +1442,12 @@
         "orgnr": "2021001298"
       },
       "label": {
-        "en": "University College of Dance",
         "sv": "Dans- och cirkushögskolan"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006560"
-      ]
+      "status": "unknown"
     },
     "SE2021001306": {
       "id": "SE2021001306",
@@ -1623,32 +1455,12 @@
         "orgnr": "2021001306"
       },
       "label": {
-        "en": "University College of Film",
         "sv": "Dramatiska institutet"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006388"
-      ]
-    },
-    "SE2021001454": {
-      "id": "SE2021001454",
-      "identifier": {
-        "orgnr": "2021001454"
-      },
-      "label": {
-        "sv": "Talboks- och punktskriftsbiblioteket"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021003591"
-      ]
+      "status": "unknown"
     },
     "SE2021001710": {
       "alias": [
@@ -1687,22 +1499,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021001736": {
-      "id": "SE2021001736",
-      "identifier": {
-        "orgnr": "2021001736"
-      },
-      "label": {
-        "sv": "Medicinska forskningsrådet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005208"
-      ]
     },
     "SE2021001819": {
       "alias": [
@@ -1747,29 +1543,12 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021001835": {
-      "id": "SE2021001835",
-      "identifier": {
-        "orgnr": "2021001835"
-      },
-      "label": {
-        "sv": "Skogsstyrelsen"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005612"
-      ]
-    },
     "SE2021001843": {
       "id": "SE2021001843",
       "identifier": {
         "orgnr": "2021001843"
       },
       "label": {
-        "en": "National Board of Fisheries",
         "sv": "Fiskeriverket"
       },
       "source": [
@@ -1780,8 +1559,7 @@
     "SE2021001850": {
       "alias": [
         "Livsmedelsverket",
-        "SLV",
-        "Statens livsmedelsverk"
+        "SLV"
       ],
       "department": "Landsbygds- och infrastrukturdepartementet",
       "email": "livsmedelsverket@slv.se",
@@ -1854,55 +1632,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021001876": {
-      "id": "SE2021001876",
-      "identifier": {
-        "orgnr": "2021001876"
-      },
-      "label": {
-        "en": "Swedish Seed Testing and Certification Institute",
-        "sv": "Statens utsädeskontroll"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021004151"
-      ]
-    },
-    "SE2021001918": {
-      "id": "SE2021001918",
-      "identifier": {
-        "orgnr": "2021001918"
-      },
-      "label": {
-        "sv": "Statens växtsortnämnd"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021004151"
-      ]
-    },
-    "SE2021001959": {
-      "id": "SE2021001959",
-      "identifier": {
-        "orgnr": "2021001959"
-      },
-      "label": {
-        "sv": "Skogs- och jordbrukets forskningsråd"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005232"
-      ]
     },
     "SE2021001975": {
       "alias": [
@@ -1985,7 +1714,6 @@
         "orgnr": "2021002015"
       },
       "label": {
-        "en": "Market Court",
         "sv": "Marknadsdomstolen"
       },
       "organisation_type": "NationalAuthority",
@@ -1993,10 +1721,7 @@
         "dataportal",
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021002742"
-      ]
+      "status": "unknown"
     },
     "SE2021002064": {
       "department": "Finansdepartementet",
@@ -2072,22 +1797,6 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021002080": {
-      "alias": [
-        "Överstyrelsen för civil beredskap"
-      ],
-      "id": "SE2021002080",
-      "identifier": {
-        "orgnr": "2021002080"
-      },
-      "label": {
-        "sv": "Kommittén för avveckling av Överstyrelsen för civil beredskap"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021002098": {
       "alias": [
         "EKN"
@@ -2126,8 +1835,7 @@
     "SE2021002114": {
       "alias": [
         "Arbetsförmedlingen",
-        "Arbetsmarknadsstyrelsen",
-        "Arbetsmarknadsverket"
+        "Arbetsmarknadsstyrelsen/Arbetsmarknadsverket"
       ],
       "department": "Arbetsmarknadsdepartementet",
       "email": "registrator@arbetsformedlingen.se",
@@ -2185,7 +1893,6 @@
         "orgnr": "2021002122"
       },
       "label": {
-        "en": "Labour Court",
         "sv": "Arbetsdomstolen"
       },
       "legal_type": {
@@ -2206,7 +1913,6 @@
     },
     "SE2021002148": {
       "alias": [
-        "Arbetarskyddsstyrelsen",
         "Arbetsmiljöverket",
         "Arbetsmiljöverket (AV)",
         "Arbetsmiljöverket, Anmälda arbetsskador",
@@ -2250,8 +1956,7 @@
     },
     "SE2021002163": {
       "alias": [
-        "Migrationsverket",
-        "Statens invandrarverk"
+        "Migrationsverket"
       ],
       "department": "Justitiedepartementet",
       "email": "registrator@migrationsverket.se",
@@ -2288,22 +1993,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021002205": {
-      "id": "SE2021002205",
-      "identifier": {
-        "orgnr": "2021002205"
-      },
-      "label": {
-        "sv": "Byggforskningsrådet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005232"
-      ]
     },
     "SE2021002247": {
       "department": "Finansdepartementet",
@@ -2668,7 +2357,6 @@
     },
     "SE2021002361": {
       "alias": [
-        "Länsstyrelsen Västra Götalands län",
         "Länsstyrelserna",
         "Länsstyrelsernas datakatalog",
         "VISS, Länsstyrelserna"
@@ -2832,9 +2520,6 @@
       "status": "active"
     },
     "SE2021002429": {
-      "alias": [
-        "Länsstyrelsen i Dalarna"
-      ],
       "department": "Finansdepartementet",
       "email": "dalarna@lansstyrelsen.se",
       "established": "1975-01-01",
@@ -2899,9 +2584,6 @@
       "status": "active"
     },
     "SE2021002445": {
-      "alias": [
-        "Länsstyrelsen i Västernorrland"
-      ],
       "department": "Finansdepartementet",
       "email": "vasternorrland@lansstyrelsen.se",
       "established": "1975-01-01",
@@ -3071,24 +2753,17 @@
       "status": "active"
     },
     "SE2021002544": {
-      "alias": [
-        "Statens kärnkraftsinspektion"
-      ],
       "id": "SE2021002544",
       "identifier": {
         "orgnr": "2021002544"
       },
       "label": {
-        "en": "Swedish Nuclear Power Inspectorate",
         "sv": "Statens kärnkraftinspektion"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005760"
-      ]
+      "status": "unknown"
     },
     "SE2021002585": {
       "department": "Utbildningsdepartementet",
@@ -3128,11 +2803,9 @@
     "SE2021002627": {
       "alias": [
         "Riksdagen",
-        "Riksdagens förvaltningskontor",
         "Sveriges riksdag",
         "Sveriges Riksdagens"
       ],
-      "department": "Riksdagen och dess verk m.m.",
       "email": "registrator.riksdagsforvaltningen@riksdagen.se",
       "established": "1975-01-01",
       "homepage": "https://www.riksdagen.se/sv/sa-fungerar-riksdagen/riksdagsforvaltningen",
@@ -3142,7 +2815,6 @@
         "orgnr": "2021002627"
       },
       "label": {
-        "en": "The Swedish Riksdag Administration",
         "sv": "Riksdagsförvaltningen"
       },
       "legal_type": {
@@ -3157,8 +2829,7 @@
         "dataportal",
         "edits",
         "myndighetsregistret",
-        "scb_bulk",
-        "statskontoret"
+        "scb_bulk"
       ],
       "state_body_group": "riksdag",
       "status": "active"
@@ -3206,11 +2877,6 @@
       "status": "active"
     },
     "SE2021002650": {
-      "alias": [
-        "Riksdagens Ombudsmän",
-        "Riksdagens ombudsmän"
-      ],
-      "department": "Riksdagen och dess verk m.m.",
       "email": "justitieombudsmannen@jo.se",
       "established": "1975-01-01",
       "homepage": "https://www.jo.se",
@@ -3220,8 +2886,7 @@
         "orgnr": "2021002650"
       },
       "label": {
-        "en": "The Parliamentary Ombudsman",
-        "sv": "Riksdagens ombudsmän JO"
+        "sv": "Riksdagens ombudsmän"
       },
       "legal_type": {
         "code": "81",
@@ -3233,24 +2898,10 @@
       "source": [
         "dataportal",
         "myndighetsregistret",
-        "scb_bulk",
-        "statskontoret"
+        "scb_bulk"
       ],
       "state_body_group": "riksdag",
       "status": "active"
-    },
-    "SE2021002668": {
-      "id": "SE2021002668",
-      "identifier": {
-        "orgnr": "2021002668"
-      },
-      "label": {
-        "sv": "Riksdagens revisorer"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
     },
     "SE2021002684": {
       "alias": [
@@ -3305,7 +2956,7 @@
       },
       "label": {
         "en": "Nordic Africa Institute",
-        "sv": "Nordiska Afrikainstitutet"
+        "sv": "Nordiska afrikainstitutet"
       },
       "legal_type": {
         "code": "81",
@@ -3328,7 +2979,6 @@
       "alias": [
         "-     The Swedish National Courts Administration",
         "Domstolsverket",
-        "Domstolsväsendet",
         "The Swedish National Court Administration",
         "The Swedish National Courts Administration"
       ],
@@ -3342,7 +2992,6 @@
         "orgnr": "2021002742"
       },
       "label": {
-        "en": "National Courts Administration",
         "sv": "Domstolsverket"
       },
       "legal_type": {
@@ -3938,6 +3587,7 @@
       "status": "active"
     },
     "SE2021002742-HOGSTA-DOMSTOLEN": {
+      "department": "Justitiedepartementet",
       "email": "hogsta.domstolen@dom.se",
       "homepage": "https://www.domstol.se",
       "id": "SE2021002742-HOGSTA-DOMSTOLEN",
@@ -3945,18 +3595,20 @@
         "orgnr": "2021002742"
       },
       "label": {
-        "sv": "Högsta Domstolen"
+        "sv": "Högsta domstolen"
       },
       "organisation_type": "NationalAuthority",
       "part_of": "SE2021002742",
-      "sfs": "1988:317",
+      "sfs": "1996:377",
       "source": [
-        "myndighetsregistret"
+        "myndighetsregistret",
+        "statskontoret"
       ],
       "state_body_group": "domstol",
       "status": "active"
     },
     "SE2021002742-HOGSTAFORVALTNINGSDOMSTOLEN": {
+      "department": "Justitiedepartementet",
       "email": "hogstaforvaltningsdomstolen@dom.se",
       "homepage": "https://www.domstol.se",
       "id": "SE2021002742-HOGSTAFORVALTNINGSDOMSTOLEN",
@@ -3964,13 +3616,14 @@
         "orgnr": "2021002742"
       },
       "label": {
-        "sv": "Högsta Förvaltningsdomstolen"
+        "sv": "Högsta förvaltningsdomstolen"
       },
       "organisation_type": "NationalAuthority",
       "part_of": "SE2021002742",
-      "sfs": "1988:317",
+      "sfs": "1996:378",
       "source": [
-        "myndighetsregistret"
+        "myndighetsregistret",
+        "statskontoret"
       ],
       "state_body_group": "domstol",
       "status": "active"
@@ -4887,39 +4540,6 @@
       "state_body_group": "domstol",
       "status": "active"
     },
-    "SE2021002783": {
-      "id": "SE2021002783",
-      "identifier": {
-        "orgnr": "2021002783"
-      },
-      "label": {
-        "sv": "Rådet för arbetslivsforskning"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005216",
-        "SE2021005240"
-      ]
-    },
-    "SE2021002791": {
-      "id": "SE2021002791",
-      "identifier": {
-        "orgnr": "2021002791"
-      },
-      "label": {
-        "sv": "Humanistisk-samhällsvetenskapliga forskningsrådet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005208"
-      ]
-    },
     "SE2021002817": {
       "alias": [
         "Artdatabanken",
@@ -5038,9 +4658,6 @@
       "status": "active"
     },
     "SE2021002890": {
-      "alias": [
-        "Högskolan Gävle/Sandviken"
-      ],
       "department": "Utbildningsdepartementet",
       "email": "registrator@hig.se",
       "established": "1977-01-01",
@@ -5258,16 +4875,12 @@
         "orgnr": "2021002965"
       },
       "label": {
-        "en": "The University college of Opera in Stockholm",
         "sv": "Operahögskolan i Stockholm"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006560"
-      ]
+      "status": "unknown"
     },
     "SE2021002973": {
       "alias": [
@@ -5311,23 +4924,18 @@
         "orgnr": "2021003005"
       },
       "label": {
-        "en": "Stockholm Institute of Education",
         "sv": "Lärarhögskolan i Stockholm"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021003062"
-      ]
+      "status": "unknown"
     },
     "SE2021003054": {
       "alias": [
         "KTH",
         "Kungliga Tekniska Högskolan",
-        "Kungliga Tekniska högskolan",
-        "Kungliga tekniska högskolan"
+        "Kungliga Tekniska högskolan"
       ],
       "department": "Utbildningsdepartementet",
       "email": "registrator@kth.se",
@@ -5434,9 +5042,6 @@
       "status": "active"
     },
     "SE2021003120": {
-      "alias": [
-        "Universitetet i Karlstad"
-      ],
       "department": "Utbildningsdepartementet",
       "email": "registrator@kau.se",
       "established": "1977-01-01",
@@ -5542,7 +5147,7 @@
         "Swedish National Data Service (SND)"
       ],
       "department": "Utbildningsdepartementet",
-      "email": "info@gu.se",
+      "email": "registrator@gu.se",
       "established": "1977-01-01",
       "homepage": "https://www.gu.se",
       "id": "SE2021003153",
@@ -5584,16 +5189,12 @@
         "orgnr": "2021003179"
       },
       "label": {
-        "en": "University College of Kalmar",
         "sv": "Högskolan i Kalmar"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006271"
-      ]
+      "status": "unknown"
     },
     "SE2021003187": {
       "id": "SE2021003187",
@@ -5601,16 +5202,12 @@
         "orgnr": "2021003187"
       },
       "label": {
-        "en": "Växjö University",
         "sv": "Växjö universitet"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006271"
-      ]
+      "status": "unknown"
     },
     "SE2021003195": {
       "alias": [
@@ -5722,38 +5319,6 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021003229": {
-      "id": "SE2021003229",
-      "identifier": {
-        "orgnr": "2021003229"
-      },
-      "label": {
-        "sv": "Forskningsrådsnämnden"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005208"
-      ]
-    },
-    "SE2021003237": {
-      "id": "SE2021003237",
-      "identifier": {
-        "orgnr": "2021003237"
-      },
-      "label": {
-        "sv": "Naturvetenskapliga forskningsrådet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005208"
-      ]
-    },
     "SE2021003252": {
       "department": "Kulturdepartementet",
       "email": "info@konstnarsnamnden.se",
@@ -5854,24 +5419,17 @@
       "status": "active"
     },
     "SE2021003294": {
-      "alias": [
-        "Presstödsnämnden och Taltidningsnämnden"
-      ],
       "id": "SE2021003294",
       "identifier": {
         "orgnr": "2021003294"
       },
       "label": {
-        "en": "Press Subsidies Council",
         "sv": "Presstödsnämnden"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006347"
-      ]
+      "status": "unknown"
     },
     "SE2021003310": {
       "alias": [
@@ -5933,10 +5491,7 @@
         "statskontoret",
         "wikidata"
       ],
-      "status": "deregistered",
-      "succeeded_by": [
-        "SE2021005091"
-      ]
+      "status": "deregistered"
     },
     "SE2021003435": {
       "department": "Justitiedepartementet",
@@ -6003,19 +5558,13 @@
       "status": "active"
     },
     "SE2021003484": {
-      "alias": [
-        "Kungl. Slottsstaten",
-        "Kungliga Slottsstaten"
-      ],
-      "department": "Finansdepartementet",
-      "email": "ekonomi@kungahuset.se",
       "established": "1979-01-01",
       "id": "SE2021003484",
       "identifier": {
         "orgnr": "2021003484"
       },
       "label": {
-        "sv": "Kungliga hov- och slottsstaten"
+        "sv": "Hovstaterna"
       },
       "legal_type": {
         "code": "81",
@@ -6024,28 +5573,9 @@
       "organisation_type": "NationalAuthority",
       "registered_label": "HOVSTATERNA",
       "source": [
-        "scb_bulk",
-        "statskontoret"
+        "scb_bulk"
       ],
       "status": "active"
-    },
-    "SE2021003492": {
-      "alias": [
-        "Arkivet för ljud och bild",
-        "Statens ljud -och bildarkiv"
-      ],
-      "id": "SE2021003492",
-      "identifier": {
-        "orgnr": "2021003492"
-      },
-      "label": {
-        "en": "The National Archive of Recorded Sound and Moving Images",
-        "sv": "Statens ljud- och bildarkiv"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
     },
     "SE2021003567": {
       "department": "Utbildningsdepartementet",
@@ -6147,20 +5677,6 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021003617": {
-      "id": "SE2021003617",
-      "identifier": {
-        "orgnr": "2021003617"
-      },
-      "label": {
-        "en": "Office of the Equal Opportunities Ombudsman",
-        "sv": "Jämställdhetsombudsmannen"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021003625": {
       "department": "Finansdepartementet",
       "email": "arn@arn.se",
@@ -6194,40 +5710,17 @@
       "status": "active"
     },
     "SE2021003641": {
-      "alias": [
-        "Statens institut för psykosocial miljömedicin"
-      ],
       "id": "SE2021003641",
       "identifier": {
         "orgnr": "2021003641"
       },
       "label": {
-        "en": "National Institutet for Psychosocial Medicine",
         "sv": "Institutet för psykosocial medicin"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021003062"
-      ]
-    },
-    "SE2021003658": {
-      "id": "SE2021003658",
-      "identifier": {
-        "orgnr": "2021003658"
-      },
-      "label": {
-        "sv": "Sprängämnesinspektionen"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021003914"
-      ]
+      "status": "unknown"
     },
     "SE2021003666": {
       "alias": [
@@ -6301,10 +5794,6 @@
       "status": "active"
     },
     "SE2021003732": {
-      "alias": [
-        "Livrustkammaren, Skoklosters slott och Hallwylska museet",
-        "Livrustkammaren/Skoklosters slott/ Hallwylska museet"
-      ],
       "email": "registrator@lsh.se",
       "homepage": "https://www.lsh.se",
       "id": "SE2021003732",
@@ -6313,7 +5802,6 @@
         "orgnr": "2021003732"
       },
       "label": {
-        "en": "Royal Armoury and Skokloster Castle with Foundation of Hallwyl Mu",
         "sv": "Livrustkammaren och Skoklosters slott med Stiftelsen Hallwylska museet"
       },
       "organisation_type": "NationalAuthority",
@@ -6442,22 +5930,6 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021003864": {
-      "id": "SE2021003864",
-      "identifier": {
-        "orgnr": "2021003864"
-      },
-      "label": {
-        "sv": "Kommunikationsforskningsberedningen"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005216"
-      ]
-    },
     "SE2021003880": {
       "alias": [
         "KemI"
@@ -6499,7 +5971,6 @@
         "orgnr": "2021003914"
       },
       "label": {
-        "en": "Swedish Rescue Services Agency",
         "sv": "Statens räddningsverk"
       },
       "source": [
@@ -6508,15 +5979,11 @@
       "status": "unknown"
     },
     "SE2021003948": {
-      "alias": [
-        "Ombudsmannen mot etnisk diskriminering och nämnden mot etnisk diskriminering"
-      ],
       "id": "SE2021003948",
       "identifier": {
         "orgnr": "2021003948"
       },
       "label": {
-        "en": "The Ombudsman against Ethnic Discrimination",
         "sv": "Ombudsmannen mot etnisk diskriminering"
       },
       "source": [
@@ -6530,7 +5997,6 @@
         "orgnr": "2021003963"
       },
       "label": {
-        "en": "National Institute for Working Life",
         "sv": "Arbetslivsinstitutet"
       },
       "source": [
@@ -6547,18 +6013,13 @@
         "orgnr": "2021003971"
       },
       "label": {
-        "en": "Court of Patent appeals",
         "sv": "Patentbesvärsrätten"
       },
       "organisation_type": "NationalAuthority",
       "source": [
-        "dataportal",
-        "statskontoret"
+        "dataportal"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021002742"
-      ]
+      "status": "unknown"
     },
     "SE2021003989": {
       "alias": [
@@ -6642,21 +6103,14 @@
         "orgnr": "2021004003"
       },
       "label": {
-        "en": "National Rail Administration",
         "sv": "Banverket"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006297"
-      ]
+      "status": "unknown"
     },
     "SE2021004011": {
-      "alias": [
-        "Högskolan i Karlskrona/Ronneby"
-      ],
       "department": "Utbildningsdepartementet",
       "email": "registrator@bth.se",
       "established": "1989-04-02",
@@ -6689,15 +6143,11 @@
       "status": "active"
     },
     "SE2021004029": {
-      "alias": [
-        "Statens VA-nämnd"
-      ],
       "id": "SE2021004029",
       "identifier": {
         "orgnr": "2021004029"
       },
       "label": {
-        "en": "The Swedish Water Supply and Sewage Tribunal",
         "sv": "Statens va-nämnd"
       },
       "source": [
@@ -6706,9 +6156,6 @@
       "status": "unknown"
     },
     "SE2021004052": {
-      "alias": [
-        "Högskolan i Trollhättan/Uddevalla"
-      ],
       "department": "Utbildningsdepartementet",
       "email": "registrator@hv.se",
       "established": "1989-12-10",
@@ -6814,45 +6261,12 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021004086": {
-      "id": "SE2021004086",
-      "identifier": {
-        "orgnr": "2021004086"
-      },
-      "label": {
-        "sv": "Socialvetenskapliga forskningsrådet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005240"
-      ]
-    },
-    "SE2021004094": {
-      "id": "SE2021004094",
-      "identifier": {
-        "orgnr": "2021004094"
-      },
-      "label": {
-        "sv": "Teknikvetenskapliga forskningsrådet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005208"
-      ]
-    },
     "SE2021004128": {
       "id": "SE2021004128",
       "identifier": {
         "orgnr": "2021004128"
       },
       "label": {
-        "en": "NATIONEL RURAL DEVELOPMENT AGENCY",
         "sv": "Glesbygdsverket"
       },
       "source": [
@@ -6935,9 +6349,7 @@
     },
     "SE2021004169": {
       "alias": [
-        "MFoF",
-        "Myndigheten för internationella adoptionsfrågor",
-        "Statens nämnd för internationella adoptionsfrågor"
+        "MFoF"
       ],
       "department": "Socialdepartementet",
       "email": "info@mfof.se",
@@ -6970,20 +6382,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021004177": {
-      "id": "SE2021004177",
-      "identifier": {
-        "orgnr": "2021004177"
-      },
-      "label": {
-        "en": "National Agency for Special Educational Support",
-        "sv": "Statens institut för särskilt utbildningsstöd"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
     },
     "SE2021004185": {
       "alias": [
@@ -7033,29 +6431,12 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021004193": {
-      "id": "SE2021004193",
-      "identifier": {
-        "orgnr": "2021004193"
-      },
-      "label": {
-        "sv": "Statens institut för handikappfrågor i skolan"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021004219": {
-      "alias": [
-        "Närings- och teknikutvecklingsverket"
-      ],
       "id": "SE2021004219",
       "identifier": {
         "orgnr": "2021004219"
       },
       "label": {
-        "en": "Nutek,Swedish Agency for Economic and Regional Growth",
         "sv": "Verket för näringslivsutveckling"
       },
       "source": [
@@ -7178,22 +6559,17 @@
         "orgnr": "2021004276"
       },
       "label": {
-        "en": "National Housing Credit Guarantee Board",
         "sv": "Statens bostadskreditnämnd"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021003989"
-      ]
+      "status": "unknown"
     },
     "SE2021004284": {
       "alias": [
         "Svenska Kraftnät",
         "Svenska kraftnät",
-        "Svenska kraftnät, affärsverk",
         "Svenskt Kraftnät"
       ],
       "department": "Klimat- och näringslivsdepartementet",
@@ -7206,7 +6582,7 @@
         "orgnr": "2021004284"
       },
       "label": {
-        "en": "Swedish National Grid",
+        "en": "Svenska kraftnät",
         "sv": "Affärsverket svenska kraftnät"
       },
       "legal_type": {
@@ -7229,28 +6605,10 @@
       "state_body_group": "affarsverk",
       "status": "active"
     },
-    "SE2021004292": {
-      "alias": [
-        "Utlänningsnämnden"
-      ],
-      "id": "SE2021004292",
-      "identifier": {
-        "orgnr": "2021004292"
-      },
-      "label": {
-        "en": "Aliens Appeals Board",
-        "sv": "Utlänningsnämndens avvecklingsorganisation"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021004334": {
       "alias": [
         "Centrum för idrottsforskning (CIF)",
         "GIH",
-        "Gymnastik och Idrottshögskolan",
         "Gymnastik- och idrottshögskolan (GIH)",
         "Idrottshögskolan i Stockholm"
       ],
@@ -7320,8 +6678,6 @@
     },
     "SE2021004359": {
       "alias": [
-        "Post och telestyrelsen",
-        "Post- och Telestyrelsen",
         "Post- och telestyrelsen, PTS Bredbandskartläggning",
         "PTS"
       ],
@@ -7367,16 +6723,12 @@
         "orgnr": "2021004367"
       },
       "label": {
-        "en": "National Agency for Services to Universities and University Colle",
         "sv": "Verket för högskoleservice"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006487"
-      ]
+      "status": "unknown"
     },
     "SE2021004375": {
       "department": "Utbildningsdepartementet",
@@ -7404,36 +6756,29 @@
         "dataportal",
         "myndighetsregistret",
         "scb_bulk",
+        "statskontoret",
         "wikidata"
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "deregistered"
     },
     "SE2021004383": {
-      "alias": [
-        "Folkhälsoinstitutet"
-      ],
       "id": "SE2021004383",
       "identifier": {
         "orgnr": "2021004383"
       },
       "label": {
-        "en": "National Institute of Public Health",
         "sv": "Statens folkhälsoinstitut"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006545"
-      ]
+      "status": "unknown"
     },
     "SE2021004417": {
       "alias": [
         "SBU",
-        "Statens beredning för medicinsk utvärdering",
-        "Statens beredning för utvärdering av medicinsk metodik"
+        "Statens beredning för medicinsk utvärdering"
       ],
       "department": "Socialdepartementet",
       "email": "registrator@sbu.se",
@@ -7465,20 +6810,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021004425": {
-      "id": "SE2021004425",
-      "identifier": {
-        "orgnr": "2021004425"
-      },
-      "label": {
-        "en": "Swedish Tourist Authority",
-        "sv": "Turistdelegationen"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
     },
     "SE2021004466": {
       "department": "Klimat- och näringslivsdepartementet",
@@ -7553,16 +6884,12 @@
         "orgnr": "2021004482"
       },
       "label": {
-        "en": "National Board for Public Procurement",
         "sv": "Nämnden för offentlig upphandling"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021004342"
-      ]
+      "status": "unknown"
     },
     "SE2021004508": {
       "alias": [
@@ -7605,7 +6932,6 @@
         "orgnr": "2021004516"
       },
       "label": {
-        "en": "Deposit Guarantee Board",
         "sv": "Insättningsgarantinämnden"
       },
       "source": [
@@ -7614,9 +6940,6 @@
       "status": "unknown"
     },
     "SE2021004524": {
-      "alias": [
-        "Mitthögskolan"
-      ],
       "department": "Utbildningsdepartementet",
       "email": "registrator@miun.se",
       "established": "1993-07-23",
@@ -7655,51 +6978,12 @@
         "orgnr": "2021004532"
       },
       "label": {
-        "en": "Swedish National Institute for Infectious Disease Control",
         "sv": "Smittskyddsinstitutet"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006545"
-      ]
-    },
-    "SE2021004540": {
-      "id": "SE2021004540",
-      "identifier": {
-        "orgnr": "2021004540"
-      },
-      "label": {
-        "sv": "Statens institut för regional forskning"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005190"
-      ]
-    },
-    "SE2021004557": {
-      "alias": [
-        "Centrala försöksdjursnämnden"
-      ],
-      "id": "SE2021004557",
-      "identifier": {
-        "orgnr": "2021004557"
-      },
-      "label": {
-        "sv": "Avvecklingsmyndigheten för Centrala försöksdjursnämnden"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005455"
-      ]
+      "status": "unknown"
     },
     "SE2021004573": {
       "department": "Kulturdepartementet",
@@ -7733,24 +7017,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021004599": {
-      "alias": [
-        "Rådet för forsknings och utvecklingssamarbete inom EU",
-        "Rådet för forsknings och utvecklingssamarbete mellan Sverige och EU"
-      ],
-      "id": "SE2021004599",
-      "identifier": {
-        "orgnr": "2021004599"
-      },
-      "label": {
-        "en": "The Swedish EU-R&D Council",
-        "sv": "Rådet för forsknings- och utvecklingssamarbete inom EU"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
     },
     "SE2021004607": {
       "department": "Finansdepartementet",
@@ -7817,20 +7083,6 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021004623": {
-      "id": "SE2021004623",
-      "identifier": {
-        "orgnr": "2021004623"
-      },
-      "label": {
-        "en": "Appeals Bord for the Total Defence",
-        "sv": "Överklagandenämnden för totalförsvaret"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021004631": {
       "department": "Utbildningsdepartementet",
       "email": "sameskolstyrelsen@sameskolstyrelsen.se",
@@ -7863,39 +7115,12 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021004649": {
-      "id": "SE2021004649",
-      "identifier": {
-        "orgnr": "2021004649"
-      },
-      "label": {
-        "sv": "Statens skola för vuxna i Härnösand"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2021004656": {
-      "id": "SE2021004656",
-      "identifier": {
-        "orgnr": "2021004656"
-      },
-      "label": {
-        "sv": "Statens skola för vuxna i Norrköping"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021004672": {
       "id": "SE2021004672",
       "identifier": {
         "orgnr": "2021004672"
       },
       "label": {
-        "en": "Office of the Swedish Disability Ombudsman",
         "sv": "Handikappombudsmannen"
       },
       "source": [
@@ -7909,16 +7134,12 @@
         "orgnr": "2021004680"
       },
       "label": {
-        "en": "Swedish Radio and TV Authority",
         "sv": "Radio- och TV-verket"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006347"
-      ]
+      "status": "unknown"
     },
     "SE2021004714": {
       "id": "SE2021004714",
@@ -7926,24 +7147,7 @@
         "orgnr": "2021004714"
       },
       "label": {
-        "en": "Swedish Broadcasting Commission",
-        "sv": "Granskningsnämnden för radio och TV"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006347"
-      ]
-    },
-    "SE2021004722": {
-      "id": "SE2021004722",
-      "identifier": {
-        "orgnr": "2021004722"
-      },
-      "label": {
-        "sv": "Totalförsvarets chefsnämnd"
+        "sv": "Granskningsnämnden för radio och tv"
       },
       "source": [
         "statskontoret"
@@ -7964,7 +7168,6 @@
         "orgnr": "2021004730"
       },
       "label": {
-        "en": "National Defence College",
         "sv": "Försvarshögskolan"
       },
       "legal_type": {
@@ -7984,19 +7187,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021004748": {
-      "id": "SE2021004748",
-      "identifier": {
-        "orgnr": "2021004748"
-      },
-      "label": {
-        "sv": "Alkoholinspektionen"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
     },
     "SE2021004763": {
       "department": "Finansdepartementet",
@@ -8103,23 +7293,18 @@
         "orgnr": "2021004797"
       },
       "label": {
-        "en": "Swedish National Agency for Higher Education",
         "sv": "Högskoleverket"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006487",
-        "SE2021006495"
-      ]
+      "status": "unknown"
     },
     "SE2021004805": {
       "alias": [
         "Revisorsnämnden"
       ],
-      "department": "Finansdepartementet",
+      "department": "Justitiedepartementet",
       "email": "ri@revisorsinspektionen.se",
       "established": "1995-06-11",
       "homepage": "https://www.revisorsinspektionen.se",
@@ -8176,7 +7361,6 @@
         "dataportal",
         "myndighetsregistret",
         "scb_bulk",
-        "statskontoret",
         "wikidata"
       ],
       "state_body_group": "forvaltningsmyndighet",
@@ -8188,45 +7372,27 @@
         "orgnr": "2021004847"
       },
       "label": {
-        "en": "Swedish Institute for Transport and Communications and Analysis",
         "sv": "Statens institut för kommunikationsanalys"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006305"
-      ]
+      "status": "unknown"
     },
     "SE2021004854": {
-      "alias": [
-        "Delegationen för genomförande av vissa EU-program"
-      ],
       "id": "SE2021004854",
       "identifier": {
         "orgnr": "2021004854"
       },
       "label": {
-        "en": "International Programme Office",
         "sv": "Internationella programkontoret för utbildningsområdet"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006487"
-      ]
+      "status": "unknown"
     },
     "SE2021004862": {
-      "alias": [
-        "Delegationen för investeringar i Sverige (ISA)",
-        "Delegationen för utländska investeringar i Sverige",
-        "Delegationen för utländska investeringar i Sverige.",
-        "Delegationen för utländska investeringar i Sverige. (Invest in Sveden Agency)",
-        "Myndigheten för utländska investeringar i Sverige (ISA)"
-      ],
       "dissolved": "2012-12-31",
       "established": "1996-01-01",
       "id": "SE2021004862",
@@ -8282,7 +7448,6 @@
     },
     "SE2021004888": {
       "alias": [
-        "Lantmäteriverket",
         "Swedish Mapping, Cadastral and Land Registration Authority",
         "Swedish Mapping, Cadastral and Land Registration Authority (hosted in Arctic SDI cloud environment by Norwegian Mapping Authority)"
       ],
@@ -8357,9 +7522,9 @@
     },
     "SE2021004904": {
       "alias": [
-        "Kärnavfallsfondens styrelse"
+        "Kärnavfallsfonden"
       ],
-      "department": "Klimat- och näringslivsdepartementet",
+      "department": "Miljödepartementet",
       "email": "karnavfallsfonden@kammarkollegiet.se",
       "established": "1996-02-12",
       "homepage": "https://www.karnavfallsfonden.se",
@@ -8371,7 +7536,7 @@
       },
       "label": {
         "en": "Nuclear Waste Fund",
-        "sv": "Kärnavfallsfonden"
+        "sv": "Kärnavfallsfondens styrelse"
       },
       "legal_type": {
         "code": "81",
@@ -8384,7 +7549,6 @@
         "dataportal",
         "myndighetsregistret",
         "scb_bulk",
-        "statskontoret",
         "wikidata"
       ],
       "state_body_group": "forvaltningsmyndighet",
@@ -8427,7 +7591,6 @@
     },
     "SE2021004920": {
       "alias": [
-        "Malmö Högskola",
         "Malmö högskola"
       ],
       "department": "Utbildningsdepartementet",
@@ -8612,16 +7775,12 @@
         "orgnr": "2021004987"
       },
       "label": {
-        "en": "Gotland University",
         "sv": "Högskolan på Gotland"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021002932"
-      ]
+      "status": "unknown"
     },
     "SE2021004995": {
       "email": "info@riksutstallningar.se",
@@ -8632,7 +7791,6 @@
         "orgnr": "2021004995"
       },
       "label": {
-        "en": "Swedish Travelling Exhibitions",
         "sv": "Riksutställningar"
       },
       "organisation_type": "NationalAuthority",
@@ -8640,10 +7798,7 @@
         "dataportal",
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021001090"
-      ]
+      "status": "unknown"
     },
     "SE2021005000": {
       "alias": [
@@ -8750,40 +7905,6 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021005034": {
-      "id": "SE2021005034",
-      "identifier": {
-        "orgnr": "2021005034"
-      },
-      "label": {
-        "en": "Premium Pension Authority",
-        "sv": "Premiepensionsmyndigheten"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006255"
-      ]
-    },
-    "SE2021005042": {
-      "alias": [
-        "Statens kvalitets- och kompetensråd"
-      ],
-      "id": "SE2021005042",
-      "identifier": {
-        "orgnr": "2021005042"
-      },
-      "label": {
-        "en": "The National Council for Quality and Development",
-        "sv": "Avvecklingsmyndigheten för Statens kvalitets- och kompetensråd"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021005059": {
       "id": "SE2021005059",
       "identifier": {
@@ -8791,26 +7912,6 @@
       },
       "label": {
         "sv": "Rikstrafiken"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006297"
-      ]
-    },
-    "SE2021005067": {
-      "alias": [
-        "Centrum för kunskap om ekologisk hållbarhet"
-      ],
-      "id": "SE2021005067",
-      "identifier": {
-        "orgnr": "2021005067"
-      },
-      "label": {
-        "en": "Swedish Institute for Ecological Sustainability",
-        "sv": "Statens institut för ekologisk hållbarhet"
       },
       "source": [
         "statskontoret"
@@ -8858,7 +7959,6 @@
         "orgnr": "2021005083"
       },
       "label": {
-        "en": "The Office of the Ombudsman against Discrimination because of Sexual Orientation",
         "sv": "Ombudsmannen mot diskriminering på grund av sexuell läggning"
       },
       "source": [
@@ -8867,9 +7967,6 @@
       "status": "unknown"
     },
     "SE2021005091": {
-      "alias": [
-        "Moderna Museet"
-      ],
       "department": "Kulturdepartementet",
       "email": "registrator@modernamuseet.se",
       "established": "1999-05-07",
@@ -8901,60 +7998,13 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021005109": {
-      "id": "SE2021005109",
-      "identifier": {
-        "orgnr": "2021005109"
-      },
-      "label": {
-        "sv": "Steriliseringsersättningsnämnden"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021005117": {
       "id": "SE2021005117",
       "identifier": {
         "orgnr": "2021005117"
       },
       "label": {
-        "en": "Swedish Institute for Food and Agricultural Economics",
         "sv": "Livsmedelsekonomiska institutet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021002817",
-        "SE2021003211"
-      ]
-    },
-    "SE2021005125": {
-      "alias": [
-        "Distansutbildningsmyndigheten"
-      ],
-      "id": "SE2021005125",
-      "identifier": {
-        "orgnr": "2021005125"
-      },
-      "label": {
-        "sv": "Distum avvecklingsmyndighet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2021005133": {
-      "id": "SE2021005133",
-      "identifier": {
-        "orgnr": "2021005133"
-      },
-      "label": {
-        "sv": "Delegationen för IT i skolan"
       },
       "source": [
         "statskontoret"
@@ -8963,8 +8013,7 @@
     },
     "SE2021005141": {
       "alias": [
-        "Nämnden för statligt stöd till trossamfund",
-        "Samarbetsnämnden för statsbidrag till trossamfund"
+        "Nämnden för statligt stöd till trossamfund"
       ],
       "department": "kulturdepartementet",
       "dissolved": "2026-01-01",
@@ -8986,10 +8035,7 @@
         "statskontoret",
         "wikidata"
       ],
-      "status": "deregistered",
-      "succeeded_by": [
-        "SE2021001173"
-      ]
+      "status": "deregistered"
     },
     "SE2021005166": {
       "id": "SE2021005166",
@@ -9002,10 +8048,7 @@
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005794"
-      ]
+      "status": "unknown"
     },
     "SE2021005174": {
       "alias": [
@@ -9092,7 +8135,6 @@
         "orgnr": "2021005190"
       },
       "label": {
-        "en": "The Swedish Institute for Growth Policy Studies",
         "sv": "Institutet för tillväxtpolitiska studier"
       },
       "source": [
@@ -9191,7 +8233,7 @@
       },
       "label": {
         "en": "Swedish European Social Fund Council",
-        "sv": "Rådet för Europeiska socialfonden i Sverige"
+        "sv": "Rådet för europeiska socialfonden i Sverige"
       },
       "legal_type": {
         "code": "81",
@@ -9292,16 +8334,12 @@
         "orgnr": "2021005265"
       },
       "label": {
-        "en": "The Swedish Institute for Special Needs Education",
         "sv": "Specialpedagogiska institutet"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005794"
-      ]
+      "status": "unknown"
     },
     "SE2021005273": {
       "department": "Utbildningsdepartementet",
@@ -9372,24 +8410,7 @@
         "wikidata"
       ],
       "state_body_group": "forvaltningsmyndighet",
-      "status": "deregistered",
-      "succeeded_by": [
-        "SE2021005448"
-      ]
-    },
-    "SE2021005299": {
-      "id": "SE2021005299",
-      "identifier": {
-        "orgnr": "2021005299"
-      },
-      "label": {
-        "en": "Advanced Vocational Education",
-        "sv": "Myndigheten för kvalificerad yrkesutbildning"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
+      "status": "deregistered"
     },
     "SE2021005307": {
       "id": "SE2021005307",
@@ -9397,7 +8418,6 @@
         "orgnr": "2021005307"
       },
       "label": {
-        "en": "Swedish Agency for flexible learning",
         "sv": "Nationellt centrum för flexibelt lärande"
       },
       "source": [
@@ -9437,16 +8457,12 @@
       "status": "active"
     },
     "SE2021005323": {
-      "alias": [
-        "Myndigheten för nätverk och samarbete inom högre utbildning",
-        "Myndigheten för Sveriges nätuniversitet"
-      ],
       "id": "SE2021005323",
       "identifier": {
         "orgnr": "2021005323"
       },
       "label": {
-        "sv": "Avvecklingsmyndigheten för nätverk och samarbete inom högre utbildning"
+        "sv": "Myndigheten för nätverk och samarbete inom högre utbildning"
       },
       "source": [
         "statskontoret"
@@ -9455,8 +8471,6 @@
     },
     "SE2021005331": {
       "alias": [
-        "Expertgruppen för EU frågor",
-        "Expertgruppen för EU-frågor",
         "SIEPS"
       ],
       "department": "Statsrådsberedningen",
@@ -9496,7 +8510,6 @@
         "orgnr": "2021005349"
       },
       "label": {
-        "en": "Swedish Emergency Management Agency",
         "sv": "Krisberedskapsmyndigheten"
       },
       "source": [
@@ -9539,6 +8552,7 @@
     "SE2021005364": {
       "alias": [
         "Läkemedelsförmånsnämnden",
+        "Tandvårds- och läkemedelsförmånsverket",
         "Tandvårds-och läkemedelsförmånsverket, TLV",
         "TLV"
       ],
@@ -9572,22 +8586,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021005372": {
-      "id": "SE2021005372",
-      "identifier": {
-        "orgnr": "2021005372"
-      },
-      "label": {
-        "sv": "Statens bostadsnämnd"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021004276"
-      ]
     },
     "SE2021005380": {
       "alias": [
@@ -9630,7 +8628,6 @@
         "orgnr": "2021005406"
       },
       "label": {
-        "en": "National Agency for Education",
         "sv": "Myndigheten för skolutveckling"
       },
       "source": [
@@ -9683,7 +8680,6 @@
       "status": "active"
     },
     "SE2021005422": {
-      "department": "Riksdagen och dess verk m.m.",
       "email": "registrator@riksrevisionen.se",
       "established": "2003-06-07",
       "homepage": "https://www.riksrevisionen.se",
@@ -9693,7 +8689,6 @@
         "orgnr": "2021005422"
       },
       "label": {
-        "en": "The Swedish National Audit Office",
         "sv": "Riksrevisionen"
       },
       "legal_type": {
@@ -9706,24 +8701,10 @@
       "source": [
         "dataportal",
         "myndighetsregistret",
-        "scb_bulk",
-        "statskontoret"
+        "scb_bulk"
       ],
       "state_body_group": "riksdag",
       "status": "active"
-    },
-    "SE2021005430": {
-      "id": "SE2021005430",
-      "identifier": {
-        "orgnr": "2021005430"
-      },
-      "label": {
-        "sv": "Avvecklingsmyndigheten för RRV"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
     },
     "SE2021005448": {
       "alias": [
@@ -9775,20 +8756,16 @@
         "orgnr": "2021005455"
       },
       "label": {
-        "en": "Swedish Animal Welfare Agency",
         "sv": "Djurskyddsmyndigheten"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021004151"
-      ]
+      "status": "unknown"
     },
     "SE2021005463": {
       "alias": [
-        "Centrala etikprövningsnämnden"
+        "Överklagandenämnden för Etikprövning"
       ],
       "department": "Utbildningsdepartementet",
       "email": "kansli@onep.se",
@@ -9802,7 +8779,7 @@
       },
       "label": {
         "en": "The Ethics Review Appeals Board",
-        "sv": "Överklagandenämnden för etikprövning"
+        "sv": "Centrala etikprövningsnämnden"
       },
       "legal_type": {
         "code": "81",
@@ -9815,7 +8792,6 @@
         "dataportal",
         "myndighetsregistret",
         "scb_bulk",
-        "statskontoret",
         "wikidata"
       ],
       "state_body_group": "forvaltningsmyndighet",
@@ -9827,17 +8803,12 @@
         "orgnr": "2021005471"
       },
       "label": {
-        "en": "National Commission on Validation",
         "sv": "Valideringsdelegationen"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021004185",
-        "SE2021005307"
-      ]
+      "status": "unknown"
     },
     "SE2021005489": {
       "department": "Klimat- och näringslivsdepartementet",
@@ -9889,7 +8860,6 @@
         "orgnr": "2021005505"
       },
       "label": {
-        "en": "Swedisch Rail Agency",
         "sv": "Järnvägsstyrelsen"
       },
       "source": [
@@ -9943,7 +8913,6 @@
         "orgnr": "2021005547"
       },
       "label": {
-        "en": "Swedish Civil Aviation Authority",
         "sv": "Luftfartsstyrelsen"
       },
       "source": [
@@ -9992,7 +8961,6 @@
         "orgnr": "2021005596"
       },
       "label": {
-        "en": "Swedish Administrative Development Agency",
         "sv": "Verket för förvaltningsutveckling"
       },
       "source": [
@@ -10006,7 +8974,6 @@
         "orgnr": "2021005604"
       },
       "label": {
-        "en": "Swedish agency for development evaluation",
         "sv": "Institutet för utvärdering av internationellt utvecklingssamarbete"
       },
       "source": [
@@ -10121,33 +9088,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021005661": {
-      "id": "SE2021005661",
-      "identifier": {
-        "orgnr": "2021005661"
-      },
-      "label": {
-        "en": "The Winding-up Authority for the National Institute for Working L",
-        "sv": "Avvecklingsmyndigheten för Arbetslivsinstitutet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2021005679": {
-      "id": "SE2021005679",
-      "identifier": {
-        "orgnr": "2021005679"
-      },
-      "label": {
-        "sv": "Avvecklingsmyndigheten för Integrationsverket"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
     },
     "SE2021005687": {
       "department": "Finansdepartementet",
@@ -10357,19 +9297,6 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021005760": {
-      "id": "SE2021005760",
-      "identifier": {
-        "orgnr": "2021005760"
-      },
-      "label": {
-        "sv": "Avvecklingsmyndigheten för Statens strålskyddsinstitut och kärnkraftsinspektion"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021005778": {
       "department": "Arbetsmarknadsdepartementet",
       "established": "2008-05-08",
@@ -10423,19 +9350,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021005794": {
-      "id": "SE2021005794",
-      "identifier": {
-        "orgnr": "2021005794"
-      },
-      "label": {
-        "sv": "Avvecklingsmyndigheten för skolmyndigheter m.m."
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
     },
     "SE2021005810": {
       "department": "Finansdepartementet",
@@ -10736,19 +9650,6 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021005968": {
-      "id": "SE2021005968",
-      "identifier": {
-        "orgnr": "2021005968"
-      },
-      "label": {
-        "sv": "Avvecklingsmyndigheten för SRV, KBM och SPF"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021005984": {
       "alias": [
         "MCF",
@@ -10957,7 +9858,8 @@
     },
     "SE2021006073": {
       "alias": [
-        "DO"
+        "DO",
+        "Jämställdhetsombudsmannen"
       ],
       "department": "Arbetsmarknadsdepartementet",
       "email": "do@do.se",
@@ -11016,7 +9918,6 @@
         "dataportal",
         "myndighetsregistret",
         "scb_bulk",
-        "statskontoret",
         "wikidata"
       ],
       "state_body_group": "forvaltningsmyndighet",
@@ -11065,19 +9966,6 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021006107": {
-      "id": "SE2021006107",
-      "identifier": {
-        "orgnr": "2021006107"
-      },
-      "label": {
-        "sv": "Avvecklingsmyndigheten för ombudsmännen mot diskriminering"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021006115": {
       "id": "SE2021006115",
       "identifier": {
@@ -11085,22 +9973,6 @@
       },
       "label": {
         "sv": "Kompetensrådet för utveckling i staten"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006511"
-      ]
-    },
-    "SE2021006123": {
-      "id": "SE2021006123",
-      "identifier": {
-        "orgnr": "2021006123"
-      },
-      "label": {
-        "sv": "Avvecklingsmyndigheten för Verket för förvaltningsutveckling"
       },
       "source": [
         "statskontoret"
@@ -11227,6 +10099,7 @@
         "dataportal",
         "myndighetsregistret",
         "scb_bulk",
+        "statskontoret",
         "wikidata"
       ],
       "state_body_group": "forvaltningsmyndighet",
@@ -11267,19 +10140,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021006222": {
-      "id": "SE2021006222",
-      "identifier": {
-        "orgnr": "2021006222"
-      },
-      "label": {
-        "sv": "Utredningen för avveckling av ITPS, Glesbygdsverket och Nutek"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
     },
     "SE2021006230": {
       "alias": [
@@ -11428,19 +10288,6 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2021006289": {
-      "id": "SE2021006289",
-      "identifier": {
-        "orgnr": "2021006289"
-      },
-      "label": {
-        "sv": "Avvecklingsmyndigheten för PPM och delar av FK"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021006297": {
       "alias": [
         "Trafikverket",
@@ -11563,7 +10410,6 @@
         "orgnr": "2021006339"
       },
       "label": {
-        "en": "Swedish Defence and Security Export Agency",
         "sv": "Försvarsexportmyndigheten"
       },
       "source": [
@@ -11574,6 +10420,7 @@
     "SE2021006347": {
       "alias": [
         "Myndigheten för press, radio och tv",
+        "Myndigheten för radio och TV",
         "Myndigheten för radio och tv"
       ],
       "department": "Kulturdepartementet",
@@ -11631,7 +10478,6 @@
       "source": [
         "myndighetsregistret",
         "scb_bulk",
-        "statskontoret",
         "wikidata"
       ],
       "state_body_group": "forvaltningsmyndighet",
@@ -11643,16 +10489,12 @@
         "orgnr": "2021006388"
       },
       "label": {
-        "en": "Stockholm Academy of Dramatic Arts",
         "sv": "Stockholms dramatiska högskola"
       },
       "source": [
         "statskontoret"
       ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021006560"
-      ]
+      "status": "unknown"
     },
     "SE2021006396": {
       "department": "kulturdepartementet",
@@ -11676,10 +10518,7 @@
         "statskontoret",
         "wikidata"
       ],
-      "status": "deregistered",
-      "succeeded_by": [
-        "SE2021006347"
-      ]
+      "status": "deregistered"
     },
     "SE2021006404": {
       "alias": [
@@ -11810,19 +10649,6 @@
       "organisation_type": "NationalAuthority",
       "source": [
         "dataportal"
-      ],
-      "status": "unknown"
-    },
-    "SE2021006446": {
-      "id": "SE2021006446",
-      "identifier": {
-        "orgnr": "2021006446"
-      },
-      "label": {
-        "sv": "Avvecklingsmyndigheten för Fiskeriverket"
-      },
-      "source": [
-        "statskontoret"
       ],
       "status": "unknown"
     },
@@ -11982,32 +10808,6 @@
       ],
       "status": "unknown"
     },
-    "SE2021006511": {
-      "id": "SE2021006511",
-      "identifier": {
-        "orgnr": "2021006511"
-      },
-      "label": {
-        "sv": "Avvecklingsmyndigheten för utbildningsmyndigheter"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2021006529": {
-      "id": "SE2021006529",
-      "identifier": {
-        "orgnr": "2021006529"
-      },
-      "label": {
-        "sv": "Avvecklingsmyndigheten för Myndigheten för utländska investeringar i Sverige m.m"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
     "SE2021006537": {
       "alias": [
         "IVO"
@@ -12114,6 +10914,7 @@
     },
     "SE2021006552": {
       "alias": [
+        "E-Hälsomyndigheten",
         "E-hälsomyndigheten"
       ],
       "department": "Socialdepartementet",
@@ -12185,19 +10986,6 @@
       ],
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
-    },
-    "SE2021006578": {
-      "id": "SE2021006578",
-      "identifier": {
-        "orgnr": "2021006578"
-      },
-      "label": {
-        "sv": "Avvecklingsmyndigheten för vissa myndigheter inom vård- och omsorgsområdet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
     },
     "SE2021006594": {
       "alias": [
@@ -12765,10 +11553,7 @@
         "statskontoret",
         "wikidata"
       ],
-      "status": "deregistered",
-      "succeeded_by": [
-        "SE2021002148"
-      ]
+      "status": "deregistered"
     },
     "SE2021006883": {
       "alias": [
@@ -12897,7 +11682,6 @@
       "source": [
         "myndighetsregistret",
         "scb_bulk",
-        "statskontoret",
         "wikidata"
       ],
       "state_body_group": "forvaltningsmyndighet",
@@ -13032,7 +11816,6 @@
         "orgnr": "2021007071"
       },
       "label": {
-        "en": "Swedish Payments Agency",
         "sv": "Utbetalningsmyndigheten"
       },
       "legal_type": {
@@ -13050,184 +11833,6 @@
       "state_body_group": "forvaltningsmyndighet",
       "status": "active"
     },
-    "SE2022001107": {
-      "id": "SE2022001107",
-      "identifier": {
-        "orgnr": "2022001107"
-      },
-      "label": {
-        "sv": "Civilbefälhavaren i Södra civilområdet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2022001404": {
-      "id": "SE2022001404",
-      "identifier": {
-        "orgnr": "2022001404"
-      },
-      "label": {
-        "sv": "Civilbefälhavaren i Mellersta civilområdet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2022001420": {
-      "alias": [
-        "Civilbefälhavaren i Norra civilområdet"
-      ],
-      "id": "SE2022001420",
-      "identifier": {
-        "orgnr": "2022001420"
-      },
-      "label": {
-        "sv": "Civilbefälhavaren i Norra Civilområdet"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2022001438": {
-      "id": "SE2022001438",
-      "identifier": {
-        "orgnr": "2022001438"
-      },
-      "label": {
-        "sv": "Tomtebodaskolans resurscenter"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2022001446": {
-      "id": "SE2022001446",
-      "identifier": {
-        "orgnr": "2022001446"
-      },
-      "label": {
-        "sv": "Kristinaskolan, Härnösand"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2022001453": {
-      "id": "SE2022001453",
-      "identifier": {
-        "orgnr": "2022001453"
-      },
-      "label": {
-        "sv": "Åsbackaskolan, Gnesta"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2022001461": {
-      "id": "SE2022001461",
-      "identifier": {
-        "orgnr": "2022001461"
-      },
-      "label": {
-        "sv": "Östervångsskolan, Lund"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2022001479": {
-      "id": "SE2022001479",
-      "identifier": {
-        "orgnr": "2022001479"
-      },
-      "label": {
-        "sv": "Ekeskolan, Örebro"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2022001487": {
-      "id": "SE2022001487",
-      "identifier": {
-        "orgnr": "2022001487"
-      },
-      "label": {
-        "sv": "Birgittaskolan, Örebro"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2022001495": {
-      "id": "SE2022001495",
-      "identifier": {
-        "orgnr": "2022001495"
-      },
-      "label": {
-        "sv": "Hällsboskolan, Sigtuna"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2022001503": {
-      "id": "SE2022001503",
-      "identifier": {
-        "orgnr": "2022001503"
-      },
-      "label": {
-        "sv": "Vänerskolan, Vänersborg"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2022001511": {
-      "id": "SE2022001511",
-      "identifier": {
-        "orgnr": "2022001511"
-      },
-      "label": {
-        "sv": "Manillaskolan, Stockholm"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown"
-    },
-    "SE2022001537": {
-      "alias": [
-        "Bostadsdelegationen"
-      ],
-      "id": "SE2022001537",
-      "identifier": {
-        "orgnr": "2022001537"
-      },
-      "label": {
-        "sv": "Delegationen för stöd till vissa kommuner med bostadsåtaganden"
-      },
-      "source": [
-        "statskontoret"
-      ],
-      "status": "unknown",
-      "succeeded_by": [
-        "SE2021005372"
-      ]
-    },
     "SE2022001545": {
       "email": "anna.fredriksson@epn.gu.se",
       "homepage": "https://www.epn.se/goeteborg/om-naemnden/",
@@ -13237,13 +11842,11 @@
         "orgnr": "2022001545"
       },
       "label": {
-        "en": "Regional Ethical Review Board",
         "sv": "Regionala etikprövningsnämnden i Göteborg"
       },
       "organisation_type": "NationalAuthority",
       "source": [
-        "dataportal",
-        "statskontoret"
+        "dataportal"
       ],
       "status": "unknown"
     },
@@ -13256,13 +11859,11 @@
         "orgnr": "2022001552"
       },
       "label": {
-        "en": "Regional Ethical Review Board",
         "sv": "Regionala etikprövningsnämnden i Linköping"
       },
       "organisation_type": "NationalAuthority",
       "source": [
-        "dataportal",
-        "statskontoret"
+        "dataportal"
       ],
       "status": "unknown"
     },
@@ -13275,13 +11876,11 @@
         "orgnr": "2022001560"
       },
       "label": {
-        "en": "Regional Ethical Review Board",
         "sv": "Regionala etikprövningsnämnden i Lund"
       },
       "organisation_type": "NationalAuthority",
       "source": [
-        "dataportal",
-        "statskontoret"
+        "dataportal"
       ],
       "status": "unknown"
     },
@@ -13294,13 +11893,11 @@
         "orgnr": "2022001578"
       },
       "label": {
-        "en": "Regional Ethical Review Board",
         "sv": "Regionala etikprövningsnämnden i Stockholm"
       },
       "organisation_type": "NationalAuthority",
       "source": [
-        "dataportal",
-        "statskontoret"
+        "dataportal"
       ],
       "status": "unknown"
     },
@@ -13313,13 +11910,11 @@
         "orgnr": "2022001586"
       },
       "label": {
-        "en": "Regional Ethical Review Board",
         "sv": "Regionala etikprövningsnämnden i Umeå"
       },
       "organisation_type": "NationalAuthority",
       "source": [
-        "dataportal",
-        "statskontoret"
+        "dataportal"
       ],
       "status": "unknown"
     },
@@ -13332,13 +11927,11 @@
         "orgnr": "2022001594"
       },
       "label": {
-        "en": "Regional Ethical Review Board",
         "sv": "Regionala etikprövningsnämnden i Uppsala"
       },
       "organisation_type": "NationalAuthority",
       "source": [
-        "dataportal",
-        "statskontoret"
+        "dataportal"
       ],
       "status": "unknown"
     },
@@ -28274,6 +26867,27 @@
       ],
       "status": "deregistered"
     },
+    "SE5561961599": {
+      "established": "1978-01-01",
+      "id": "SE5561961599",
+      "identifier": {
+        "orgnr": "5561961599"
+      },
+      "label": {
+        "sv": "Statens järnvägar"
+      },
+      "legal_type": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "organisation_type": "Company",
+      "registered_label": "SJ AB",
+      "source": [
+        "scb_bulk",
+        "statskontoret"
+      ],
+      "status": "active"
+    },
     "SE5563108942": {
       "established": "1987-11-12",
       "homepage": "https://www.arkeologikonsult.se/",
@@ -29088,7 +27702,7 @@
         "orgnr": "8020057538"
       },
       "label": {
-        "sv": "Första ap-fonden"
+        "sv": "Första AP-fonden"
       },
       "legal_type": {
         "code": "72",
@@ -29100,7 +27714,8 @@
       "source": [
         "dataportal",
         "myndighetsregistret",
-        "scb_bulk"
+        "scb_bulk",
+        "statskontoret"
       ],
       "state_body_group": "ap_fond",
       "status": "active"
@@ -29704,7 +28319,7 @@
         "orgnr": "8551040721"
       },
       "label": {
-        "sv": "Sjätte ap-fonden"
+        "sv": "Sjätte AP-fonden"
       },
       "legal_type": {
         "code": "72",
@@ -29716,7 +28331,8 @@
       "source": [
         "dataportal",
         "myndighetsregistret",
-        "scb_bulk"
+        "scb_bulk",
+        "statskontoret"
       ],
       "state_body_group": "ap_fond",
       "status": "active"

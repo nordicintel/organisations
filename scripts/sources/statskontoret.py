@@ -1,98 +1,44 @@
-"""Statskontoret's register of state bodies in the state accounting organisation,
-all years (one Excel sheet per year since 1999, plus a glossary sheet), and its
-yearly list of all state bodies (myndighetsförteckningen).
+"""Statskontoret's yearly list of all state bodies (myndighetsförteckningen), read from
+the one Excel file kept in this repository: ``files/myndighetsforteckning.xlsx``.
 
-Each row is a body in that year with a running number (LöpNr) that survives renames
-and even organisationsnummer changes, a short register identity (MyndID), the
-organisationsnummer, department, English name, contact details and a free-text
-comment that says where a wound-up body went. The reduced result is keyed by
-running number:
+statskontoret.se does not answer GitHub runners or cloud sessions, so the file is
+downloaded by hand from
+https://www.statskontoret.se/analys-och-statistik/oppna-data/myndighetsforteckning/
+and replaced in place once a year. The build reads whatever edition is there.
 
-    {"1128": {"name": {"1999": "Riksskatteverket", "2004": "Skatteverket", ...},
-              "en": "Swedish Tax Agency", "id": ["RSV", "SKV"], "department": "Finansdepartementet",
-              "email": "...", "orgnr": {"2021000985": [1999, 2003], "2021005448": [2004, 2026]},
-              "successor": "Ekonomistyrningsverket", "last_year": 2026}}
+The file has a sheet per edition ("Förteckning 2026") and one with every year since
+2007 ("Förteckning 2007-2026"). Each row is a body in that year: organisationsnummer,
+name, abbreviation or former name, instruction (SFS), department, and, for a nämnd
+hosted by another body, the host. Courts appear only as groups (48 tingsrätter) under
+Domstolsverket's number and are left to Myndighetsregistret. The reduced result:
 
-``orgnr`` maps every valid organisationsnummer the running number has carried to its
-first and last year, ``id`` lists its register identities in order of first use, and
-``successor`` is the body named in the last year's comment.
+    {"year": 2026,
+     "list": {"2021005448": {"name": "Skatteverket", "alias": ["SKV"], "sfs": "2017:154",
+                             "department": "Finansdepartementet"}},
+     "history": {"2021005448": {"name": {"2007": "Skatteverket", ...}, "first": 2007, "last": 2026}}}
 
-The yearly list adds, keyed by organisationsnummer, what the register lacks: the
-abbreviation or former name, the SFS number of the instruction and the department,
-keyed by organisationsnummer. Bodies that share a number (the courts, all under
-Domstolsverket's) are kept as ``unit`` rows under that number's first row; hosted
-nämnder (värdmyndighet) are skipped. Only the current year is used; earlier years
-reuse numbers unreliably. ``fetch`` returns ``{"register": ..., "list": ...}``.
+``list`` is the current edition for bodies that are their own legal unit; a number
+used by several rows (none today once the court groups are skipped) keeps the
+further rows under ``unit``. ``history`` gives every name a number has carried since
+2007, so renamed bodies keep their earlier names as aliases.
 """
-import difflib
-import io
 import re
-import xml.etree.ElementTree as ET
-import zipfile
 from pathlib import Path
 
-from .common import cached, http, orgnr
+import openpyxl
 
-URL = ("https://www.statskontoret.se/kunskapsstod-och-regler/rapportering/"
-       "myndighetsregistret/exportexcelallaarmyndigheter")
-LIST_PAGE = "https://www.statskontoret.se/analys-och-statistik/oppna-data/myndighetsforteckning/"
-# The folder hash and year change with every edition, so the link is read off the page.
-LIST_LINK = re.compile(r"contentassets/[0-9a-f]+/statskontorets-myndighetsforteckning-(\d{4})\.xlsx[^\"']*")
-HEADERS = {"Accept-Encoding": "gzip"}
-# statskontoret.se does not answer from GitHub runners or cloud sessions (the TCP
-# connect times out), so give up quickly there and fall back to the snapshot.
-TIMEOUT = 30
-NS = {"m": "http://schemas.openxmlformats.org/spreadsheetml/2006/main",
-      "r": "http://schemas.openxmlformats.org/officeDocument/2006/relationships"}
-# "the activity moves to X": every phrasing seen in the comments 1999-2026.
-TRANSFER = (
-    r"(?:överförs till och inordnas i|inordna(?:s|d)(?: from \d{4})? (?:i|under|inom)|"
-    r"överför(?:s|ts|des) till|förs över till|uppg(?:år|ick) i|g(?:år|ick) in i|"
-    r"överg(?:år|ick|\.?) (?:till|t\.?|tl)|överf\.? t\.?|övergår till|övertas av|"
-    r"övertagits(?: i sin helhet)? av|ersätts av|finns nu(?: inordnad under| inom)|"
-    r"ingår nu i|sammanslås med|slås samman med)"
-)
-FILLER = r"(?:den (?:nya|nystartade) myndighet(?:en)?|myndighet)\s+"
-SUCCESSOR = re.compile(
-    TRANSFER + r"\s+(?:" + FILLER + r")?(?P<name>.+?)"
-    r"(?=\s+(?:per|fr\.?o\.?m\.?|from|från|den|med|som|i samband)\b|\s+\d{4}|\s*\(|\.\s|\.$|$)", re.I)
-ABBREVIATION = re.compile(r"\((?P<abbr>[A-ZÅÄÖ]{2,8})\)")
-SPLIT = re.compile(r"\s+(?:och|samt)\s+")
-FIRST_YEAR = 1999
+from .common import orgnr
+
+FILE = Path(__file__).resolve().parents[2] / "files" / "myndighetsforteckning.xlsx"
 
 
-def _column(ref):
-    return re.match(r"[A-Z]+", ref).group(0)
-
-
-def sheets(data: bytes):
-    """Yield (sheet name, rows as list of dicts keyed by the header row) for every sheet."""
-    z = zipfile.ZipFile(io.BytesIO(data))
-    shared = [("".join(t.text or "" for t in si.iter(f"{{{NS['m']}}}t")))
-              for si in ET.fromstring(z.read("xl/sharedStrings.xml")).findall("m:si", NS)] \
-        if "xl/sharedStrings.xml" in z.namelist() else []
-    rels = {r.get("Id"): r.get("Target") for r in ET.fromstring(z.read("xl/_rels/workbook.xml.rels"))}
-    for sheet in ET.fromstring(z.read("xl/workbook.xml")).find("m:sheets", NS):
-        target = rels[sheet.get(f"{{{NS['r']}}}id")].lstrip("/")
-        path = target if target.startswith("xl/") else "xl/" + target
-        rows = []
-        for row in ET.fromstring(z.read(path)).iter(f"{{{NS['m']}}}row"):
-            cells = {}
-            for c in row.findall("m:c", NS):
-                v = c.find("m:v", NS)
-                if c.get("t") == "s" and v is not None:
-                    value = shared[int(v.text)]
-                elif c.get("t") == "inlineStr":
-                    value = "".join(t.text or "" for t in c.iter(f"{{{NS['m']}}}t"))
-                else:
-                    value = v.text if v is not None else ""
-                cells[_column(c.get("r"))] = (value or "").strip()
-            rows.append(cells)
-        if not rows:
-            continue
-        header = {col: name for col, name in rows[0].items() if name}
-        yield sheet.get("name"), [{header[c]: v for c, v in r.items() if c in header}
-                                  for r in rows[1:] if any(r.values())]
+def sheets(path: Path):
+    """(sheet name, rows as dicts keyed by the header row) for every sheet, cells as stripped text."""
+    book = openpyxl.load_workbook(path, read_only=True, data_only=True)
+    for sheet in book.worksheets:
+        rows = [["" if v is None else str(v).strip() for v in row] for row in sheet.iter_rows(values_only=True)]
+        header = rows[0] if rows else []
+        yield sheet.title, [dict(zip(header, r)) for r in rows[1:] if any(r)]
 
 
 def luhn(number):
@@ -102,118 +48,51 @@ def luhn(number):
 
 
 def valid_orgnr(value):
-    """The register carries placeholders such as 210000-9999; keep only checksum-valid numbers."""
+    """The list carries group placeholders such as 2021002745 for all tingsrätter; keep only checksum-valid numbers."""
     number = orgnr(value)
     return number if number and luhn(number) else None
 
 
-def successor(comment):
-    """The body a comment says the activity moved to, with any bracketed abbreviation kept."""
-    text = re.sub(r"\s+", " ", comment or "").strip()
-    if not text or re.search(r"\bdelar av\b", text, re.I):
-        return ""
-    m = SUCCESSOR.search(text)
-    if not m:
-        return ""
-    name = m.group("name").strip(" .")
-    abbr = ABBREVIATION.match(text[m.end():].lstrip())
-    return f"{name} ({abbr.group('abbr')})" if abbr else name
+def _row(r):
+    aliases = [a.strip() for a in re.sub(r"\s*\(gammalt namn\)", "", r.get("alternativt_namn", "")).split("/")]
+    return {"name": r.get("myndighet", "").strip(),
+            "alias": sorted(a for a in aliases if a and a != r.get("myndighet", "").strip()),
+            "sfs": r.get("sfs", "").strip(), "department": r.get("departement", "").strip()}
 
 
-def resolve(phrase, by_name, by_id, cutoff=0.88):
-    """Running numbers a successor phrase refers to.
-
-    ``by_name`` and ``by_id`` map casefolded names and register identities (any year)
-    to running numbers. Whole phrase first (exact name, bracketed or bare abbreviation, then the
-    closest name or abbreviation above ``cutoff``), then "X och Y" split at each
-    conjunction as soon as both halves resolve.
-    """
-    phrase = phrase.strip()
-    if not phrase:
-        return []
-    m = ABBREVIATION.search(phrase)
-    name = phrase[:m.start()].strip() if m else phrase
-    key = name.casefold()
-    if key in by_name:
-        return [by_name[key]]
-    for abbr in ([m.group("abbr")] if m else []) + [name.upper()]:
-        if abbr in by_id:
-            return [by_id[abbr]]
-        if (close := difflib.get_close_matches(abbr, by_id, 1, cutoff)):
-            return [by_id[close[0]]]
-    if (close := difflib.get_close_matches(key, by_name, 1, cutoff)):
-        return [by_name[close[0]]]
-    for part in SPLIT.finditer(name):
-        left = resolve(name[:part.start()], by_name, by_id, cutoff)
-        right = resolve(name[part.end():], by_name, by_id, cutoff)
-        if left and right:
-            return left + right
-    return []
-
-
-def fetch(cache: Path):
-    return {"register": register(cache), "list": listing(cache)}
-
-
-def register(cache: Path):
-    # The server answers 404 to any request that sends "Accept-Encoding: identity",
-    # which urllib does by default; asking for gzip is what makes the export work.
-    data = cached(cache, "statskontoret.xlsx", lambda: http(URL, headers=HEADERS, timeout=TIMEOUT)).read_bytes()
-    out = {}
-    for name, rows in sheets(data):
-        if not name.isdigit():
-            continue
-        year = int(name)
-        for r in rows:
-            lopnr, agency = r.get("LöpNr", ""), r.get("Myndighet", "")
-            if not lopnr or not agency:
-                continue
-            lopnr = lopnr.split(".")[0]
-            entry = out.setdefault(lopnr, {"name": {}, "en": "", "id": [], "department": "", "email": "",
-                                           "orgnr": {}, "successor": "", "last_year": 0})
-            entry["name"][str(year)] = agency
-            if r.get("MyndID") and r["MyndID"] not in entry["id"]:
-                entry["id"].append(r["MyndID"])
-            number = valid_orgnr(r.get("OrgNr"))
-            if number:
-                span = entry["orgnr"].setdefault(number, [year, year])
-                span[0], span[1] = min(span[0], year), max(span[1], year)
-            if year >= entry["last_year"]:
-                entry["last_year"] = year
-                entry["successor"] = successor(r.get("Kommentar", ""))
-                entry["en"] = r.get("Engelskt namn", "")
-                entry["department"] = r.get("Departement", "")
-                entry["email"] = r.get("Epost", "").lower()
-    for entry in out.values():
-        entry["name"] = dict(sorted(entry["name"].items()))
-        entry["orgnr"] = dict(sorted(entry["orgnr"].items(), key=lambda kv: kv[1]))
-    return dict(sorted(out.items(), key=lambda kv: int(kv[0])))
-
-
-def _list_url():
-    page = http(LIST_PAGE, headers=HEADERS, timeout=TIMEOUT).decode("utf-8", "replace")
-    links = list(LIST_LINK.finditer(page))
-    if not links:
-        raise ValueError("no myndighetsforteckning link on the page")
-    return "https://www.statskontoret.se/" + max(links, key=lambda m: m.group(1)).group(0)
-
-
-def listing(cache: Path):
-    data = cached(cache, "myndighetsforteckning.xlsx", lambda: http(_list_url(), headers=HEADERS, timeout=TIMEOUT)).read_bytes()
-    current = max((n for n, _ in sheets(data) if n.startswith("Förteckning ") and n[-4:].isdigit()), default="")
-    rows = next((rows for name, rows in sheets(data) if name == current), [])
-    out = {}
-    for r in rows:
+def fetch(path: Path = FILE):
+    tables = dict(sheets(path))
+    editions = sorted(int(n[-4:]) for n in tables if re.fullmatch(r"Förteckning \d{4}", n))
+    if not editions:
+        raise ValueError(f"{path.name}: no 'Förteckning <year>' sheet")
+    year = editions[-1]
+    out = {"year": year, "list": {}, "history": {}}
+    for r in tables[f"Förteckning {year}"]:
         number = valid_orgnr(r.get("orgnr"))
         if not number or r.get("värdmyndighet") or r.get("antal", "1") != "1":
             continue
-        aliases = [a.strip() for a in re.sub(r"\s*\(gammalt namn\)", "", r.get("alternativt_namn", "")).split("/")]
-        row = {"name": r.get("myndighet", ""),
-               "alias": sorted(a for a in aliases if a and a != r.get("myndighet", "")),
-               "sfs": r.get("sfs", ""), "department": r.get("departement", "")}
-        if number in out:
-            # Courts all carry Domstolsverket's number: each is a body of its own under it.
-            out[number].setdefault("unit", []).append(row)
+        row = _row(r)
+        if number in out["list"]:
+            out["list"][number].setdefault("unit", []).append(row)
         else:
-            out[number] = row
-    return dict(sorted(out.items()))
+            out["list"][number] = row
+    span = next((n for n in tables if re.fullmatch(r"Förteckning \d{4}-\d{4}", n)), "")
+    rows = [r for r in tables.get(span, []) if valid_orgnr(r.get("orgnr")) and not r.get("värdmyndighet")
+            and r.get("antal", "1") == "1" and r.get("år", "").isdigit()]
+    # A number several bodies carry in one year (Domstolsverket's) has no history of its own.
+    seen, shared = set(), set()
+    for r in rows:
+        key = (valid_orgnr(r["orgnr"]), r["år"])
+        (shared if key in seen else seen).add(key[0] if key in seen else key)
+    for r in rows:
+        number = valid_orgnr(r.get("orgnr"))
+        if number in shared:
+            continue
+        entry = out["history"].setdefault(number, {"name": {}, "first": int(r["år"]), "last": int(r["år"])})
+        entry["name"][r["år"]] = r.get("myndighet", "").strip()
+        entry["first"], entry["last"] = min(entry["first"], int(r["år"])), max(entry["last"], int(r["år"]))
+    for entry in out["history"].values():
+        entry["name"] = dict(sorted(entry["name"].items()))
+    out["list"] = dict(sorted(out["list"].items()))
+    out["history"] = dict(sorted(out["history"].items()))
+    return out

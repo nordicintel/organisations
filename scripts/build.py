@@ -53,14 +53,16 @@ def fetch(name, producer, report):
     try:
         data = producer()
         dump(path, data)
-        rows = sum(len(v) for v in data.values()) if name in ("dataportal", "statskontoret") else len(data)
+        rows = sum(len(v) for v in data.values() if isinstance(v, dict)) if name in ("dataportal", "statskontoret") else len(data)
         report[name] = {"status": "fetched", "rows": rows}
+        if "year" in data:
+            report[name]["edition"] = data["year"]
         return data
     except Exception as error:  # noqa: BLE001 - any failure must not stop the build
         print(f"{name}: {error}", file=sys.stderr)
         traceback.print_exc()
         data = load(path, {})
-        rows = sum(len(v) for v in data.values()) if name in ("dataportal", "statskontoret") else len(data)
+        rows = sum(len(v) for v in data.values() if isinstance(v, dict)) if name in ("dataportal", "statskontoret") else len(data)
         report[name] = {"status": "stale" if data else "failed", "rows": rows, "error": str(error)[:200]}
         return data
 
@@ -115,10 +117,10 @@ def main():
     europa = fetch("data_europa", lambda: data_europa.fetch(cache), registers)
     wd = fetch("wikidata", lambda: wikidata.fetch(cache), registers)
     state = fetch("myndighetsregistret", lambda: myndighetsregistret.fetch(cache), registers)
-    statskontoret_data = fetch("statskontoret", lambda: statskontoret.fetch(cache), registers)
-    history, listing = statskontoret_data.get("register", {}), statskontoret_data.get("list", {})
+    statskontoret_data = fetch("statskontoret", statskontoret.fetch, registers)
+    history, listing = statskontoret_data.get("history", {}), statskontoret_data.get("list", {})
 
-    wanted = set(state) | set(listing) | {n for entry in history.values() for n in entry["orgnr"]}
+    wanted = set(state) | set(listing) | set(history)
     for uri, row in list(portal.get("registry", {}).items()) + list(portal.get("publishers", {}).items()) + list(europa.items()):
         for value in (uri, row.get("identifier")):
             if (n := orgnr(value)):
@@ -175,10 +177,13 @@ def main():
         units.setdefault(number, {})[suffix] = body["name"]
         return suffix
 
+    legal_name = {}  # the legal unit's name per shared number, as Myndighetsregistret lists it first
+
     for number, row in state.items():
         bodies = [row] + row.get("unit", [])
         registered = scb.get(number, {}).get("name", "").casefold()
         legal = next((b for b in bodies if b["name"].casefold() == registered), bodies[0])
+        legal_name[number] = legal["name"].casefold()
         for body in bodies:
             r = rec(number, "" if body is legal else unit_id(number, body))
             label(r, "sv", title(body["name"]), "myndighetsregistret")
@@ -194,64 +199,23 @@ def main():
                 r.setdefault("email", body["email"])
             r["source"].append("myndighetsregistret")
 
-    # Statskontoret: every name a state body has carried under each of its numbers,
-    # the number that replaced an earlier one, and where a wound-up body went.
-    current_year = max((entry["last_year"] for entry in history.values()), default=0)
-    by_name, by_id, owner = {}, {}, {}
-    for lopnr, entry in history.items():
-        for name in entry["name"].values():
-            by_name[name.casefold()] = lopnr
-        for ident in entry["id"]:
-            by_id[ident] = lopnr
-        for number, (first, last) in entry["orgnr"].items():
-            # A number used by several running numbers (Polisen and Säkerhetspolisen shared
-            # one until 2005) belongs to the one that used it last; the others only add aliases.
-            if last >= owner.get(number, (0, ""))[0]:
-                owner[number] = (last, lopnr)
-
-    def heir(target, year):
-        """The target's number in use in ``year``, else its latest number."""
-        spans = history[target]["orgnr"]
-        return next((n for n, (first, last) in spans.items() if first <= year <= last), max(spans, key=spans.get))
-
-    for lopnr, entry in history.items():
-        numbers = list(entry["orgnr"])
-        for position, (number, (first, last)) in enumerate(entry["orgnr"].items()):
-            r = rec(number)
-            names = [n for y, n in entry["name"].items() if first <= int(y) <= last]
-            if owner[number][1] != lopnr:
-                # Names from a borrowed number are aliases only when this body never
-                # moved on to a number of its own (Säkerhetspolisen did; MIA did not).
-                if number == numbers[-1]:
-                    alias(r, *names)
-                continue
+    # Statskontoret's history sheet: every name a number has carried since 2007; earlier
+    # names become aliases of the body that carries the number today.
+    for number, entry in history.items():
+        names = list(entry["name"].values())
+        r = rec(number)
+        if number not in listing:  # a body wound up since 2007: its last name and its earlier ones
             label(r, "sv", names[-1], "statskontoret")
-            alias(r, *(n for n in names[:-1] if n != names[-1]))
-            if position + 1 < len(numbers):
-                r["succeeded_by"] = sorted(set(r.get("succeeded_by", [])) | {org_id(numbers[position + 1])})
-            elif last == entry["last_year"]:
-                if entry["en"] and entry["en"] != "?":
-                    # Their English names are old and uneven; only fill where Wikidata has none.
-                    label(r, "en", entry["en"], "statskontoret", priority=LABEL_PRIORITY["wikidata"] + 0.5)
-                if entry["email"]:
-                    r.setdefault("email", entry["email"])
-                if entry["department"] and last == current_year:
-                    r["department"] = entry["department"]
-            r["source"].append("statskontoret")
-        if not entry["successor"] or not numbers or owner[numbers[-1]][1] != lopnr:
-            continue
-        heirs = {heir(target, entry["last_year"]) for target in statskontoret.resolve(entry["successor"], by_name, by_id)}
-        heirs -= set(numbers)
-        if heirs:
-            r = rec(numbers[-1])
-            r["succeeded_by"] = sorted(set(r.get("succeeded_by", [])) | {org_id(n) for n in heirs})
+            if "statskontoret" not in r["source"]:
+                r["source"].append("statskontoret")
+        alias(r, *(n for n in names[:-1] if n != names[-1]))
 
     # Statskontoret's yearly list: abbreviation or former name, instruction and department
     # for every current state body that is its own legal unit.
     for number, row in listing.items():
         bodies = [row] + row.get("unit", [])
-        registered = scb.get(number, {}).get("name", "").casefold()
-        legal = next((b for b in bodies if b["name"].casefold() == registered), bodies[0]) if len(bodies) > 1 else row
+        known = {scb.get(number, {}).get("name", "").casefold(), legal_name.get(number, "")} - {""}
+        legal = next((b for b in bodies if b["name"].casefold() in known), bodies[0]) if len(bodies) > 1 else row
         for body in bodies:
             r = rec(number, "" if body is legal else unit_id(number, body))
             label(r, "sv", body["name"], "statskontoret")
@@ -326,6 +290,7 @@ def main():
         if row.get("label_en"):
             label(r, "en", row["label_en"], "wikidata")
         r["identifier"]["wikidata"] = qid
+        alias(r, *row.get("names", []))  # former official names and alternative names, e.g. Stockholms läns landsting
         if row.get("riksarkivet"):
             r["identifier"]["riksarkivet"] = row["riksarkivet"]
         if row.get("kommunkod"):

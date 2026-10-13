@@ -18,17 +18,17 @@ The fields, in the order you will use them:
 | field | meaning | from |
 |---|---|---|
 | `id` | `SE` + organisationsnummer; `SE…-LST` style for dataportal.se's agreed suffixes; `SE…-ALINGSAS-TINGSRATT` style for a state body listed under another body's number (the courts under Domstolsverket), suffix from its own mailbox, else its name; `wikidata:Q…` for bodies with no Swedish number | registers, edits |
-| `label` | official name by language, `sv` always, `en` where published | Statskontoret, dataportal, Myndighetsregistret, Wikidata, edits |
+| `label` | official name by language, `sv` always, `en` where published | Statskontoret (sv), dataportal, Myndighetsregistret, Wikidata, edits |
 | `registered_label` | the name exactly as registered with SCB | SCB bulk file |
 | `slug` | our short code; one per organisation | edits |
-| `alias` | strings seen in source metadata that mean this organisation, every earlier name and abbreviation of a state body, and register names that lost to the label | Statskontoret, dataportal, Myndighetsregistret, edits |
+| `alias` | strings seen in source metadata that mean this organisation, every earlier name and abbreviation of a state body, former official and alternative names from Wikidata, and register names that lost to the label | Statskontoret, Wikidata, dataportal, Myndighetsregistret, edits |
 | `status` | `active`, `deregistered`, `unknown` | SCB, Wikidata |
 | `organisation_type` | ADMS publisher type, the vocabulary both data portals use | legal type, dataportal, edits |
 | `legal_type` | Skatteverket's two-digit juridisk form with label; the authority for what a body is | SCB |
 | `state_body_group`, `sfs`, `department` | state bodies only | Myndighetsregistret, Statskontoret, Wikidata |
 | `code` | `kommun` and `lan` codes for municipalities | Wikidata |
 | `homepage`, `email` | | dataportal, Myndighetsregistret, Statskontoret |
-| `established`, `dissolved`, `succeeded_by` | history; `succeeded_by` lists organisation ids | SCB, Wikidata, Statskontoret |
+| `established`, `dissolved`, `succeeded_by` | history; `succeeded_by` lists organisation ids | SCB, Wikidata |
 | `part_of` | parent id: the legal unit behind a suffixed id | derived |
 | `identifier` | one canonical value per external system: `orgnr`, `dataportal`, `wikidata`, `ror`, `riksarkivet` | registers |
 | `same_as` | every other URI the portals use for the same organisation | portals, edits |
@@ -41,11 +41,10 @@ predecessor of the same name, like Skogsstyrelsen before and after 2006), take t
 one without `succeeded_by`. For state bodies Statskontoret's name wins the Swedish label:
 it is the current name as the body writes it ("Kungl. biblioteket",
 "Integritetsskyddsmyndigheten"), where dataportal.se is often stale and
-Myndighetsregistret is upper case. English names come from Wikidata first and
-Statskontoret only fills gaps, since its English column is old and uneven.
-Statskontoret also writes which earlier
-number a body had (`succeeded_by` from the old number to the new one) and which
-body a wound-up one went into, read from the register's comment. Resolve a portal URI through `identifier.dataportal`,
+Myndighetsregistret is upper case. English names come from Wikidata. Every name a
+number has carried since 2007 in Statskontoret's list is an alias, as are the
+abbreviations and former names its own column gives. Succession (`succeeded_by`)
+comes from Wikidata. Resolve a portal URI through `identifier.dataportal`,
 `same_as`, or the `links/` files.
 
 ### `data_sources.json`
@@ -119,8 +118,9 @@ A register that cannot be fetched is replaced by its snapshot and reported as
 `stale`; only when every register fails does the build exit non-zero. Builds are
 deterministic, so a diff means a register or an edit changed.
 
-statskontoret.se cannot be reached from GitHub-hosted runners or cloud sessions,
-so that register is always `stale` in the workflow and lives on its committed
-snapshot; its snapshot only changes when Statskontoret publishes a new year, so
-run `python scripts/build.py` from a machine in Sweden once a year, or whenever
-the report has said `stale` for a long time, and commit the result.
+Statskontoret is not fetched at all: statskontoret.se does not answer GitHub
+runners or cloud sessions. Its yearly list lives in the repository as
+`files/myndighetsforteckning.xlsx` and the build reads whatever edition is there
+(the report says which). Once a year, download the new file from
+<https://www.statskontoret.se/analys-och-statistik/oppna-data/myndighetsforteckning/>,
+replace it under the same name and commit. Nothing breaks if a year is skipped.

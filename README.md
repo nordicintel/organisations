@@ -2,7 +2,7 @@
 
 Registry of the organisations and data sources behind Nordic statistical data,
 keyed by Swedish organisationsnummer. Rebuilt weekly from free official
-registers. No API keys, standard library only.
+registers. No API keys; openpyxl is the one dependency.
 
 - `organisations.json` is the registry: 1029 organisations with official names,
   legal type, publisher type, status, history and their identities on
@@ -22,7 +22,7 @@ in `schema/`.
 |---|---|
 | [SCB bulk file](https://vardefulla-datamangder.bolagsverket.se/scb/scb_bulkfil.zip), hosted by Bolagsverket, weekly | every legal unit: organisationsnummer, registered name, legal type, status. Public bodies are kept whole; other units when another source or an edit mentions them |
 | [Myndighetsregistret](https://myndighetsregistret.scb.se/) | state bodies by group, SFS, email, web. Courts share Domstolsverket's number |
-| [Statskontoret](https://www.statskontoret.se/kunskapsstod-och-regler/rapportering/myndighetsregistret/) register and [yearly list](https://www.statskontoret.se/analys-och-statistik/oppna-data/myndighetsforteckning/) | state bodies every year since 1999: current and English names, department, earlier names and abbreviations as aliases, earlier numbers, and which body a wound-up one went into. Unreachable from GitHub runners, so refreshed from a machine in Sweden |
+| [Statskontoret's yearly list](https://www.statskontoret.se/analys-och-statistik/oppna-data/myndighetsforteckning/), kept in `files/` | every state body since 2007: current name, abbreviation and former names as aliases, instruction, department. statskontoret.se blocks runners, so the file is downloaded by hand once a year |
 | [dataportal.se](https://admin.dataportal.se/) registry and SPARQL | canonical portal URIs, publisher type, homepage, email, `owl:sameAs` |
 | [data.europa.eu SPARQL](https://data.europa.eu/sparql) | publisher and creator URIs of the Swedish catalogue, identifiers, types |
 | [Wikidata](https://query.wikidata.org/) | English names, kommun and län codes, department, dates, succession |
