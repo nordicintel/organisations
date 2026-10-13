@@ -23,7 +23,7 @@ The fields, in the order you will use them:
 | `slug` | our short code; one per organisation | edits |
 | `alias` | strings seen in source metadata that mean this organisation, every earlier name and abbreviation of a state body, and register names that lost to the label | Statskontoret, dataportal, Myndighetsregistret, edits |
 | `status` | `active`, `deregistered`, `unknown` | SCB, Wikidata |
-| `type` | ADMS publisher type, the vocabulary both data portals use | legal type, dataportal, edits |
+| `organisation_type` | ADMS publisher type, the vocabulary both data portals use | legal type, dataportal, edits |
 | `legal_type` | Skatteverket's two-digit juridisk form with label; the authority for what a body is | SCB |
 | `state_body_group`, `sfs`, `department` | state bodies only | Myndighetsregistret, Statskontoret, Wikidata |
 | `code` | `kommun` and `lan` codes for municipalities | Wikidata |
@@ -58,7 +58,7 @@ source metadata names as the origin of data, following `schema/data_source.schem
 |---|---|
 | `id` | lower-case slug, stable |
 | `label` | name by language |
-| `type` | `survey`, `register`, `database`, `statistical_product`, `publication`, `unit`, `other` |
+| `data_source_type` | `survey`, `register`, `database`, `statistical_product`, `publication`, `unit`, `other` |
 | `owner` | organisation id that runs it, or `null` |
 | `alias` | raw strings that denote it; one string may denote several data sources |
 | `seen_in`, `cited_by` | which adapters mention it and which organisations' datasets cite it |
@@ -79,7 +79,7 @@ The only hand file for organisations. Merged last, so it wins over every registe
   "organisation": {
     "SE2021000837": {"slug": "scb", "alias": ["SCB", "Statistics Sweden"]},
     "SE8460010161": {},
-    "wikidata:Q41550": {"label": {"en": "OECD"}, "type": "SupraNationalAuthority", "status": "active"}
+    "wikidata:Q41550": {"label": {"en": "OECD"}, "organisation_type": "SupraNationalAuthority", "status": "active"}
   },
   "ignore": ["Svensk Fågeltaxering"]
 }
@@ -90,7 +90,7 @@ The only hand file for organisations. Merged last, so it wins over every registe
   everything else overrides.
 - An id the registers lack is created. For a Swedish number `{}` is enough; the
   next build pulls name, legal type and status from the SCB file. For a
-  `wikidata:` id give `label`, `type` and `status`.
+  `wikidata:` id give `label`, `organisation_type` and `status`.
 - Find ids by name in `organisations.json`. Never type an organisationsnummer
   from memory; two of the first slugs were wrong that way.
 - `ignore` lists strings that are neither an organisation nor a data source, so

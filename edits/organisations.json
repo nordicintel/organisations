@@ -299,7 +299,7 @@
         "sv": "Länsstyrelserna gemensamt",
         "en": "The County Administrative Boards jointly"
       },
-      "type": "NationalAuthority",
+      "organisation_type": "NationalAuthority",
       "note": "Joint publisher id used on dataportal.se for all 21 county administrative boards; the base number is Länsstyrelsen i Västra Götalands län.",
       "slug": "lansstyr",
       "alias": [
@@ -1194,7 +1194,7 @@
       "alias": [
         "Ersta Sköndal Bräcke högskola"
       ],
-      "type": "Academia-ScientificOrganisation",
+      "organisation_type": "Academia-ScientificOrganisation",
       "label": {
         "sv": "Marie Cederschiöld högskola",
         "en": "Marie Cederschiöld University"
@@ -1235,7 +1235,7 @@
       "alias": [
         "ESS"
       ],
-      "type": "Academia-ScientificOrganisation",
+      "organisation_type": "Academia-ScientificOrganisation",
       "label": {
         "sv": "European Spallation Source ERIC",
         "en": "European Spallation Source ERIC"
@@ -1278,7 +1278,7 @@
       "alias": [
         "Stiftelsen Nordiska museet"
       ],
-      "type": "NonProfitOrganisation",
+      "organisation_type": "NonProfitOrganisation",
       "label": {
         "sv": "Nordiska museet",
         "en": "Nordic Museum"
@@ -1298,7 +1298,7 @@
       "alias": [
         "SIPRI"
       ],
-      "type": "Academia-ScientificOrganisation"
+      "organisation_type": "Academia-ScientificOrganisation"
     },
     "SE8020068741": {
       "label": {
@@ -1309,7 +1309,7 @@
         "Sophiahemmet",
         "Sophiahemmet ideell förening"
       ],
-      "type": "Academia-ScientificOrganisation",
+      "organisation_type": "Academia-ScientificOrganisation",
       "note": "The association runs Sophiahemmet högskola and the hospital."
     },
     "SE8024041769": {
@@ -1342,7 +1342,7 @@
         "RKA",
         "Kolada"
       ],
-      "type": "NonProfitOrganisation",
+      "organisation_type": "NonProfitOrganisation",
       "note": "Runs Kolada. An association of the state and SKR with its own number."
     },
     "SE8176021825": {
@@ -1372,13 +1372,13 @@
       "alias": [
         "WMU"
       ],
-      "type": "Academia-ScientificOrganisation"
+      "organisation_type": "Academia-ScientificOrganisation"
     },
     "wikidata:Q1472929": {
       "label": {
         "en": "Nasdaq, Inc."
       },
-      "type": "Company",
+      "organisation_type": "Company",
       "status": "active",
       "identifier": {
         "wikidata": "Q1472929"
@@ -1388,7 +1388,7 @@
       "label": {
         "en": "National Bureau of Statistics of China"
       },
-      "type": "NationalAuthority",
+      "organisation_type": "NationalAuthority",
       "status": "active",
       "identifier": {
         "wikidata": "Q1509446"
@@ -1398,7 +1398,7 @@
       "label": {
         "en": "Eurostat"
       },
-      "type": "SupraNationalAuthority",
+      "organisation_type": "SupraNationalAuthority",
       "status": "active",
       "identifier": {
         "wikidata": "Q217659"
@@ -1409,7 +1409,7 @@
         "en": "Statistics Norway",
         "sv": "Statistisk sentralbyrå"
       },
-      "type": "NationalAuthority",
+      "organisation_type": "NationalAuthority",
       "status": "active",
       "identifier": {
         "wikidata": "Q2367019"
@@ -1419,7 +1419,7 @@
       "label": {
         "en": "Bank for International Settlements"
       },
-      "type": "SupraNationalAuthority",
+      "organisation_type": "SupraNationalAuthority",
       "status": "active",
       "identifier": {
         "wikidata": "Q309195"
@@ -1430,7 +1430,7 @@
         "en": "OECD",
         "sv": "OECD"
       },
-      "type": "SupraNationalAuthority",
+      "organisation_type": "SupraNationalAuthority",
       "status": "active",
       "identifier": {
         "wikidata": "Q41550"
@@ -1440,7 +1440,7 @@
       "label": {
         "en": "Federal Reserve System"
       },
-      "type": "NationalAuthority",
+      "organisation_type": "NationalAuthority",
       "status": "active",
       "identifier": {
         "wikidata": "Q53536"
@@ -1450,7 +1450,7 @@
       "label": {
         "en": "Refinitiv"
       },
-      "type": "Company",
+      "organisation_type": "Company",
       "status": "active",
       "identifier": {
         "wikidata": "Q60741469"
@@ -1460,7 +1460,7 @@
       "label": {
         "en": "International Monetary Fund"
       },
-      "type": "SupraNationalAuthority",
+      "organisation_type": "SupraNationalAuthority",
       "status": "active",
       "identifier": {
         "wikidata": "Q7804"
@@ -1470,7 +1470,7 @@
       "label": {
         "en": "European Central Bank"
       },
-      "type": "SupraNationalAuthority",
+      "organisation_type": "SupraNationalAuthority",
       "status": "active",
       "identifier": {
         "wikidata": "Q8901"

@@ -5,7 +5,6 @@
       "sv": "Statistikdatabasen (SSD)",
       "en": "Statistical Database"
     },
-    "type": "database",
     "owner": "SE2021000837",
     "alias": [
       "SCB (FoB och SSD / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
@@ -45,14 +44,14 @@
       "SE2120000449",
       "SE2120001850",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "scb-ostgotadatabasen": {
     "id": "scb-ostgotadatabasen",
     "label": {
       "sv": "Östgötadatabasen (OSDB)"
     },
-    "type": "database",
     "owner": "SE2021000837",
     "alias": [
       "Källa: Östgötadatabasen (SCB)  Sammanställning: Statistikgruppen, Linköpings kommun",
@@ -148,14 +147,14 @@
     "cited_by": [
       "SE2120000449",
       "SE2120001355"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "scb-regiondatabasen": {
     "id": "scb-regiondatabasen",
     "label": {
       "sv": "Regiondatabasen"
     },
-    "type": "database",
     "owner": "SE2021000837",
     "alias": [
       "Regiondatabasen (SCB)",
@@ -166,7 +165,8 @@
     ],
     "cited_by": [
       "SE2120000456"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "scb-rams": {
     "id": "scb-rams",
@@ -174,7 +174,6 @@
       "sv": "Registerbaserad arbetsmarknadsstatistik (RAMS)",
       "en": "Register-based labour market statistics"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "SCB (FoB / Årsys / RAMS / OSDB  / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
@@ -203,7 +202,8 @@
       "SE2120001355",
       "SE2220000315",
       "SE2321000131"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-bas": {
     "id": "scb-bas",
@@ -211,7 +211,6 @@
       "sv": "Befolkningens arbetsmarknadsstatus (BAS)",
       "en": "Labour market status of the population"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "Arbetsförmedlingen och SCB (BAS)",
@@ -249,14 +248,14 @@
       "SE2021006545",
       "SE2120000449",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-arsys": {
     "id": "scb-arsys",
     "label": {
       "sv": "Årlig regional sysselsättningsstatistik (ÅRSYS)"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "SCB (FoB / Årsys / RAMS / OSDB  / Östgötadatabasen). Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
@@ -272,7 +271,8 @@
     ],
     "cited_by": [
       "SE2120000449"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-fob": {
     "id": "scb-fob",
@@ -280,7 +280,6 @@
       "sv": "Folk- och bostadsräkningen (FoB)",
       "en": "Population and Housing Census"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "SCB (FoB / OSDB / Östgötadatabasen).  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
@@ -301,7 +300,8 @@
     ],
     "cited_by": [
       "SE2120000449"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-rtb": {
     "id": "scb-rtb",
@@ -309,7 +309,6 @@
       "sv": "Registret över totalbefolkningen (RTB)",
       "en": "Total Population Register"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "Lägenhetsregistret, fastighetstaxeringsregistret (FTR) och registret över totalbefolkningen (RTB)",
@@ -324,14 +323,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-lisa": {
     "id": "scb-lisa",
     "label": {
       "sv": "LISA (longitudinell integrationsdatabas)"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "SCB (LISA)"
@@ -341,14 +340,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-frida": {
     "id": "scb-frida",
     "label": {
       "sv": "FRIDA (Företagsregister och individdatabas)"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "FRIDA (FöretagsRegister och IndividDAtabas), SCB"
@@ -358,14 +357,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-stativ": {
     "id": "scb-stativ",
     "label": {
       "sv": "STATIV"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "Försäkringskassan, SCB, SCB - Befolkningens arbetsmarknadsstatus (BAS), STATIV från SCB, Arbetsförmedlingen, Folkhälsomy",
@@ -386,14 +385,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-iot": {
     "id": "scb-iot",
     "label": {
       "sv": "Inkomst- och taxeringsregistret (IoT)"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "SCB, Inkomst och Taxeringsregistret (IoT)",
@@ -404,14 +403,14 @@
     ],
     "cited_by": [
       "SE2021006545"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-trif": {
     "id": "scb-trif",
     "label": {
       "sv": "Totalräknad inkomstfördelningsstatistik (TRIF)"
     },
-    "type": "statistical_product",
     "owner": "SE2021000837",
     "alias": [
       "SCB, Totalräknad inkomstfördelningsstatistik (TRIF)"
@@ -421,7 +420,8 @@
     ],
     "cited_by": [
       "SE2021006545"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "scb-ftr": {
     "id": "scb-ftr",
@@ -429,7 +429,6 @@
       "sv": "Fastighetstaxeringsregistret (FTR)",
       "en": "Property tax assessment register"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "Fastighetstaxeringsregistret (FTR) och SCB",
@@ -445,7 +444,8 @@
     "cited_by": [
       "SE2021005612",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-fastighetsprisregistret": {
     "id": "scb-fastighetsprisregistret",
@@ -453,7 +453,6 @@
       "sv": "Fastighetsprisregistret",
       "en": "Property price register"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "Fastighetsprisregistret, Statistiska centralbyrån, bearbetat av Skogsstyrelsen.",
@@ -464,7 +463,8 @@
     ],
     "cited_by": [
       "SE2021005612"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-lagenhetsregistret": {
     "id": "scb-lagenhetsregistret",
@@ -472,7 +472,6 @@
       "sv": "Lägenhetsregistret",
       "en": "Dwelling register"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "Lägenhetsregistret, fastighetstaxeringsregistret (FTR) och registret över totalbefolkningen (RTB)",
@@ -487,14 +486,14 @@
       "SE2021006545",
       "SE2120000449",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-utbildningsregistret": {
     "id": "scb-utbildningsregistret",
     "label": {
       "sv": "Utbildningsregistret"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "Registret över totalbefolkningen (RTB) samt Utbildningsregistret",
@@ -506,14 +505,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-sysselsattningsregistret": {
     "id": "scb-sysselsattningsregistret",
     "label": {
       "sv": "Sysselsättningsregistret"
     },
-    "type": "register",
     "owner": "SE2021000837",
     "alias": [
       "Registret över totalbefolkningen (RTB) samt Sysselsättningsregistret (Sreg)"
@@ -523,7 +522,8 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scb-rakenskapssammandraget": {
     "id": "scb-rakenskapssammandraget",
@@ -531,7 +531,6 @@
       "sv": "Räkenskapssammandraget (RS)",
       "en": "Municipal and regional accounts"
     },
-    "type": "statistical_product",
     "owner": "SE2021000837",
     "alias": [
       "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
@@ -563,14 +562,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "scb-medborgarundersokningen": {
     "id": "scb-medborgarundersokningen",
     "label": {
       "sv": "Medborgarundersökningen"
     },
-    "type": "survey",
     "owner": "SE2021000837",
     "alias": [
       "Medborgarundersökningen",
@@ -585,7 +584,8 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "scb-befolkningsstatistik": {
     "id": "scb-befolkningsstatistik",
@@ -593,7 +593,6 @@
       "sv": "Befolkningsstatistik",
       "en": "Population statistics"
     },
-    "type": "statistical_product",
     "owner": "SE2021000837",
     "alias": [
       "<ul> <li>Hälsoräkenskaperna (HC.0 - HC.7 ”Totala löpande hälso- och sjukvårdsutgifter” samt ”HC.3ADL - därav ADL”), Statistiska centralbyrån.</li> <li>Folkmängd per 31 december per år, Statistiska centralbyrån.</li> <li>Ett konsumtionsprisindex för hälso- och sjukvård för regioner, Statistiska centralbyrån.</li> </ul>",
@@ -627,14 +626,14 @@
       "SE2021006545",
       "SE2120000449",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "scb-befolkningsprognoser": {
     "id": "scb-befolkningsprognoser",
     "label": {
       "sv": "Befolkningsprognoser"
     },
-    "type": "statistical_product",
     "owner": "SE2021000837",
     "alias": [
       "SCB, samt egna befolkningsprognoser för Linköpings kommun, Motala kommun, Mjölby kommun och dess delområden. Delområdesprognos för Åtvidabergs kommun och Kinda kommun. Kommunprognoser för Åtvidaberg och Kinda samt prognosen för hela länet är hämtade från SCB:s framskrivning av folkmängden i alla landets kommuner. Sammanställning och bearbetning: Statistikgruppen, Linköpings kommun.",
@@ -648,7 +647,8 @@
     ],
     "cited_by": [
       "SE2120000449"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "scb-aku": {
     "id": "scb-aku",
@@ -656,7 +656,6 @@
       "sv": "Arbetskraftsundersökningarna (AKU)",
       "en": "Labour Force Surveys"
     },
-    "type": "survey",
     "owner": "SE2021000837",
     "alias": [
       "SCB, AKU",
@@ -668,14 +667,14 @@
     "cited_by": [
       "SE2021005612",
       "SE2021006545"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "scb-valdeltagandeundersokningen": {
     "id": "scb-valdeltagandeundersokningen",
     "label": {
       "sv": "Valdeltagandeundersökningen"
     },
-    "type": "survey",
     "owner": "SE2021000837",
     "alias": [
       "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten",
@@ -693,7 +692,8 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "scb-valstatistik": {
     "id": "scb-valstatistik",
@@ -701,7 +701,6 @@
       "sv": "Valstatistik",
       "en": "Election statistics"
     },
-    "type": "statistical_product",
     "owner": "SE2021000837",
     "alias": [
       "SCB, Valstatistik, Valmyndigheten fr o m 2010"
@@ -711,14 +710,14 @@
     ],
     "cited_by": [
       "SE2021006545"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "scb-socioekonomiskt-index": {
     "id": "scb-socioekonomiskt-index",
     "label": {
       "sv": "Socioekonomiskt index"
     },
-    "type": "statistical_product",
     "owner": "SE2021000837",
     "alias": [
       "Beräkningar av RKA, baserade på Socioekonomiskt index (SCB) via Skolverket"
@@ -728,7 +727,8 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "scb-halsorakenskaperna": {
     "id": "scb-halsorakenskaperna",
@@ -736,7 +736,6 @@
       "sv": "Hälsoräkenskaperna",
       "en": "Health accounts"
     },
-    "type": "statistical_product",
     "owner": "SE2021000837",
     "alias": [
       "<ul> <li>Hälsoräkenskaperna (HC.0 - HC.7 ”Totala löpande hälso- och sjukvårdsutgifter” samt ”HC.3ADL - därav ADL”), Statistiska centralbyrån.</li> <li>Folkmängd per 31 december per år, Statistiska centralbyrån.</li> <li>Ett konsumtionsprisindex för hälso- och sjukvård för regioner, Statistiska centralbyrån.</li> </ul>"
@@ -746,7 +745,8 @@
     ],
     "cited_by": [
       "SE2021000555"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "scb-nst": {
     "id": "scb-nst",
@@ -754,7 +754,6 @@
       "sv": "NST-tabeller",
       "en": "Regional accounts tables"
     },
-    "type": "statistical_product",
     "owner": "SE2021000837",
     "alias": [
       "Statistiska centralbyrån (SCB), tab NST 1.3",
@@ -765,14 +764,14 @@
     ],
     "cited_by": [
       "SE2120002411"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "scb-kommunal-personal": {
     "id": "scb-kommunal-personal",
     "label": {
       "sv": "Kommunal personal (KU55)"
     },
-    "type": "statistical_product",
     "owner": "SE2021000837",
     "alias": [
       "SCB:s Fastighetstaxeringsregister och SCB:s insamlade KU55 blanketter från Skatteverket",
@@ -783,14 +782,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "skr-personalstatistik": {
     "id": "skr-personalstatistik",
     "label": {
       "sv": "Personal- och lönestatistik (novemberstatistiken)"
     },
-    "type": "statistical_product",
     "owner": "SE2220000315",
     "alias": [
       "SCB:s befolkningsstatistik och SKR:s novemberstatistik",
@@ -812,14 +811,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "skr-kpp-databasen": {
     "id": "skr-kpp-databasen",
     "label": {
       "sv": "KPP-databasen (kostnad per patient)"
     },
-    "type": "database",
     "owner": "SE2220000315",
     "alias": [
       "KPP-databasen (SKR)"
@@ -829,14 +828,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "skr-brukarundersokning-funktionsnedsattning": {
     "id": "skr-brukarundersokning-funktionsnedsattning",
     "label": {
       "sv": "Brukarundersökning inom verksamheter för personer med funktionsnedsättning"
     },
-    "type": "survey",
     "owner": "SE2220000315",
     "alias": [
       "SKR:s undersökning om brukares uppfattning av kvalitet inom verksamheter för personer med funktionsnedsättning"
@@ -846,14 +845,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "skr-brukarundersokning-ifo": {
     "id": "skr-brukarundersokning-ifo",
     "label": {
       "sv": "Brukarundersökning inom individ- och familjeomsorg"
     },
-    "type": "survey",
     "owner": "SE2220000315",
     "alias": [
       "SKR:s undersökning om brukares uppfattning av kvalitet inom individ- och familjeomsorg"
@@ -863,14 +862,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "skr-anlaggningsenkaten": {
     "id": "skr-anlaggningsenkaten",
     "label": {
       "sv": "Anläggningsenkäten"
     },
-    "type": "survey",
     "owner": "SE2220000315",
     "alias": [
       "Riksidrottsförbundet och Anläggningsenkäten (SKR)",
@@ -884,14 +883,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "skr-verksamhetsstatistik": {
     "id": "skr-verksamhetsstatistik",
     "label": {
       "sv": "SKR:s verksamhetsstatistik"
     },
-    "type": "statistical_product",
     "owner": "SE2220000315",
     "alias": [
       "Patientregistret (Socialstyrelsen) via SKR:s verksamhetsstatistik",
@@ -903,14 +902,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "skr-varden-i-siffror": {
     "id": "skr-varden-i-siffror",
     "label": {
       "sv": "Vården i siffror"
     },
-    "type": "database",
     "owner": "SE2220000315",
     "alias": [
       "Beräkningar av RKA baserat på uppgifter från Vården i siffror och väntetider i vården",
@@ -959,14 +958,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "skr-vantetider-i-varden": {
     "id": "skr-vantetider-i-varden",
     "label": {
       "sv": "Väntetider i vården"
     },
-    "type": "database",
     "owner": "SE2220000315",
     "alias": [
       "Beräkningar av RKA baserat på uppgifter från Vården i siffror och väntetider i vården",
@@ -985,14 +984,14 @@
     "cited_by": [
       "SE2021000555",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "skr-halso-och-sjukvardsbarometern": {
     "id": "skr-halso-och-sjukvardsbarometern",
     "label": {
       "sv": "Hälso- och sjukvårdsbarometern"
     },
-    "type": "survey",
     "owner": "SE2220000315",
     "alias": [
       "Hälso- och sjukvårdsbarometern",
@@ -1005,14 +1004,14 @@
     "cited_by": [
       "SE2021000555",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "skr-oppna-jamforelser": {
     "id": "skr-oppna-jamforelser",
     "label": {
       "sv": "Öppna jämförelser"
     },
-    "type": "statistical_product",
     "owner": "SE2220000315",
     "alias": [
       "Socialstyrelsens Öppna Jämförelser av ekonomiskt bistånd",
@@ -1031,14 +1030,14 @@
       "SE2021000555",
       "SE2120000449",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "skr-ehalsa-enkat": {
     "id": "skr-ehalsa-enkat",
     "label": {
       "sv": "Enkät om utvecklingen av e-hälsa och välfärdsteknik i kommunerna"
     },
-    "type": "survey",
     "owner": "SE2220000315",
     "alias": [
       "Socialstyrelsen, enkät om utvecklingen av e-hälsa och välfärdsteknik i kommunerna",
@@ -1050,14 +1049,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "skr-enhetsundersokning": {
     "id": "skr-enhetsundersokning",
     "label": {
       "sv": "Enhetsundersökningen"
     },
-    "type": "survey",
     "owner": "SE2220000315",
     "alias": [
       "Enhetsundersökningen om äldreomsorg och kommunal hälso- och sjukvård. 2025. Socialstyrelsen.",
@@ -1073,14 +1072,14 @@
     "cited_by": [
       "SE2021000555",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "skr-jamforelsetal": {
     "id": "skr-jamforelsetal",
     "label": {
       "sv": "Jämförelsetal"
     },
-    "type": "statistical_product",
     "owner": "SE2220000315",
     "alias": [
       "Jämförelsetal",
@@ -1092,14 +1091,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "skr-fastighetsnyckeltal": {
     "id": "skr-fastighetsnyckeltal",
     "label": {
       "sv": "Regionernas fastighetsnyckeltalsnätverk"
     },
-    "type": "other",
     "owner": "SE2220000315",
     "alias": [
       "Regionens fastighetsnyckeltalsnäverk"
@@ -1109,14 +1108,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "rka-berakningar": {
     "id": "rka-berakningar",
     "label": {
       "sv": "RKA:s beräkningar"
     },
-    "type": "statistical_product",
     "owner": "SE2220000315",
     "alias": [
       "Medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreo",
@@ -1153,14 +1152,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "kolada": {
     "id": "kolada",
     "label": {
       "sv": "Kolada"
     },
-    "type": "database",
     "owner": "SE2220000315",
     "alias": [
       "BRÅs nationella trygghetsundersökning 2021 slås ihop och det gemensamma resultatet publiceras under åren 2020 och 2021 i Kolada",
@@ -1173,7 +1172,8 @@
     "cited_by": [
       "SE2120000449",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "sos-patientregistret": {
     "id": "sos-patientregistret",
@@ -1181,7 +1181,6 @@
       "sv": "Patientregistret (PAR)",
       "en": "National Patient Register"
     },
-    "type": "register",
     "owner": "SE2021000555",
     "alias": [
       "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen",
@@ -1221,7 +1220,8 @@
       "SE2021000555",
       "SE2021006545",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "sos-lakemedelsregistret": {
     "id": "sos-lakemedelsregistret",
@@ -1229,7 +1229,6 @@
       "sv": "Läkemedelsregistret (LMED)",
       "en": "Prescribed Drug Register"
     },
-    "type": "register",
     "owner": "SE2021000555",
     "alias": [
       "Dödsorsaksregistret och Läkemedelsregistret, Socialstyrelsen",
@@ -1252,7 +1251,8 @@
     "cited_by": [
       "SE2021000555",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "sos-dodsorsaksregistret": {
     "id": "sos-dodsorsaksregistret",
@@ -1260,7 +1260,6 @@
       "sv": "Dödsorsaksregistret",
       "en": "Cause of Death Register"
     },
-    "type": "register",
     "owner": "SE2021000555",
     "alias": [
       "Dödsorsaksregistret och Läkemedelsregistret, Socialstyrelsen",
@@ -1283,7 +1282,8 @@
       "SE2021000555",
       "SE2021006545",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "sos-medicinska-fodelseregistret": {
     "id": "sos-medicinska-fodelseregistret",
@@ -1291,7 +1291,6 @@
       "sv": "Medicinska födelseregistret",
       "en": "Medical Birth Register"
     },
-    "type": "register",
     "owner": "SE2021000555",
     "alias": [
       "Medicinska födelseregistret, Patientregistret, Socialstyrelsen",
@@ -1308,14 +1307,14 @@
       "SE2021000555",
       "SE2021006545",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "sos-register-insatser-aldre": {
     "id": "sos-register-insatser-aldre",
     "label": {
       "sv": "Registret över insatser till äldre och personer med funktionsnedsättning"
     },
-    "type": "register",
     "owner": "SE2021000555",
     "alias": [
       "Folkhälsomyndigheten, Sminet, Socialstyrelsens register över insatser till äldre och personer med funktionsnedsättning",
@@ -1335,14 +1334,14 @@
       "SE2021000555",
       "SE2021006545",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "sos-register-ekonomiskt-bistand": {
     "id": "sos-register-ekonomiskt-bistand",
     "label": {
       "sv": "Registret över ekonomiskt bistånd"
     },
-    "type": "register",
     "owner": "SE2021000555",
     "alias": [
       "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
@@ -1360,14 +1359,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "sos-mangdstatistik": {
     "id": "sos-mangdstatistik",
     "label": {
       "sv": "Mängdstatistik"
     },
-    "type": "statistical_product",
     "owner": "SE2021000555",
     "alias": [
       "SCB och Socialstyrelsens mängdstatistik",
@@ -1378,14 +1377,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "sos-aldreundersokningen": {
     "id": "sos-aldreundersokningen",
     "label": {
       "sv": "Vad tycker de äldre om äldreomsorgen?"
     },
-    "type": "survey",
     "owner": "SE2021000555",
     "alias": [
       "Medelvärdesberäkning av RKA baserat på uppgifter från Socialstyrelsens brukarundersökning (Vad tycker de äldre om äldreo",
@@ -1402,14 +1401,14 @@
     "cited_by": [
       "SE2021000555",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "sos-elevhalsan": {
     "id": "sos-elevhalsan",
     "label": {
       "sv": "Elevhälsans längd- och viktmätningar"
     },
-    "type": "survey",
     "owner": "SE2021000555",
     "alias": [
       "Elevhälsan, data baseras på längd- och viktmätningar gjorda inom ramen för elevhälsosamtalen."
@@ -1419,7 +1418,8 @@
     ],
     "cited_by": [
       "SE2021006545"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "fohm-hlv": {
     "id": "fohm-hlv",
@@ -1427,7 +1427,6 @@
       "sv": "Nationella folkhälsoenkäten Hälsa på lika villkor (HLV)",
       "en": "National Public Health Survey"
     },
-    "type": "survey",
     "owner": "SE2021006545",
     "alias": [
       "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU) från Brottsförebyggande rådet (Brå), Folkhälsomyndigheten (HLV), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Hälsa på lika villkor (HLV), Patientregistret, Socialstyrelsen",
@@ -1478,14 +1477,14 @@
     "cited_by": [
       "SE2021006545",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "fohm-folkhalsodata": {
     "id": "fohm-folkhalsodata",
     "label": {
       "sv": "Folkhälsodata"
     },
-    "type": "database",
     "owner": "SE2021006545",
     "alias": [
       "Folkhälsomyndigheten (Folkhälsodata) och SCB.  Sammanställning: Statistikgruppen, Linköpings kommun"
@@ -1495,14 +1494,14 @@
     ],
     "cited_by": [
       "SE2120000449"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "fohm-sminet": {
     "id": "fohm-sminet",
     "label": {
       "sv": "SmiNet"
     },
-    "type": "register",
     "owner": "SE2021006545",
     "alias": [
       "Folkhälsomyndigheten, Sminet",
@@ -1516,7 +1515,8 @@
     ],
     "cited_by": [
       "SE2021006545"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "fohm-nvr": {
     "id": "fohm-nvr",
@@ -1524,7 +1524,6 @@
       "sv": "Nationella vaccinationsregistret (NVR)",
       "en": "National vaccination register"
     },
-    "type": "register",
     "owner": "SE2021006545",
     "alias": [
       "Folkhälsomyndigheten, Nationella vaccinationsregistret (NVR)",
@@ -1539,14 +1538,14 @@
     "cited_by": [
       "SE2021006545",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "fohm-sir": {
     "id": "fohm-sir",
     "label": {
       "sv": "Svenska intensivvårdsregistret (SIR)"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Folkhälsomyndigheten, Sminet, Statistikmyndigheten SCB, Svenska Intensivvårdsregistret SIR"
@@ -1556,14 +1555,14 @@
     ],
     "cited_by": [
       "SE2021006545"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "bra-ntu": {
     "id": "bra-ntu",
     "label": {
       "sv": "Nationella trygghetsundersökningen (NTU)"
     },
-    "type": "survey",
     "owner": "SE2021000068",
     "alias": [
       "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU",
@@ -1583,14 +1582,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "bra-ptu": {
     "id": "bra-ptu",
     "label": {
       "sv": "Politikernas trygghetsundersökning (PTU)"
     },
-    "type": "survey",
     "owner": "SE2021000068",
     "alias": [
       "Arbetsmiljöverket, SCB, Skolverket och SCB, Socialstyrelsen, Enkätundersökningen Politikernas trygghetsundersökning (PTU",
@@ -1607,14 +1606,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "boverket-bostadsmarknadsenkaten": {
     "id": "boverket-bostadsmarknadsenkaten",
     "label": {
       "sv": "Bostadsmarknadsenkäten"
     },
-    "type": "survey",
     "owner": "SE2021003989",
     "alias": [
       "Bostadsmarknadsenkäten",
@@ -1625,14 +1624,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "trafikverket-nvdb": {
     "id": "trafikverket-nvdb",
     "label": {
       "sv": "Nationell vägdatabas (NVDB)"
     },
-    "type": "database",
     "owner": "SE2021006297",
     "alias": [
       "Egen undersökning i kommunen och NVBD",
@@ -1647,14 +1646,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "skolinspektionen-elevenkat": {
     "id": "skolinspektionen-elevenkat",
     "label": {
       "sv": "Skolinspektionens elevenkät"
     },
-    "type": "survey",
     "owner": "SE2021006065",
     "alias": [
       "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten",
@@ -1670,14 +1669,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "skolverket-siris": {
     "id": "skolverket-siris",
     "label": {
       "sv": "SIRIS"
     },
-    "type": "database",
     "owner": "SE2021004185",
     "alias": [
       "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten",
@@ -1693,14 +1692,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "smhi-nationella-emissionsdatabasen": {
     "id": "smhi-nationella-emissionsdatabasen",
     "label": {
       "sv": "Nationella emissionsdatabasen"
     },
-    "type": "database",
     "owner": "SE2021000696",
     "alias": [
       "Nationella emissionsdatabasen",
@@ -1725,7 +1724,8 @@
     "cited_by": [
       "SE2021000696",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "slu-riksskogstaxeringen": {
     "id": "slu-riksskogstaxeringen",
@@ -1733,7 +1733,6 @@
       "sv": "Riksskogstaxeringen",
       "en": "Swedish National Forest Inventory"
     },
-    "type": "survey",
     "owner": "SE2021002817",
     "alias": [
       "Riksskogstaxeringen, Sveriges lantbruksuniversitet.##Framtaget för länsstyrelsernas delprogram Miljötillståndet i skogslandskapet inom den regionala miljöövervakningen.",
@@ -1751,14 +1750,14 @@
       "SE2021002361-LST",
       "SE2021002817",
       "SE2021005612"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "skogsstyrelsen-abin": {
     "id": "skogsstyrelsen-abin",
     "label": {
       "sv": "Älgbetesinventeringen (Äbin)"
     },
-    "type": "survey",
     "owner": "SE2021005612",
     "alias": [
       "Skogsstyrelsen. Älgbetesinventering (Äbin)."
@@ -1768,14 +1767,14 @@
     ],
     "cited_by": [
       "SE2021005612"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "skogsstyrelsen-navet": {
     "id": "skogsstyrelsen-navet",
     "label": {
       "sv": "Navet (Skogsstyrelsens administrativa register)"
     },
-    "type": "register",
     "owner": "SE2021005612",
     "alias": [
       "Skogsstyelsens administrativa register Navet.",
@@ -1786,14 +1785,14 @@
     ],
     "cited_by": [
       "SE2021005612"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "skogsstyrelsen-ska22": {
     "id": "skogsstyrelsen-ska22",
     "label": {
       "sv": "Skogliga konsekvensanalyser 2022 (SKA22)"
     },
-    "type": "statistical_product",
     "owner": "SE2021005612",
     "alias": [
       "Skogsstyrelsen, SKA22"
@@ -1803,14 +1802,14 @@
     ],
     "cited_by": [
       "SE2021005612"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "fk-sjukstatistik": {
     "id": "fk-sjukstatistik",
     "label": {
       "sv": "Försäkringskassans statistik inom området sjuk"
     },
-    "type": "statistical_product",
     "owner": "SE2021005521",
     "alias": [
       "Försäkringskassans statistik inom området sjuk och SCB",
@@ -1826,14 +1825,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "finsam": {
     "id": "finsam",
     "label": {
       "sv": "Finsam (samordningsförbundens uppföljning)"
     },
-    "type": "database",
     "owner": null,
     "alias": [
       "SCB och Försäkringskassan via finsam.se"
@@ -1843,14 +1842,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "valmyndigheten-valresultat": {
     "id": "valmyndigheten-valresultat",
     "label": {
       "sv": "Valmyndighetens valresultat"
     },
-    "type": "statistical_product",
     "owner": "SE2021005281",
     "alias": [
       "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
@@ -1881,14 +1880,14 @@
       "SE2120000449",
       "SE2120001157",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "energimyndigheten-drivmedel": {
     "id": "energimyndigheten-drivmedel",
     "label": {
       "sv": "Drivmedelsvolymer (trafikhuvudmännen)"
     },
-    "type": "statistical_product",
     "owner": "SE2021005000",
     "alias": [
       "Trafikhuvudmännen (drivmedelsvolymer) och Energimyndigheten (omräkningsfaktorer)"
@@ -1898,14 +1897,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "tourism-in-skane": {
     "id": "tourism-in-skane",
     "label": {
       "sv": "Tourism in Skåne"
     },
-    "type": "other",
     "owner": null,
     "alias": [
       "Tourism in Skåne/SCB, uttag genom Helsingborgs stads statistikdatabas"
@@ -1915,14 +1914,14 @@
     ],
     "cited_by": [
       "SE2120001157"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "internetstiftelsen-bredbandskollen": {
     "id": "internetstiftelsen-bredbandskollen",
     "label": {
       "sv": "Bredbandskollen"
     },
-    "type": "database",
     "owner": "SE8024050190",
     "alias": [
       "Bredbandskollen via Internetstiftelsen",
@@ -1933,14 +1932,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "can-skolundersokningen": {
     "id": "can-skolundersokningen",
     "label": {
       "sv": "CAN:s nationella skolundersökning"
     },
-    "type": "survey",
     "owner": "SE8020005461",
     "alias": [
       "CAN:s nationella skolundersökning"
@@ -1950,14 +1949,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "svensk-kollektivtrafik-kollektivtrafikbarometern": {
     "id": "svensk-kollektivtrafik-kollektivtrafikbarometern",
     "label": {
       "sv": "Kollektivtrafikbarometern"
     },
-    "type": "survey",
     "owner": "SE8020021500",
     "alias": [
       "Kollektivtrafikbarometern"
@@ -1967,14 +1966,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "ivl-krondroppsnatet": {
     "id": "ivl-krondroppsnatet",
     "label": {
       "sv": "Krondroppsnätet"
     },
-    "type": "survey",
     "owner": "SE5561162446",
     "alias": [
       "Krondroppsnätet, IVL Svenska Miljöinstirutet"
@@ -1984,14 +1983,14 @@
     ],
     "cited_by": [
       "SE2021005612"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "avfall-sverige-statistik": {
     "id": "avfall-sverige-statistik",
     "label": {
       "sv": "Avfall Sveriges avfallsstatistik"
     },
-    "type": "statistical_product",
     "owner": "SE8460010161",
     "alias": [
       "Avfall Sverige",
@@ -2005,14 +2004,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "fti-insamlingsstatistik": {
     "id": "fti-insamlingsstatistik",
     "label": {
       "sv": "FTI:s insamlingsstatistik"
     },
-    "type": "statistical_product",
     "owner": null,
     "alias": [
       "Avfall Sverige via FTI och i förekommande fall kompletterande uppgifter från kommunen avseende fastighetsnära insamling"
@@ -2022,14 +2021,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "senior-alert": {
     "id": "senior-alert",
     "label": {
       "sv": "Senior alert"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Senior Alert",
@@ -2044,14 +2043,14 @@
     "cited_by": [
       "SE2021006545",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "svenska-palliativregistret": {
     "id": "svenska-palliativregistret",
     "label": {
       "sv": "Svenska palliativregistret"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Palliativ registret",
@@ -2066,14 +2065,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "ndr": {
     "id": "ndr",
     "label": {
       "sv": "Nationella diabetesregistret (NDR)"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Försäkringskassans statistik inom området sjuk och SCB, SCB, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten.\\n",
@@ -2092,14 +2091,14 @@
     "cited_by": [
       "SE2021006545",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "riksstroke": {
     "id": "riksstroke",
     "label": {
       "sv": "Riksstroke"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Nationella kvalitetsregistret för stroke via Vården i siffror",
@@ -2112,14 +2111,14 @@
     "cited_by": [
       "SE2021000555",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "swedeheart": {
     "id": "swedeheart",
     "label": {
       "sv": "SWEDEHEART"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Swedeheart via Vården i Siffrar",
@@ -2131,14 +2130,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "graviditetsregistret": {
     "id": "graviditetsregistret",
     "label": {
       "sv": "Graviditetsregistret"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Graviditetsregistret",
@@ -2151,14 +2150,14 @@
     "cited_by": [
       "SE2021006545",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "luftvagsregistret": {
     "id": "luftvagsregistret",
     "label": {
       "sv": "Luftvägsregistret"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Luftvägsregistret via Vården i Siffror",
@@ -2169,14 +2168,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "svenskt-njurregister": {
     "id": "svenskt-njurregister",
     "label": {
       "sv": "Svenskt njurregister"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Svensk njurregister via Vården i Siffror"
@@ -2186,14 +2185,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "skapa": {
     "id": "skapa",
     "label": {
       "sv": "Svenskt kvalitetsregister för karies och parodontit (SKaPa)"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "SKaPa via Vården i Siffror",
@@ -2204,14 +2203,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "spor": {
     "id": "spor",
     "label": {
       "sv": "Svenskt perioperativt register (SPOR)"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Svenskt perioperativt register via Vården i Siffror"
@@ -2221,14 +2220,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "rikshoft": {
     "id": "rikshoft",
     "label": {
       "sv": "Rikshöft"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Nationellt kvalitetsregister för höftfrakturpatienter (RIKSHÖFT)"
@@ -2238,14 +2237,14 @@
     ],
     "cited_by": [
       "SE2021000555"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "nkbc": {
     "id": "nkbc",
     "label": {
       "sv": "Nationellt kvalitetsregister för bröstcancer"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Nationellt kvalitetsregister för bröstcancer via Vården i Siffror"
@@ -2255,14 +2254,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "nkcx": {
     "id": "nkcx",
     "label": {
       "sv": "Nationellt kvalitetsregister för cervixcancerprevention"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Nationellt kvalitetsregister för Cervixcancerprevention via Vården i Siffror"
@@ -2272,14 +2271,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "nlcr": {
     "id": "nlcr",
     "label": {
       "sv": "Nationella lungcancerregistret (NLCR)"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Nationella lungcancerregistret (NLCR)",
@@ -2293,14 +2292,14 @@
     "cited_by": [
       "SE2021000555",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "npcr": {
     "id": "npcr",
     "label": {
       "sv": "Nationella prostatacancerregistret (NPCR)"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Nationella prostatacancerregistret (NPCR) via Vården i Siffror",
@@ -2311,14 +2310,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "scrcr": {
     "id": "scrcr",
     "label": {
       "sv": "Svenska kolorektalcancerregistret"
     },
-    "type": "register",
     "owner": null,
     "alias": [
       "Svenska Kolorektalcancerregistret via Vården i Siffror",
@@ -2329,14 +2328,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "register"
   },
   "rcc": {
     "id": "rcc",
     "label": {
       "sv": "Regionala cancercentrum i samverkan"
     },
-    "type": "other",
     "owner": null,
     "alias": [
       "Regionala Cancercentrum i Samverkan"
@@ -2346,14 +2345,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "ihp": {
     "id": "ihp",
     "label": {
       "sv": "International Health Policy Survey (IHP)"
     },
-    "type": "survey",
     "owner": null,
     "alias": [
       "International Health Policy Survey (IHP) bland personer 65 år eller äldre, Myndigheten för vård och omsorgsanalys"
@@ -2363,14 +2362,14 @@
     ],
     "cited_by": [
       "SE2021000555"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "nns": {
     "id": "nns",
     "label": {
       "sv": "Nationella nätverket för samordningsförbund (NNS)"
     },
-    "type": "other",
     "owner": null,
     "alias": [
       "Nationella nätverket för samordningsförbund (NNS)"
@@ -2380,14 +2379,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "nils-holgersson": {
     "id": "nils-holgersson",
     "label": {
       "sv": "Nils Holgersson-gruppen"
     },
-    "type": "other",
     "owner": null,
     "alias": [
       "Nils Holgersson gruppen"
@@ -2397,14 +2396,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "vastfolket": {
     "id": "vastfolket",
     "label": {
       "sv": "Västfolket"
     },
-    "type": "database",
     "owner": "SE2321000131",
     "alias": [
       "1984-2007: Västfolket. Från 2008 och framåt:SCB",
@@ -2416,14 +2415,14 @@
     ],
     "cited_by": [
       "SE2120001355"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "kusk": {
     "id": "kusk",
     "label": {
       "sv": "Interreg-projekt KUSK"
     },
-    "type": "other",
     "owner": null,
     "alias": [
       "Interreg- projekt KUSK",
@@ -2437,14 +2436,14 @@
     ],
     "cited_by": [
       "SE2321000131"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "biometria-virkesmatning": {
     "id": "biometria-virkesmatning",
     "label": {
       "sv": "Biometrias virkesmätningsdata"
     },
-    "type": "statistical_product",
     "owner": "SE7696046924",
     "alias": [
       "Biometria (SDC) and Swedish Forest Agency",
@@ -2461,14 +2460,14 @@
     ],
     "cited_by": [
       "SE2021005612"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "svenska-agg": {
     "id": "svenska-agg",
     "label": {
       "sv": "Svenska Ägg"
     },
-    "type": "other",
     "owner": null,
     "alias": [
       "Svenska Ägg"
@@ -2478,14 +2477,14 @@
     ],
     "cited_by": [
       "SE2021004151"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "jordbruksverket-slaktdatabas": {
     "id": "jordbruksverket-slaktdatabas",
     "label": {
       "sv": "Jordbruksverkets slaktdatabas"
     },
-    "type": "database",
     "owner": "SE2021004151",
     "alias": [
       "Jordbruksverkets slaktdatabas"
@@ -2495,14 +2494,14 @@
     ],
     "cited_by": [
       "SE2021004151"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "macrobond": {
     "id": "macrobond",
     "label": {
       "sv": "Macrobond"
     },
-    "type": "database",
     "owner": "SE5567409817",
     "alias": [
       "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond and National Institute of Economic Research and National Institute of Economic Research",
@@ -2517,14 +2516,14 @@
     ],
     "cited_by": [
       "SE2021000845"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "refinitiv": {
     "id": "refinitiv",
     "label": {
       "sv": "Refinitiv"
     },
-    "type": "database",
     "owner": "wikidata:Q60741469",
     "alias": [
       "Refinitiv"
@@ -2534,14 +2533,14 @@
     ],
     "cited_by": [
       "SE2021002684"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "nasdaq": {
     "id": "nasdaq",
     "label": {
       "sv": "Nasdaq"
     },
-    "type": "database",
     "owner": "wikidata:Q1472929",
     "alias": [
       "Nasdaq",
@@ -2552,14 +2551,14 @@
     ],
     "cited_by": [
       "SE2021002684"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "eurostat": {
     "id": "eurostat",
     "label": {
       "sv": "Eurostat"
     },
-    "type": "database",
     "owner": "wikidata:Q217659",
     "alias": [
       "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond and National Institute of Economic Research and National Institute of Economic Research",
@@ -2572,14 +2571,14 @@
     ],
     "cited_by": [
       "SE2021000845"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "oecd": {
     "id": "oecd",
     "label": {
       "sv": "OECD"
     },
-    "type": "database",
     "owner": "wikidata:Q41550",
     "alias": [
       "Eurostat, OECD, IMF, Riksbanken och Konjunkturinstitutet",
@@ -2590,14 +2589,14 @@
     ],
     "cited_by": [
       "SE2021000845"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "imf": {
     "id": "imf",
     "label": {
       "sv": "IMF"
     },
-    "type": "database",
     "owner": "wikidata:Q7804",
     "alias": [
       "Eurostat, OECD, IMF, Riksbanken och Konjunkturinstitutet",
@@ -2611,14 +2610,14 @@
     "cited_by": [
       "SE2021000845",
       "SE2021002684"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "ecb": {
     "id": "ecb",
     "label": {
       "sv": "ECB"
     },
-    "type": "database",
     "owner": "wikidata:Q8901",
     "alias": [
       "Riksbanken, ECB, Federal Reserve, Macrobond och Konjunkturinstitutet",
@@ -2629,14 +2628,14 @@
     ],
     "cited_by": [
       "SE2021000845"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "bis": {
     "id": "bis",
     "label": {
       "sv": "BIS"
     },
-    "type": "database",
     "owner": "wikidata:Q309195",
     "alias": [
       "Bank for International Settlements (BIS)"
@@ -2646,14 +2645,14 @@
     ],
     "cited_by": [
       "SE2021002684"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "federal-reserve": {
     "id": "federal-reserve",
     "label": {
       "sv": "Federal Reserve"
     },
-    "type": "database",
     "owner": "wikidata:Q53536",
     "alias": [
       "Riksbanken, ECB, Federal Reserve, Macrobond och Konjunkturinstitutet",
@@ -2664,14 +2663,14 @@
     ],
     "cited_by": [
       "SE2021000845"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "nbs-china": {
     "id": "nbs-china",
     "label": {
       "sv": "National Bureau of Statistics of China"
     },
-    "type": "database",
     "owner": "wikidata:Q1509446",
     "alias": [
       "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond and National Institute of Economic Research and National Institute of Economic Research",
@@ -2682,14 +2681,14 @@
     ],
     "cited_by": [
       "SE2021000845"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "ssb": {
     "id": "ssb",
     "label": {
       "sv": "Statistics Norway (SSB)"
     },
-    "type": "database",
     "owner": "wikidata:Q2367019",
     "alias": [
       "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond and National Institute of Economic Research and National Institute of Economic Research",
@@ -2707,14 +2706,14 @@
     "cited_by": [
       "SE2021000845",
       "SE2321000131"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "statistics-bureau-japan": {
     "id": "statistics-bureau-japan",
     "label": {
       "sv": "Statistics Bureau of Japan"
     },
-    "type": "database",
     "owner": null,
     "alias": [
       "China National Bureau of Statistics, Eurostat, SCB, Statistics Bureau of Japan, Statistics Denmark, Statistics Norway, U.K. Office for National Statistics, U.S. Bureau of Labor Statistics, Macrobond and National Institute of Economic Research and National Institute of Economic Research",
@@ -2725,14 +2724,14 @@
     ],
     "cited_by": [
       "SE2021000845"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "linkoping-statistikgruppen": {
     "id": "linkoping-statistikgruppen",
     "label": {
       "sv": "Statistikgruppen, Analys & Utredning (Linköpings kommun)"
     },
-    "type": "unit",
     "owner": "SE2120000449",
     "alias": [
       "Arbetsförmedlingen.   Sammanställd av Statistikgruppen, Analys & Utredning, Linköpings kommun.",
@@ -2916,14 +2915,14 @@
     ],
     "cited_by": [
       "SE2120000449"
-    ]
+    ],
+    "data_source_type": "unit"
   },
   "helsingborg-statistikdatabas": {
     "id": "helsingborg-statistikdatabas",
     "label": {
       "sv": "Helsingborgs stads statistikdatabas"
     },
-    "type": "database",
     "owner": "SE2120001157",
     "alias": [
       "Arbetsförmedlingen, uttag genom Helsingborgs stads statistikdatabas",
@@ -2940,14 +2939,14 @@
     ],
     "cited_by": [
       "SE2120001157"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "region-ostergotland-statistik": {
     "id": "region-ostergotland-statistik",
     "label": {
       "sv": "Statistik & Utredningar (Region Östergötland)"
     },
-    "type": "unit",
     "owner": "SE2321000040",
     "alias": [
       "Källla: Region Östergötland, Sammanställning: Statistik & Utredningar, Linköpings kommun",
@@ -2958,14 +2957,14 @@
     ],
     "cited_by": [
       "SE2120000449"
-    ]
+    ],
+    "data_source_type": "unit"
   },
   "sos-alarm-data": {
     "id": "sos-alarm-data",
     "label": {
       "sv": "SOS Alarm"
     },
-    "type": "other",
     "owner": "SE5561595819",
     "alias": [
       "SOS Alarm",
@@ -2978,14 +2977,14 @@
     "cited_by": [
       "SE2021000555",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "ekomatcentrum-statistik": {
     "id": "ekomatcentrum-statistik",
     "label": {
       "sv": "Ekomatcentrums statistik"
     },
-    "type": "statistical_product",
     "owner": "SE8024041769",
     "alias": [
       "Ekomatcentrum"
@@ -2995,14 +2994,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "handelsradet": {
     "id": "handelsradet",
     "label": {
       "sv": "Handelsrådet"
     },
-    "type": "other",
     "owner": "SE8024076468",
     "alias": [
       "Handelsrådet"
@@ -3012,14 +3011,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "miljofordon-sverige": {
     "id": "miljofordon-sverige",
     "label": {
       "sv": "Miljöfordon Sverige"
     },
-    "type": "database",
     "owner": "SE7696081087",
     "alias": [
       "Miljöfordon Sverige",
@@ -3030,14 +3029,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "database"
   },
   "riksidrottsforbundet-anlaggningar": {
     "id": "riksidrottsforbundet-anlaggningar",
     "label": {
       "sv": "Riksidrottsförbundets anläggningsdata"
     },
-    "type": "other",
     "owner": "SE8020028166",
     "alias": [
       "Försäkringskassans statistik inom området sjuk och SCB, SCB, Försäkringskassan, Folkhälsomyndigheten (HLV), SCB - Befolkningens arbetsmarknadsstatus (BAS), Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF), STATIV från SCB, Arbetsförmedlingen, SCB:s valdeltagandeundersökning, Valmyndigheten och SCB, Tillväxtverket/Pipos, Post- och telestyrelsen, PTS Bredbandskartläggning, SCB:s Räkenskapssammandrag, Folkbildningsrådet och SCB, Skolverket (Siris), Skolinspektionens elevenkät, Socialstyrelsen, Folkhälsomyndigheten, Boverket, Nationella diabetesregistret (NDR) (innan 2023 via Vården i Siffror), VISS, Länsstyrelserna, Folkhälsomyndigheten, Hälsa på lika villkor (HLV) samt Liv & Hälsa (LH), Folkhälsomyndigheten, Nationella folkhälsoenkäten, Socialstyrelsen (ÖJ ekonomiskt bistånd), Riksidrottsförbundet.\\n",
@@ -3054,14 +3053,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "systembolaget-forsaljning": {
     "id": "systembolaget-forsaljning",
     "label": {
       "sv": "Systembolagets försäljningsstatistik"
     },
-    "type": "statistical_product",
     "owner": "SE5560599473",
     "alias": [
       "Folkhälsomyndigheten, Systembolaget",
@@ -3076,14 +3075,14 @@
     ],
     "cited_by": [
       "SE2021006545"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "apoteket-gasleveranser": {
     "id": "apoteket-gasleveranser",
     "label": {
       "sv": "Apotekets gasleveranser"
     },
-    "type": "other",
     "owner": "SE5561386532",
     "alias": [
       "Egna uppgifter i regionen (lustgas) och Apoteket (övriga gaser)"
@@ -3093,14 +3092,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "statisticon": {
     "id": "statisticon",
     "label": {
       "sv": "Statisticon"
     },
-    "type": "other",
     "owner": "SE5565582185",
     "alias": [
       "SCB (tidigare Statisticon AB)",
@@ -3113,14 +3112,14 @@
     "cited_by": [
       "SE2120001850",
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "sweco": {
     "id": "sweco",
     "label": {
       "sv": "Sweco"
     },
-    "type": "other",
     "owner": "SE5567679849",
     "alias": [
       "SCB och Karlstads kommun/Sweco"
@@ -3130,14 +3129,14 @@
     ],
     "cited_by": [
       "SE2120001850"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "wingarc": {
     "id": "wingarc",
     "label": {
       "sv": "WingArc"
     },
-    "type": "other",
     "owner": null,
     "alias": [
       "WingArc Australia"
@@ -3147,14 +3146,14 @@
     ],
     "cited_by": [
       "SE2120001850"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "egen-undersokning": {
     "id": "egen-undersokning",
     "label": {
       "sv": "Egen undersökning i kommunen eller regionen"
     },
-    "type": "survey",
     "owner": null,
     "alias": [
       "Egen insamling i kommunen",
@@ -3181,14 +3180,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "survey"
   },
   "kommunens-arsredovisning": {
     "id": "kommunens-arsredovisning",
     "label": {
       "sv": "Kommunens eller regionens årsredovisning"
     },
-    "type": "publication",
     "owner": null,
     "alias": [
       "Egna uppgifter i kommunens årsredovisning (den obligatoriska sjukfrånvaroredovisningen), sammanställt av SKR",
@@ -3199,14 +3198,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "publication"
   },
   "kungliga-bostadsstyrelsen": {
     "id": "kungliga-bostadsstyrelsen",
     "label": {
       "sv": "Kungliga Bostadsstyrelsen (historisk)"
     },
-    "type": "other",
     "owner": null,
     "alias": [
       "Statistiska Centralbyrån (SCB), Kungliga Bostadsstyrelsen.  Sammanställning: Statistikgruppen, Analys & Utredning, Linköpings kommun.",
@@ -3217,14 +3216,14 @@
     ],
     "cited_by": [
       "SE2120000449"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "sika": {
     "id": "sika",
     "label": {
       "sv": "SIKA (historisk, ersatt av Trafikanalys)"
     },
-    "type": "other",
     "owner": "SE2021006305",
     "alias": [
       "SCB, Linköpings kommun, SIKA, Trafikanalys.  Sammanställning och bearbetning: Statistikgruppen, Analys & Utredning, Linköpings kommun."
@@ -3234,14 +3233,14 @@
     ],
     "cited_by": [
       "SE2120000449"
-    ]
+    ],
+    "data_source_type": "other"
   },
   "kommunal-gatustatistik": {
     "id": "kommunal-gatustatistik",
     "label": {
       "sv": "Kommunens gatustatistik"
     },
-    "type": "statistical_product",
     "owner": null,
     "alias": [
       "Gatustatistik",
@@ -3253,14 +3252,14 @@
     ],
     "cited_by": [
       "SE2220000315"
-    ]
+    ],
+    "data_source_type": "statistical_product"
   },
   "slu-svensk-fageltaxering": {
     "id": "slu-svensk-fageltaxering",
     "label": {
       "sv": "Svensk Fågeltaxering"
     },
-    "type": "survey",
     "owner": "SE2021002817",
     "alias": [
       "Populationsutvecklingen har analyserats baserat på data från Svensk Fågeltaxerings standardrutter för åren 2002-2024.  https://www.fageltaxering.lu.se"
@@ -3270,6 +3269,7 @@
     ],
     "cited_by": [
       "SE2021005612"
-    ]
+    ],
+    "data_source_type": "survey"
   }
 }

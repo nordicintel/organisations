@@ -133,7 +133,7 @@ def main():
         r["status"] = "active" if row["jestat"] in ("1", "2") and row["ftgstat"] != "9" else "deregistered"
         r["legal_type"] = {"code": row["legal_form"], "label": scb_bulk.LEGAL_FORMS.get(row["legal_form"], "")}
         if row["legal_form"] in LEGAL_TYPE_TO_TYPE:
-            r["type"] = LEGAL_TYPE_TO_TYPE[row["legal_form"]]
+            r["organisation_type"] = LEGAL_TYPE_TO_TYPE[row["legal_form"]]
         if row["registered"]:
             r["established"] = row["registered"]
         r["source"].append("scb_bulk")
@@ -225,7 +225,7 @@ def main():
         for lang, value in row["names"].items():
             label(r, lang, value, "dataportal")
         if row.get("type"):
-            r.setdefault("type", row["type"])
+            r.setdefault("organisation_type", row["type"])
         if row.get("homepage"):
             r.setdefault("homepage", row["homepage"])
         if row.get("email"):
@@ -253,7 +253,7 @@ def main():
         for lang, value in row["names"].items():
             label(r, lang, value, "data_europa")
         if row.get("type"):
-            r.setdefault("type", row["type"].rsplit("/", 1)[-1])
+            r.setdefault("organisation_type", row["type"].rsplit("/", 1)[-1])
         if row.get("homepage"):
             r.setdefault("homepage", row["homepage"])
         r["identifier"].setdefault("dataportal", canonical(number, suffix_of(uri)))

@@ -15,7 +15,7 @@
     "slug": {"type": "string", "pattern": "^[a-z][a-z0-9_]*$", "description": "Our short code. May change; the id never does."},
     "alias": {"type": "array", "items": {"type": "string"}, "description": "Strings seen in source metadata that denote this organisation."},
     "status": {"type": "string", "enum": ["active", "deregistered", "unknown"]},
-    "type": {"type": "string", "description": "ADMS publisher type term, http://purl.org/adms/publishertype/<term>.",
+    "organisation_type": {"type": "string", "description": "ADMS publisher type term, http://purl.org/adms/publishertype/<term>.",
              "enum": ["NationalAuthority", "RegionalAuthority", "LocalAuthority", "Academia-ScientificOrganisation", "Company", "NonProfitOrganisation", "NonGovernmentalOrganisation", "IndustryConsortium", "PrivateIndividual(s)", "StandardisationBody", "SupraNationalAuthority"]},
     "legal_type": {"type": "object", "required": ["code"], "description": "Skatteverket juridisk form as reported by SCB: 81 statlig enhet, 82 kommun, 83 kommunalförbund, 84 region, 49 aktiebolag, 61 ideell förening …",
                    "properties": {"code": {"type": "string", "pattern": "^\\d{2}$"}, "label": {"type": "string"}}},
