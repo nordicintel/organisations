@@ -61,10 +61,8 @@ for key, ds in sources.items():
     for ref in ([ds["owner"]] if ds.get("owner") else []) + ds.get("cited_by", []):
         if ref not in orgs:
             errors.append(f"data_sources.json: {key}: organisation {ref} not in registry")
-    for a in ds.get("aliases", []):
-        if a in seen_alias:
-            errors.append(f"data_sources.json: alias {a!r} in both {seen_alias[a]} and {key}")
-        seen_alias[a] = key
+    if not ds.get("aliases"):
+        errors.append(f"data_sources.json: {key}: no aliases")
 
 for line in errors:
     print(line, file=sys.stderr)

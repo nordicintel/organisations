@@ -1,5 +1,5 @@
 {
-  "count": 852,
+  "count": 877,
   "generated": "2026-10-13",
   "organisations": {
     "SE0123456789": {
@@ -24047,6 +24047,28 @@
       ],
       "status": "active"
     },
+    "SE5560599473": {
+      "established": "1972-01-01",
+      "id": "SE5560599473",
+      "identifiers": {
+        "orgnr": "5560599473"
+      },
+      "legal_form": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "names": {
+        "en": "Swedish Alcohol Retail Monopoly",
+        "sv": "Systembolaget"
+      },
+      "publisher_type": "Company",
+      "registered_name": "Systembolaget Aktiebolag",
+      "sources": [
+        "manual",
+        "scb_bulk"
+      ],
+      "status": "active"
+    },
     "SE5561162446": {
       "established": "1972-01-01",
       "homepage": "https://www.ivl.se",
@@ -24068,11 +24090,13 @@
         "en": "IVL Swedish Environmental Research Institute",
         "sv": "IVL Svenska Miljöinstitutet"
       },
+      "note": "Runs Krondroppsnätet.",
       "publisher_type": "Company",
       "registered_name": "IVL SVENSKA MILJÖINSTITUTET AB",
       "sources": [
         "data_europa",
         "dataportal",
+        "manual",
         "scb_bulk"
       ],
       "status": "active"
@@ -24098,6 +24122,48 @@
         "dataportal"
       ],
       "status": "unknown"
+    },
+    "SE5561386532": {
+      "established": "1972-01-01",
+      "id": "SE5561386532",
+      "identifiers": {
+        "orgnr": "5561386532"
+      },
+      "legal_form": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "names": {
+        "sv": "Apoteket"
+      },
+      "publisher_type": "Company",
+      "registered_name": "Apoteket AB",
+      "sources": [
+        "manual",
+        "scb_bulk"
+      ],
+      "status": "active"
+    },
+    "SE5561595819": {
+      "established": "1972-01-01",
+      "id": "SE5561595819",
+      "identifiers": {
+        "orgnr": "5561595819"
+      },
+      "legal_form": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "names": {
+        "sv": "SOS Alarm"
+      },
+      "publisher_type": "Company",
+      "registered_name": "SOS Alarm Sverige AB",
+      "sources": [
+        "manual",
+        "scb_bulk"
+      ],
+      "status": "active"
     },
     "SE5561848564": {
       "established": "1973-01-01",
@@ -24278,6 +24344,69 @@
       ],
       "status": "active"
     },
+    "SE5565582185": {
+      "established": "1998-08-13",
+      "id": "SE5565582185",
+      "identifiers": {
+        "orgnr": "5565582185"
+      },
+      "legal_form": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "names": {
+        "sv": "Statisticon"
+      },
+      "publisher_type": "Company",
+      "registered_name": "STATISTICON AB",
+      "sources": [
+        "manual",
+        "scb_bulk"
+      ],
+      "status": "active"
+    },
+    "SE5567409817": {
+      "established": "2007-10-25",
+      "id": "SE5567409817",
+      "identifiers": {
+        "orgnr": "5567409817"
+      },
+      "legal_form": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "names": {
+        "sv": "Macrobond Financial"
+      },
+      "publisher_type": "Company",
+      "registered_name": "MacroBond Financial AB",
+      "sources": [
+        "manual",
+        "scb_bulk"
+      ],
+      "status": "active"
+    },
+    "SE5567679849": {
+      "established": "2008-10-23",
+      "id": "SE5567679849",
+      "identifiers": {
+        "orgnr": "5567679849"
+      },
+      "legal_form": {
+        "code": "49",
+        "label": "Övriga aktiebolag"
+      },
+      "names": {
+        "sv": "Sweco Sverige"
+      },
+      "publisher_type": "Company",
+      "registered_name": "SWECO Sverige AB",
+      "sources": [
+        "manual",
+        "scb_bulk"
+      ],
+      "status": "active"
+    },
     "SE5568540701": {
       "email": "info@metasolutions.se",
       "established": "2011-05-26",
@@ -24393,6 +24522,49 @@
       ],
       "status": "active"
     },
+    "SE7696046924": {
+      "established": "1999-09-03",
+      "id": "SE7696046924",
+      "identifiers": {
+        "orgnr": "7696046924"
+      },
+      "legal_form": {
+        "code": "51",
+        "label": "Ekonomisk förening"
+      },
+      "names": {
+        "sv": "Biometria"
+      },
+      "note": "Formerly SDC; forest industry measurement data.",
+      "publisher_type": "NonProfitOrganisation",
+      "registered_name": "Biometria ek. för.",
+      "sources": [
+        "manual",
+        "scb_bulk"
+      ],
+      "status": "active"
+    },
+    "SE7696081087": {
+      "established": "2002-03-04",
+      "id": "SE7696081087",
+      "identifiers": {
+        "orgnr": "7696081087"
+      },
+      "legal_form": {
+        "code": "51",
+        "label": "Ekonomisk förening"
+      },
+      "names": {
+        "sv": "Miljöfordon Sverige"
+      },
+      "publisher_type": "NonProfitOrganisation",
+      "registered_name": "Miljöfordon Sverige, ekonomisk förening",
+      "sources": [
+        "manual",
+        "scb_bulk"
+      ],
+      "status": "active"
+    },
     "SE8020005461": {
       "established": "1971-01-01",
       "homepage": "https://www.can.se/",
@@ -24412,13 +24584,58 @@
       },
       "names": {
         "en": "The Swedish Council for Information on Alcohol and Other Drugs",
-        "sv": "Centralförbundet för alkohol- och narkotikaupplysning"
+        "sv": "Centralförbundet för alkohol- och narkotikaupplysning (CAN)"
       },
       "publisher_type": "NonProfitOrganisation",
       "registered_name": "CENTRALFÖRB FÖR ALKOHOL O NARKOTIKAUPPLYSNING",
       "sources": [
         "data_europa",
         "dataportal",
+        "manual",
+        "scb_bulk"
+      ],
+      "status": "active"
+    },
+    "SE8020021500": {
+      "established": "1971-01-01",
+      "id": "SE8020021500",
+      "identifiers": {
+        "orgnr": "8020021500"
+      },
+      "legal_form": {
+        "code": "61",
+        "label": "Ideell förening"
+      },
+      "names": {
+        "sv": "Svensk Kollektivtrafik"
+      },
+      "note": "Runs Kollektivtrafikbarometern.",
+      "publisher_type": "NonProfitOrganisation",
+      "registered_name": "SVENSK KOLLEKTIVTRAFIK",
+      "sources": [
+        "manual",
+        "scb_bulk"
+      ],
+      "status": "active"
+    },
+    "SE8020028166": {
+      "established": "1971-01-01",
+      "id": "SE8020028166",
+      "identifiers": {
+        "orgnr": "8020028166"
+      },
+      "legal_form": {
+        "code": "61",
+        "label": "Ideell förening"
+      },
+      "names": {
+        "en": "Swedish Sports Confederation",
+        "sv": "Riksidrottsförbundet"
+      },
+      "publisher_type": "NonProfitOrganisation",
+      "registered_name": "SVERIGES RIKSIDROTTSFÖRBUND",
+      "sources": [
+        "manual",
         "scb_bulk"
       ],
       "status": "active"
@@ -24650,6 +24867,50 @@
       "state_body_group": "ap_fond",
       "status": "active"
     },
+    "SE8024041769": {
+      "established": "1997-06-25",
+      "id": "SE8024041769",
+      "identifiers": {
+        "orgnr": "8024041769"
+      },
+      "legal_form": {
+        "code": "61",
+        "label": "Ideell förening"
+      },
+      "names": {
+        "sv": "Ekomatcentrum"
+      },
+      "publisher_type": "NonProfitOrganisation",
+      "registered_name": "IDEELLA FÖRENINGEN EKOMATCENTRUM",
+      "sources": [
+        "manual",
+        "scb_bulk"
+      ],
+      "status": "active"
+    },
+    "SE8024050190": {
+      "established": "1997-12-10",
+      "id": "SE8024050190",
+      "identifiers": {
+        "orgnr": "8024050190"
+      },
+      "legal_form": {
+        "code": "72",
+        "label": "Övrig stiftelse"
+      },
+      "names": {
+        "en": "The Swedish Internet Foundation",
+        "sv": "Internetstiftelsen"
+      },
+      "note": "Registered as Stiftelsen för internetinfrastruktur; runs Bredbandskollen.",
+      "publisher_type": "NonProfitOrganisation",
+      "registered_name": "STIFTELSEN FÖR INTERNETINFRASTRUKTUR",
+      "sources": [
+        "manual",
+        "scb_bulk"
+      ],
+      "status": "active"
+    },
     "SE8024062302": {
       "email": "info@ap7.se",
       "established": "1998-08-06",
@@ -24676,6 +24937,27 @@
         "scb_bulk"
       ],
       "state_body_group": "ap_fond",
+      "status": "active"
+    },
+    "SE8024076468": {
+      "established": "1999-05-07",
+      "id": "SE8024076468",
+      "identifiers": {
+        "orgnr": "8024076468"
+      },
+      "legal_form": {
+        "code": "72",
+        "label": "Övrig stiftelse"
+      },
+      "names": {
+        "sv": "Handelsrådet"
+      },
+      "publisher_type": "NonProfitOrganisation",
+      "registered_name": "KOLLEKTIVAVTALSTIFTELSEN HANDELSRÅDET",
+      "sources": [
+        "manual",
+        "scb_bulk"
+      ],
       "status": "active"
     },
     "SE8024195029": {
@@ -24759,6 +25041,28 @@
       "registered_name": "FÖRENINGEN SAMBRUK",
       "sources": [
         "dataportal",
+        "scb_bulk"
+      ],
+      "status": "active"
+    },
+    "SE8176029786": {
+      "established": "1992-05-06",
+      "id": "SE8176029786",
+      "identifiers": {
+        "orgnr": "8176029786"
+      },
+      "legal_form": {
+        "code": "72",
+        "label": "Övrig stiftelse"
+      },
+      "names": {
+        "en": "Forestry Research Institute of Sweden",
+        "sv": "Skogforsk"
+      },
+      "publisher_type": "NonProfitOrganisation",
+      "registered_name": "STIFT SKOGSBRUKETS FORSKNINGSINSTITUT, SKOGFORSK",
+      "sources": [
+        "manual",
         "scb_bulk"
       ],
       "status": "active"
@@ -24873,6 +25177,28 @@
       ],
       "status": "active"
     },
+    "SE8460010161": {
+      "established": "1971-01-01",
+      "id": "SE8460010161",
+      "identifiers": {
+        "orgnr": "8460010161"
+      },
+      "legal_form": {
+        "code": "61",
+        "label": "Ideell förening"
+      },
+      "names": {
+        "sv": "Avfall Sverige"
+      },
+      "note": "Avfall Sverige, branch association for waste management; cited as a data source by Kolada.",
+      "publisher_type": "NonProfitOrganisation",
+      "registered_name": "AVFALL SVERIGE",
+      "sources": [
+        "manual",
+        "scb_bulk"
+      ],
+      "status": "active"
+    },
     "SE8551040721": {
       "email": "info@apfond6.se",
       "established": "1996-11-18",
@@ -24958,6 +25284,148 @@
         "data_europa",
         "dataportal",
         "scb_bulk"
+      ],
+      "status": "active"
+    },
+    "wikidata:Q1472929": {
+      "id": "wikidata:Q1472929",
+      "identifiers": {
+        "wikidata": "Q1472929"
+      },
+      "names": {
+        "en": "Nasdaq, Inc."
+      },
+      "publisher_type": "Company",
+      "sources": [
+        "manual"
+      ],
+      "status": "active"
+    },
+    "wikidata:Q1509446": {
+      "id": "wikidata:Q1509446",
+      "identifiers": {
+        "wikidata": "Q1509446"
+      },
+      "names": {
+        "en": "National Bureau of Statistics of China"
+      },
+      "publisher_type": "NationalAuthority",
+      "sources": [
+        "manual"
+      ],
+      "status": "active"
+    },
+    "wikidata:Q217659": {
+      "id": "wikidata:Q217659",
+      "identifiers": {
+        "wikidata": "Q217659"
+      },
+      "names": {
+        "en": "Eurostat"
+      },
+      "publisher_type": "SupraNationalAuthority",
+      "sources": [
+        "manual"
+      ],
+      "status": "active"
+    },
+    "wikidata:Q2367019": {
+      "id": "wikidata:Q2367019",
+      "identifiers": {
+        "wikidata": "Q2367019"
+      },
+      "names": {
+        "en": "Statistics Norway",
+        "sv": "Statistisk sentralbyrå"
+      },
+      "publisher_type": "NationalAuthority",
+      "sources": [
+        "manual"
+      ],
+      "status": "active"
+    },
+    "wikidata:Q309195": {
+      "id": "wikidata:Q309195",
+      "identifiers": {
+        "wikidata": "Q309195"
+      },
+      "names": {
+        "en": "Bank for International Settlements"
+      },
+      "publisher_type": "SupraNationalAuthority",
+      "sources": [
+        "manual"
+      ],
+      "status": "active"
+    },
+    "wikidata:Q41550": {
+      "id": "wikidata:Q41550",
+      "identifiers": {
+        "wikidata": "Q41550"
+      },
+      "names": {
+        "en": "OECD",
+        "sv": "OECD"
+      },
+      "publisher_type": "SupraNationalAuthority",
+      "sources": [
+        "manual"
+      ],
+      "status": "active"
+    },
+    "wikidata:Q53536": {
+      "id": "wikidata:Q53536",
+      "identifiers": {
+        "wikidata": "Q53536"
+      },
+      "names": {
+        "en": "Federal Reserve System"
+      },
+      "publisher_type": "NationalAuthority",
+      "sources": [
+        "manual"
+      ],
+      "status": "active"
+    },
+    "wikidata:Q60741469": {
+      "id": "wikidata:Q60741469",
+      "identifiers": {
+        "wikidata": "Q60741469"
+      },
+      "names": {
+        "en": "Refinitiv"
+      },
+      "publisher_type": "Company",
+      "sources": [
+        "manual"
+      ],
+      "status": "active"
+    },
+    "wikidata:Q7804": {
+      "id": "wikidata:Q7804",
+      "identifiers": {
+        "wikidata": "Q7804"
+      },
+      "names": {
+        "en": "International Monetary Fund"
+      },
+      "publisher_type": "SupraNationalAuthority",
+      "sources": [
+        "manual"
+      ],
+      "status": "active"
+    },
+    "wikidata:Q8901": {
+      "id": "wikidata:Q8901",
+      "identifiers": {
+        "wikidata": "Q8901"
+      },
+      "names": {
+        "en": "European Central Bank"
+      },
+      "publisher_type": "SupraNationalAuthority",
+      "sources": [
+        "manual"
       ],
       "status": "active"
     }

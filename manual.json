@@ -21,5 +21,198 @@
       ]
     },
     "note": "Folkhälsomyndigheten publishes Folkhälsodata under its own organisation URI rather than the SE-number form."
+  },
+  "SE8460010161": {
+    "note": "Avfall Sverige, branch association for waste management; cited as a data source by Kolada."
+  },
+  "SE8024050190": {
+    "names": {
+      "sv": "Internetstiftelsen",
+      "en": "The Swedish Internet Foundation"
+    },
+    "note": "Registered as Stiftelsen för internetinfrastruktur; runs Bredbandskollen."
+  },
+  "SE8020028166": {
+    "names": {
+      "sv": "Riksidrottsförbundet",
+      "en": "Swedish Sports Confederation"
+    }
+  },
+  "SE5560599473": {
+    "names": {
+      "sv": "Systembolaget",
+      "en": "Swedish Alcohol Retail Monopoly"
+    }
+  },
+  "SE8020005461": {
+    "names": {
+      "sv": "Centralförbundet för alkohol- och narkotikaupplysning (CAN)"
+    }
+  },
+  "SE8020021500": {
+    "names": {
+      "sv": "Svensk Kollektivtrafik"
+    },
+    "note": "Runs Kollektivtrafikbarometern."
+  },
+  "SE5561162446": {
+    "names": {
+      "sv": "IVL Svenska Miljöinstitutet"
+    },
+    "note": "Runs Krondroppsnätet."
+  },
+  "SE7696046924": {
+    "names": {
+      "sv": "Biometria"
+    },
+    "note": "Formerly SDC; forest industry measurement data."
+  },
+  "SE5567679849": {
+    "names": {
+      "sv": "Sweco Sverige"
+    }
+  },
+  "SE5565582185": {
+    "names": {
+      "sv": "Statisticon"
+    }
+  },
+  "SE8024076468": {
+    "names": {
+      "sv": "Handelsrådet"
+    }
+  },
+  "SE8024041769": {
+    "names": {
+      "sv": "Ekomatcentrum"
+    }
+  },
+  "SE7696081087": {
+    "names": {
+      "sv": "Miljöfordon Sverige"
+    }
+  },
+  "SE8176029786": {
+    "names": {
+      "sv": "Skogforsk",
+      "en": "Forestry Research Institute of Sweden"
+    }
+  },
+  "SE5561595819": {
+    "names": {
+      "sv": "SOS Alarm"
+    }
+  },
+  "SE5561386532": {
+    "names": {
+      "sv": "Apoteket"
+    }
+  },
+  "SE5567409817": {
+    "names": {
+      "sv": "Macrobond Financial"
+    }
+  },
+  "wikidata:Q217659": {
+    "names": {
+      "en": "Eurostat"
+    },
+    "publisher_type": "SupraNationalAuthority",
+    "status": "active",
+    "identifiers": {
+      "wikidata": "Q217659"
+    }
+  },
+  "wikidata:Q41550": {
+    "names": {
+      "en": "OECD",
+      "sv": "OECD"
+    },
+    "publisher_type": "SupraNationalAuthority",
+    "status": "active",
+    "identifiers": {
+      "wikidata": "Q41550"
+    }
+  },
+  "wikidata:Q7804": {
+    "names": {
+      "en": "International Monetary Fund"
+    },
+    "publisher_type": "SupraNationalAuthority",
+    "status": "active",
+    "identifiers": {
+      "wikidata": "Q7804"
+    }
+  },
+  "wikidata:Q8901": {
+    "names": {
+      "en": "European Central Bank"
+    },
+    "publisher_type": "SupraNationalAuthority",
+    "status": "active",
+    "identifiers": {
+      "wikidata": "Q8901"
+    }
+  },
+  "wikidata:Q53536": {
+    "names": {
+      "en": "Federal Reserve System"
+    },
+    "publisher_type": "NationalAuthority",
+    "status": "active",
+    "identifiers": {
+      "wikidata": "Q53536"
+    }
+  },
+  "wikidata:Q309195": {
+    "names": {
+      "en": "Bank for International Settlements"
+    },
+    "publisher_type": "SupraNationalAuthority",
+    "status": "active",
+    "identifiers": {
+      "wikidata": "Q309195"
+    }
+  },
+  "wikidata:Q1472929": {
+    "names": {
+      "en": "Nasdaq, Inc."
+    },
+    "publisher_type": "Company",
+    "status": "active",
+    "identifiers": {
+      "wikidata": "Q1472929"
+    }
+  },
+  "wikidata:Q60741469": {
+    "names": {
+      "en": "Refinitiv"
+    },
+    "publisher_type": "Company",
+    "status": "active",
+    "identifiers": {
+      "wikidata": "Q60741469"
+    }
+  },
+  "wikidata:Q1509446": {
+    "names": {
+      "en": "National Bureau of Statistics of China"
+    },
+    "publisher_type": "NationalAuthority",
+    "status": "active",
+    "identifiers": {
+      "wikidata": "Q1509446"
+    }
+  },
+  "wikidata:Q2367019": {
+    "names": {
+      "en": "Statistics Norway",
+      "sv": "Statistisk sentralbyrå"
+    },
+    "publisher_type": "NationalAuthority",
+    "status": "active",
+    "identifiers": {
+      "wikidata": "Q2367019"
+    }
   }
 }
