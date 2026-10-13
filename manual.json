@@ -214,5 +214,18 @@
     "identifiers": {
       "wikidata": "Q2367019"
     }
+  },
+  "SE2021005026": {
+    "names": {
+      "sv": "Statskontoret",
+      "en": "Swedish Agency for Public Management"
+    },
+    "note": "Ekonomistyrningsverket until 2025-12-31; from 2026-01-01 it carries the Statskontoret name and SFS 2025:681 after the two agencies merged. The old Statskontoret is SE2021000852."
+  },
+  "SE2021000852": {
+    "succeeded_by": [
+      "SE2021005026"
+    ],
+    "note": "Dissolved 2025-12-31 and merged into Ekonomistyrningsverket, which took the Statskontoret name."
   }
 }

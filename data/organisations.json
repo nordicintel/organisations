@@ -673,12 +673,17 @@
       "names": {
         "sv": "Statskontoret"
       },
+      "note": "Dissolved 2025-12-31 and merged into Ekonomistyrningsverket, which took the Statskontoret name.",
       "publisher_type": "NationalAuthority",
       "sources": [
         "dataportal",
+        "manual",
         "wikidata"
       ],
-      "status": "deregistered"
+      "status": "deregistered",
+      "succeeded_by": [
+        "SE2021005026"
+      ]
     },
     "SE2021000928": {
       "department": "Finansdepartementet",
@@ -5505,13 +5510,16 @@
         "label": "Statlig enhet"
       },
       "names": {
-        "sv": "Ekonomistyrningsverket"
+        "en": "Swedish Agency for Public Management",
+        "sv": "Statskontoret"
       },
+      "note": "Ekonomistyrningsverket until 2025-12-31; from 2026-01-01 it carries the Statskontoret name and SFS 2025:681 after the two agencies merged. The old Statskontoret is SE2021000852.",
       "publisher_type": "NationalAuthority",
       "registered_name": "Statskontoret",
       "sfs": "2025:681",
       "sources": [
         "dataportal",
+        "manual",
         "myndighetsregistret",
         "scb_bulk",
         "wikidata"
