@@ -19,9 +19,10 @@ first and last year, ``id`` lists its register identities in order of first use,
 
 The yearly list adds, keyed by organisationsnummer, what the register lacks: the
 abbreviation or former name, the SFS number of the instruction and the department,
-for bodies that are their own legal unit (hosted nämnder carry the host's number
-and are skipped). Only the current year is used; earlier years reuse numbers
-unreliably. ``fetch`` returns ``{"register": ..., "list": ...}``.
+keyed by organisationsnummer. Bodies that share a number (the courts, all under
+Domstolsverket's) are kept as ``unit`` rows under that number's first row; hosted
+nämnder (värdmyndighet) are skipped. Only the current year is used; earlier years
+reuse numbers unreliably. ``fetch`` returns ``{"register": ..., "list": ...}``.
 """
 import difflib
 import io
@@ -201,16 +202,18 @@ def listing(cache: Path):
     data = cached(cache, "myndighetsforteckning.xlsx", lambda: http(_list_url(), headers=HEADERS, timeout=TIMEOUT)).read_bytes()
     current = max((n for n, _ in sheets(data) if n.startswith("Förteckning ") and n[-4:].isdigit()), default="")
     rows = next((rows for name, rows in sheets(data) if name == current), [])
-    # Courts all carry Domstolsverket's number; a number used by several rows names none of them.
-    shared = {n for n in (valid_orgnr(r.get("orgnr")) for r in rows) if n}
-    shared = {n for n in shared if sum(valid_orgnr(r.get("orgnr")) == n for r in rows) > 1}
     out = {}
     for r in rows:
         number = valid_orgnr(r.get("orgnr"))
-        if not number or number in shared or r.get("värdmyndighet") or r.get("antal", "1") != "1":
+        if not number or r.get("värdmyndighet") or r.get("antal", "1") != "1":
             continue
         aliases = [a.strip() for a in re.sub(r"\s*\(gammalt namn\)", "", r.get("alternativt_namn", "")).split("/")]
-        out[number] = {"name": r.get("myndighet", ""),
-                       "alias": sorted(a for a in aliases if a and a != r.get("myndighet", "")),
-                       "sfs": r.get("sfs", ""), "department": r.get("departement", "")}
+        row = {"name": r.get("myndighet", ""),
+               "alias": sorted(a for a in aliases if a and a != r.get("myndighet", "")),
+               "sfs": r.get("sfs", ""), "department": r.get("departement", "")}
+        if number in out:
+            # Courts all carry Domstolsverket's number: each is a body of its own under it.
+            out[number].setdefault("unit", []).append(row)
+        else:
+            out[number] = row
     return dict(sorted(out.items()))

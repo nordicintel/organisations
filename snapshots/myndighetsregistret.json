@@ -497,10 +497,572 @@
     "web": "www.nai.uu.se"
   },
   "2021002742": {
-    "email": "ostersunds.tingsratt@dom.se",
+    "email": "domstolsverket@dom.se",
     "group": "domstol",
-    "name": "ÖSTERSUNDS TINGSRÄTT OCH MARK OCH MILJÖDOMSTOL",
+    "name": "DOMSTOLSVERKET",
     "sfs": "1988:317",
+    "unit": [
+      {
+        "email": "alingsas.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "ALINGSÅS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "attunda.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "ATTUNDA TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "blekinge.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "BLEKINGE TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "boras.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "BORÅS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "eksjo.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "EKSJÖ TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "eskilstuna.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "ESKILSTUNA TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "falu.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "FALU TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "forvaltningsrattenifalun@dom.se",
+        "group": "domstol",
+        "name": "FÖRVALTNINGSRÄTTEN I FALUN",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "forvaltningsrattenigoteborg@dom.se",
+        "group": "domstol",
+        "name": "FÖRVALTNINGSRÄTTEN I GÖTEBORG OCH MIGRATIONSDOMS",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "forvaltningsratteniharnosand@dom.se",
+        "group": "domstol",
+        "name": "FÖRVALTNINGSRÄTTEN I HÄRNÖSAND",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "forvaltningsrattenijonkoping@dom.se",
+        "group": "domstol",
+        "name": "FÖRVALTNINGSRÄTTEN I JÖNKÖPING",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "forvaltningsrattenikarlstad@dom.se",
+        "group": "domstol",
+        "name": "FÖRVALTNINGSRÄTTEN I KARLSTAD",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "forvaltningsrattenilinkoping@dom.se",
+        "group": "domstol",
+        "name": "FÖRVALTNINGSRÄTTEN I LINKÖPING",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "forvaltningsrattenilulea@dom.se",
+        "group": "domstol",
+        "name": "FÖRVALTNINGSRÄTTEN I LULEÅ OCH MIGRATIONSDOMSTOL",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "forvaltningsrattenimalmo@dom.se",
+        "group": "domstol",
+        "name": "FÖRVALTNINGSRÄTTEN I MALMÖ",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "forvaltningsrattenistockholm@dom.se",
+        "group": "domstol",
+        "name": "FÖRVALTNINGSRÄTTEN I STOCKHOLM OCH MIGRATIONSDOM",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "forvaltningsratteniumea@dom.se",
+        "group": "domstol",
+        "name": "FÖRVALTNINGSRÄTTEN I UMEÅ",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "forvaltningsratteniuppsala@dom.se",
+        "group": "domstol",
+        "name": "FÖRVALTNINGSRÄTTEN I UPPSALA",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "forvaltningsrattenivaxjo@dom.se",
+        "group": "domstol",
+        "name": "FÖRVALTNINGSRÄTTEN I VÄXJÖ",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "gotlands.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "GOTLANDS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "gallivare.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "GÄLLIVARE TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "gavle.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "GÄVLE TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "gota.hovratt@dom.se",
+        "group": "domstol",
+        "name": "GÖTA HOVRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "gbg.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "GÖTEBORGS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "halmstads.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "HALMSTADS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "haparanda.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "HAPARANDA TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "helsingborgs.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "HELSINGBORGS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hovratten.nedrenorrland@dom.se",
+        "group": "domstol",
+        "name": "HOVRÄTTEN FÖR NEDRE NORRLAND",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hovratten.vastrasverige@dom.se",
+        "group": "domstol",
+        "name": "HOVRÄTTEN FÖR VÄSTRA SVERIGE",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hovratten.ovrenorrland@dom.se",
+        "group": "domstol",
+        "name": "HOVRÄTTEN FÖR ÖVRE NORRLAND",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hovratten.skaneblekinge@dom.se",
+        "group": "domstol",
+        "name": "HOVRÄTTEN ÖVER SKÅNE OCH BLEKINGE",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hyresnamndenigoteborg@dom.se",
+        "group": "domstol",
+        "name": "HYRES OCH ARRENDENÄMNDEN I GÖTEBORG",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hyresnamndenijonkoping@dom.se",
+        "group": "domstol",
+        "name": "HYRES OCH ARRENDENÄMNDEN I JÖNKÖPING",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hyresnamndenilinkoping@dom.se",
+        "group": "domstol",
+        "name": "HYRES OCH ARRENDENÄMNDEN I LINKÖPING",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hyresnamndenistockholm@dom.se",
+        "group": "domstol",
+        "name": "HYRES OCH ARRENDENÄMNDEN I STOCKHOLM",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hyresnamndenisundsvall@dom.se",
+        "group": "domstol",
+        "name": "HYRES OCH ARRENDENÄMNDEN I SUNDSVALL",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hyresnamndeniumea@dom.se",
+        "group": "domstol",
+        "name": "HYRES OCH ARRENDENÄMNDEN I UMEÅ",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hyresnamndenivasteras@dom.se",
+        "group": "domstol",
+        "name": "HYRES OCH ARRENDENÄMNDEN I VÄSTERÅS",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hyresnamndenimalmo@dom.se",
+        "group": "domstol",
+        "name": "HYRES OCH ARRENDENÄMNEN I MALMÖ",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "halsinglands.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "HÄLSINGLANDS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hassleholms.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "HÄSSLEHOLMS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hogsta.domstolen@dom.se",
+        "group": "domstol",
+        "name": "HÖGSTA DOMSTOLEN",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "hogstaforvaltningsdomstolen@dom.se",
+        "group": "domstol",
+        "name": "HÖGSTA FÖRVALTNINGSDOMSTOLEN",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "jonkopings.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "JÖNKÖPINGS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "kalmar.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "KALMAR TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "kammarratten.goteborg@dom.se",
+        "group": "domstol",
+        "name": "KAMMARRÄTTEN I GÖTEBORG",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "kammarrattenijonkoping@dom.se",
+        "group": "domstol",
+        "name": "KAMMARRÄTTEN I JÖNKÖPING",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "kammarrattenistockholm@dom.se",
+        "group": "domstol",
+        "name": "KAMMARRÄTTEN I STOCKHOLM OCH MIGRATIONSÖVERDOMST",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "kammarrattenisundsvall@dom.se",
+        "group": "domstol",
+        "name": "KAMMARRÄTTEN I SUNDSVALL",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "kristianstads.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "KRISTIANSTADS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "linkopings.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "LINKÖPINGS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "lulea.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "LULEÅ TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "lunds.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "LUNDS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "lycksele.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "LYCKSELE TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "malmo.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "MALMÖ TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "mora.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "MORA TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "nacka.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "NACKA TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "norrkopings.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "NORRKÖPINGS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "norrtalje.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "NORRTÄLJE TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "nykopings.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "NYKÖPINGS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "skaraborgs.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "SKARABORGS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "skelleftea.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "SKELLEFTEÅ TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "solna.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "SOLNA TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "stockholms.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "STOCKHOLMS TINGSRÄTT OCH PATENT OCH MARKNADSDOM",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "sundsvalls.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "SUNDSVALLS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "svea.hovratt@dom.se",
+        "group": "domstol",
+        "name": "SVEA HOVRÄTT O MARK O MILJÖ OCH PATENT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "sodertalje.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "SÖDERTÄLJE TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "sodertorns.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "SÖDERTÖRNS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "uddevalla.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "UDDEVALLA TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "umea.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "UMEÅ TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "uppsala.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "UPPSALA TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "varbergs.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "VARBERGS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "vanersborgs.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "VÄNERSBORGS TINGSRÄTT OCH MARK OCH MILJÖDOMSTOL",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "varmlands.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "VÄRMLANDS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "vastmanlands.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "VÄSTMANLANDS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "vaxjo.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "VÄXJÖ TINGSRÄTT OCH MARK OCH MILJÖDOMSTOL",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "ystads.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "YSTADS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "angermanlands.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "ÅNGERMANLANDS TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "orebro.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "ÖREBRO TINGSRÄTT",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      },
+      {
+        "email": "ostersunds.tingsratt@dom.se",
+        "group": "domstol",
+        "name": "ÖSTERSUNDS TINGSRÄTT OCH MARK OCH MILJÖDOMSTOL",
+        "sfs": "1988:317",
+        "web": "www.domstol.se"
+      }
+    ],
     "web": "www.domstol.se"
   },
   "2021002817": {

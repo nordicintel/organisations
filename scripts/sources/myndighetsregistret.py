@@ -1,4 +1,8 @@
-"""SCB Myndighetsregistret TSV exports (state bodies in five groups with organisationsnummer)."""
+"""SCB Myndighetsregistret TSV exports (state bodies in five groups with organisationsnummer).
+
+Several bodies can share one number: the 80 courts are listed under Domstolsverket's. The
+first row for a number is kept as its entry and every further row goes under ``unit``.
+"""
 import csv
 import io
 import json
@@ -32,11 +36,15 @@ def fetch(cache: Path):
             number = orgnr(r.get("Organisationsnr"))
             if not number:
                 continue
-            out[number] = {
+            row = {
                 "name": (r.get("Namn") or "").strip(),
                 "group": group,
                 "sfs": (r.get("SFS") or "").strip(),
                 "email": (r.get("Epost") or "").strip(),
                 "web": (r.get("Webbadress") or "").strip(),
             }
+            if number in out:
+                out[number].setdefault("unit", []).append(row)
+            else:
+                out[number] = row
     return out

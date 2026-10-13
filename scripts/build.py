@@ -9,6 +9,7 @@ register failing never stops the build.
 """
 import argparse
 import difflib
+import unicodedata
 import json
 import re
 import sys
@@ -73,8 +74,30 @@ def suffix_of(uri):
     return m.group(1) if m else ""
 
 
+SMALL_WORDS = {"i", "och", "för", "över", "o", "av", "med", "till", "under", "på"}
+
+
 def title(value):
-    return value.title() if value.isupper() else value
+    """Registered names come in capitals; title-case them, keeping Swedish particles lower."""
+    if not value.isupper():
+        return value
+    words = value.title().split(" ")
+    return " ".join(w.lower() if i and w.lower() in SMALL_WORDS else w for i, w in enumerate(words))
+
+
+def suffix_for(body):
+    """An id suffix for a body listed under another body's number: from its own mailbox when it has
+    one (alingsas.tingsratt@dom.se → -ALINGSAS-TINGSRATT), else from its name, in ASCII capitals."""
+    source = body["email"].split("@")[0] if body.get("email") else body["name"]
+    folded = unicodedata.normalize("NFKD", source).encode("ascii", "ignore").decode().upper()
+    return "-" + "-".join(re.findall(r"[A-Z0-9]+", folded))
+
+
+def same_body(a, b):
+    """Whether two register names denote one body: equal, or one is the start of the other
+    (Myndighetsregistret cuts names at 48 characters)."""
+    a, b = a.casefold().strip(), b.casefold().strip()
+    return bool(a and b) and (a == b or a.startswith(b) or b.startswith(a))
 
 
 def main():
@@ -138,17 +161,38 @@ def main():
             r["established"] = row["registered"]
         r["source"].append("scb_bulk")
 
+    # Bodies sharing one number (the courts, all under Domstolsverket's) are each their own
+    # organisation with a suffixed id and the legal unit as parent. The legal unit is the row
+    # named as SCB registers the number, else the register's first row. Statskontoret's rows
+    # for the same number are matched to Myndighetsregistret's by name and share the id.
+    units = {}
+
+    def unit_id(number, body):
+        for suffix, known in units.get(number, {}).items():
+            if same_body(known, body["name"]):
+                return suffix
+        suffix = suffix_for(body)
+        units.setdefault(number, {})[suffix] = body["name"]
+        return suffix
+
     for number, row in state.items():
-        r = rec(number)
-        label(r, "sv", title(row["name"]), "myndighetsregistret")
-        r["state_body_group"] = row["group"]
-        if row["sfs"]:
-            r["sfs"] = row["sfs"]
-        if row["web"]:
-            r.setdefault("homepage", row["web"] if row["web"].startswith("http") else "https://" + row["web"])
-        if row["email"]:
-            r.setdefault("email", row["email"])
-        r["source"].append("myndighetsregistret")
+        bodies = [row] + row.get("unit", [])
+        registered = scb.get(number, {}).get("name", "").casefold()
+        legal = next((b for b in bodies if b["name"].casefold() == registered), bodies[0])
+        for body in bodies:
+            r = rec(number, "" if body is legal else unit_id(number, body))
+            label(r, "sv", title(body["name"]), "myndighetsregistret")
+            r["state_body_group"] = body["group"]
+            if body is not legal:
+                r["organisation_type"] = "NationalAuthority"
+                r["status"] = orgs[org_id(number)]["status"] if org_id(number) in orgs else "unknown"
+            if body["sfs"]:
+                r["sfs"] = body["sfs"]
+            if body["web"]:
+                r.setdefault("homepage", body["web"] if body["web"].startswith("http") else "https://" + body["web"])
+            if body["email"]:
+                r.setdefault("email", body["email"])
+            r["source"].append("myndighetsregistret")
 
     # Statskontoret: every name a state body has carried under each of its numbers,
     # the number that replaced an earlier one, and where a wound-up body went.
@@ -205,15 +249,27 @@ def main():
     # Statskontoret's yearly list: abbreviation or former name, instruction and department
     # for every current state body that is its own legal unit.
     for number, row in listing.items():
-        r = rec(number)
-        label(r, "sv", row["name"], "statskontoret")
-        alias(r, *row["alias"])
-        if row["sfs"]:
-            r.setdefault("sfs", row["sfs"])
-        if row["department"]:
-            r.setdefault("department", row["department"])
-        if "statskontoret" not in r["source"]:
-            r["source"].append("statskontoret")
+        bodies = [row] + row.get("unit", [])
+        registered = scb.get(number, {}).get("name", "").casefold()
+        legal = next((b for b in bodies if b["name"].casefold() == registered), bodies[0]) if len(bodies) > 1 else row
+        for body in bodies:
+            r = rec(number, "" if body is legal else unit_id(number, body))
+            label(r, "sv", body["name"], "statskontoret")
+            alias(r, *body["alias"])
+            if body is not legal:
+                r.setdefault("organisation_type", "NationalAuthority")
+                r.setdefault("state_body_group", state.get(number, {}).get("group", ""))
+                if r["status"] == "unknown" and org_id(number) in orgs:
+                    r["status"] = orgs[org_id(number)]["status"]
+            if body["sfs"]:
+                if body is legal:
+                    r.setdefault("sfs", body["sfs"])
+                else:
+                    r["sfs"] = body["sfs"]  # Myndighetsregistret gives every court its legal unit's instruction
+            if body["department"]:
+                r.setdefault("department", body["department"])
+            if "statskontoret" not in r["source"]:
+                r["source"].append("statskontoret")
 
     links_portal, links_europa, links_wd = {}, {}, {}
     for uri, row in portal.get("registry", {}).items():

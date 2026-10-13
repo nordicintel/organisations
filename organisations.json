@@ -1,5 +1,5 @@
 {
-  "count": 1030,
+  "count": 1110,
   "generated": "2026-10-13",
   "organisation": {
     "SE0123456789": {
@@ -1386,7 +1386,7 @@
         "SMMTF",
         "Statens maritima museer",
         "Statens maritima och transporthistoriska museer",
-        "Statens Museer För Maritim, Transport- Och Försvarshistoria",
+        "Statens Museer för Maritim, Transport- och Försvarshistoria",
         "Statens sjöhistoriska museer"
       ],
       "department": "Kulturdepartementet",
@@ -1439,7 +1439,7 @@
         "Mucf",
         "Myndigheten för ungdoms- och civilsamhällesfrågor (MUCF)",
         "Myndigheten för ungdoms- och civilsamhällesfrågor (mucf)",
-        "Myndigheten För Ungdoms-Och Civilsamhällesfrågor",
+        "Myndigheten för Ungdoms-Och Civilsamhällesfrågor",
         "Ungdomsstyrelsen"
       ],
       "department": "Socialdepartementet",
@@ -3330,11 +3330,10 @@
         "Domstolsverket",
         "Domstolsväsendet",
         "The Swedish National Court Administration",
-        "The Swedish National Courts Administration",
-        "Östersunds Tingsrätt Och Mark Och Miljödomstol"
+        "The Swedish National Courts Administration"
       ],
       "department": "Justitiedepartementet",
-      "email": "ostersunds.tingsratt@dom.se",
+      "email": "domstolsverket@dom.se",
       "established": "1975-01-01",
       "homepage": "https://www.domstol.se",
       "id": "SE2021002742",
@@ -3364,6 +3363,1526 @@
         "myndighetsregistret",
         "scb_bulk",
         "statskontoret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-ALINGSAS-TINGSRATT": {
+      "email": "alingsas.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-ALINGSAS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Alingsås Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-ANGERMANLANDS-TINGSRATT": {
+      "email": "angermanlands.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-ANGERMANLANDS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Ångermanlands Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-ATTUNDA-TINGSRATT": {
+      "email": "attunda.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-ATTUNDA-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Attunda Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-BLEKINGE-TINGSRATT": {
+      "email": "blekinge.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-BLEKINGE-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Blekinge Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-BORAS-TINGSRATT": {
+      "email": "boras.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-BORAS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Borås Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-EKSJO-TINGSRATT": {
+      "email": "eksjo.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-EKSJO-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Eksjö Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-ESKILSTUNA-TINGSRATT": {
+      "email": "eskilstuna.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-ESKILSTUNA-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Eskilstuna Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-FALU-TINGSRATT": {
+      "email": "falu.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-FALU-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Falu Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-FORVALTNINGSRATTENIFALUN": {
+      "email": "forvaltningsrattenifalun@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-FORVALTNINGSRATTENIFALUN",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Förvaltningsrätten i Falun"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-FORVALTNINGSRATTENIGOTEBORG": {
+      "email": "forvaltningsrattenigoteborg@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-FORVALTNINGSRATTENIGOTEBORG",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Förvaltningsrätten i Göteborg och Migrationsdoms"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-FORVALTNINGSRATTENIHARNOSAND": {
+      "email": "forvaltningsratteniharnosand@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-FORVALTNINGSRATTENIHARNOSAND",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Förvaltningsrätten i Härnösand"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-FORVALTNINGSRATTENIJONKOPING": {
+      "email": "forvaltningsrattenijonkoping@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-FORVALTNINGSRATTENIJONKOPING",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Förvaltningsrätten i Jönköping"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-FORVALTNINGSRATTENIKARLSTAD": {
+      "email": "forvaltningsrattenikarlstad@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-FORVALTNINGSRATTENIKARLSTAD",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Förvaltningsrätten i Karlstad"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-FORVALTNINGSRATTENILINKOPING": {
+      "email": "forvaltningsrattenilinkoping@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-FORVALTNINGSRATTENILINKOPING",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Förvaltningsrätten i Linköping"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-FORVALTNINGSRATTENILULEA": {
+      "email": "forvaltningsrattenilulea@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-FORVALTNINGSRATTENILULEA",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Förvaltningsrätten i Luleå och Migrationsdomstol"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-FORVALTNINGSRATTENIMALMO": {
+      "email": "forvaltningsrattenimalmo@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-FORVALTNINGSRATTENIMALMO",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Förvaltningsrätten i Malmö"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-FORVALTNINGSRATTENISTOCKHOLM": {
+      "email": "forvaltningsrattenistockholm@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-FORVALTNINGSRATTENISTOCKHOLM",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Förvaltningsrätten i Stockholm och Migrationsdom"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-FORVALTNINGSRATTENIUMEA": {
+      "email": "forvaltningsratteniumea@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-FORVALTNINGSRATTENIUMEA",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Förvaltningsrätten i Umeå"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-FORVALTNINGSRATTENIUPPSALA": {
+      "email": "forvaltningsratteniuppsala@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-FORVALTNINGSRATTENIUPPSALA",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Förvaltningsrätten i Uppsala"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-FORVALTNINGSRATTENIVAXJO": {
+      "email": "forvaltningsrattenivaxjo@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-FORVALTNINGSRATTENIVAXJO",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Förvaltningsrätten i Växjö"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-GALLIVARE-TINGSRATT": {
+      "email": "gallivare.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-GALLIVARE-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Gällivare Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-GAVLE-TINGSRATT": {
+      "email": "gavle.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-GAVLE-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Gävle Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-GBG-TINGSRATT": {
+      "email": "gbg.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-GBG-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Göteborgs Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-GOTA-HOVRATT": {
+      "email": "gota.hovratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-GOTA-HOVRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Göta Hovrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-GOTLANDS-TINGSRATT": {
+      "email": "gotlands.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-GOTLANDS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Gotlands Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HALMSTADS-TINGSRATT": {
+      "email": "halmstads.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HALMSTADS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Halmstads Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HALSINGLANDS-TINGSRATT": {
+      "email": "halsinglands.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HALSINGLANDS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hälsinglands Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HAPARANDA-TINGSRATT": {
+      "email": "haparanda.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HAPARANDA-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Haparanda Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HASSLEHOLMS-TINGSRATT": {
+      "email": "hassleholms.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HASSLEHOLMS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hässleholms Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HELSINGBORGS-TINGSRATT": {
+      "email": "helsingborgs.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HELSINGBORGS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Helsingborgs Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HOGSTA-DOMSTOLEN": {
+      "email": "hogsta.domstolen@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HOGSTA-DOMSTOLEN",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Högsta Domstolen"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HOGSTAFORVALTNINGSDOMSTOLEN": {
+      "email": "hogstaforvaltningsdomstolen@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HOGSTAFORVALTNINGSDOMSTOLEN",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Högsta Förvaltningsdomstolen"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HOVRATTEN-NEDRENORRLAND": {
+      "email": "hovratten.nedrenorrland@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HOVRATTEN-NEDRENORRLAND",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hovrätten för Nedre Norrland"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HOVRATTEN-OVRENORRLAND": {
+      "email": "hovratten.ovrenorrland@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HOVRATTEN-OVRENORRLAND",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hovrätten för Övre Norrland"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HOVRATTEN-SKANEBLEKINGE": {
+      "email": "hovratten.skaneblekinge@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HOVRATTEN-SKANEBLEKINGE",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hovrätten över Skåne och Blekinge"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HOVRATTEN-VASTRASVERIGE": {
+      "email": "hovratten.vastrasverige@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HOVRATTEN-VASTRASVERIGE",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hovrätten för Västra Sverige"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HYRESNAMNDENIGOTEBORG": {
+      "email": "hyresnamndenigoteborg@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HYRESNAMNDENIGOTEBORG",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hyres och Arrendenämnden i Göteborg"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HYRESNAMNDENIJONKOPING": {
+      "email": "hyresnamndenijonkoping@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HYRESNAMNDENIJONKOPING",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hyres och Arrendenämnden i Jönköping"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HYRESNAMNDENILINKOPING": {
+      "email": "hyresnamndenilinkoping@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HYRESNAMNDENILINKOPING",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hyres och Arrendenämnden i Linköping"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HYRESNAMNDENIMALMO": {
+      "email": "hyresnamndenimalmo@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HYRESNAMNDENIMALMO",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hyres och Arrendenämnen i Malmö"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HYRESNAMNDENISTOCKHOLM": {
+      "email": "hyresnamndenistockholm@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HYRESNAMNDENISTOCKHOLM",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hyres och Arrendenämnden i Stockholm"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HYRESNAMNDENISUNDSVALL": {
+      "email": "hyresnamndenisundsvall@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HYRESNAMNDENISUNDSVALL",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hyres och Arrendenämnden i Sundsvall"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HYRESNAMNDENIUMEA": {
+      "email": "hyresnamndeniumea@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HYRESNAMNDENIUMEA",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hyres och Arrendenämnden i Umeå"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-HYRESNAMNDENIVASTERAS": {
+      "email": "hyresnamndenivasteras@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-HYRESNAMNDENIVASTERAS",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Hyres och Arrendenämnden i Västerås"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-JONKOPINGS-TINGSRATT": {
+      "email": "jonkopings.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-JONKOPINGS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Jönköpings Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-KALMAR-TINGSRATT": {
+      "email": "kalmar.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-KALMAR-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Kalmar Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-KAMMARRATTEN-GOTEBORG": {
+      "email": "kammarratten.goteborg@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-KAMMARRATTEN-GOTEBORG",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Kammarrätten i Göteborg"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-KAMMARRATTENIJONKOPING": {
+      "email": "kammarrattenijonkoping@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-KAMMARRATTENIJONKOPING",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Kammarrätten i Jönköping"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-KAMMARRATTENISTOCKHOLM": {
+      "email": "kammarrattenistockholm@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-KAMMARRATTENISTOCKHOLM",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Kammarrätten i Stockholm och Migrationsöverdomst"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-KAMMARRATTENISUNDSVALL": {
+      "email": "kammarrattenisundsvall@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-KAMMARRATTENISUNDSVALL",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Kammarrätten i Sundsvall"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-KRISTIANSTADS-TINGSRATT": {
+      "email": "kristianstads.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-KRISTIANSTADS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Kristianstads Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-LINKOPINGS-TINGSRATT": {
+      "email": "linkopings.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-LINKOPINGS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Linköpings Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-LULEA-TINGSRATT": {
+      "email": "lulea.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-LULEA-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Luleå Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-LUNDS-TINGSRATT": {
+      "email": "lunds.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-LUNDS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Lunds Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-LYCKSELE-TINGSRATT": {
+      "email": "lycksele.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-LYCKSELE-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Lycksele Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-MALMO-TINGSRATT": {
+      "email": "malmo.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-MALMO-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Malmö Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-MORA-TINGSRATT": {
+      "email": "mora.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-MORA-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Mora Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-NACKA-TINGSRATT": {
+      "email": "nacka.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-NACKA-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Nacka Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-NORRKOPINGS-TINGSRATT": {
+      "email": "norrkopings.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-NORRKOPINGS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Norrköpings Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-NORRTALJE-TINGSRATT": {
+      "email": "norrtalje.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-NORRTALJE-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Norrtälje Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-NYKOPINGS-TINGSRATT": {
+      "email": "nykopings.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-NYKOPINGS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Nyköpings Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-OREBRO-TINGSRATT": {
+      "email": "orebro.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-OREBRO-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Örebro Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-OSTERSUNDS-TINGSRATT": {
+      "email": "ostersunds.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-OSTERSUNDS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Östersunds Tingsrätt och Mark och Miljödomstol"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-SKARABORGS-TINGSRATT": {
+      "email": "skaraborgs.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-SKARABORGS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Skaraborgs Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-SKELLEFTEA-TINGSRATT": {
+      "email": "skelleftea.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-SKELLEFTEA-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Skellefteå Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-SODERTALJE-TINGSRATT": {
+      "email": "sodertalje.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-SODERTALJE-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Södertälje Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-SODERTORNS-TINGSRATT": {
+      "email": "sodertorns.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-SODERTORNS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Södertörns Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-SOLNA-TINGSRATT": {
+      "email": "solna.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-SOLNA-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Solna Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-STOCKHOLMS-TINGSRATT": {
+      "email": "stockholms.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-STOCKHOLMS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Stockholms Tingsrätt och Patent och Marknadsdom"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-SUNDSVALLS-TINGSRATT": {
+      "email": "sundsvalls.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-SUNDSVALLS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Sundsvalls Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-SVEA-HOVRATT": {
+      "email": "svea.hovratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-SVEA-HOVRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Svea Hovrätt o Mark o Miljö och Patent"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-UDDEVALLA-TINGSRATT": {
+      "email": "uddevalla.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-UDDEVALLA-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Uddevalla Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-UMEA-TINGSRATT": {
+      "email": "umea.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-UMEA-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Umeå Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-UPPSALA-TINGSRATT": {
+      "email": "uppsala.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-UPPSALA-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Uppsala Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-VANERSBORGS-TINGSRATT": {
+      "email": "vanersborgs.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-VANERSBORGS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Vänersborgs Tingsrätt och Mark och Miljödomstol"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-VARBERGS-TINGSRATT": {
+      "email": "varbergs.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-VARBERGS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Varbergs Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-VARMLANDS-TINGSRATT": {
+      "email": "varmlands.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-VARMLANDS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Värmlands Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-VASTMANLANDS-TINGSRATT": {
+      "email": "vastmanlands.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-VASTMANLANDS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Västmanlands Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-VAXJO-TINGSRATT": {
+      "email": "vaxjo.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-VAXJO-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Växjö Tingsrätt och Mark och Miljödomstol"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
+      ],
+      "state_body_group": "domstol",
+      "status": "active"
+    },
+    "SE2021002742-YSTADS-TINGSRATT": {
+      "email": "ystads.tingsratt@dom.se",
+      "homepage": "https://www.domstol.se",
+      "id": "SE2021002742-YSTADS-TINGSRATT",
+      "identifier": {
+        "orgnr": "2021002742"
+      },
+      "label": {
+        "sv": "Ystads Tingsrätt"
+      },
+      "organisation_type": "NationalAuthority",
+      "part_of": "SE2021002742",
+      "sfs": "1988:317",
+      "source": [
+        "myndighetsregistret"
       ],
       "state_body_group": "domstol",
       "status": "active"
@@ -6946,7 +8465,7 @@
     "SE2021004946": {
       "alias": [
         "IFAU",
-        "Institutet För Arbetsmarknads-Och Utbildningspolitisk Utvärdering",
+        "Institutet för Arbetsmarknads-Och Utbildningspolitisk Utvärdering",
         "Institutet för arbetsmarknads-Och utbildningspolitisk utvärdering",
         "Institutet för arbetsmarknadspolitisk utvärdering"
       ],
@@ -7694,7 +9213,7 @@
     "SE2021005232": {
       "alias": [
         "Formas",
-        "Forskningsrådet F Miljö, Areella Näringar Och Samhällsbyggande"
+        "Forskningsrådet F Miljö, Areella Näringar och Samhällsbyggande"
       ],
       "department": "Klimat- och näringslivsdepartementet",
       "email": "registrator@formas.se",
@@ -8122,7 +9641,7 @@
     "SE2021005414": {
       "alias": [
         "IAF:s öppna data",
-        "Inspektionen För Arbetslöshetsförsäkring",
+        "Inspektionen för Arbetslöshetsförsäkring",
         "Inspektionen för arbetslöshetsförsäkringen",
         "Inspektionen för arbetslöshetsförsäkringen (IAF)"
       ],
@@ -8861,7 +10380,7 @@
       },
       "label": {
         "en": "National Advisory Board on Patent Rights and Compensation Settlements for Inventions at Work",
-        "sv": "Statens Nämnd För Arbetstagares Uppfinningar"
+        "sv": "Statens Nämnd för Arbetstagares Uppfinningar"
       },
       "legal_type": {
         "code": "81",
@@ -8888,7 +10407,7 @@
       },
       "label": {
         "en": "Council for Employee Representation on Boards of Directors",
-        "sv": "Nämnden För Styrelserepresentationsfrågor"
+        "sv": "Nämnden för Styrelserepresentationsfrågor"
       },
       "legal_type": {
         "code": "81",
@@ -21948,7 +23467,7 @@
         "orgnr": "2220000943"
       },
       "label": {
-        "sv": "Kommunalförbundet Av Media Skåne"
+        "sv": "Kommunalförbundet av Media Skåne"
       },
       "legal_type": {
         "code": "83",
@@ -22208,7 +23727,7 @@
         "orgnr": "2220001172"
       },
       "label": {
-        "sv": "Arkivnämnden F V Götalandsregionen Och Göteborg"
+        "sv": "Arkivnämnden F V Götalandsregionen och Göteborg"
       },
       "legal_type": {
         "code": "83",
@@ -22348,7 +23867,7 @@
         "orgnr": "2220001313"
       },
       "label": {
-        "sv": "Kommunalförbundet Norrlands Nätverk För Musikteater Och Dans (Nmd)"
+        "sv": "Kommunalförbundet Norrlands Nätverk för Musikteater och Dans (Nmd)"
       },
       "legal_type": {
         "code": "83",
@@ -22808,7 +24327,7 @@
         "orgnr": "2220001743"
       },
       "label": {
-        "sv": "Samordningsförbundet I Kramfors"
+        "sv": "Samordningsförbundet i Kramfors"
       },
       "legal_type": {
         "code": "83",
@@ -22848,7 +24367,7 @@
         "orgnr": "2220001768"
       },
       "label": {
-        "sv": "Samordningsförbundet I Sundsvall"
+        "sv": "Samordningsförbundet i Sundsvall"
       },
       "legal_type": {
         "code": "83",
@@ -22928,7 +24447,7 @@
         "orgnr": "2220001800"
       },
       "label": {
-        "sv": "Västra Värmlands Och Norra Dalslands Samordningsförbund"
+        "sv": "Västra Värmlands och Norra Dalslands Samordningsförbund"
       },
       "legal_type": {
         "code": "83",
@@ -22948,7 +24467,7 @@
         "orgnr": "2220001818"
       },
       "label": {
-        "sv": "Samordningsförbundet I Norra Örebro Län, Sofint"
+        "sv": "Samordningsförbundet i Norra Örebro Län, Sofint"
       },
       "legal_type": {
         "code": "83",
@@ -23008,7 +24527,7 @@
         "orgnr": "2220001859"
       },
       "label": {
-        "sv": "Samordningsförbundet I Kalmar Län"
+        "sv": "Samordningsförbundet i Kalmar Län"
       },
       "legal_type": {
         "code": "83",
@@ -23088,7 +24607,7 @@
         "orgnr": "2220001925"
       },
       "label": {
-        "sv": "Samordningsförbund För Rehabilitering I Södertälje"
+        "sv": "Samordningsförbund för Rehabilitering i Södertälje"
       },
       "legal_type": {
         "code": "83",
@@ -23188,7 +24707,7 @@
         "orgnr": "2220001982"
       },
       "label": {
-        "sv": "Samordningsförbundet I Sollefteå"
+        "sv": "Samordningsförbundet i Sollefteå"
       },
       "legal_type": {
         "code": "83",
@@ -23208,7 +24727,7 @@
         "orgnr": "2220001990"
       },
       "label": {
-        "sv": "Samordningsförbundet I Jämtlands Län"
+        "sv": "Samordningsförbundet i Jämtlands Län"
       },
       "legal_type": {
         "code": "83",
@@ -23268,7 +24787,7 @@
         "orgnr": "2220002063"
       },
       "label": {
-        "sv": "Samordningsförbundet I Örnsköldsvik"
+        "sv": "Samordningsförbundet i Örnsköldsvik"
       },
       "legal_type": {
         "code": "83",
@@ -23748,7 +25267,7 @@
         "orgnr": "2220002493"
       },
       "label": {
-        "sv": "Finsam Lekeberg Och Örebro"
+        "sv": "Finsam Lekeberg och Örebro"
       },
       "legal_type": {
         "code": "83",
@@ -23988,7 +25507,7 @@
         "orgnr": "2220002667"
       },
       "label": {
-        "sv": "Samordningsförbundet I Svedala"
+        "sv": "Samordningsförbundet i Svedala"
       },
       "legal_type": {
         "code": "83",
@@ -24048,7 +25567,7 @@
         "orgnr": "2220002709"
       },
       "label": {
-        "sv": "Kommunalförbundet För Fastigheten St Retered"
+        "sv": "Kommunalförbundet för Fastigheten St Retered"
       },
       "legal_type": {
         "code": "83",
@@ -25589,7 +27108,7 @@
         "orgnr": "2620000022"
       },
       "label": {
-        "sv": "Hushållningssällskapet I Sth:S O Uppsala Län"
+        "sv": "Hushållningssällskapet i Sth:S o Uppsala Län"
       },
       "legal_type": {
         "code": "87",
@@ -25609,7 +27128,7 @@
         "orgnr": "2620000048"
       },
       "label": {
-        "sv": "Hushållningssällskapet I Östergötlands Län"
+        "sv": "Hushållningssällskapet i Östergötlands Län"
       },
       "legal_type": {
         "code": "87",
@@ -25629,7 +27148,7 @@
         "orgnr": "2620000055"
       },
       "label": {
-        "sv": "Hushållningssällskapet I Jkpgs Län"
+        "sv": "Hushållningssällskapet i Jkpgs Län"
       },
       "legal_type": {
         "code": "87",
@@ -25729,7 +27248,7 @@
         "orgnr": "2620000121"
       },
       "label": {
-        "sv": "Hushållningssällskapet I Hallands Län"
+        "sv": "Hushållningssällskapet i Hallands Län"
       },
       "legal_type": {
         "code": "87",
@@ -25889,7 +27408,7 @@
         "orgnr": "2620000220"
       },
       "label": {
-        "sv": "Hushållningssällskapet I Västernorrlands Län"
+        "sv": "Hushållningssällskapet i Västernorrlands Län"
       },
       "legal_type": {
         "code": "87",
@@ -25909,7 +27428,7 @@
         "orgnr": "2620000238"
       },
       "label": {
-        "sv": "Hushållningssällskapet I Jämtlands Län"
+        "sv": "Hushållningssällskapet i Jämtlands Län"
       },
       "legal_type": {
         "code": "87",
@@ -25929,7 +27448,7 @@
         "orgnr": "2620000253"
       },
       "label": {
-        "sv": "Hushållningssällskapet I Norrbotten-Västerbotten"
+        "sv": "Hushållningssällskapet i Norrbotten-Västerbotten"
       },
       "legal_type": {
         "code": "87",
@@ -26009,7 +27528,7 @@
         "orgnr": "2620000303"
       },
       "label": {
-        "sv": "Sydsvenska Industri- Och Handelskammaren"
+        "sv": "Sydsvenska Industri- och Handelskammaren"
       },
       "legal_type": {
         "code": "87",
@@ -26049,7 +27568,7 @@
         "orgnr": "2620000337"
       },
       "label": {
-        "sv": "Handelskammaren Mälardalen För Örebro Och Västma"
+        "sv": "Handelskammaren Mälardalen för Örebro och Västma"
       },
       "legal_type": {
         "code": "87",
@@ -26089,7 +27608,7 @@
         "orgnr": "2620000352"
       },
       "label": {
-        "sv": "Fören. Av Mittsv:S Industri- O Handelskammare"
+        "sv": "Fören. av Mittsv:S Industri- o Handelskammare"
       },
       "legal_type": {
         "code": "87",
@@ -26229,7 +27748,7 @@
         "orgnr": "2620001103"
       },
       "label": {
-        "sv": "Handelskammareföreningen I Västerbotten"
+        "sv": "Handelskammareföreningen i Västerbotten"
       },
       "legal_type": {
         "code": "87",
@@ -26294,7 +27813,7 @@
         "orgnr": "2620001145"
       },
       "label": {
-        "sv": "Kungl Skogs- Och Lantbruksakademien"
+        "sv": "Kungl Skogs- och Lantbruksakademien"
       },
       "legal_type": {
         "code": "87",
@@ -26394,7 +27913,7 @@
         "orgnr": "2620001194"
       },
       "label": {
-        "sv": "Sveriges Export- Och Investeringsråd"
+        "sv": "Sveriges Export- och Investeringsråd"
       },
       "legal_type": {
         "code": "87",
@@ -26414,7 +27933,7 @@
         "orgnr": "2620001467"
       },
       "label": {
-        "sv": "Nämnden F Utg Av Förvalt.Rättsliga Publikationer"
+        "sv": "Nämnden F Utg av Förvalt.Rättsliga Publikationer"
       },
       "legal_type": {
         "code": "87",

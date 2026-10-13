@@ -17,7 +17,7 @@ The fields, in the order you will use them:
 
 | field | meaning | from |
 |---|---|---|
-| `id` | `SE` + organisationsnummer; `SE…-LST` style for dataportal.se's agreed suffixes; `wikidata:Q…` for bodies with no Swedish number | registers, edits |
+| `id` | `SE` + organisationsnummer; `SE…-LST` style for dataportal.se's agreed suffixes; `SE…-ALINGSAS-TINGSRATT` style for a state body listed under another body's number (the courts under Domstolsverket), suffix from its own mailbox, else its name; `wikidata:Q…` for bodies with no Swedish number | registers, edits |
 | `label` | official name by language, `sv` always, `en` where published | Statskontoret, dataportal, Myndighetsregistret, Wikidata, edits |
 | `registered_label` | the name exactly as registered with SCB | SCB bulk file |
 | `slug` | our short code; one per organisation | edits |
@@ -29,7 +29,7 @@ The fields, in the order you will use them:
 | `code` | `kommun` and `lan` codes for municipalities | Wikidata |
 | `homepage`, `email` | | dataportal, Myndighetsregistret, Statskontoret |
 | `established`, `dissolved`, `succeeded_by` | history; `succeeded_by` lists organisation ids | SCB, Wikidata, Statskontoret |
-| `part_of` | parent id, e.g. the base number behind a suffixed id | derived |
+| `part_of` | parent id: the legal unit behind a suffixed id | derived |
 | `identifier` | one canonical value per external system: `orgnr`, `dataportal`, `wikidata`, `ror`, `riksarkivet` | registers |
 | `same_as` | every other URI the portals use for the same organisation | portals, edits |
 | `source` | which registers and edits contributed | build |

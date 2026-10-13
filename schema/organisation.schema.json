@@ -7,7 +7,7 @@
   "required": ["id", "label", "status"],
   "additionalProperties": false,
   "properties": {
-    "id": {"type": "string", "pattern": "^(SE\\d{10}(-[A-Z0-9]+)?|ror:[0-9a-z]+|wikidata:Q\\d+)$",
+    "id": {"type": "string", "pattern": "^(SE\\d{10}(-[A-Z0-9]+)*|ror:[0-9a-z]+|wikidata:Q\\d+)$",
            "description": "SE + 10-digit organisationsnummer, optionally with dataportal.se's agreed suffix; ror:… or wikidata:Q… for bodies without one."},
     "label": {"type": "object", "additionalProperties": {"type": "string"}, "minProperties": 1,
               "description": "Official name by language. sv is the Swedish name, en the official English name where published."},
