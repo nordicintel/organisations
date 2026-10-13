@@ -81,7 +81,8 @@ def main():
     cache = Path(ap.parse_args().cache)
 
     edits = load(ROOT / "edits" / "organisations.json", {"organisation": {}, "ignore": []})
-    previous = load(OUTPUT, {}).get("organisation", {})
+    previous_output = load(OUTPUT, {})
+    previous = previous_output.get("organisation", {})
     report = {"date": date.today().isoformat(), "register": {}}
     registers = report["register"]
 
@@ -318,7 +319,9 @@ def main():
             r["part_of"] = r["id"].split("-")[0]
 
     orgs = dict(sorted(orgs.items()))
-    dump(OUTPUT, {"generated": report["date"], "count": len(orgs), "organisation": orgs})
+    # "generated" is the date of the last content change, so an unchanged registry stays byte-identical.
+    generated = previous_output.get("generated", report["date"]) if orgs == previous else report["date"]
+    dump(OUTPUT, {"generated": generated, "count": len(orgs), "organisation": orgs})
     dump(ROOT / "links" / "dataportal.json", dict(sorted(links_portal.items())))
     dump(ROOT / "links" / "data-europa.json", dict(sorted(links_europa.items())))
     dump(ROOT / "links" / "wikidata.json", dict(sorted(links_wd.items())))
@@ -328,7 +331,9 @@ def main():
     changed = sorted(k for k in set(orgs) & set(previous) if orgs[k] != previous[k])
     report.update({"count": len(orgs), "added": added, "removed": removed, "changed": len(changed),
                    "legal_type": dict(Counter(r.get("legal_type", {}).get("code", "none") for r in orgs.values()))})
-    trouble = any(v["status"] != "fetched" for v in registers.values())
+    # A stale register is normal operation (statskontoret.se never answers the runner); only a
+    # content change or a register with no snapshot at all is worth a report commit.
+    trouble = any(v["status"] == "failed" for v in registers.values())
     if added or removed or changed or trouble:
         dump(ROOT / "reports" / f"{report['date']}.json", report)
     print(f"{len(orgs)} organisations: +{len(added)} -{len(removed)} ~{len(changed)}; "

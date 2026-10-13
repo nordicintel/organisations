@@ -102,7 +102,7 @@ The only hand file for organisations. Merged last, so it wins over every registe
 | `links/data-europa.json` | data.europa.eu publisher and creator URI → organisation id |
 | `links/wikidata.json` | Wikidata item → organisation id |
 | `snapshots/<register>.json` | the reduced result of the last successful fetch of each register. Committed so a build still runs when a register is down |
-| `reports/<date>.json` | written by a build that changed something or had a register problem: per register `fetched`, `stale` or `failed`, counts, added and removed ids |
+| `reports/<date>.json` | written by a build that changed an organisation or found a register with no snapshot: per register `fetched`, `stale` or `failed`, counts, added and removed ids. `generated` in `organisations.json` is the date of the last content change |
 
 ## Build and check
 
