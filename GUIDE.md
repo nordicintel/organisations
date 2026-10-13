@@ -36,7 +36,9 @@ The fields, in the order you will use them:
 | `note` | free text | edits |
 
 Resolve a name to an organisation by `alias` first, then `label` and
-`registered_label`. For state bodies Statskontoret's name wins the Swedish label:
+`registered_label`. When a name matches several (a body and its wound-up
+predecessor of the same name, like Skogsstyrelsen before and after 2006), take the
+one without `succeeded_by`. For state bodies Statskontoret's name wins the Swedish label:
 it is the current name as the body writes it ("Kungl. biblioteket",
 "Integritetsskyddsmyndigheten"), where dataportal.se is often stale and
 Myndighetsregistret is upper case. English names come from Wikidata first and
