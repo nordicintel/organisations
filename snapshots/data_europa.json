@@ -5292,6 +5292,18 @@
     ],
     "same_as": []
   },
+  "https://metadatakatalog.huddinge.se/store/13/resource/554": {
+    "catalogue": [
+      "oppnadata"
+    ],
+    "names": {
+      "sv": "Lantmäteriet"
+    },
+    "roles": [
+      "publisher"
+    ],
+    "same_as": []
+  },
   "https://metadatakatalog.huddinge.se/store/19/resource/222": {
     "catalogue": [
       "oppnadata"
@@ -5304,6 +5316,84 @@
     ],
     "same_as": []
   },
+  "https://metadatakatalog.huddinge.se/store/5/resource/12": {
+    "catalogue": [
+      "oppnadata"
+    ],
+    "names": {
+      "sv": "Länsstyrelsen"
+    },
+    "roles": [
+      "creator",
+      "publisher"
+    ],
+    "same_as": [],
+    "type": "http://purl.org/adms/publishertype/NationalAuthority"
+  },
+  "https://metadatakatalog.huddinge.se/store/5/resource/14": {
+    "catalogue": [
+      "oppnadata"
+    ],
+    "names": {
+      "sv": "Sveriges hjärtstartarregister"
+    },
+    "roles": [
+      "publisher"
+    ],
+    "same_as": []
+  },
+  "https://metadatakatalog.huddinge.se/store/5/resource/15": {
+    "catalogue": [
+      "oppnadata"
+    ],
+    "names": {
+      "sv": "MCF - Myndigheten för Civilt Försvar"
+    },
+    "roles": [
+      "publisher"
+    ],
+    "same_as": [],
+    "type": "http://purl.org/adms/publishertype/NationalAuthority"
+  },
+  "https://metadatakatalog.huddinge.se/store/5/resource/17": {
+    "catalogue": [
+      "oppnadata"
+    ],
+    "names": {
+      "sv": "Skogsstyrelsen"
+    },
+    "roles": [
+      "publisher"
+    ],
+    "same_as": [],
+    "type": "http://purl.org/adms/publishertype/NationalAuthority"
+  },
+  "https://metadatakatalog.huddinge.se/store/5/resource/20": {
+    "catalogue": [
+      "oppnadata"
+    ],
+    "names": {
+      "sv": "SVOA"
+    },
+    "roles": [
+      "publisher"
+    ],
+    "same_as": [],
+    "type": "http://purl.org/adms/publishertype/NationalAuthority"
+  },
+  "https://metadatakatalog.huddinge.se/store/5/resource/21": {
+    "catalogue": [
+      "oppnadata"
+    ],
+    "names": {
+      "sv": "SRV Återvinning AB"
+    },
+    "roles": [
+      "publisher"
+    ],
+    "same_as": [],
+    "type": "http://purl.org/adms/publishertype/Company"
+  },
   "https://metadatakatalog.huddinge.se/store/5/resource/22": {
     "catalogue": [
       "oppnadata"
@@ -5313,6 +5403,32 @@
     },
     "roles": [
       "creator"
+    ],
+    "same_as": []
+  },
+  "https://metadatakatalog.huddinge.se/store/5/resource/9": {
+    "catalogue": [
+      "oppnadata"
+    ],
+    "homepage": "https://metadatakatalog.huddinge.se/store/5/resource/7",
+    "names": {
+      "sv": "Stockholms Länstrafik (SL)"
+    },
+    "roles": [
+      "creator"
+    ],
+    "same_as": [],
+    "type": "http://purl.org/adms/publishertype/Company"
+  },
+  "https://metadatakatalog.huddinge.se/store/7/resource/66": {
+    "catalogue": [
+      "oppnadata"
+    ],
+    "names": {
+      "sv": "Förpackningsinsamlingen FTI"
+    },
+    "roles": [
+      "publisher"
     ],
     "same_as": []
   },

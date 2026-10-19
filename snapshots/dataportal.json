@@ -1286,6 +1286,35 @@
       "name": "Lidingö stad",
       "type": "http://purl.org/adms/publishertype/LocalAuthority"
     },
+    "https://metadatakatalog.huddinge.se/store/13/resource/554": {
+      "name": "Lantmäteriet"
+    },
+    "https://metadatakatalog.huddinge.se/store/5/resource/12": {
+      "name": "Länsstyrelsen",
+      "type": "http://purl.org/adms/publishertype/NationalAuthority"
+    },
+    "https://metadatakatalog.huddinge.se/store/5/resource/14": {
+      "name": "Sveriges hjärtstartarregister"
+    },
+    "https://metadatakatalog.huddinge.se/store/5/resource/15": {
+      "name": "MCF - Myndigheten för Civilt Försvar",
+      "type": "http://purl.org/adms/publishertype/NationalAuthority"
+    },
+    "https://metadatakatalog.huddinge.se/store/5/resource/17": {
+      "name": "Skogsstyrelsen",
+      "type": "http://purl.org/adms/publishertype/NationalAuthority"
+    },
+    "https://metadatakatalog.huddinge.se/store/5/resource/20": {
+      "name": "SVOA",
+      "type": "http://purl.org/adms/publishertype/NationalAuthority"
+    },
+    "https://metadatakatalog.huddinge.se/store/5/resource/21": {
+      "name": "SRV Återvinning AB",
+      "type": "http://purl.org/adms/publishertype/Company"
+    },
+    "https://metadatakatalog.huddinge.se/store/7/resource/66": {
+      "name": "Förpackningsinsamlingen FTI"
+    },
     "https://norrbottensmuseum.se/": {
       "name": "Norrbottens museum",
       "type": "http://purl.org/adms/publishertype/NationalAuthority"
